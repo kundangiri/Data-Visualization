@@ -1,0 +1,906 @@
+     hybrid kinetic group limited
+          正道集團有限公司
+         (incorporated in bermuda with limited liability)
+              （ 於百慕達註冊成立之有限公司）
+               (stock code 股份代號: 1188)
+
+
+
+
+environmental, social & governance report 2016
+         二零一六年環境、社會及管治報告
+
+contents                                                   目錄
+
+contents                                                   目錄                           1
+
+about this report                                          關於本報告                        2
+
+communication with stakeholders                            與持份者溝通                       3
+
+1.   environment                                           1.   環境                      3
+     1.1 managing emissions and leading by example              1.1 以身作則 管理排放           3
+     1.2 valuing resources                                      1.2 珍資源 愛資源             6
+     1.3 environmental & natural resources                      1.3 環境及天然資源             7
+
+2.   caring for employees                                  2.   關懷員工                    9
+     2.1 employment                                             2.1 僱傭                  9
+     2.2 health & safety                                        2.2 健康與安全              10
+     2.3 development & training                                 2.3 發展及培訓              11
+     2.4 labour standards                                       2.4 勞工準則               12
+
+3.   supply chain management                               3.   供應鏈管理                  13
+     3.1 number of suppliers by geographical region             3.1 按地區劃分的供貨商數目        13
+
+4.   responsibility to customers                           4.   對客戶的責任                 14
+     4.1 the group’s practices relating to observing and        4.1 本集團維護及保障           15
+            protecting intellectual property rights                  知識產權有關的慣例
+     4.2 group quality assurance process and                    4.2 本集團質量檢定過程及         16
+            recall procedures                                        產品回收程序
+
+5.   preventing corruption                                 5.   防止貪污                   17
+     5.1 anti-corruption measures and                           5.1 防貪措施及舉報程序內容        18
+             whistle-blowing processes
+
+6.   community contribution                                6.   社區貢獻                   19
+
+7.   brand success                                         7.   品牌成就                   19
+
+outlook                                                    展望                          19
+
+hkex environmental, social and governance (esg)            香港聯交所環境、社會及                 20
+  reporting guidelines                                      管治報告指引索引
+
+
+
+
+                                                                 正道集團有限公司 環境、社會及管治報告 2016   01
+
+     about this report                                                                關於本報告
+
+     the group has always focused on sustainable development.                         本集團一直著重可持續發展，為了能更有效
+     in order to more effectively give our stakeholders a better                      地讓我們的持份者了解我們的表現，集團決
+     understanding of our performance, the group has decided                          定出版本報告－我們的首份環境、社會及管治
+     to publish this report – our first environmental, social and                     報告。我們的核心管治理念是「珍惜地球 關
+     governance (esg) report. our core governance philosophy is                       懷員工 服務客戶 貢獻社區」。集團的營運
+     to “cherish the earth, care for employees, serve customers, and                  都圍繞著保護地球，包括採用無毒無害的物
+     contribute to the community”. the group’s operations are all                     料。我們提供的電動車亦是潔淨能源產品，能
+     concerned with protecting the earth, including through the use                   夠減少汽油或柴油的使用及碳排放。為了讓員
+     of non-toxic materials. the electric vehicles (ev) that we provide               工有一個發展自我潛能的平台，我們採用公
+     are also clean energy products that reduce the use of petrol                     平的晉升評估機制及提供員工適當的培訓。
+     and diesel and the associated emissions. in order to provide                     集團亦重視滿足客戶需求，凡不通過質檢標
+     employees with a platform to develop their potential, we operate                 準的產品，都不會出售。集團在營運的同時，
+     a fair system of promotion evaluations and provide appropriate                   絕不忘回饋社區。我們持續與社區溝通，探討
+     training to employees. the group also values satisfying customer                 合適的社區貢獻方案。
+     requirements and does not permit the sale of any products that
+     do not meet quality inspection standards. the group is also
+     absolutely committed to giving back to the community while
+     engaging in business operations. we continue to communicate
+     with communities to discuss the most appropriate community
+     contribution solutions.
+
+     scope of the report: this report is an annual report and was                     匯報範圍：本報告為年度報告，是參考香港聯
+     written with reference to appendix 27 (environmental, social                     合交易所有限公司（「香港聯交所」）的證券上
+     and governance (esg) reporting guidelines) of the hong kong                      市規則（「上市規則」）附錄二十七「環境、社
+     exchanges and clearing limited (hkex) securities market listing                  會及管治報告指引」編寫的。匯報期間為2016
+     regulations (listing regulations).the report period is from 1                    年1月1日至2016年12月31日，與本集團的財
+     january 2016 to 31 december 2016, the same as for the group’s                    政年度相同。本報告涵蓋集團營運汽車經銷
+     annual financial reports. this report covers the environmental,                  業務的環境、社會及管治表現，集團的連雲港
+     social and governance (esg) performance of the group’s car sales                 主要制造基地為核心的報告資料收集點。
+     business operations. the group’s main manufacturing base in
+     lianyungang was the key report data collection point.
+
+
+
+
+02   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+communication with stakeholders                                      與持份者溝通
+
+the group communicates with and supports stakeholders                集團與持份者以雙軌溝通模式互相交流及支
+through a two-way model, in order to achieve joint growth.           持，以達致共同成長。我們的主要持份者包括
+our major stakeholders include employees, customers, investors       員工、客戶、投資者及供應商等，在日常營運
+and suppliers, all of whom we share the latest information with      慣例中，都會透過電郵、電話、現場探訪及溝
+via email, telephone, site visits and communication meetings         通大會等分享最新資訊。我們設有員工專屬
+during the course of our day-to-day operating practices. we          的郵箱，方便他們反饋意見。我們提供售後服
+have dedicated email addresses that make it easy for employees       務熱線及展開客戶滿意度調查，讓客戶「安心
+to share feedback and opinions. we provide after-sales service       選購隨時查詢表達意見」。每年，集團都會舉
+hotlines and perform customer satisfaction surveys, so that          辦股東大會，為股東了解集團發展計劃及成
+customers can “buy with peace of mind, check at any time, and        績的重要渠道。在供應商方面，我們定期評估
+express their opinions”. the group holds a shareholder meeting       供應商表現，使供應鏈表現能不斷創新及改
+every year, providing shareholders with a key channel to find out    善。
+about the group’s development plans and results. we regularly
+evaluate supplier performance to facilitate continual improvements
+and innovations in our supply chain performance.
+
+1.   environment                                                     1.   環境
+
+     1.1. managing emissions and leading by example                       1.1 以身作則 管理排放
+
+           the group supports china’s national environmental                本集團支持國家環保戰略，提供
+           protection strategy by supplying electric buses                  電動公車配合功率快速充電鈦酸
+           complemented by fast-charging lto battery systems.               鋰電池系統。我們提倡「節約、減
+           we advocate a philosophy of “economical use and                  排」觀念，在營運方面實施多項環
+           reducing emissions”, and implement a variety of                  保政策及措施，包括：
+           environmental protection policies and measures in our
+           operations, including:
+
+           1)    we use energy-saving light bulbs, while                    1)    使 用 節 能 燈，各 部 門 實 行
+                 all departments implement a principle of                        「誰在崗，誰管理」的原則，
+                 “management by the on-duty staff”, in order to                   養成用後關燈的良好習慣；
+                 foster good habits in terms of turning lights off
+                 after use;
+
+           2)    strict control of air conditioning temperatures            2)   嚴格控制空調機使用時的溫
+                 prevents excessive energy consumption and                       度，避 免 能 源 過 渡 消 耗，亦
+                 extends the life of air conditioning units,                     能延長空調機壽命，減少廢
+                 reducing the amount of waste electronic                         棄電器垃圾的產生；
+                 equipment;
+
+           3)    we promote economic use of water and monitor               3)   宣導節約用水，檢測各飲水
+                 all our drinking water machines to prevent                      機，避 免 滲 漏 情 況 出 現，浪
+                 leakage and wastage of water resources;                         費水資源；
+
+           4)    we use cleaner production techniques to reduce             4)   採用清潔生產技術，減少生
+                 the use of water in production and increase                     產用水，及增加水的迴圈再
+                 water recycling and reuse;                                      利用；
+
+
+
+
+                                                                           正道集團有限公司 環境、社會及管治報告 2016     03
+
+                  5)     we implement a waste paper recycling and                          5)    落實廢紙回收重用及雙面列
+                         reuse programme and use double-sided printing                           印，降低紙張使用量
+                         to reduce the amount of paper used;
+
+                  6)     nobody is allowed to smoke in the office,                         6)    禁止任何人士在辦公室內抽
+                         keeping the air in the premises fresh and clean;                        煙，保持室內空氣清新；
+
+                  7)     we prioritise the use of local suppliers, as local                7)    優先選用本地供應商，因為
+                         suppliers create lower carbon emissions during                          本地供應商在運輸時產生的
+                         delivery than those in overseas suppliers;                              碳排放較海外供應商低；
+
+                  8)     we select non-toxic, harmless, odour-free                         8)    新 建、擴 建、改 建 房 屋 及 新
+                         materials for new builds, expansion and                                 增 設 備、器 具 時，選 用 無 毒
+                         rebuilding of factories, as well as for new                             無害無味的材料；
+                         equipment and tools;
+
+                  9)     we control the usage of aluminium cans and                        9)    控制鋁罐、塑膠及玻璃製品
+                         plastic and glass products, and increase the                            的使用量，增加製品的回收
+                         recycling and reuse of such products;                                   及再利用；
+
+                  10)    we are replacing plastic products with                            10)   使用環保可降解的材料替代
+                         environmentally-friendly, biodegradable                                 塑膠製品；
+                         materials;
+
+                  11)    we separate solid waste for storage by type, so                   11)   分類存放固體廢棄物，根據
+                         that it can be reused in a rational way based on                        各 種 固 體 廢 棄 物 的 特 性，
+                         the properties of each type of solid waste, while                       合理地再利用，不能再利用
+                         the portion that cannot be reused is collected by                       的，則交由專門機構回收處
+                         registered recycling organisations for recycling                        理。
+                         and processing.
+
+                  the group strictly complies with the laws and                            本集團嚴格遵守排放物的法律法
+                  regulations governing emissions and effluents, and                       規，在匯報期內，沒有發生重大的
+                  no major cases involving breaches of such regulations                    違例案件。
+                  occurred during the report period.
+
+
+
+
+04   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+1.1.1 t h e ty p e s o f e m i s s i o n s a n d to t a l                                    1.1.1 排放物種類及溫室氣體總排
+      greenhouse gas emissions                                                                     放量
+
+        energy type                consumption               co2 emissions                            co2 emissions/person
+        能源類型                       耗用量                       碳排放量                                     碳排放量╱人
+
+        petrol                     15,565 l                  35.2941 tonnes co2 equivalent            0.4468 tonnes co2 equivalent
+        汽油                         15,565升                   35.2941噸二氧化碳當量                           0.4468噸二氧化碳當量
+
+        electricity                138,112 kwh               101.6090 tonnes co2 equivalent           1.2862 tonnes co2 equivalent
+        電力                         138,112千瓦時                101.6090噸二氧化碳當量                          1.2862噸二氧化碳當量
+
+        total:                                               136.9031 tonnes co2 equivalent           1.7330 tonnes co2 equivalent
+        總計：                                                  136.9031噸二氧化碳當量                          1.7330噸二氧化碳當量
+
+
+1.1.2 total amount of hazardous and non-                                                     1.1.2 有害及無害廢棄物總量及減
+      hazardous waste, and effectiveness of                                                        廢措施的成效
+      waste reduction measures
+
+        type                  quantity        quantity/person      reduction measure                       waste reduction effectiveness
+        類型                    數量              數量╱人                 處理措施                                    減廢成效
+        hazardous waste       0 tonne         0 tonne              choosing non-toxic and non-hazardous    zero hazardous waste materials.
+        有害廢棄物                 0噸              0噸                   materials for production.               零有害廢棄物。
+                                                                   選用無毒無害的生產材料。
+        non-hazardous waste   0.9286 tonne    0.0118 tonne         waste materials are sorted by type      1-tonne reduction in non-hazardous
+        無害廢棄物                 0.9286噸         0.0118噸              and the number of recycling bins        waste materials, considered
+                                                                   and collections have been increased,    effective.
+                                                                   for example: additional waste paper     無害廢棄物減少了1噸，合乎成效。
+                                                                   recycling bins were added to collect
+                                                                   waste paper, and a recycling firm was
+                                                                   appointed to collect the waste paper.
+                                                                   分類廢棄物，並增設回收箱收集，例
+                                                                   如：增設廢紙回收箱收集廢紙，並安排
+                                                                   廢紙回收商進行收集。
+
+
+
+
+                                                                                         正道集團有限公司 環境、社會及管治報告 2016                               05
+
+           1.2 valuing resources                                                           1.2 珍資源 愛資源
+
+                  the group values our precious resources and                                本集團珍惜資源，實行綠色辦公
+                  implements policies for green offices and green                            室政策及綠色生產管理。我們的
+                  production management. as well as cooperating                              員工在配合這些政策下，都會自
+                  with these policies, our employees have sufficient                         動自覺地珍惜電、紙及水資源。例
+                  awareness to proactively make sparing use of                               如，員工都在落實無紙化辦公，文
+                  electricity, paper and water resources. for example,                       件傳遞儘量使用電子文檔，以減少
+                  our employees all work to implement a paperless                            紙張列印，造成浪費。在汽車生產
+                  office by sending documents in electronic form                             方面，我們推動綠色產品，既能符
+                  whenever possible, in order to reduce the amount                           合國家要求，又能達致四無－「無
+                  of waste caused by printing on paper. on the car                           毒及無害物質產生無廢水及無廢
+                  production front, we promote green production;                             氣排放」生產。我們也不使用紙材
+                  this means we not only comply with national                                料或膠材料作生產包裝，從而節省
+                  requirements, but also achieve the so-called “four                         這些珍貴資源的用量。
+                  frees” in our production activities – “no toxic or
+                  harmful materials are produced, and no waste water
+                  and harmful gases are emitted“. we also refrain
+                  from using paper or plastic materials for production
+                  packaging, thereby reducing the use of precious
+                  resources.
+
+                  1.2.1 indirect usage of energy and water                                   1.2.1 間接能源及水資源的使用量
+                        resources
+
+                           type                                          consumption            consumption/person
+                           類型                                            耗量                     耗量╱人
+                           electricity                                   138,112 kwh            1,748.25 kwh
+                           電力                                            138,112千瓦時             1,748.25千瓦時
+                           water                                         171 m3                 2.16 m3
+                           水                                             171立方米                 2.16立方米
+
+
+
+
+06   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+1.3 environmental & natural resources                        1.3 環境及天然資源
+
+    the group is acutely aware that the planet is facing       本集團深明地球面臨的資源危
+    a resource crisis, and as part of the global village,      機，作為地球村的一份子，我們不
+    we cannot put ourselves beyond efforts to tackle           得置身事外，因此，我們進行了下
+    such issues. for this reason, we are engaged in the        列環保活動，從不同渠道向各個組
+    following environmental protection activities and we       別的持份者宣揚環保：
+    promote environmental protection to every category of
+    stakeholder through a variety of channels:
+
+    1)   our production technologies and processes             1)   生產技術和工藝符合國家的
+         comply with national technical standards,                  技術標準，減少對周邊環境
+         reducing the negative impact on the surrounding            產生的負面影響；
+         environment;
+
+    2)   our products comply with national                     2)   產品符合國家要求，正常使
+         requirements, and are non-toxic and non-                   用的情況下是無毒無害的；
+         harmful when used normally;
+
+    3)   we work with environmental groups to teach            3)   與環保團體合作，教育員工
+         employees how to take care of the environment              在日常的生產活動中做好環
+         in their day-to-day production activities;                 保；
+
+    4)   we use posters to promote the use of eco-             4)   在宣傳海報中，向承判商宣
+         friendly measures to our contractors.                      揚環保措施。
+
+    1.3.1 major effects on the environment & natural           1.3.1 對環境及天然資源的重大影
+          resources and management actions taken                     響及已採取管理行動
+
+         while we have already implemented green                    雖然我們已經推行綠色政
+         policies and take measures to reduce emissions             策，實 施 減 排 減 耗，但 基 於
+         and consumption, our production requirements               生產的需要，也會產生對環
+         mean that production still has some slight                 境及天然資源的輕微影響。
+         impact on the environment and natural                      因此，我們於2016年舉辦了
+         resources. for this reason, we held a range of             不同類型的綠色活動，希望
+         different green activities in 2016, with the goal          能夠藉著這些活動，增添集
+         of utilising the events to increase the group’s            團於環保的正面影響。
+         positive impact on environmental protection.
+
+
+
+
+                                                              正道集團有限公司 環境、社會及管治報告 2016    07
+
+                           activity type and name                     activity content                            activity performance
+                           活動種類及名稱                                    活動內容                                        活動成果
+
+                           internal green activities: employee tree   planting trees together on empty land       •   10 trees were planted
+                             planting day                             在空地一起植樹                                         植樹10棵
+                           內部的綠色活動：員工植樹日                                                                          •   the significance of this activity
+                                                                                                                      was clear, and the scheme also
+                                                                                                                      encouraged more employees to take
+                                                                                                                      part in subsequent activities.
+                                                                                                                      深明活動意義，計劃鼓勵更多員工參
+                                                                                                                      與下次活動。
+
+                           support green activity organized by the    we organised a team of volunteers to        •   we cleaned up 5 tonnes of debris
+                             green organization: marine debris          help the cangwu evening news coast            from the sea
+                             clean-up day                               clean-up volunteer team to clean              清理了5噸海洋垃圾
+                           支持綠色組織舉辦的綠色活動：海洋垃圾                           up debris discarded in the sea, and       •   more organisations became familiar
+                             清理日                                        promoted the activity to our suppliers/       with this campaign
+                                                                        contractors                                   更多機構得悉是次活動
+                                                                      組織義工隊，幫助蒼梧晚報海岸清潔義
+                                                                        工團清理海洋垃圾，並向供貨商╱承
+                                                                        判商宣傳活動
+
+                           support green activity organized by the    we supported this national charter for      •   the charter was supported by 15
+                             government: clean water & green            environmental protection                      organisations
+                             mountain environmental charter           支持國家環境保護約章                                      此約章得到15間機構支持
+                           支持政府舉辦的綠色活動：綠水青山環保
+                             約章
+
+                           support green activity organized by        we sent employees to attend the talks       •   obtained information on our
+                             business partner: environmental          派員出席講座                                          customers’ latest environmental-
+                             protection talks for suzhou fanglin                                                      protection activities
+                             customers                                                                                掌握客戶的最新環保動向
+                           支持業務夥伴舉辦的綠色活動：蘇州方林                                                                     •   we demonstrated our support for
+                             客戶的環保講座                                                                                  our customers’ environmental-
+                                                                                                                      protection activities and increased
+                                                                                                                      the cohesiveness of environmental-
+                                                                                                                      protection efforts in our supply chain
+                                                                                                                      向客戶彰顯我們對其環保活動的支
+                                                                                                                      持，加強供應鏈的環保凝聚力
+
+
+
+
+08   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+2.   caring for employees                                             2.   關懷員工
+
+     2.1 employment                                                        2.1 僱傭
+
+        we were involved in no breaches of employment                         我們在報告期間沒有違反任何僱
+        rules during the report period. this is because we                    傭條例，因為，我們視員工為集團
+        regard employees as the lifeblood of the group and                    命脈，我們積極實行多方向平等及
+        actively work to implement a range of equality and                    員工福利政策，讓員工能夠開心健
+        employee welfare policies to enable our employees                     康地工作。我們尊重「人人平等」
+        to work in a happy and healthy environment. we                        之道，只要是合符法律法規要求及
+        respect the principle that all people are equal; as long              集團要求的應徵者，不論其年齡、
+        as an applicant complies with legal and statutory                     性別、種族及婚姻狀況等，都會被
+        requirements and the group’s needs, they will                         集團聘請。此道亦應用於員工晉
+        be recruited by the group regardless of age, sex,                     升，我們只會考慮員工表現為晉升
+        ethnicity or marital status. this principle also applies to           的主要條件，不會被其他因素，如
+        employee promotions; the main conditions considered                   性別及種族等左右。在員工福利方
+        when awarding promotions involve employee                             面，我們推行《退休政策》，讓員
+        performance, and we are not influenced by other                       工能在退休時有生活保障。此外，
+        criteria such as sex or ethnicity. in terms of employee               我們還有《工作生活平衡政策》，
+        welfare, we operate a retirement policy that allows                   確保員工有空餘時間休息及與家
+        employees to safeguard a livelihood when they retire.                 人同樂。下列圖表概述了集團的僱
+        we also have a work-life balance policy that ensures                  傭狀況。
+        that employees have spare time to rest and relax with
+        their families. the tables below summarise the group’s
+        employment situation.
+
+        2.1.1 total employees and turnover by sex                             2.1.1 按 性 別 劃 分 的 員 工 總 數 及
+                                                                                    流失率
+
+                sex                                          number of employees       employee turnover
+                性別                                                      員工人數                員工流失比率
+                male 男性                                                        45                 17.8%
+                female 女性                                                      34                  5.9%
+                total employees 員工總數                                           79
+
+
+
+
+                                                                            正道集團有限公司 環境、社會及管治報告 2016        09
+
+                  2.1.2 to t a l e m p l o y e e s a n d tu r n o v e r b y                  2.1.2 按僱傭類型劃分的員工總數
+                        employment type                                                            及流失率
+
+                           employment type                                 number of employees     employee turnover
+                           僱傭類型                                                       員工人數              員工流失比率
+                           full time全職                                                        79              12.7%
+                           part time 兼職                                                       0           n/a 不適用
+                           total employees 員工總數                                               79
+
+
+                  2.1.3 total employees and turnover by age group                            2.1.3 按年齡組別劃分的員工總數
+                                                                                                   及流失率
+
+                           age group                                       number of employees     employee turnover
+                           年齡組別                                                       員工人數              員工流失比率
+                           18-30                                                              38              15.8%
+                           31-40                                                              33                  0
+                           41-60                                                              8                   0
+                           ≧61                                                                0           n/a 不適用
+                           total employees 員工總數                                               79
+
+
+           2.2 health & safety                                                             2.2 健康與安全
+
+                  we care for our employees not only in terms of                             我們關愛員工，並不止在平等及福
+                  equality and welfare, but also in terms of their physical                  利層面，亦汲及其身體健康、心理
+                  and mental health and safety. employee safety is an                        健康及安全。員工安全是我們的重
+                  important aspect of our operations. for this reason,                       點方針，故之亦然，我們為員工提
+                  we provide employees with occupational health and                          供職安健相關培訓，讓他們提高安
+                  safety training to increase their awareness of safety                      全意識。另外，我們會為員工提供
+                  issues. we also provide employees with appropriate                         適當的安全裝備，保護其身體免在
+                  safety equipment to protect them from suffering                            工作中受到傷害。我們力爭「工作
+                  injuries at work. we worked hard to achieve “zero                          零事故」，在2016年整年，沒有違
+                  accident”, and there was no incident involving                             反健康與安全個案及沒有工傷個
+                  violations of health and safety regulations or industrial                  案。集團定立持續改善制度，定期
+                  injuries during the whole of 2016. the group has                           評估職安健安全表現，使我們能持
+                  formulated a programme of continuous improvement                           續保持「工作零事故」績效。
+                  and regularly reviews health and safety performance
+                  to enable us to maintain our record of “zero
+                  accident”.
+
+
+
+
+10   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+    2.2.1 we h a v e u n d e r t a k e n t h e f o l l o w i n g                              2.2.1 針 對 員 工 的 職 業 健 康 與 安
+          measures and activities with regard to our                                                全，我們採取了以下措施及
+          employees’ occupational health and safety:                                                活動：
+
+            name of                                                          performance            performance review evaluation
+            measure/activity              performance review                 review frequency       follow-up
+            措施╱活動名稱                       成效評估                               成效評估頻率                 成效評估跟進
+
+            ohsas 18001 occupational      the company regularly performs     once per year          familiarise employees with the
+              health & safety               internal reviews to allow        每年一次                     content of ohsas 18001.
+              management system             the prompt discovery of any                             使員工知悉ohsas 18001所有內
+            ohsas 18001職業健康及安               issues.                                                   容。
+              全管理體系                       公司定期進行內部評審，讓問題
+                                            能被及時發現。
+
+            provide occupational health   the effectiveness of training is   once per year          regular clean-up drills.
+              and safety training           assessed using drills.           每年一次                   清理定期演練。
+            提供職業健康及安全培訓                   通過演練，評估培訓成效。
+
+            recreational activities       create opinion surveys to          once per year          revising the activity plan based on
+            娛樂活動                            evaluate the effectiveness of    每年一次                     employee opinions.
+                                            activities.                                             根據員工意見，修改活動方案。
+                                          制定民意調查，評估活動效果。
+
+            employee communication        employee suggestions are           once per year          the activity plan is revised based on
+              channels                      regularly collected by email.    每年一次                     employee opinions.
+            員工溝通管道                        定期通過郵箱收集員工建議。                                             根據員工意見，修改活動方案。
+
+
+2.3. development & training                                                          2.3 發展及培訓
+
+    we would like our employees to be able to grow                                            我們希望員工能和本集團共同成
+    together with the group and work hand-in-hand                                             長，攜手創建更好的未來。集團開
+    to create a better future. the group has developed                                        展長期員工發展機制，持續針對
+    a long-term employee development system that                                              員工需要，提供工作技巧課程，目
+    continuously provides employees with job skills                                           的是提升他們的職場表現，能夠
+    courses targeted at employee needs, with the goal                                         有更暢通的晉升前路。我們積極
+    of increasing their workplace performance and                                             展開「員工共同成長模式」，初級
+    providing them with a smoother path to promotion.                                         員工或新入職員工會受經驗較豐
+    we have proactively rolled-out an “employee joint                                         富的員工指導，在指導過程中，經
+    growth model” that allows new recruits and junior                                         驗較豐富的員工亦能在溝通過程
+    employees to be mentored by experienced employees;                                        中，啟發新思維，改善自身的能力
+    the mentoring and communication process also allows                                       及增進知識。
+    more experienced employees to develop new thinking
+    and improve their own abilities and knowledge.
+
+
+
+
+                                                                                             正道集團有限公司 環境、社會及管治報告 2016                       11
+
+                  2.3.1 percentage of employees trained and                                              2.3.1 按性別及員工類別劃分的受
+                        average training hour by gender/employee                                               訓員工百分比及完成受訓的
+                        type                                                                                   平均時數
+
+
+
+                                                                                        percentage of
+                           gender/employee type                                     employees trained                average training hour
+                           性別╱員工類別                                                   受培訓員工百分比                     員工完成培訓的平均時數
+                           male 男性                                                                    100%                        4 hours 4小時
+                           female 女性                                                                  100%                        4 hours 4小時
+                           senior management 高級管理層                                                    100%                        4 hours 4小時
+                           middle management 中級管理層                                                    100%                        4 hours 4小時
+                           junior employees 初級員工                                                      100%                        4 hours 4小時
+
+
+           2.4 labour standards                                                                  2.4 勞工準則
+
+                  the group is committed to only recruiting adults over                                  本集團承諾只會聘請18歲以上的
+                  18 years of age and uses absolutely no child labour.                                   成年人，絕不聘請童工。我們恪守
+                  we abide by the relevant legislation concerning labour                                 與勞工準則之相關法例，例如國
+                  standards, such as china’s labour contract law,                                        內的《勞動合同法》，在報告期間
+                  and we were involved in no cases of violations of                                      內，並沒有發生任何違反勞工準則
+                  labour standards during the report period. the group                                   的案件。集團尊重人權，認為員工
+                  respects human rights and believes that employees                                      應受我們保護，不應被集團任何階
+                  should receive our protection, and should not be                                       層的員工強迫勞動。
+                  subjected to forced labour by group employees of any
+                  level.
+
+                  2.4.1 recruitment practice measures to prevent                                         2.4.1 招聘慣例的措施以避免童工
+                        child labour and forced labour                                                         及強制勞工
+
+                                                                                                                               performance review
+                           measure                      content of measure               performance review                    frequency
+                           措施                           措施內容                             成效評估                                  成效評估頻率
+
+                           measures to prevent child    the hr department excludes all   child labour checks and reviews are   child labour checks
+                            labour                        job applicants under 18 when     conducted every year, and the         a n d re v i e w s a re
+                           防止童工措施                         reviewing cvs.                   actual age of employees can be        conducted every year
+                                                        人力資源部在評估履歷表時，會                     checked on the official website.    每年進行童工檢查審核
+                                                          剔出年齡18歲以下的工作應                    we have not employed any child
+                                                          徵者。                              labourers since these measures
+                                                                                           were introduced.
+                                                                                         每年進行童工檢查審核，到官網核
+                                                                                           實員工真實年齡。自措施生效以
+                                                                                           來，我們並未聘用任何童工。
+
+                           measures to prevent forced   employees must submit work       the hr department checks              once per week
+                            labour                        hours to their line manager      the work hour records once          每星期一次
+                           防止強制勞工措施                       every day                        per week, and any excessive
+                                                        員工需每天呈交工作時數予其直                     work hours are immediately
+                                                          屬上司                              investigated.
+                                                                                         人力資源部每星期檢查一次工作小
+                                                                                           時記錄，如發現超時情況，會立
+                                                                                           刻調查。
+
+
+12   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+3.   supply chain management                                          3.   供應鏈管理
+
+     we have always managed our supply chain effectively; we               我們一直有效地管理供應鏈，通過不斷
+     use continual communication, including conference calls,              的互相溝通，包括電話會議、探訪會議
+     visits, meetings and email, to ensure that the supply chain is        及電郵等，確保供應鏈能健康地操作，
+     operating in a healthy way and that the products provided             讓集團提供的產品的安全及質量都能符
+     by the group comply with or even exceed stakeholder                   合甚至超越持份者期望。集團把環境、
+     expectations, in terms of both safety and quality. the                社 會 及 管 治 理 念 帶 到 供 應 鏈 管 理 中，
+     group’s supply chain management incorporates esg                      要求供應商符合我們設定的社會責任
+     concepts by requiring suppliers to comply with the social             規範，如依照國家規定的安全規範、環
+     responsibility standards that we set, such as safety standards        保 表 現 規 範 及 社 會 責 任 表 現 成 就 等。
+     based on national regulations, environmental protection               我們會定期對其社會責任表現進行評
+     performance standards, and successful social responsibility           估，探討相關事項，例如：在2016年初，
+     performance. we conduct regular evaluations of social                 供應商提出現場指導某零件的組裝，以
+     responsibility performance and discuss the relevant issues;           降低損耗率，我們把信息傳達致工藝部
+     for example: at the start of 2016, a supplier proposed                門，以安排培訓與指導。在聘用供應商
+     on-site guidance for the assembly of a particular part to             方面，我們加入環保表現為其中一項選
+     reduce wastage rates, so we conveyed this information to              用條件，以加強供應商的環保意識。於
+     the production department and arranged for the relevant               2016年，集團的供應夥伴如下：
+     training and guidance to take place. we have added
+     environmental protection performance to our supplier
+     selection criteria, in order to increase environmental
+     protection awareness among suppliers. the group’s supplier
+     situation in 2016 was as follows:
+
+     3.1 number of suppliers by geographical region                        3.1 按地區劃分的供貨商數目
+
+            breakdown by region                                                        number of suppliers
+            地區劃分                                                                               供應商數目
+            china
+            中國                                                                                         45
+            united states
+            美國                                                                                          1
+            total
+            合計                                                                                         46
+
+
+
+
+                                                                             正道集團有限公司 環境、社會及管治報告 2016        13
+
+     4.    responsibility to customers                                                4.   對客戶的責任
+
+           the group understands that it has a responsibility to                           集 團 明 白 對 客 戶 有 責，而 履 行 這 個 責
+           customers, and in order to fulfil this responsibility, it is vital              任，產品質量及安全能夠達到合規標準
+           that product quality and safety reach standards-compliant                       是必須的。我們透過品質檢測及安全驗
+           levels. we use quality testing and safety checks to strictly                    證，嚴 格 監 控 所 售 產 品 質 量 的 合 規 情
+           monitor and control the level of quality compliance for                         況。產品售賣時，我們承諾只會向客戶
+           the products we sell. when we are selling a product,                            提 供 真 實 的 產 品 描 述 訊 息，防 止 顧 客
+           we promise to only provide the customer with genuine                            被誤導。產品成功售賣後，我們亦會一
+           product description information to prevent the customer                         直對客戶負責，所以，我們提供售後服
+           being misled. we continue to fulfil our responsibility to the                   務，方便客戶查詢。如產品出現問題，我
+           customer after a product has been successfully sold, so we                      們絕不逃避責任，會主動與客戶協商，
+           provide an after-sales service to make it easy for customers                    研究產品回收。基於以上盡責營運，我
+           to make enquires. we never avoid responsibility if there are                    們在2016年，沒有出現與產品責任相關
+           any issues with the product; we actively communicate with                       的違例個案，也沒有已售或已運送產品
+           the customer and will investigate product recalls. based                        因安全與質量理由而需要回收。
+           on the responsible operations described above, we were
+           involved in no breaches of regulations relating to product
+           liability in 2016; neither were any recalls required due to
+           safety or quality issues for products that had already been
+           sold or delivered.
+
+           to implement excellent customer service, we have set up a                       為了做好顧客服務，我們設立電話投訴
+           telephone complaint mechanism, and all issues are followed-                     機 制，並 由 售 後 服 務 部 進 行 跟 進 與 處
+           up and dealt with by the after-sales service department,                        理，讓客戶可以「投訴有門 暢通解決
+           so that customers have “channels to submit complaints                           問題」 。與此同時，我們進行顧客滿意度
+           and smooth resolutions to any issues”. we also conduct                          調查，以分析客戶滿意度，以作改進。
+           customer satisfaction surveys to allow us to analyse the                        為保障消費者資料及私隱，我們委派網
+           level of customer satisfaction and make improvements. in                        路安全管理員，定期對本集團的網路與
+           order to safeguard consumer data and privacy, we have                           電腦設備進行維護與監察，確保系統安
+           appointed internet security administrator to perform regular                    全。我 們 的 網 路 安 全 管 理 團 隊 會 每 月
+           maintenance and inspections of the group’s networks                             進行一次評估，如果發現系統有異常情
+           and computer equipment and ensure that the systems are                          況，會及時進行修復。
+           secure. our internet security management team performs
+           evaluations on a monthly basis, and if any anomalies are
+           found in the system, they are dealt with in a timely manner.
+
+
+
+
+14   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+4.1 the group’s practices relating to observing                               4.1 本集團維護及保障知識產權有
+    and protecting intellectual property rights                                   關的慣例
+
+                                                                                                           frequency of
+                                                                                                           effectiveness
+     practice                     action content                         effectiveness evaluation          evaluations
+     慣例                           行動內容                                   成效評估                              成效評估頻率
+     we do not buy fake           we are committed to not purchasing     we conduct regular internal       once per month
+      products                     pirated products and all software      reviews to check that            每月一次
+     不會購買盜版產品                      used in our offices is genuine.        employees are not secretly
+                                  我們承諾不會購買盜版產品，所有                         downloading pirated software.
+                                   辦公使用的軟體均為正版。                          定期進行內部審核，檢查員工是
+                                                                          否私自下載盜版軟體。
+     we do not use unauthorised   we are committed to not using          the relevant departments          once per month
+      third-party photographs      photographs without third-party         regularly check that the        每月一次
+     不會採用未經第三方授權的                  authorisation, and all photos           company has copyright for all
+      相片                           are provided by legitimate              photos used.
+                                   photograph-holding companies.         相關部門定期核查公司所用相片
+                                  我們承諾不會使用未經第三方授權                          是否具有版權。
+                                   的相片，所有相片均由合法的相片
+                                   持有公司提供。
+     we do not use unauthorised   we are committed to ensuring that      the relevant departments          every six months
+      third-party designs          none of our publicity materials or      regularly perform spot-checks   每半年一次
+     不會採用未經第三方授權的                  product designs involve plagiarism,     to ensure that the company
+      設計                           and we require all employees to         owns the relevant designs.
+                                   have an awareness of intellectual     相關部門定期抽查設計是否屬於
+                                   property (ip) rights and maintain       本公司所有。
+                                   the confidentiality of their own
+                                   designs, as all designs are the
+                                   property of the company.
+                                  我們承諾公司所有的宣傳或產品設
+                                   計均不涉及抄襲，並要求公司所有
+                                   員工有知識產權意識，對自己的設
+                                   計保密，因為所有設計均屬於公司
+                                   財產。
+
+
+
+
+                                                                                  正道集團有限公司 環境、社會及管治報告 2016                    15
+
+           4.2 group quality assurance process and recall                                                               4.2 本集團質量檢定過程及產品回
+               procedures                                                                                                   收程序
+
+                    process type        step 1                   step 2                     step 3                  step 4                    step 5               step 6
+                    過程類別                步驟1                      步驟2                        步驟3                     步驟4                       步驟5                  步驟6
+                    quality assurance   all raw materials        p ro d u c t s o n t h e   all finished products   after test, the quality   only products with   products with a non-
+                     process             purchased must pass       production lines           must pass quality       manager reviews          a compliant test      conformance test
+                    質量檢定過程               tests conducted by        are subject to ipqc        and safety tests        the test report.         report may be         report are recalled
+                                         a third-party testing     before proceeding          with fqc report       檢測完成後，由品質                  sold.                 in accordance
+                                         organisation before       to the next step.          performed by the        部經理審閱檢測報                檢測報告合格的產品              with the relevant
+                                         storage.                在生產線上的產品，                    testing department.     告。                       才可出售。                 processes.
+                                        所有採購的原材料均                  必須按照規定抽檢                  所有成品必須通過                                                              檢測報告不合格的產
+                                         需通過第三方檢測                  合格方可進入下一                   檢測部門的品質與                                                               品，將會按照相關
+                                         機構的檢測，方可入                 步驟。                        安全檢測，並出具                                                               流程進行回收。
+                                         庫。                                                   成品檢驗報告。
+
+
+
+                    process type                  step 1                                              step 2                                      step 3
+                    過程類別                          步驟1                                                 步驟2                                         步驟3
+                    product recall process        once recovered, discarded                           power storage cells that are                discarded power storage cells
+                    產品回收過程                         power storage cells are subject                     suitable for graded use are                 that are judged unsuitable
+                                                   to comprehensive evaluations                        subjected to the necessary                  for graded use must be
+                                                   of their capacity, charge and                       tests, sorting, dismantling,                recycled in accordance with
+                                                   discharge characteristics,                          and reassembly, and are                     the relevant requirements;
+                                                   a n d u s a g e s a f e t y, a n d a                then labelled with our own                  a registered recycling
+                                                   determination of their suitability                  trademark to clearly show                   company is appointed
+                                                   for graded use, recycling or                        that the battery product is a               to collect the wastes
+                                                   scrap is then made based on                         graded-use battery; product                 in accordance with
+                                                   the actual situation. (graded use                   numbering and traceability                  regulations.
+                                                   includes: use in energy storage,                    systems are then applied                   經判斷不能進行梯級利用的
+                                                   mobile power sources, and low-                      in accordance with the                      廢舊動力蓄電池應按有關要
+                                                   speed vehicles).                                    group’s requirements.                       求進行再生利用，讓有回收
+                                                  回收後的廢舊動力蓄電池的容                                       對符合梯級利用條件的廢舊                                 資質的公司回收其中有價值
+                                                   量、充放電特性及使用安全性                                       動力蓄電池進行必要的檢                                 的資源，按規定流程處理。
+                                                   等，都會按實際情況進行綜合                                       測、分類、拆解和重組，貼
+                                                   評估，判斷其是否可進行梯級利                                      自有商標以明示該電池產品
+                                                   用、再生利用或報廢。（梯級利                                      為梯級利用電池，並會按照
+                                                   用包含：儲能使用、移動電源使                                      集團要求對產品編碼及建立
+                                                   用、低速車使用）。                                           追溯系統。
+
+
+
+
+16   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+5.   preventing corruption                                              5.   防止貪污
+
+     the company was not involved in any corruption cases                    於2016年整年，我們沒有貪污個案，這
+     during the whole of 2016. this is the result of the group’s             是集團培養員工職業道德操守的成果。
+     cultivation of an employee culture that upholds professional            我們要求所有員工都要遵守商業道德準
+     ethics and integrity. we require all employees to abide by              則，承諾不會有任何貪污及賄賂行為。
+     business ethics standards and commit to not engage in any               如有利益衝突情況，員工可向人力資源
+     corrupt activities or bribery. if a conflict of interest arises,        部申報案件，以防懷疑貪污個案發生。
+     employees can declare the situation to the hr department                針對發生利益衝突的較高風險職位，集
+     to allay any potential suspicion of individual corruption.              團會指派專人監察，以堅決杜絕任何形
+     for positions that involve a relatively high risk of conflicts          式的腐敗行為，包括勒索及洗黑錢。董
+     of interest, the group assigns dedicated personnel to                   事局會定期探討防止貪污政策，例如獨
+     monitor the situation and ensure that absolutely no form of             立核數政策、合約審批政策及招標政策
+     corrupt activity takes place, including extortion and money             等，以維持防貪表現。
+     laundering. the board of directors also regularly discusses
+     anti-corruption policies, such as independent auditing policy,
+     contract approval policy and tenders policy, in order to
+     maintain our anti-corruption performance.
+
+
+
+
+                                                                              正道集團有限公司 環境、社會及管治報告 2016   17
+
+           5.1 anti-corruption measures and whistle-                                            5.1 防貪措施及舉報程序內容
+               blowing processes
+
+                    anti-corruption
+                    measures                 content of measure                  information reviewed         performance review
+                    防貪污措施                    措施內容                                評估資料                         成效評估
+                    independent financial    lianyungang tianzhou united         audit report                 the content of the audit
+                      audit measures           accounting firm was appointed     核數報告                           report is followed up once
+                    獨立核數機構措施                   to conduct audits.                                               per year to improve our
+                                             委託連雲港天洲聯合會計師事務                                                     financial systems.
+                                               所核數。                                                           每年一次，跟進核數報告內
+                                                                                                                容，改善財務機制。
+                    disclosure of conflict   if there is a suspected case        the reporting process        once every year, the results
+                      of interests              of conflict of interest, the      and channels of              of the review are followed
+                    利益衝突申報措施                    employee must report the          communication are            up within one week.
+                                                conflict of interest to the hr    reviewed on the basis of    每年一次，根據檢視結果，在
+                                                department within two days;       each individual case         一星期內跟進。
+                                                channels through which such      按著每個個案，檢視申報程
+                                                conflicts may be reported         式及溝通管道
+                                                include face-to-face meetings,
+                                                phone calls and email.
+                                             如有疑似個案，員工須在兩天內
+                                                向人力資源部申報利益衝突，
+                                                申報管道包括會面、電話及電
+                                                郵。
+                    tender measures          –   suppliers are invited           the supplier’s documents     suppliers may be replaced
+                    招標措施                         to submit tenders via             and performance shall        once per year if their
+                                                 email invitations or by           be reviewed and the          services are found to not
+                                                 announcements on the              effectiveness of the         meet our requirements.
+                                                 company website.                  tendering is evaluated     每年一次，如發現供貨商的
+                                                 透過電郵邀請及公司網站公                    檢討供貨商檔案及表現，評                   服務與我們期望不符，會
+                                                 告，邀請供貨商投標。                        估招標成效                        撤換供貨商。
+                                             –   the number of suppliers
+                                                 invited is determined on
+                                                 the basis of the value of
+                                                 the services, but at least 3
+                                                 suppliers must be invited.
+                                                 按服務的價值確定邀請供貨
+                                                 商的數量，最少邀請3家。
+                    contract approval        contracts must be approved by       the number of contracts      the investigation for the
+                     measures                  the relevant manager or the         which have not been          breach of contract is
+                    合約審批措施                     ceo depending on their value;       authorised by means of       performed once per
+                                               any contracts already approved      a signature is used as a     month.
+                                               must be reviewed by the             reference                  每月一次，調查違規合約的
+                                               procurement department prior      以沒有受權簽署的合約數量                   原因。
+                                               to payment made by finance          為基準
+                                               department.
+                                             根據合約金額，由相關經理或總
+                                               裁批准，已批合約須由採購部
+                                               審查，通過審查後，才交由財政
+                                               部付款。
+
+
+
+
+18   hybrid kinetic group limited environmental, social and governance (esg) report 2016
+
+6.   community contribution                                         6.   社區貢獻
+
+     the group strives to serve the community, and the                   本集團致力服務社群，並由綜合管理部
+     integrated management department is responsible for                 處 理 社 區 貢 獻 及 溝 通 事 宜。我 們 把 環
+     dealing with matters involving community contribution               境、勞工需求、教育及文化等納入社區
+     and associated communications. we incorporate issues                探討事項，以支持相關事項的活動。於
+     including the environment, labour requirements, education           2016年12月5日，公司執行董事以提名
+     and culture into community discussions, in order to                 代表身份出席由「婦女事務委員會」於
+     support activities/campaigns involving the relevant issues.         上市公司推行的「性別課題聯絡人」網
+     on 5 december 2016, the company’s managing director                 絡(gender focal point network)啟動儀
+     attended the launch ceremony of the “gender focal point             式，以示對業界社區活動的支持。
+     network” initiated by the “women’s commission”, as
+     a nominated representative in order to demonstrate our
+     support for industry-community activities.
+
+7.   brand success                                                  7.   品牌成就
+
+     as a responsible business, the group values environmental           本集團為責任企業，高度重視環保、員
+     protection, employee safety and product quality; our sense          工安全與產品質量，我們的責任感，推
+     of responsibility has spurred us on to achieve certification        使 我 們 達 致iso14001環 境 管 理 體 系、
+     for iso 14001 environmental management system, ohsas                ohsas 18001職業健康安全管理體系及
+     18001 occupational health & safety management system,               iso/ts 16949質量管理體系。
+     and iso/ts 16949 quality management system.
+
+outlook                                                             展望
+
+the group has made determined efforts in all aspects of esg         在2016年，本集團在環境、社會及管治方面付
+in 2016. by effectively implementing a system of integrated         出一定的努力，我們通過綜合管理體系的有效
+management, we have obtained fruitful results in terms of           實施，在減廢方面獲得良好效果，並將有害廢
+reducing waste, as well as reducing levels of harmful waste         棄物總量減為零。一直以來，我們重視員工的
+to zero. we have always valued employees’ growth and                成長和發展，讓彼此之間締造友好的僱傭關
+development, and strived to build amicable employer-employee        係。我們堅信與持份者的「互惠互利互動」理
+relationships. we strongly believe in the concept of “mutual        念，繼續與他們保持良好溝通與合作。因此，
+benefit and interaction” with stakeholders, and we continue to      我們將繼往開來地保持環境與社會責任的表
+retain excellent levels of communication and collaboration with     現，並以持續改進為我們的發展方向。
+them. for this reason, we will continue to build on our previous
+results and make future progress in terms of our environmental
+and social responsibility performance, while developing towards
+making continuous improvements.
+
+
+
+
+                                                                           正道集團有限公司 環境、社會及管治報告 2016         19
+
+     hkex environmental, social and governance                                        香港聯交所環境、社會及管治報告
+     (esg) reporting guidelines                                                       指引索引
+
+      main categories/aspects of
+                                                                                esg report section         page number
+         the esg reporting guidelines
+                                                                                   esg報告章節                     頁數
+      esg報告指引主要範疇╱層面
+      a. environment
+      a. 環境
+           aspect a1: emissions                                                      environment
+                                                                                                              5–6
+           層面a1：排放物                                                                      環境
+           aspect a2: use of resources                                               environment
+                                                                                                              6–7
+           層面a2：資源使用                                                                     環境
+           aspect a3: environment & natural resources                                environment
+                                                                                                              7–8
+           層面a3：環境及天然資源                                                                  環境
+      b. society
+      b. 社會
+      employment & labour practices
+      僱傭及勞工常規
+           aspect b1: employment                                                caring for employees
+                                                                                                              9 – 10
+           層面b1：僱傭                                                                   關懷員工
+           aspect b2: health & safety                                           caring for employees
+                                                                                                             10 – 11
+           層面b2：健康與安全                                                                關懷員工
+           aspect b3: development & training                                    caring for employees
+                                                                                                             11 – 12
+           層面b3：發展及培訓                                                                關懷員工
+           aspect b4: labour standards                                          caring for employees
+                                                                                                               12
+           層面b4：勞工準則                                                                 關懷員工
+      operating practices
+      營運慣例
+           aspect b5: supply chain management                                supply chain management
+                                                                                                               13
+           層面b5：供應鏈管理                                                               供應鏈管理
+           aspect b6: product responsibility                                 responsibility to customers
+                                                                                                             14 – 16
+           層面b6：產品責任                                                              對客戶的責任
+           aspect b7: anti-corruption                                           preventing corruption
+                                                                                                             17 – 18
+           層面b7：反貪污                                                                   防止貪污
+           aspect b8: community investment                                    community contribution
+                                                                                                               19
+           層面b8：社區投資                                                               社區貢獻
+
+
+
+
+20   hybrid kinetic group limited environmental, social and governance (esg) report 2016

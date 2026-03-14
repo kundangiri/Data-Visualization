@@ -1,0 +1,1807 @@
+ nachhaltigkeitsreport 2006
+
+
+
+
+                        werte
+                        leben.
+                        zukunft
+                        schaffen.
+
+
+
+
+alles aus einer hand.
+
+der text dieses nachhaltigkeitsreports folgt ausschließlich dem ziel, informationen in flüssiger, lesbarer form zu vermitteln.
+aus diesem grund haben wir bewusst auf geschlechtsspezifische formulierungen verzichtet und versucht, sie durch neutrale
+zu ersetzen. im gesamten report sprechen wir frauen und männer völlig gleichwertig an.
+
+                                      nachhaltigkeitsreport 2006
+                                                mit aktuellem geschäftsbericht
+
+
+
+
+                                                      energiecomfort
+                                       energie- und gebäudemanagement gmbh
+
+
+
+
+                                                     information, kontakt, anregungen, feedback:
+                                                                       ing. angelika frauenberger
+                                                                       umwelt und anlagenrecht
+                                                                  und nachhaltigkeitsbeauftragte
+                                                                            obere donaustraße 63
+                                                                                         1020 wien
+                                                                              tel: +43 1 31317 3673
+                                                        e-mail: nachhaltigkeit@energiecomfort.at
+                                                                         www.energiecomfort.eu
+
+
+
+
+                                           1
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs1 1                                                                   19.06.2007 17:46:59 uhr
+
+               vorwort der geschäftsleitung
+
+                        umweltschutz, ressourcenschonung und soziale verantwor-              ortswärmeversorgungen und stadtheizungen auf basis
+                        tung sind werte, denen sich energiecomfort seit beginn der           erneuerbarer energien, energie-contracting-projekte, kos-
+                        nun fast 30-jährigen unternehmenstätigkeit                           tensenkungen bei gleichzeitigem werterhalt von objekten,
+                        verpﬂichtet fühlt.                                                   nachhaltige unternehmensführung sowie steigerung der
+                                                                                             wettbewerbsfähigkeit bei unseren beteiligungen sind heraus-
+                        gegründet als ausschließliches wärmeversorgungsunterneh-             forderungen, die wir in den letzten jahren mit unserem team
+                        men, hat sich energiecomfort in den letzten 10 jahren zu             erfolgreich realisiert haben.
+                        einem erfolgreichen komplettanbieter für energie- und facility
+                        management-dienstleistungen entwickelt.                              die vermehrte umsetzung nachhaltiger projekte sowie die
+                                                                                             weiterentwicklung unseres qualitätsmanagementsystems
+                                                                                             haben uns veranlasst, periodisch einen nachhaltigkeitsreport
+                                                                                             zu erstellen. damit dokumentiert energiecomfort seine ini-
+                                                                                             tiativen in den bereichen wirtschaft, umwelt und gesellschaft
+                                                                                             und gibt ausblicke auf die weitere entwicklung.
+
+                                                                                             so hat sich in unserem – in den vergangenen jahren auch
+                                                                                             personell stark expandierten – unternehmen ein geschärf-
+                                                                                             tes bewusstsein entwickelt, das nachhaltigkeit bei jeder
+                                                                                             und jedem einzelnen in den mittelpunkt der bemühungen
+                                                                                             rückt. die motive, nachhaltig zu handeln, sind dabei genauso
+                                                                                             vielfältig wie die individuellen charaktere unserer mitarbeiter
+                                                                                             selbst. die fotos in diesem bericht sollen davon einen eindruck
+                                                                                             vermitteln.
+
+                                                                                             wir hoffen, ihnen mit diesem nachhaltigkeitsreport interes-
+                                                      „nachhaltig handeln
+                                                  heißt, verantwortung für                   sante informationen über das wirken von energiecomfort
+                                                    künftige generationen                    zur verfügung zu stellen.
+                                                          zu übernehmen.“
+
+
+
+                        das erbringen von dienstleistungen für zufriedene kunden
+                        gehört zu unserem kerngeschäft, deshalb sind die mitarbeiter
+                        unser wichtigstes kapital!
+
+                        der wirtschaftliche erfolg von energiecomfort beruht
+                        darauf, für kunden wirtschaftliche lösungen mit ökologischem
+                        nutzen und sozialer akzeptanz zu realisieren.                                               ing. rudolf pfaff
+                                                                                                                     geschäftsführer
+
+
+
+
+                        wir freuen uns über ihr feedback und ihre anregungen zu diesem bericht unter nachhaltigkeit@energiecomfort.at
+
+
+
+
+                                                                                         2
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs2 2                                                                                                                    19.06.2007 17:47:01 uhr
+
+                                                                                                            energiecomfort
+                                                                                                                das unternehmen in kürze
+
+               energiecomfort energie- und gebäudemanagement wurde
+                                                                                    3 strategische säulen von energiecomfort
+               1978 gegründet und zählt heute zu den führenden energie-
+               und facility management-unternehmen österreichs. eigentü-            forcierung der orts-       ausweitung des            erweiterung der aus-
+                                                                                    wärmeversorgung            geschäftsbereichs         landsbeteiligungen
+               mer ist zu 100% wien energie .                                       aus biomasse               facility management
+
+                                                                                                                beispielsweise:
+                                                                                    betriebsaufnahme der       facility management-      beteiligung am
+                              wiener stadtwerke                                     biomasse-ortswärme         dienstleistungen für      wärmeversorgungs-
+                                                                                    für purkersdorf.           österreichische post      unternehmen der
+                                                                                                               ag, bank austria          drittgrößten slowa-
+                                                                                                               creditanstalt-gebäude:    kischen stadt presov.
+                                      wien energie                                                             hauptanstalt am hof,
+                                                                                                               kunstforum,etc.
+
+                                          wien energie
+                                          wienstrom
+                                                                                   erweiterung über die grenzen österreichs
+                                          wien energie
+                                            gasnetz                                in den letzten jahren gehört – parallel zum wachstum in ös-
+                                                                                   terreich – die geschäftsentwicklung über die grenzen hinaus
+                                         wien energie                              zu den strategischen schwerpunkten von energiecomfort.
+                                       fernwärme wien                              beteiligungen an unternehmen werden mit dem ziel einge-
+                                          wien energie                             gangen, die wettbewerbsfähigkeit nachhaltig zu gewährleis-
+                                           stromnetz                               ten, durch gezielten know-how-transfer kundenbindung und
+                                                                                   -neugewinnung zu sichern, neue serviceorientierte dienstleis-
+                                       energiecomfort                              tungen zu entwickeln und eine expansion in die region hinein
+                                                                                   zu erreichen. durch die beteiligungen an ausländischen unter-
+                                                                                   nehmen beschäftigt energiecomfort etwa 520 mitarbeiter.
+               energiecomfort plant, errichtet, ﬁnanziert und betreibt
+               wärmeerzeugungsanlagen, bietet leistungen aus allen erneu-
+               erbaren energieträgern – und ist experte in der ortswärmever-
+               sorgung aus biomasse. die vielseitigkeit des unternehmens
+               auf dem energiesektor hat die konsequente entwicklung hin
+               zum multifunktionalen dienstleistungsanbieter für alle aufga-
+               ben – auch im facility management – nach sich gezogen. dazu
+                                                                                     c. e. u. s.r.o.
+                                                                                                                       ec
+                                                                                                         100% spravbytkomfort a.s. 55%    ortswärme
+                                                                                                                                          tannheim
+                                                                                                                                                           24,9%
+                                                                                     köszegi távhöszol- 50%
+               zählen aufgaben rund um gebäudetechnik, sicherheitstech-              gáltató kft
+               nik, ent- und versorgung sowie reinigung in büro-, gewerbe-
+                                                                                     bytkomfort s.r.o.   49%
+                                                                                                                       ec
+                                                                                                               bytkomfort-ba a.s. 10%              ec
+                                                                                                                                          ortswärme grän 24,9%
+               und wohnobjekten.
+               heute ist energiecomfort mit diesem umfassenden ange-
+               bot an dienstleistungen partner für kommunen im in- und             energiecomfort in zahlen
+               ausland, für kunden aus wirtschaft und verwaltung sowie für         im geschäftsjahr 2005/06 wurden in den geschäftsbereichen
+               privatkunden.                                                       rund d 35 millionen umgesetzt, davon entfallen auf energie-
+               in österreich betreut das unternehmen mit rund 130 mit-             management etwa 22 mio, auf das facility management
+               arbeitern mehr als 600 geschäftskunden und über 9000                rund 10 mio sowie 3 mio auf erlöse aus sonstigen geschäfts-
+               privatkunden.                                                       tätigkeiten wie consulting (siehe kapitel wirtschaft:
+                                                                                   leistungen und daten).
+
+
+
+
+                                                                               3
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs3 3                                                                                                                                19.06.2007 17:47:03 uhr
+
+                                           inhaltsverzeichnis
+
+
+
+
+                                      effektivität
+
+
+
+                                                 das
+                                             richtige
+                                                 tun
+
+
+
+
+                                              4
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs4 4                       19.06.2007 17:47:04 uhr
+
+                                                     nachhaltigkeit bei energiecomfort           6
+                                                     zum bericht                                 7
+                                                     unternehmensleitbild                        9
+                                                     integriertes managementsystem              10
+
+
+
+
+                wirtschaft
+
+                    grundsätze                              13
+                    ökonomische strukturen                  13
+                    herausforderungen und lösungen          16
+                    leistungen und daten                    17                               grundsätze                       19
+                                                                                             ökologische strukturen           19
+                                                                                             herausforderungen und lösungen   20
+                                                                                             leistungen und daten             24
+
+
+
+
+                                                                                                                   umwelt
+                                                          grundsätze                              27
+                                                          soziale strukturen                      27
+                                                          herausforderungen und lösungen          28
+                                                          leistungen und daten                    29
+
+
+
+
+                                                       menschen
+                                                                                           internationalisierung     30
+                                                                                           perspektiven              32
+
+
+
+
+                                                                        5
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs5 5                                                                                                19.06.2007 17:47:05 uhr
+
+               nachhaltigkeit bei energiecomfort
+                        werte leben. zukunft schaffen.
+
+                        nachhaltig ist eine entwicklung,                                    nachhaltiger dialog
+                                                                                            ein wichtiger weg, unsere verantwortung der nächsten und
+                            „die den bedürfnissen der heutigen generation                   näheren umgebung gegenüber wahrzunehmen, ist kommuni-
+                            entspricht, ohne die möglichkeiten künftiger                    kation und information. wir stehen daher in ständigem dialog
+                            generationen zu gefährden, ihre eigenen bedürfnisse             mit allen organisationen, gruppen und menschen in unserem
+                            zu befriedigen und ihren lebensstil frei zu wählen.“            wirkungsfeld. mit vorliegendem report wollen wir diesen
+                                                                                            dialog weiter führen und vertiefen – unternehmensintern,
+                                        weltkommission für umwelt und entwicklung           konzernweit sowie mit allen interessenskreisen, die in bezug
+                                                           (brundtland-report), 1987        zu uns stehen.
+
+                        im heute handeln
+                        der vorliegende nachhaltigkeitsreport dokumentiert einen
+                        dynamischen unternehmensprozess, der ökonomische,
+                        ökologische und soziale lebensgrundlagen langfristig erhält
+                                                                                                             konzern
+                        und weiterhin fördert.
+                                                                                                                                               mitarbeiter
+                        er ist eingebunden in einen gesamtprozess der wiener
+                                                                                                                             altigkeitst
+                        stadtwerke holding.                                                                             c hh            ea
+                                                                                                                       a
+                        der vorstand der wiener stadtwerke hat diesen im juni 2005
+
+
+
+
+                                                                                                                                        m
+                                                                                                               n
+                        zur erstellung eines konzernweiten nachhaltigkeitsberichts
+                        gestartet. er beinhaltet neben verschiedenen aktivitäten
+                                                                                                                          energie-
+                        wie expertenforen und mitarbeiterveranstaltungen auch                                             comfort
+                        aktivitäten im bereich der konzernunternehmen.                         öffentliche
+                                                                                                  hand
+                        der arbeitseinsatz von energiecomfort im rahmen der
+                        nachhaltigkeit ist daher sowohl ein beitrag für den im früh-                              ac
+                                                                                                                                       rt
+                                                                                                                                           o
+                                                                                                                n
+
+
+
+
+                                                                                                                     h   hal          ep             kunden
+                        jahr 2008 erscheinenden konzernweiten nachhaltigkeits-                                              tigkeitsr
+                        bericht der wiener stadtwerke als auch ein wichtiger meilen-
+                        stein auf dem erfolgreichen weg unseres unternehmens.
+
+                                                                                                                        lieferanten
+                        das morgen gestalten
+                        efﬁzienz im handeln, effektivität im wirtschaften, entlastung
+                        der umwelt und entfaltungsmöglichkeiten der menschen sind
+                        bei energiecomfort gelebte werte. wie wir danach handeln,
+                        ist entscheidend dafür, eine lebenswerte zukunft auch für
+                        nachfolgende generationen mit zu gestalten. unser ziel ist
+                        es, nachhaltige lebensqualität zu schaffen. so begegnen wir
+                        mit kreativität und innovationskraft heutigen wie künftigen
+                        bedürfnissen. das streben nach qualität hat dabei höchste
+                        priorität – wir sind davon überzeugt, dass ein dokumentiertes
+                        qualitätsmanagementsystem notwendig ist, um gesetzte
+                        standards einzuhalten und diese mit einem fokus auf
+                        verantwortungsvolles handeln weiterzuentwickeln.
+                        so leben wir werte, um zukunft zu schaffen.
+
+
+
+
+                                                                                        6
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs6 6                                                                                                                          19.06.2007 17:47:05 uhr
+
+               zum bericht                                                        durch tatkräftige mitwirkung aller mitarbeiter wurde die im
+               das rasche wachstum des unternehmens und der dialog mit            unternehmen gelebte nachhaltigkeit in vorliegendem report
+               kunden, mitarbeitern und dem mutterkonzern über nachhal-           zusammengefasst.
+               tige entwicklungen haben im sommer 2005 die geschäftslei-
+               tung dazu veranlasst, einen nachhaltigkeitsreport in verbin-           der energiecomfort-nachhaltigkeitsreport soll in
+               dung mit einem geschäftsbericht zu erstellen.                          periodischen abständen von zwei jahren, sowohl in
+               ein „nachhaltigkeits-team“ wurde nominiert, das sich unter             gedruckter version als auch in form einer online-publi-
+               der leitung der nachhaltigkeitsbeauftragten aus folgenden              kation allen interessierten zur verfügung gestellt werden.
+               mitgliedern, stellvertretend für deren gesamten bereich,               der berichtszeitraum bezieht sich auf das geschäftsjahr
+               zusammensetzt:                                                         1. 10. 2005 bis 30. 9. 2006.
+                                                                                      die ausländischen beteiligungen werden
+                    geschäftsbereichsleitungen:                                        im abschnitt internationalisierung berücksichtigt.
+                    facility management, energiemanagement, finanzen,                 sie sind noch nicht in unser nachhaltigkeits-
+                    personal und recht                                                system integriert. unsere bemühungen in diese richtung
+                    stabstellenleitungen:                                             zeitigen jedoch erfolge: unser tochterunternehmen
+                    marketing, qualitätsmanagement                                    bytkomfort hat als erstes energieversorgungsunter-
+                    gruppenleitung:                                                   nehmen der slowakei ein qualitätsmanagementsystem
+                    umwelt- und anlagenrecht                                          eingeführt und wurde im sommer 2006 iso 9001:2000
+                    betriebsrat                                                        zertiﬁziert (siehe internationalisierung)
+                    geschäftsleitung                                                  die daten für den geschäftsbericht werden jährlich
+                                                                                      aktualisiert und dem nachhaltigkeitsbericht beigelegt.
+
+                                                                                  bei der erarbeitung dieses berichts orientierte sich
+                                                                                  energiecomfort am leitfaden zur nachhaltigkeitsberichts-
+                                                                                  erstattung g3 der global reporting initiative (gri) zur erstel-
+                                                                                  lung von nachhaltigkeitsberichten.
+
+
+
+
+                „nachhaltig handeln
+                heißt, mit freude
+                füreinander da zu sein.“
+
+
+
+
+                                                                              7
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs7 7                                                                                                                 19.06.2007 17:47:07 uhr
+
+                        gri inhaltsmatrix energiecomfort
+
+                          g3-geforderte inhalte                        kapitel im bericht                                                           seite
+                          1.1.                                         vorwort der geschäftsleitung                                                      2
+                                                                       herausforderungen und lösungen                                          16, 20, 28
+                          1.2.                                         perspektiven                                                                    32
+                          3.1. bis 3.1.                                zum bericht                                                                       7
+                          3.4.                                         energiecomfort                                                                    3
+                          3.12.                                        gri inhaltsmatrix                                                                 8
+                          3.13.                                        externe berichtsvalidierung                                                       8
+                          2.1. bis 2.9.                                energiecomfort – das unternehmen in kürze                                         3
+                                                                       internationalisierung                                                           30
+                          4.1. bis 4.4.                                zum bericht                                                                       7
+                          4.8.                                         unternehmensleitbild                                                              9
+                          4.9. bis 4.11.                               integriertes managementsystem                                                   10
+                          4.14. bis 4.17. stakeholderdialog            nachhaltigkeit bei energiecomfort – nachhaltiger dialog                           6
+                          ec1                                          wirtschaft – leistungen und daten                                                17
+                          ec2                                          umwelt – grundsätze und ökologische strukturen                                  19
+                          ec8                                          verlegte trassenlängen und anschlussdichte – stadtheizung schwechat             25
+                          en3, en4, en6, en7, en8, en9,                umwelt – leistungen und daten                                                   24
+                          en16, en18, en22, en26
+                          la2, la7, la10, la13                         menschen – leistungen und daten                                                29
+                          la12                                         menschen – herausforderungen und lösungen                                      29
+                          pr5                                          menschen – soziale strukturen                                                  27
+                          pr1                                          umwelt – leistungen und datenz                                                 24
+                          2.10., 4.12., 4.13., s01 bis s08,            nicht relevant
+                          pr2 bis pr4, pr6 bis pr9
+
+
+
+                                 gültigkeitserklärung und prüfbescheinigung:
+                                 der hier vorliegende nachhaltigkeitsbericht der energiecomfort energie- und gebäude-management gmbh wurde
+                                 – im rahmen eines audits nach iso 9001:2000 von der
+
+                                                              quality austria trainings-, zertiﬁzierungs- und begutachtungs gmbh
+                                                                           gonzagagasse 1/24, 1010 wien, österreich
+
+                                 als unabhängige zertiﬁzierungsgesellschaft geprüft.
+
+                                 quality austria bestätigt hiermit, dass der bericht nach den vorgaben der sustainability reporting guidelines 2006
+                                 g3 der global reporting initiative (gri) aufgebaut ist und die inhalte und daten den in der organisation eingesehenen
+                                 aufzeichnungen entsprechen.
+
+                                 wien, im mai 2007
+
+
+
+
+                                          konrad scheiber                                        dr. martina göd
+                                          geschäftsführer                                        produktverantwortliche berichtsvalidierung
+                                          quality austria
+
+
+
+
+                                                                                             8
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs8 8                                                                                                                      19.06.2007 17:47:08 uhr
+
+                                                                                                       unternehmensleitbild
+                                                                                                                             alles aus einer hand
+
+               wir sind ein erfolgreicher komplettanbieter für energie- und             wir setzen auf langfristige partnerschaften mit unseren mit-
+               facility management-dienstleistungen auf regionalen märk-                arbeitern. insbesondere achten wir auf vertrauenswürdigen,
+               ten mit verstärkter internationaler ausrichtung.                         loyalen und respektvollen umgang.
+                                                                                        unser arbeitsumfeld ist geprägt von ehrlichkeit, vertrauen und
+               unsere stärken sehen wir in der klaren festlegung von ver-               offenem informationsaustausch zwischen allen ebenen. wir
+               antwortungsbereichen und wenigen entscheidungsebenen.                    fördern eine kontinuierliche weiterentwicklung der persön-
+               mit zielgerichteter kommunikation erreichen wir transparenz,             lichen fähigkeiten all unserer mitarbeiter. wir achten auf
+               verlässlichkeit, korrektheit, kompetenz und persönliche be-              chancengleichheit ohne gewichtung von geschlecht, rasse
+               treuung für alle unsere kunden und partner.                              oder religion.
+
+               mit unseren projekten fördern wir die regionale wertschöp-               unsere kunden
+               fung. weiters sind wir bestrebt, unsere umweltleistungen                 bei unseren angebotenen leistungen stehen die aspekte der
+               ständig zu verbessern und umweltbelastungen so gering wie                kundenorientierung und vor allem der kundenzufriedenheit
+               möglich zu halten beziehungsweise zu vermeiden.                          im vordergrund.
+               qualität kontinuierlich weiterzuentwickeln und die erträge im            wir unterstützen die individuellen anforderungen unserer
+               unternehmen zu erhöhen, sind unsere vordringlichsten ziele.              kunden und stärken dadurch deren wettbewerbsfähigkeit und
+               wir wollen damit unser unternehmen sowie unsere auslands-                leistungsfähigkeit.
+               beteiligungen mit allen arbeitsplätzen nachhaltig sichern und            wir sind stets bestrebt, durch qualitätsorientierte abläufe die
+               ausbauen.                                                                anliegen unserer kunden verlässlich und innovativ zu erfüllen.
+
+               unsere mitarbeiter                                                       unser ressourceneinsatz
+               an unseren mitarbeitern schätzen wir vor allem fachliche und             wir stehen für sparsamen umgang mit natürlichen ressour-
+               menschliche qualitäten. wir legen großen wert auf team-                  cen, den wir durch efﬁziente anlagentechnik und anlagenbe-
+               arbeit. dadurch gelingt es uns, potenziale und synergien zu              trieb erreichen.
+               nützen. eigenverantwortliches handeln ist uns und unseren                wir sind offen für neueste technologien und setzen umwelt-
+               mitarbeitern sehr wichtig.                                               freundliche technik ein.
+
+
+
+                                                             geschäftsführung                                                         stabstellen
+
+                    energiemanagement          facility management        personal & recht                 finanzen
+
+
+                           em-verkauf                fm-verkauf          allg. rechtsangelegenheiten     finanzbuchhaltung                controlling
+
+
+                      em-projektcontrolling       fm-technischer gbl     umwelt- und anlagenrecht        anlagenbuchhaltung         qualitätsmanagement
+
+
+                        em-planung bau                                      human ressources                beteiligungen             ofﬁcemanagement
+
+
+                     em-, e- und msr-technik   fm-kundendienstgruppe 1          versicherungen             zentraleinkauf           informationstechnologie
+
+
+                         em-contracting        fm-kundendienstgruppe 2   zufriedenheitsmanagement                                     sicherheitsfachkraft
+
+
+                    em-kundendienstgruppe 1    fm-kundendienstgruppe 3                                                                    marketing
+
+                                                                                                                                     geschäftsabwicklung
+                    em-kundendienstgruppe 2    fm-kundendienstgruppe 4                                                                     ausland
+
+                        em-verrechnung         fm-kundendienstgruppe 5
+
+
+                                                   fm-verrechnung
+
+
+
+
+                                                                                    9
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs9 9                                                                                                                           19.06.2007 17:47:09 uhr
+
+               integriertes managementsystem
+                        qualitätsstandards setzen und entwickeln
+
+                        im zuge der integration von nachhaltigkeit bei energie-               kunden, partnern und mitarbeitern garantiert dieses system
+                        comfort wurde besonderes augenmerk auf die umsetzung                  nicht nur geregelte abläufe, sondern auch eine kontinuierliche
+                        von nachhaltigkeitsaspekten in der qualitätspolitik und den           verbesserung der dienst- und sozialleistungen. richtlinien, die
+                        qualitätszielen gelegt.                                               die systematische aus- und weiterbildung der mitarbeiter re-
+                                                                                              geln, ermöglichen es, auch in zukunft dienstleistungen bieten
+                        als eines der ersten unternehmen in der branche erhielt               zu können, die kunden von uns erwarten.
+                        energiecomfort die zertiﬁzierung nach iso 9001:2000
+                        durch die öqs – heute quality austria.                                krisenmanagement
+                                                                                              das hauptaugenmerk liegt hier auf prävention. einerseits
+                                                                                              durch die tätigkeit der sicherheitsfachkraft, andererseits durch
+                                                                                              umfassende mitarbeiterschulungen, vor allem in den berei-
+                         „nachhaltig handeln                                                  chen sicherheit und umwelt. sollte dennoch eine krisensitu-
+                         heißt, die natur zu                                                  ation eintreten, ist im rahmen des krisenmanagements ein
+                         genießen und die                                                     krisenstab festgelegt. ablaufpläne und kommunikationsmaß-
+                         umwelt zu schonen.“                                                  nahmen sind – abhängig von der jeweiligen krisensituation
+                                                                                              – im krisenhandbuch vordeﬁniert.
+
+                                                                                              zufriedenheitsmanagement
+                                                                                              zufriedenheitsmanagement ist bei energiecomfort im
+                                                                                              bereich personal und recht eingerichtet.
+                                                                                              jedes anliegen jedes kunden – positiv oder negativ, schrift-
+                                                                                              lich oder mündlich – wird erfasst und bearbeitet. in einem
+                                                                                              vierteljährlichen management-review werden aufgrund der
+                                                                                              zufriedenheitsmanagement-dokumentation maßnahmen
+                                                                                              festgelegt, um unsere leistungen den bedürfnissen und wün-
+                                                                                              schen der kunden noch genauer anzupassen.
+
+                                                                                              lieferantenbewertung
+                        durch kontinuierliche selbstüberprüfung und durch regel-              energiecomfort unterscheidet lieferanten aus den be-
+                        mäßig durchgeführte audits wird die wirksamkeit unseres               reichen material sowie dienstleistungen. die auswahl- und
+                        qualitäts-managementsystems permanent überwacht und                   bewertungskriterien für lieferanten setzen sich zusammen
+                        angepasst.                                                            aus regionalität, preis, qualität sowie umweltverhalten,
+                                                                                              sicherheitspolitik und -verhalten sowie der bonität. künftig
+                        das integrierte qualitätsmanagementsystem regelt transpa-             sollen auch noch das kriterium der zertiﬁzierungen bzw. das
+                        rent verantwortungen, hilft fehler rechtzeitig zu erkennen und        vorhandensein eines nachhaltigkeitsberichts berücksichtigt
+                        die dafür notwendigen korrekturmaßnahmen abzuleiten.                  werden.
+
+                        standardisierte prozesse gewährleisten einen efﬁzienten und
+                        schonenden einsatz der von uns verwendeten materialien und
+                        stellen sicher, dass ressourcen gezielt und umweltfreundlich
+                        eingesetzt werden.
+
+
+
+
+                                                                                         10
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs10 10                                                                                                                   19.06.2007 17:47:11 uhr
+
+               risikomanagement                                                      abfallmanagement
+               das risikomanagement von energiecomfort ist in ein                    das abfallmanagement ist in der gruppe umwelt- und
+               risikogremium von wien energie eingebettet, in dem alle               anlagenrecht situiert und behandelt die erfordernisse für die
+               tochterunternehmen vertreten sind.                                    umsetzung der bundes- und landesrechtlichen vorgaben aus
+               die aufgabe des risikomanagementsystems (rms) ist es,                 dem abfallwirtschaftsgesetz. zweck des abfallmanagements
+               potenzielle risiken zu identiﬁzieren, zu analysieren,                 ist alle beteiligten über ihre aufgaben zu informieren und
+               zu bewerten und zu steuern.                                           alle relevanten daten für die einzelnen standorte zu erfassen
+                                                                                     und zu dokumentieren.
+               in einem basisprozess werden zuerst die risiken in den organi-
+               sationseinheiten erhoben und als einzelrisiken erfasst. danach        projektmanagement
+               ﬁndet eine systematische bewertung bezüglich eintrittswahr-           im laufe des jahres 2006 wurde ein projektmanagementsys-
+               scheinlichkeit und möglicher schadenshöhe statt, die zu einer         tem aufgebaut.
+               priorisierung der erfassten risiken führt.                            damit ist es nun möglich, unsere projekte systematischer
+               die daraus abgeleiteten hauptrisiken werden in regelmäßigen           abzuarbeiten, fehlerquellen besser zu erkennen und eine
+               abständen berichtet. für die hauptrisiken werden gemeinsam            strukturierte, einheitliche dokumentation jedes einzelnen
+               mit den fachabteilungen maßnahmen zur positiven beeinﬂus-             projekts zu erstellen.
+               sung des risikopotenzials erarbeitet und deren status doku-
+               mentiert. abhängig von der risikoposition werden zukünftig
+               unterjährige bewertungen erfolgen, um die wirksamkeit der
+               durchgeführten aktionen zu überprüfen.                                                                             „nachhaltig handeln
+                                                                                                                              heißt, bewusst zu leben.“
+               das risikoberichtswesen schafft die voraussetzungen bzw.
+               unterstützt steuerungsmaßnahmen für eine effektive risiko-
+               reduzierung und ist damit ein wesentlicher baustein des im
+               aufbau beﬁndlichen frühwarnsystems.
+
+               sicherheitsmanagement
+               (bei energiecomfort technisches risikomanagement)
+               das technische risikomanagement beinhaltet themen wie
+               lagerung von brennstoffen (öl, biomasse), bescheidmanage-
+               ment, anlagenoptimierungen sowie die energieerzeugung.
+               im rahmen des technischen risikomanagements werden die
+               erfordernisse für die umsetzung der bundes- und landesrecht-
+               lichen vorschriften erfasst.
+               zweck ist es, alle beteiligten über ihre aufgaben zu informie-
+               ren und in weiterer folge termingerecht für alle notwendigen
+               überprüfungen der anlagen zu sorgen und damit alle behörd-
+               lichen auﬂagen zu erfüllen.
+
+
+
+
+                                                                                11
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs11 11                                                                                                                19.06.2007 17:47:12 uhr
+
+                                                         wirtschaft
+
+
+
+
+                                        effizienz
+
+
+
+                                                etwas
+                                                immer
+                                            besser tun
+
+
+
+
+                                                    12
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs12 12                            19.06.2007 17:47:20 uhr
+
+                                                                                                                                                               wirtschaft
+
+
+
+
+                                                                                                                                        grundsätze
+
+               kundenzufriedenheit ist der maßstab für die qualität unseres          die weiterentwicklung der geschäftsfelder und die geogra-
+               wirtschaftens. dies sichert die stabilität und ausbaufähigkeit        ﬁsche ausweitung der geschäftstätigkeit auf ganz österreich
+               unseres unternehmens zum vorteil von kunden, mitarbeitern             und europa sind unsere strategischen entwicklungslinien.
+               sowie unserer eigentümer.
+
+
+
+
+                                                                                        ökonomische strukturen
+               gegenstand des unternehmens ist die errichtung und der                     solaranlagen.
+               betrieb von energieversorgungsanlagen sowie die übernahme
+               bereits bestehender anlagen zum betrieb und aller damit                    hackschnitzel und holzpelletsanlagen in kleineren
+               zusammenhängenden tätigkeiten. neben dem ursprünglichen                    leistungsbereichen.
+               kernbereich energiemanagement hat das unternehmen ab
+               1995 seine dienstleistungen um einen zweiten haupt-ge-                     herkömmliche öl- und gaskesselanlagen sowie brenn-
+               schäftsbereich erweitert: facility management.                             werttechnologie für beide energieträger ab einer leistung
+                                                                                          von ca. 100 kw.
+               exemplarisch für energiemanagement sind:
+                                                                                          fernwärmeanlagen auf basis fester biomasse (hack-
+               anlagen-contracting                                                        schnitzel) im leistungsbereich 1,5 mw bis 10 mw.
+               damit erbringen wir alle energie-dienstleistungen von
+               planung über errichtung und finanzierung bis hin zur be-                   fernwärmeanlagen auf basis industrieabwärme mit
+               triebsführung (inspektion, wartung und instandhaltung) von                 einer leistungsabnahme von ca. 5 mw bis 40 mw.
+               wärme- und kälteversorgungsanlagen von gebäudeeigenen
+                                                                                                                                                     cz
+               energiezentralen genauso wie von gesamten wärmeversor-
+               gungsnetzen für gemeinden und städte.
+                                                                                                                                                                          ˇ
+                                                                                                                                                                    sk-presov
+               abhängig von der leistungsabnahme setzt energiecomfort
+                                                                                                                                                   wien
+               folgende technologien zur energieerzeugung ein:                                                                         ca. 400 standorte
+                                                                                                                 freistadt                                         sk
+                                                                                                                                       krems
+                                                                                                                                                                sk-nové zámky
+                                                                                                          linz                     purkersdorf             schwechat
+                                                                                                                                         vösendorf           mannswörth
+                                                                                                                                       trumau               mannersdorf
+                                                                        d
+                          steibis
+                                                                                                bad aussee
+                                    oberstaufen
+                                                                                                   lerchenreith
+                                                                                                    bad mitterndorf                                            h-köszeg
+                                                  grän
+                                                                                                                                   kapfenberg
+                                                         seefeld
+                                        mittelberg                                                                                                             h
+                  fl                                      fulpmes
+                                                                                                    stolzalpe                                                   ro-tirgu mures
+
+
+                           ch                                       i                           turrach
+
+                                                                                     nassfeld
+
+                        bestehende heizzentralen-standorte                                                                   slo
+                        projekte aus erneuerbarer energie in planung bzw. im bau
+                        biomasse-projekte in vorbereitung
+
+
+
+
+                                                                                13
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs13 13                                                                                                                                     19.06.2007 17:47:22 uhr
+
+               wirtschaft
+
+
+
+
+                        energie-contracting                                                         vorteile energie-contracting
+                        in diesem schnell wachsenden dienstleistungssektor bietet                      kostenreduktion
+                        energiecomfort als kompetenter partner bei großprojekten                       kostenkontrolle
+                        maßgeschneiderte lösungen. energiecomfort leistet dabei                        budget frei für kerngeschäft
+                        ein umfassendes maßnahmenpaket für eine vertraglich garan-                     kein investitionsbudget für den kunden notwendig
+                        tierte energieeinsparung und erhält dafür einen vereinbarten                   garantierte einsparung der energiekosten
+                        tei der eingesparten energiekosten.                                            geringes risiko
+                                                                                                       aktiver umweltschutz
+
+                        prozent
+                             100
+
+                              90
+
+                              80
+                                                          einsparung für                             einsparung kunde
+                              70
+                                                     contracting-finanzierung
+                              60
+
+                              50
+
+                              40
+                                                                             energiekosten
+                              30
+
+                              20
+
+                              10
+
+                               0
+                                   -2   -1   0   1   2   3   4   5   6   7   8   9   10   11   12   13   14   15   16   17   18   19   20 jahr
+
+
+                        facility management in ganz österreich                                      energiecomfort bietet:
+                        neben dem kernbereich energiemanagement konnte sich
+                        energiecomfort in den letzten jahren verstärkt am sektor                         technisches facility management:
+                        facility management als komplettanbieter etablieren.                             wartung und instandsetzung bei heizung/lüftung/ klima-
+                        umfassende dienstleistungen zur erzielung efﬁzienter und                         systemen, elektronische mess- und regeltechnik, sicher-
+                        ökonomischer lösungen dienen dem werterhalt und der wert-                        heitstechnik, aufzugswartung, brandschutz, u.v.m.
+                        steigerung von immobilien – von der technik bis zur sicherheit,                  kaufmännisches facility management:
+                        vom keller bis zum dach eines gebäudes.                                          abrechnung, verwaltung, managementaufgaben
+                                                                                                         der subleistungen, u.v.m.
+                                                                                                         infrastrukturelles facility management:
+                                                                                                         reinigung, bewachung, concierge, beistellung von sicher-
+                                                                                                         heitsfachkräften und brandschutzbeauftragten, u.v.m.
+
+
+                     „nachhaltig handeln heißt, das
+                     besondere im selbstverständlichen
+                     zu sehen.“
+
+
+
+
+                                                                                               14
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs14 14                                                                                                                       19.06.2007 17:47:24 uhr
+
+                                                                                                                                    wirtschaft
+
+
+
+
+                                                                            unser facility management-team betreut derzeit vorwiegend
+                                               „nachhaltig handeln          objekte von banken, versicherungen, einkaufszentren und
+                                                  heißt, immer neue         hotels. weiters gewerbebetriebe, bürogebäude und gebäu-
+                                             horizonte zu eröffnen.“        der der österreichischen post ag. darunter 846 postﬁlialen,
+                                                                            zustellbasen und verteilzentren in ganz österreich. außerdem:
+                                                                            die zentrale und filialen der ba-ca in wien und weitere 68 in
+                                                                            kärnten und der steiermark.
+
+
+
+
+               betreute objekte durch energiecomfort facility management
+
+
+
+
+                                                                               133                        198           168
+
+
+
+
+                                                                                               189                 56
+                      46                45                        72
+
+
+
+
+                                                                             95
+
+
+
+
+                                                                       15
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs15 15                                                                                                       19.06.2007 17:47:26 uhr
+
+               wirtschaft
+
+
+
+
+               herausforderungen und lösungen
+
+                        entwicklung der märkte                                                 fm.comfort
+                        die energiemärkte entwickeln sich im zuge des wandels un-
+                        serer energiestrukturen klar in richtung nutzung alternativer          ein durch die ffg (forschungsförderungsgesellschaft)
+                        energiesysteme, efﬁzienzsteigerung und energieeinsparung.              gefördertes cafm (computer aided facility management)-
+                        der ausbau von solaranlagen als sinnvolle ergänzung für                forschungsprojekt wurde bei energiecomfort entwickelt
+                        heizung und warmwasseraufbereitung stellt ebenfalls eine               und speziell auf die anforderungen unserer kunden zuge-
+                        relevante entwicklung am markt dar. die forcierung von kraft-          schnitten. ziel des projekts ist es, die vom markt geforderte
+                        wärme-kopplungsanlagen wird in zukunft zur steigerung der              qualität von durchführung, abrechnung und reporting
+                        energieefﬁzienz beitragen.                                             zu gewährleisten und die unverwechselbarkeit unserer
+                                                                                               dienstleistungen auf dem facility management-markt
+                        forschung und entwicklung                                              zu erfüllen. dies wird durch einen modularen aufbau und
+                        im traditionellen bereich der wärmeerzeugung auf basis                 ﬂexibler einsetzbarkeit erreicht.
+                        fossiler brennstoffe ist der einsatz von hoch entwickelten             einzelne module sind beispielsweise:
+                        brennwerttechnologien mittlerweile unumgänglich. optimale
+                        nutzung von energieinhalten der eingesetzten brennstoffe                  technische anlagendokumentation
+                        steht dabei im vordergrund.                                               kostenmanagement
+                        die europaweite forcierung von energiesparmaßnahmen und                   flächen- und raummanagement
+                        die förderung der nutzung erneuerbarer energien prägen we-                zutritts- und schlüsselmanagement
+                        sentlich unsere unternehmensleistung. so baut energiecom-                 instandsetzung, wartung, u.v.m.
+                        fort kontinuierlich den bereich forschung und entwicklung
+                        aus. das ergebnis sind innovative produkte und dienstleistun-
+                        gen, die wirtschaftlich wie ökologisch nachhaltige energienut-        wirtschaftliche vernetzung –
+                        zung gewährleisten.                                                   regionale bedeutung des unternehmens
+                                                                                              mit dem betrieb unserer biomasse ortswärme-netze liefern
+                        fernleitsysteme und anlagenüberwachung                                wir durch intensive nutzung lokaler ressourcen einen wert-
+                        mit im eigenen haus entwickelten programmierungen von                 vollen beitrag zur lokalen wertschöpfung. die einbringung von
+                        fernüberwachungs- und regelungssystemen hat energie-                  waldhackgut aus der region verstärkt die pﬂege der lokalen
+                        comfort einmal mehr kundenspeziﬁsche anforderungen                    wälder und sichert somit deren nachhaltigen bestand.
+                        abgedeckt. so werden energiecomfort-energiezentralen
+                        permanent überwacht und durch stete optimierungsmaß-                  mit der fernwärmeversorgung von schwechat über die „stadt-
+                        nahmen ein beständig hoher wirkungsgrad im betrieb der                heizung schwechat“ wird die abwärme der lokal ansässigen
+                        anlagen gewährleistet.                                                industrieanlage der omv genutzt.
+                                                                                              externe leistungen für den betrieb und die betreuung von
+                                                                                              insgesamt 400 anlagen, werden vor allem im raum wien,
+                                                                                              aber auch im gesamten bundesgebiet mit jeweils lokal tätigen
+                                                                                              unternehmen abgedeckt.
+
+
+
+                                                                     „nachhaltig
+                                                                   handeln heißt,
+                                                                    den blick aufs
+                                                                   wesentliche zu
+                                                                      bewahren.“
+
+
+
+
+                                                                                         16
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs16 16                                                                                                                   19.06.2007 17:47:27 uhr
+
+                                                                                                                                                wirtschaft
+
+
+
+
+                                                                                                 leistungen und daten
+
+               entwicklung leistungsdaten
+
+                          energiemanagement                                          2003/04             2004/05              2005/06
+
+                          energieverkauf wärme                                            247.893             246.199               275.204
+
+                          energieverkauf kälte                                              2.629                3.673                4.031
+
+                          facility management
+
+                          betreute m2                                                    1.726.714           2.286.527            2.393.593
+
+
+
+               das jahr 2004/05 war im vergleich zum vorhergehenden wirt-             neu in betrieb genommenen anlagen eine verringerung der
+               schaftsjahr durch einen höheren temperaturverlauf gekenn-              gesamtmenge nach sich.
+               zeichnet. er zog trotz der erhöhung der verkauften mwh der
+
+
+
+
+               entwicklung umsatzerlöse
+
+                          in mio. eur                                                2003/04             2004/05              2005/06
+                          energieverkauf                                                       16,2                19,1                 21,7
+                          facility management                                                   5,9                8,3                  10,1
+                          sonstige                                                              7,4                4,0                  3,2
+                          umsatzerlöse                                                         29,5               31,4                 35,0
+
+
+
+               die umsatzerlöse zeigen die dynamische entwicklung des un-             darüber hinaus ergaben die jahresabrechnungen für das jahr
+               ternehmens auf. sowohl im bereich energieverkauf als auch              2004 einen höheren wert als durch abgrenzungen berücksich-
+               im facility management konnten hohe zuwachsraten lukriert              tigt wurde. die restliche positive abweichung resultiert aus der
+               werden.                                                                veränderung der preisindizes und energieerlösen aus neuanla-
+               die umsatzerlöse aus dem energieverkauf sind gegenüber dem             gen.
+               vorjahr wesentlich gestiegen. zurückzuführen ist dies vornehm-
+               lich auf anlagen im privatkundenbereich, deren verrechnung
+               mit beginn 2005 von energiecomfort übernommen wurde
+               und deren energie- und kaltwassereinsätze weiterverrechnet
+               werden. das erlösvolumen dieser objekte lag im abgelaufenen
+               wirtschaftsjahr bei rund teur 1.730.
+
+
+
+
+                                                                                                                „nachhaltig
+                                                                                                                handeln heißt,
+                                                                                                                voneinander zu
+                                                                                                                proﬁtieren.“
+
+
+
+
+                                                                                17
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs17 17                                                                                                                    19.06.2007 17:47:28 uhr
+
+                                                         umwelt
+
+
+
+
+                                        entlastung
+
+
+                                          mit dem, was
+                                            wir haben,
+                                            sorgfältig
+                                             umgehen
+
+
+
+
+                                                18
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs18 18                        19.06.2007 17:47:33 uhr
+
+                                                                                                                                                   umwelt
+
+
+
+
+                                                                                                                          grundsätze
+
+               der sparsame und nachhaltige umgang mit den natürlichen              das ausmaß der coz-emissionen unserer anlagen halten
+               ressourcen energie, luft, wasser und boden ist einer unserer         wir so gering wie möglich, um den möglichen gefahren des
+               kernkompetenzen als energiemanagement-unternehmen.                   klimawandels entgegenzuwirken und so zur erreichung der
+                                                                                    kyoto-ziele beizutragen.
+               umweltbelastungen präventiv zu vermeiden anstatt teure
+               und ungenügende folgenbeseitigung zu betreiben hat dabei
+               höchste priorität.
+
+
+
+
+                                                                                          ökologische strukturen
+               als energiemanagement-unternehmen entfaltet energie-                 zur erreichung der kyoto-ziele beizutragen ist uns ein wich-
+               comfort die geschäftstätigkeit in einem besonders sensiblen          tiges anliegen. daher versuchen wir unsere anlagen vor-
+               bereich. dies bedeutet nicht allein ein hohes maß an verant-         zugsweise mit co2-neutralen brennstoffen zu betreiben und
+               wortung, sondern auch die möglichkeit, relevante zukunfts-           möglichst hohe wirkungsgrade unserer energiezentralen zu
+               faktoren bewusst mit zu gestalten. dazu zählt:                       erzielen. so werden die dabei entstehenden umweltbelastun-
+                                                                                    gen auf ein minimum reduziert.
+                    einsatz erneuerbarer energieträger.
+                    efﬁzienter energieeinsatz in anlagen.                           indirekte umweltbelastungen, die bei unseren kunden und
+                    sparsamer umgang mit ressourcen.                                lieferanten entstehen, können von uns nur teilweise beein-
+                    minimierung bzw. vermeidung von emissionen.                     ﬂusst werden. sie entstehen durch die von uns betreuten
+                    minimierung bzw. vermeidung von abfällen im büro-               anlagen in beiden geschäftbereichen – sowohl im energiema-
+                    und anlagenbetrieb.                                             nagement als auch im facility management. diese belas-
+                    bewusstseinsbildung im eigenen haus wie bei kunden.             tungen können wir in enger zusammenarbeit mit unseren
+                                                                                    kunden durch efﬁzienten anlagenbetrieb und beratung positiv
+               die für unsere geschäftstätigkeiten eingesetzten anlagen             beeinﬂussen. dadurch erreichen wir beispielsweise einen ge-
+               und deren auswirkungen auf die umwelt werden kontinuier-             ringeren wasser- und stromverbrauch (siehe referenzbeispiel
+               lich nach diesen und weiteren gesichtspunkten geprüft und            enthärtungsanlage schillerpark). weiters versuchen wir durch
+               optimiert.                                                           strenge kriterien bei der lieferantenauswahl umweltbelastun-
+                                                                                    gen positiv zu beeinﬂussen.
+               vermeidung direkter und indirekter
+               umweltbelastungen
+               durch uns selbst verursachte emissionen wie abfälle, abwäs-
+               ser, etc. entstehen vor allem durch bürobetrieb, fuhrpark und
+               betrieb unserer energieerzeugungsanlagen. die daten der
+               durch den fuhrpark verursachten belastungen wie treibstoff-
+               verbrauch und gefahrene kilometer werden erhoben und
+               zur zeit validiert. für den wiener raum wird der einsatz von
+               erdgas betriebenen autos geprüft.
+
+               ergeben sich daraus ökologische und ökonomische vorteile,
+               werden wir schrittweise auf diese efﬁzientere technologie                                                  „nachhaltig handeln heißt,
+               umsteigen.                                                                                              seine ängste zu überwinden.“
+
+
+
+
+                                                                               19
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs19 19                                                                                                                19.06.2007 17:47:36 uhr
+
+               umwelt
+
+
+
+
+               herausforderungen und lösungen
+
+                        entwicklung der umweltsituation                                      energieerzeugung
+                        der kontinuierlich steigende energiebedarf weltweit und              mittels verstärktem einsatz erneuerbarer energieträger
+                        die damit verbundenen emissionen haben negative auswir-              (vorwiegend feste biomasse) produziert energiecomfort
+                        kungen auf umwelt und klima. aus diesem grund sehen wir              energie weitgehend co2-aufkommensneutral.
+                        uns verpﬂichtet, energie so efﬁzient und „sauber“ wie möglich        der wald dient der umwelt als kohlenstoffsenke, d.h. das
+                        einzusetzen. so steht energiecomfort für punktgenaue                 durch den verbrennungsprozess entstehende co2 wird durch
+                        lösungen und maßnahmen in einem breiten bereich: von                 wiederaufforstungsmaßnahmen und verstärkte waldpﬂege
+                        energieerzeugung, -verteilung und -einsparungen über ver-            wieder kompensiert.
+                        meidung von emissionen aller art bis zur bewusstseinsbildung
+                        im eigenen haus wie bei auftraggebern. konkrete tätigkeiten          energieträger
+                        in diesen bereichen und deren auswirkungen auf die umwelt            die vorwiegend bei energieanlagen von energiecomfort
+                        werden nachfolgend anhand von referenzprojekten veran-               eingesetzten energien sind erdgas und feste biomasse. viele
+                        schaulicht.                                                          alte wärmeerzeugungsanlagen wurden adaptiert. es erfolgte
+                                                                                             eine umrüstung von heizöl auf gas oder auf kombinierte
+                                                                                             energieversorgung mit alternativen energien wie geother-
+                          österreichische piaristenordensprovinz. e 6.500,–                  mie, industrieabwärme oder solarenergie. so konnten bereits
+                          energiekosteneinsparung jährlich.                                  große mengen co2 eingespart und die efﬁzienz der anlagen
+                                                                                             erheblich gesteigert werden.
+                          eine schon lange jahre in betrieb stehende heizungsanlage
+                          für volkschule, wohnungen, speisesäle und sakrale be-
+                          reiche musste aufgrund defekter regelung und zahlreicher            solaranlage tiergarten schönbrunn/elefantenhaus.
+                          leckagen saniert werden. energiecomfort führte eine
+                          ist-analyse durch, übernahm die betriebsführung der                 warmes wasser, wie es die elefanten zum baden benöti-
+                          anlage und setzte unter anderen folgende einspar- und               gen, wird in afrika durch sonneneinstrahlung erzeugt. als
+                          verbesserungsmaßnahmen:                                             umweltbewusstes energie-dienstleistungsunternehmen
+                                                                                              hat energiecomfort schon 1999 im rahmen eines con-
+                              erneuerung aller heizungstechnischen, schaltschrank-            tracting-modells auf dem dach des elefantenhauses eine
+                              und regelungstechnischen sowie elektrotechnischen               umweltfreundliche solaranlage mit 200 m2 sonnenkollek-
+                              komponenten in der wärmeverteil- und warmwasser-                toren installiert, die 2005 durch generalsanierung auf den
+                              zentrale.                                                       neuesten stand der technik gebracht wurde. seitdem liegt
+                              setzen von einzelraum-funkreglern in den klassen und            der speziﬁsche solarertrag bezogen auf die brutto- kollek-
+                              im turnsaal.                                                    torfeldﬂäche bei sehr guten 500 kwh/m2 pro jahr und es
+                              aufschalten der heizungsregelung auf energie-                   können jährlich 8.000 m3 erdgas und etwa 15 tonnen co2
+                              comfort- leitzentrale mit ferneingriffsmöglichkeit              eingespart werden.
+                              und automatischer störmeldung.                                  die dickhäuter geben sich seither wohltemperierten bade-
+                                                                                              freuden hin, für die immerhin 150.000 liter warmwasser
+                          durch diese arbeiten wurden nicht nur die energiekosten             (25° c) pro woche benötigt werden.
+                          unter einhaltung der vertraglich ﬁxierten komfortstan-
+                          dards (öiss-richtlinie) um d 6.500,–, sondern auch die             (siehe graﬁk s. 25)
+                          umweltbelastung auf einen vertraglich garantierten wert
+                          gesenkt.
+
+                        (siehe graﬁk s. 24)
+
+
+
+
+                                                                                        20
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs20 20                                                                                                                19.06.2007 17:47:37 uhr
+
+                                                                                                                                                  umwelt
+
+
+
+
+               energietransport und verteilnetze                                     tunnelthermie. anerkennungspreis „energieproﬁ 2004“.
+               bei der errichtung von verteilnetzen achten wir darauf, die
+               kürzesten wege zu wählen und die leitungen gut zu dämmen.             in der sportmittelschule wien-hadersdorf nahm energie-
+               dadurch vermeiden wir einerseits unnötigen materialbedarf             comfort 2004 die geothermieanlage „tunnelthermie“ in
+               und halten andererseits leitungsverluste gering.                      betrieb, welche erdwärme aus dem lainzer tunnel zum hei-
+                                                                                     zen und zur warmwasserbereitung der schule nutzt. dabei
+                                                                                     werden in die tunnelwände rohrleitungen
+                 stadheizung schwechat. 4.800 tonnen co2-einsparung im jahr.         eingezogen und als absorber verwendet. die gewonnene
+                                                                                     wärmemenge wird mittels wärmepumpe auf eine nut-
+                 1985 wurde ausgehend vom omv-gelände eine fernwär-                  zungstemperatur von 45° c gebracht.
+                 meleitung nach simmering errichtet.                                 durch die nutzung der tunnelthermie konnten etwa
+                 die stadtgemeinde schwechat entschloss sich zur nutzung             35.000 m3 erdgas eingespart werden. die jährlichen
+                 von fernwärme.                                                      emissionen an co2 verringerten sich um etwa 30 tonnen.
+                 in die erste phase waren 16 objekte mit 6,6 mw anschluss-           reduziert ist auch die emittierte menge „konventioneller“
+                 leistung miteinbezogen. mittlerweile wurde die trasse um            luftschadstoffe wie nox oder co. dieses kooperations-
+                 das vierfache ausgebaut, und energiecomfort versorgt                projekt von energiecomfort, hl-ag, schig und der stadt
+                 mit einer möglichen anschlussleistung von 33 mw über                wien erhielt einen anerkennungspreis im rahmen des
+                 ein netz von 18,5 kilometern länge 25 öffentliche gebäude,          wettbewerbs „energieproﬁ 2004“.
+                 18 wohnhausanlagen mit etwa 900 wohnungen, zahl-
+                 reiche gewerbebetriebe, ein- und mehr-familienhäuser
+                 mit „sauberer“ wärme. ein teil der wärmeenergie für die            energie-contracting
+                 stadtheizung wird aus täglich anfallender industrieab-             eine weitere von energiecomfort angebotene dienst-
+                 wärme gewonnen, die ansonsten ungenutzt in die luft                leistung. durch verbesserung der anlagenefﬁzienz trägt sie
+                 entweichen würde.                                                  dazu bei, energieverbrauch und emissionen zu senken und so
+                 so konnten in den jahren von 1985 bis 2005 die emissionen          kosten zu sparen.
+                 von kohlendioxid um mehr als 50.000 tonnen gesenkt
+                 werden.                                                             bundesschulen und zentrallehranstalten in wien. auszeich-
+                 derzeit werden etwa 4.800 tonnen pro jahr eingespart.               nung mit dem contractingpreis der ögut.
+
+
+               (siehe graﬁk s. 25)                                                   die bundesimmobiliengesellschaft hat für zwei pools zu je
+                                                                                     23 wiener bundesschulen ein contractingmodell installiert.
+               energieeinsparungen                                                   nach einem eu-weiten zweistuﬁgen verhandlungsverfah-
+               energieeinsparungen erreichen wir einerseits durch den ein-           ren wurde die bietergemeinschaft energiecomfort/sie-
+               satz modernster technik wie beispielsweise brennwertkessel            mens mit einer einspargarantie von 21,1 % für einen der
+               und andererseits durch eine optimal abgestimmte anlagen-              beiden pools beauftragt. energiecomfort betreut über
+               peripherie.                                                           einen zeitraum von 10 jahren 18 wiener schulen – vorläu-
+                                                                                     ﬁg bis 2008.
+               geothermie                                                            mit einer einsparung von 21,9 % der energiekosten wurde
+               die nutzung regenerativer energien wie erdwärme ist ein               der europarekord bei immobilienpools der öffentlichen
+               weiterer beitrag zur emissionsvermeidung.                             hand erreicht. für die erfolge bei der nutzermotivation
+               dabei nimmt energiecomfort eine vorreiterrolle ein.                   wurde die bietergemeinschaft mit dem contractingpreis
+               bei der entwicklung einer speziellen form der nutzung von             der österreichischen gesellschaft für umwelt und technik
+               erd- und abwärme in tunnelbauwerken war energiecom-                   (ögut) ausgezeichnet. energiecomfort konnte bisher
+               fort maßgeblich mitbeteiligt.                                         eine durchschnittliche einsparquote von etwa
+                                                                                     22 % und einen spitzenwert von 24,8 % erreichen.
+
+                                                                                    (siehe graﬁk s. 24)
+
+
+
+
+                                                                               21
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs21 21                                                                                                               19.06.2007 17:47:38 uhr
+
+               umwelt
+
+
+
+
+                        emissionen                                                            enthärtungsanlage hotel schillerpark linz. betriebskosten-
+                        bei allen energiecomfort-anlagen werden die gesetzlich                einsparung durch entlastung der umwelt.
+                        vorgeschriebenen abgasmessungen regelmäßig durchge-
+                        führt. genauso werden regelmäßig wartungsarbeiten an den              die enthärtungsanlage wird seit mai 2003 betreut. es
+                        anlagen durchgeführt, um den bestmöglichen ökologischen               werden regelmäßige messungen der wasserqualität bzw.
+                        betriebszustand zu gewährleisten. liegen bei einer anlage             der härtegrade vorgenommen. die auswertungen ergaben
+                        die emissionen über den erlaubten grenzwerten, werden die             einen deutlich erhöhten salzverbrauch. einzelne faktoren
+                        erforderlichen und notwendigen maßnahmen ergriffen. bei               zu den einstellungen wurden daraufhin validiert und den
+                        neuen anlagen wird im zuge der wartungstätigkeiten die                erfordernissen angepasst.
+                        einhaltung der erlaubten grenzwerte wieder sichergestellt.            so konnte die solemenge – maßgeblich für die regenerati-
+                        bei alten anlagen durch kessel- oder brennertausch.                   on der harzsäulen – um ca. 40% reduziert werden. die von
+                                                                                              2003 bis 2005 eingesparten salzmengen (9500kg) kamen
+                        abfälle, abwasser                                                     dem hotel schillerpark linz, zusätzlich zu den positiven
+                        im rahmen unseres abfallmanagements sind die vorgaben                 umweltaspekten, in form verminderter betriebskosten voll
+                        für den umgang und deren erforderliche dokumentation                  zu gute.
+                        festgesetzt.
+                        die sammlung und entsorgung des abfalls am bürostandort
+                        wien (vorwiegend papier und restmüll) erfolgt getrennt und
+                        wird mengenmäßig erfasst.
+
+                        bei den von energiecomfort betriebenen biomasseheizwer-
+                        ken fallen erhebliche mengen an asche an. bei der entsorgung
+                        dieser abfälle bedienen wir uns regionaler entsorger, um lange
+                        transportwege zu vermeiden. abhängig von den jeweiligen
+                        landesrechtlichen vorschriften wird die asche deponiert sowie
+                        der anfallende kondensatschlamm einer thermischen verwer-
+                        tung zugeführt.
+
+                        die nicht haushaltsähnlichen abwässer werden – nach
+                        behandlung – im rahmen der indirekteinleiterverordnung in
+                        das jeweilig zur verfügung gestellte abwassernetz eingeleitet.
+                        eine quantitative erfassung dieser abwässer erfolgt durch
+                        abwasserzähler, die in regelmäßigen intervallen von den
+                        betriebsführern vor ort ausgelesen werden.
+                        die qualitative bewertung erfolgt anhand der regelmäßig
+                        durchgeführten chemischen analysen.
+                        das wasser zur befüllung und eventuell zur nachspeisung
+                        des verteilnetzes wird der örtlichen wasserversorgung ent-
+                        nommen.
+
+
+
+
+                                                                                                              „nachhaltig handeln heißt,
+                                                                                                              das glück nicht zu suchen,
+                                                                                                              sondern zu erkennen.“
+
+
+
+
+                                                                                         22
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs22 22                                                                                                               19.06.2007 17:47:39 uhr
+
+                                                                                                                                           umwelt
+
+
+
+
+               umweltschutz in der versorgungskette                                 bürgermeisterbefragung über nutzung eneuerbarer
+               unsere unternehmensentwicklung steht in direktem dialog              energien.
+               mit unserem umfeld. um umweltbelastungen möglichst                   kostenlose ist-analysen und machbarkeitsstudien
+               gering zu halten, arbeiten wir kooperativ mit den zuständigen        für gemeinden.
+               behörden zusammen. in weiterer konsequenz stellen wir an             informationstage.
+               unsere lieferanten und kooperationspartner verstärkt ansprü-         beistellung von informationsmaterial für projektarbeiten
+               che, gleich hohe umweltstandards anzuwenden wie wir.                 (medienkoffer).
+                                                                                    informelle und monetäre unterstützung von
+               bewusstseinsbildung bei kunden und mitarbeitern.                     projektarbeiten zum thema energie und umwelt.
+               nicht zuletzt durch unsere kompetenten mitarbeiter und de-           unterstützung von schulen bei kleinen sanierungs-
+               ren hervorragendes know-how ist in unserem unternehmen               arbeiten durch fachpersonal-beistellung im
+               ein geschärftes bewusstsein im nachhaltigen umgang mit der           haustechnikbereich.
+               umwelt vorhanden. dieses wissen nicht nur täglich umzuset-           sponsoring und teilnahme an umwelt-tagungen und
+               zen, sondern auch über mannigfaltige kanäle weiterzugeben,           konferenzen mit schwerpunkt erneuerbare energien.
+               ist uns ein wichtiges anliegen. so setzt energiecomfort              erarbeitung spezieller biomasse-broschüren und biomasse-
+               beispielsweise maßnahmen im bereich nutzermotivation und             präsentationsﬁlm.
+               public relations:                                                    kreation eines energiecomfort-biomasse-logos.
+                                                                                    workshops für kommunale politiker: energiefﬁzienz
+                                                                                    durch erneuerbare energien.
+                                                                                    besichtigungen und tag der offenen tür von
+                                                                                    energiecomfort-biomasse-heizwerken.
+                                                                                    periodische kundenzufriedenheitsanalysen.
+                                                                                    periodische mitarbeiterbefragung.
+
+
+
+
+                                „nachhaltig handeln heißt,
+                             gemeinsam visionen zu entwickeln.“
+
+
+
+
+                                                                               23
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs23 23                                                                                                          19.06.2007 17:47:46 uhr
+
+               umwelt
+
+
+
+
+               leistungen und daten
+
+                        gesamtanzahl aller von energiecomfort betriebenen                         energie- und emissionseinsparungen durch
+                        wärmeerzeugungsanlagen : 315                                              anlagenoptimierung
+                        energiecomfort stellt jährlich etwa 15 bis 20 anlagen
+                        auf neue, efﬁzientere technologien um und erreicht damit                    objekte                                                23 gebäude
+                        z.b. durch wärmerückgewinnung maximale efﬁzienz und                         endenergieeinsparung/jahr                                7.550 mwh
+                        optimale wirkungsgrade.                                                     energieträger                                  öl ,gas, fernwärme
+                                                                                                    emissionseinsparung/jahr
+                                                                                                      so2, nox, staub, etc.                                    ca. 4.200 kg
+                                                                                                      co2                                               ca. 1.600 tonnen*
+
+                                                                                                  * entspricht einem co2-ausstoß von 120 erdumrundungen mit
+                                                                                                    einem mittelklassewagen (4.800.000km).
+                        energiecomfort steigert einsatz erneuerbarer energien
+
+
+                                              03/04                                         04/05                                                  05/06
+
+                                        14%                                          20%                                                  23%
+
+
+                              11%
+
+                                                                            10%
+                                                                                                                                   8%
+
+
+
+                                                                  75%                                         70%                                                     69%
+
+
+
+                                gasanlagen            ölanlagen                gasanlagen         ölanlagen                         gasanlagen            ölanlagen
+
+                                biomasseanlagen                                biomasseanlagen                                      biomasseanlagen
+
+
+                        prozentuelle aufteilung der mengenentwicklung je energieträger in abhängigkeit der von energiecomfort erzeugten gesamt-
+                        wärmemenge.
+
+                                                                                                  reduktion von heizöl durch einsatz von biomasse pro
+                               350.000                                                            projekt und jahr
+                               300.000
+                                                                                                        2.000.000,00
+                               250.000
+
+                               200.000                                      heizöl                       1.500.000,00
+                               150.000                                      gas
+                                                                                                         1.000.000,00
+                               100.000                                      fernwärme                                                                           bad aussee
+
+                                50.000                                      biomasse                      500.000,00                                            tannheim
+
+                                        0                                                                                                                       purkersdorf
+                                                                                                                    0,00
+                                              03/04      04/06      05/06                                                  03/04        04/05   04/05
+                                                       wirtschaftsjahr                                                     mwh hel in l umgerechnet
+
+                                                                                                                               hel=heizöl leicht
+                        mengenentwicklung je energieträger in abhängigkeit der
+                        von energiecomfort an den endkunden verkaufte gesamt-
+                        wärmemenge. (solar- und geothermie sind der geringen
+                        mengen wegen nicht darstellbar).
+
+
+
+
+                                                                                             24
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs24 24                                                                                                                                       19.06.2007 17:47:47 uhr
+
+                                                                                                                                                                 umwelt
+
+
+
+
+               verlegte trassenlängen und anschlussdichte – stadtheizung schwechat
+
+                                                                einheit                   03/04                    04/05                         05/06
+                 eingespeiste wärmemenge                        mwh                        51.871,92               52.944,27                     51.337,036
+                 verkaufte wärmemenge                           mwh                        45.846,61               46.291,94                    49.927,569
+                 gesamtanschlusswerte                            mw                            37,89                    38,178                      39,644
+                 anschlussdichte                               kw/trm                           2,12                     2,05                         2,06
+                 kunden                                         anzahl                            118                      119                           131
+                 trassenlänge                                    trm                       17.913,00               18.613,00                      19.213,00
+
+
+
+
+               solaranlage tiergarten schönbrunn / elefantenhaus                          gesamtmenge abfall bei energiecomfort
+
+                  solaranlage elefantenhaus schönbrunn                                     nicht gefährliche abfälle
+                  kollektorﬂäche                                          188,1 m2         altpapier (kommunale sammlung)                    68.708,64 l/jahr
+                  warmwasserverbrauch 25°c               6.000-10.000 m3 / jahr            restmüll (kommunale sammlung)                        245.388 l/jahr
+                  jährlicher solarertrag                         95 mwh / jahr                                                        2004          2005         2006
+                  speziﬁscher solarertrag              500 kwh/m2 brutto / jahr            asche aus biomasseheizwerken              319,52 t      589,28 t      320,8 t
+                  emissionseinsparung co2                       15 tonnen / jahr           gefährliche abfälle
+                                                                                           gefährliche abfälle / jahr                           650 kg / jahr
+
+               abwassermenge repräsentativ aus dem
+               biomasseheizwerk tannheim
+
+                       2004                 2005                1. halbjahr 2006                                                    „nachhaltig handeln
+                                                                                                                                 heißt, seine umgebung
+                      1590 m  3
+                                            802 m  3
+                                                                    1389 m   3
+                                                                                                                                   immer wieder neu zu
+                                                                                                                                             entdecken.“
+               aufgrund regelungstechnischer schwierigkeiten des bio-
+               masseheizkessels in tannheim/tirol musste im jahr 2005
+               vermehrt der ölkessel, der auch als ausfallsreserve dient, in
+               betrieb genommen werden, um die versorgungssicherheit
+               zu gewährleisten.
+               dies erklärt den erheblichen unterschied der kondensatmen-
+               ge von 2004 auf 2005. im laufe des jahres 2005 konnten diese
+               schwierigkeiten gelöst werden, was an den zahlen für 2006
+               sichtbar wird.
+
+
+
+
+                                                                                     25
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs25 25                                                                                                                               19.06.2007 17:47:49 uhr
+
+                                                        menschen
+
+
+
+
+                                        entfaltung
+                                        entfaltung
+
+
+                                           mit allem,
+                                         was wir tun,
+                                            einander
+                                        unterstützen
+
+
+
+
+                                               26
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs26 26                         19.06.2007 17:47:55 uhr
+
+                                                                                                                                               menschen
+
+
+
+
+                                                                                                                           grundsätze
+
+               unsere mitarbeiter und unsere kunden betrachten wir als un-           klare kommunikation nach innen wie nach außen, verläss-
+               sere partner. auf deren bedürfnisse einzugehen und langfristig        lichkeit, korrektheit und kompetenz im umgang miteinander
+               perspektiven zu schaffen ist dabei von essentieller bedeutung.        sind unsere werte. damit wollen wir nachhaltig arbeits- und
+                                                                                     lebensqualität schaffen.
+
+
+
+
+                                                                                                         soziale strukturen
+               unsere 123 mitarbeiter sind an unseren firmenstandorten               unser potenzial sind unsere kunden
+               wien oder linz sowie an den außenstellen in wien und den              als energie-dienstleistungsunternehmen steht energiecom-
+               bundesländern beschäftigt. die damit verbundene “verstreu-            fort für langfristig konstruktive zusammenarbeit und sieht
+               ung“ der mitarbeiter versuchen wir durch eine unternehmens-           sich weniger als lieferant denn als kooperationspartner. der
+               kultur, die das hauptaugenmerk auf kommunikation legt, zu             claim „alles aus einer hand“ ist für uns als komplettanbieter
+               kompensieren. wir nützen vielfältige kommunikationsstruk-             gelebte realität. wir bieten unseren kunden:
+               turen. reglementierte, periodische jour ﬁxes genauso wie
+               frei zu gestaltende. offene türen, kaffeeküchen, gemeinsame               speziell auf die bedürfnisse abgestimmte angebote.
+               mittagspausen bieten chancen zum informationsaustausch,                   erfüllung der angebotenen leistungen zur höchsten
+               aber auch zur konﬂiktbewältigung.                                         zufriedenheit.
+               altbewährtes wird ergänzt durch neue medien: die einrich-                 hohe, individuell abgestimmte produkt- und dienst-
+               tung eines intranets, das unseren mitarbeiter auch von zu                 leistungsqualität.
+               hause zugänglich ist, bietet sowohl der geschäftsleitung als              garantierte versorgungssicherheit.
+               auch den mitarbeitern zusätzliche möglichkeiten der kommu-
+               nikation und information.                                             strategische kunden werden periodisch in bezug auf zu
+                                                                                     erwartende dienstleistungen auf drei managementebenen
+               unsere stärke sind unsere mitarbeiter                                 persönlich befragt. periodische kundenzufriedenheitserhe-
+               die entfaltung und entwicklung unserer mitarbeiter un-                bungen geben uns zusätzlich aufschluss über die bedürfnisse
+               terstützen wir nach kräften. wir investieren in motivation,           unserer kunden.
+               ausbildung und förderung des fachlichen know-hows sowie
+               der soft-skills – und bieten:                                         gelebte partnerschaft durch klare kommunikation
+                                                                                     planen wir in einer gemeinde ein neues projekt, zum beispiel
+                    sichere arbeitsplätze zur befriedigung der grund-                ein ortswärmenetz aus biomasse, so ist es für uns selbstver-
+                    bedürfnisse.                                                     ständlich, anrainer und bewohner in den prozess einzubinden.
+                    rücksicht auf das private umfeld – vereinbarkeit von             alle wichtigen planungsschritte werden mit den gemeinden
+                    arbeit, familie und freundeskreis.                               abgestimmt. darüber hinaus versuchen wir auch die wert-
+                    entwicklungsmöglichkeiten für alle.                              schöpfung in der region zu steigern, indem wir verstärkt mit
+                    zukunftsvorsorge.                                                regionalen unternehmen kooperieren. das trägt zur sicherung
+                    nutzung des erfahrungspotentials älterer mitarbeiter.            von arbeitsplätzen in diesen gebieten bei.
+
+
+
+
+                                                                                27
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs27 27                                                                                                                19.06.2007 17:47:56 uhr
+
+               menschen
+
+
+
+
+               herausforderungen und lösungen
+
+                      in zeiten, in denen viele unternehmen vermehrt mittels                personalmanagement
+                      personalabbau einsparen müssen, freuen wir uns, dass wir seit         die zentrale organisation der personellen verwaltungs-
+                      unserem bestehen als eigenständiges unternehmen kontinu-              agenden werden bei energiecomfort von der gruppe
+                      ierlich auf über 120 mitarbeiter angewachsen sind und somit           human ressource aus dem geschäftsbereich personal und
+                      einen wesentlichen teil zur arbeitsplatzschaffung beigetragen         recht durchgeführt. die personalverantwortung selbst liegt
+                      haben. von den fünf mitarbeitern, die den beginn im jahre             im verantwortungsbereich der jeweiligen unmittelbaren
+                      1995 mitgestaltet haben, feierten 2005 vier ihr                       führungskraft.
+                      10-jähriges firmenjubiläum!
+                                                                                            wir setzen auf ﬂexible arbeitszeiten, die unseren mitarbeitern
+                      personalentwicklung und -förderung                                    – selbstverständlich unter berücksichtung der betrieblichen
+                                                                                            erfordernisse – erlauben sollen, ihre arbeitszeit selbst einzutei-
+                      mitarbeiter                                                           len. gemeinsam mit der arbeitnehmervertretung wurde ein
+                      energiecomfort sieht großes potenzial in der förderung der            neues gleitzeitmodell ausgearbeitet, das sich schon bald nach
+                      weiterentwicklung der mitarbeiter. deshalb wird jährlich ein          einführung bewährt hat.
+                      spezielles budget eingeplant, das ausschließlich für schu-
+                      lungen und weiterbildung zur verfügung steht.                         gesundheit, sicherheit und vorsorge
+                      wir legen unser augenmerk auch auf das erkennen und die               nur gesunde mitarbeiter ermöglichen auch ein wirtschaftlich
+                      förderung sogenannter „high potentials“. in zusammenarbeit            gesundes unternehmen. dem tragen wir mit regelmäßigen
+                      mit einem externen berater konnten sich mitarbeiter einer             besuchen unserer arbeitsmedizinerin, gratis-impfaktionen,
+                      entsprechenden analyse unterziehen, um ihre potenziale                gesundenuntersuchungen sowie fachärztlichen untersu-
+                      selbst zu erkennen. mit ihrem einverständnis wurden die               chungen sorge.
+                      ergebnisse auch mit dem arbeitgeber diskutiert und maßnah-            für sicherheit am arbeitsplatz sorgen wir unter anderem
+                      men vereinbart.                                                       durch systematische schulungen der mitarbeiter. im bedarfs-
+                                                                                            fall werden auch spezialschulungen z.b. höhentauglichkeits-
+                      lehrlinge                                                             seminare, etc. absolviert.
+                      heute ist es mehr denn je wichtig, jungen menschen chancen            die zahlen sprechen dabei für sich. es gab keinen arbeitsunfall
+                      zu bieten: sie sollen durch arbeit eine lebensgrundlage erhal-        im berichtszeitraum 2005 bis 2006, mit ausnahme eines un-
+                      ten und darüber hinaus generell lebenssinn erfahren.                  falls, der sich bei der fahrt zum dienstort ereignete. auch die
+                      wir haben daher entschieden, uns auch in der lehrlingsausbil-         möglichkeit, altersteilzeit zu konsumieren, wird gelebt.
+                      dung zu engagieren.
+                      so erhalten wir die möglichkeit, auch in zukunft von kompe-           schwerpunkt betriebsklima
+                      tenten mitarbeitern zu proﬁtieren.                                    ein positives betriebsklima fördert konstruktive beziehungen
+                                                                                            nach innen und außen. genauso schafft die identiﬁkation mit
+                                                                                            dem unternehmen lebensqualität ebenso wie qualität für
+                                                                                            unsere kunden. in diesem bewusstsein bieten wir unseren
+                                                                                            mitarbeitern unter anderem:
+
+                                                                                                verschiedene interne veranstaltungen
+                                                                                                (traditionelle weihnachtsfeier, diverse geburtstagsfeiern,
+                                                                                                jubiläumsfeiern, betriebsausﬂüge, usw.).
+                                                                                                gewährung von zusätzlichen prämien im zuge des
+                                                                                                betrieblichen verbesserungswesens.
+
+
+
+
+                             „nachhaltig handeln heißt,
+                             vertrauen zu schaffen.“
+
+
+
+
+                                                                                       28
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs28 28                                                                                                                     19.06.2007 17:47:59 uhr
+
+                                                                                                                                                menschen
+
+
+
+
+               notwendige veränderungen, auch im arbeitssozialen bereich,            allerdings hat hinsichtlich einiger themen seit 2003 eine
+               werden verantwortungsvoll und konstruktiv in zusammenar-              trendumkehr stattgefunden, auf die schnell reagiert wurde.
+               beit mit dem betriebsrat durchgeführt. die abhaltung monat-           im rahmen einer veranstaltung hat die geschäftsführung
+               licher betriebsrat-jour ﬁxes ergänzt diesen dialog regelmäßig.        alle mitarbeiter über die ergebnisse der befragung informiert,
+                                                                                     maßnahmen angekündigt und die ersten davon bereits
+               mitarbeiterzufriedenheit                                              gesetzt:
+               energiecomfort lässt alle zwei jahre von einem externen,
+               unabhängigen institut die mitarbeiterzufriedenheit erheben.                 organisation eines internen workshops für das führen
+               die jüngste befragung im mai 2005 hat gezeigt, dass der                     von personalgesprächen.
+               überwiegende teil unserer mitarbeiter sehr zufrieden oder                   schnupperstunden in anderen abteilungen, um bereichs-
+               zufrieden ist.                                                              übergreifend information und verständnis zu fördern.
+                                                                                           interne workshops über kaufmännische grundlagen und
+                                                                                           db-rechnung.
+
+
+
+
+                                                                                                leistungen und daten
+               die entwicklung der vergangen jahre zeigt folgendes bild :
+
+                          jahr                               zugänge             abgänge            mitarbeiterstand        lehrlinge
+                          2003/2004                               31                  13                   115                  0
+                          2004/2005                               18                  10                  123                   0
+                          2005/5006                               15                  15                  123                   1
+
+
+
+               frauenanteil in führungspositionen:                                   ausbildungskosten:
+                  oberstes management              25 %                               ausbildungskosten            03/04       04/05       05/06
+                  sonstiges management             20 %                               in % der gehaltskosten        1,9         1,1         1,3
+
+               ausbildungsstruktur:
+                  hochschulabschluss                          7
+                  fh-abschluss                                3
+                  maturanten (ahs und bhs)                   23
+                  berufsbildende mittlere schulen             7
+                  lehrabschlussprüfung                       69
+                  sonstige                                   14
+
+
+
+
+                                                                                29
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs29 29                                                                                                                 19.06.2007 17:47:59 uhr
+
+                                                             internationalisierung
+
+                        nachhaltigkeit über die grenzen österreichs hinaus
+                        die auslandsbeteiligungen von energiecomfort zielen                   die beteiligungsunternehmen in ungarn und der slowakei
+                        darauf ab, die angebote an dienstleistungen auszubauen und            entwickelten sich auch im dargestellten geschäftsjahr positiv.
+                        mit dem kerngeschäft neue kundensegmente zu erschließen.              unternehmensergebnisse und ausschüttungen konnten um
+                        das gelang durch den kontinuierlichen know-how transfer               29% gesteigert werden. in der slowakischen tochter byt-
+                        in den bereichen controlling, vertrieb, marketing und facility        komfort wurde anfang juli 2006 ein qualitätsmanagement
+                        management. dieser erfolgreiche weg wird konsequent                   eingeführt.
+                        fortgesetzt. im mai 2006 hat energiecomfort über seine 100%-          bytkomfort ist damit das erste energieversorgungsunterneh-
+                        beteiligung c.e.u. s.r.o. von der stadtgemeinde presov weitere        men der slowakei mit iso-zertiﬁzierung.
+                        zehn prozent und somit die anteilsmehrheit am kommunalen              dadurch bürgt das unternehmen nicht nur für hohen quali-
+                        fernwärmeversorger spravbyt a.s. übernommen. in weiterer              tätsstandard, sondern nimmt darüber hinaus in der slowakei
+                        folge wurde der firmenwortlaut von spravbyt a.s. auf sprav-           eine vorreiterposition ein.
+                        bytkomfort, analog zum fernwärmeversorger bytkomfort in
+                        nové zámky, abgeändert.
+
+                                                                                                    „nachhaltig handeln
+                                                                                                    heißt, auch einmal
+                                                                                                    die perspektiven zu
+                                                                                                    wechseln.“
+
+
+
+
+                                                                                         30
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs30 30                                                                                                                  19.06.2007 17:48:01 uhr
+
+                                                                                                                      internationalisierung
+
+
+
+
+               auslandsbeteiligungen
+
+
+
+                         köszegi távhöszolgáltató kft., köszeg/ungarn:
+                         unternehmenstätigkeit:                          fernwärmeerzeugung und -verteilung
+                         stammkapital:                                   huf 27.000.000
+                         gesellschafter:                                 50% energiecomfort
+                                                                         25,37% szombathelyi távhöszolgáltató kft.
+                                                                         24,63% szombathelyi önkormányzati hákezelési kft
+                         mitarbeiter:                                    7
+                         umsatzerlöse:                                   ca. huf 100.000.000 (d 400.000)
+
+
+                         bytkomfort s.r.o., nové zamky/slowakei:
+                         unternehmenstätigkeit:                          fernwärmeerzeugung und -verteilung
+                                                                         facility management
+                                                                         hausverwaltung
+                         stammkapital:                                   skk 212.000.000
+                         gesellschafter:                                 49% energiecomfort
+                                                                         51% stadt nové zámky
+                         mitarbeiter:                                    130
+                         umsatzerlöse:                                   ca. skk 326.000.000 (d 10 mio)
+
+
+                         c.e.u. s.r.o.
+                         unternehmenstätigkeit:                          beteiligungsgesellschaft
+                                                                         projektierung, wartung, instandhaltung von wärme-
+                                                                         versorgungsanlagen, ingenieurtätigkeit im bauwesen
+                         stammkapital:                                   skk 600.000
+                         gesellschaftsanteil:                            100% energiecomfort
+                         mitarbeiter:                                    5
+                         umsatzerlöse:                                   ca. skk 30.000.000 (d 900.000)
+
+
+                         spravbytkofort a.s., presov./slowakei:
+                         unternehmenstätigkeit:                          fernwärmeerzeugung und -verteilung
+                                                                         hausverwaltung
+                         stammkapital:                                   skk 91.909.000
+                         gesellschaftsanteil:                            55% c.e.u.        45% stadt presov.
+                                                                                                        ˇ
+                         mitarbeiter:                                    220
+                         umsatzerlöse:                                   ca. skk 580.000.000 (d 17 mio)
+
+
+
+
+                                                                         31
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs31 31                                                                                                 19.06.2007 17:48:02 uhr
+
+                                                                                                        perspektiven
+               kurzfristiger ausblick bis ende 2007
+
+                        energiemanagement                                                   auslandsbeteiligungen
+                        im laufenden geschäftsjahr 2006/07 errichtet                        ziel ist es, die angebote an dienstleistungen horizontal auszu-
+                        energiecomfort weitere ortswärmeprojekte in österreich:             bauen und mit dem kerngeschäft neue kundensegmente zu
+                                                                                            erschließen. ein qualitätsmanagementsystem wurde schon
+                             biomasse-heizwerk samt wärmeverteilnetz für die                erfolgreich im unternehmen bytkomfort eingeführt. für
+                             gemeinde grän/ tannheimer tal/ tirol.                          die anderen auslandsbeteiligungen von energiecomfort
+                             biomasse-heizwerk samt wärmeverteilnetz für die                wurden bereits entsprechende schritte eingeleitet – so soll
+                             gemeinde seefeld in tirol.                                     neben anderen maßnahmen die wettbewerbsfähigkeit weiter
+                             in der marktgemeinde trumau wird ein biomasse-                 gestärkt werden.
+                             heizwerk samt wärmeverteilnetz errichtet.
+                             die erzeugte wärme wird auch zur trocknung von                 mitarbeiter
+                             schlamm, der beim klärbetrieb des abwasserverbandes            bei der mitarbeiterbefragung 2003 hat die „zufriedenheit
+                             entsteht, genutzt.                                             mit der tätigkeit“ einen mittelwert von 1,7 ergeben, der bei
+                             erweiterung der bestehende ortswärme in bad aussee,            der befragung 2005 auf 2 gesunken ist. unser ziel ist es,
+                             ortsteil lerchenreith.                                         eine trendumkehr bei der befragung 2007 zu erreichen.
+                             im stadtteil mannswörth der stadtgemeinde schwechat
+                             entsteht ein nahwärmenetz, das gänzlich durch abwärme
+                             von der omv-rafﬁnerie, die sonst ungenutzt in die
+                             atmosphäre entweichen würde, gespeist wird.
+
+                        facility management
+                        die konzentration liegt auf weiteren großprojekten, um
+                        langfristig ein ausgewogenes verhältnis der erlöse zwischen
+                        energie- und facility management zu erreichen.
+
+                             facility und center management für das neue fleisch-
+                             zerteilzentrum und den neuen fleischgroßmarkt „f-eins“.
+                             österreichweite betreuung von filialnetzen (ba-ca).
+
+
+
+
+                                                                                       32
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs32 32                                                                                                                 19.06.2007 17:48:03 uhr
+
+                                                                                                                                        perspektiven
+
+
+
+
+                                                              mittel- und langfristiger ausblick
+
+               für die weiteren folgejahre haben wir ökologisch bedeutsame           verdichtung des wärmeverteilnetzes der gemeinde
+               projekte in mehreren österreichischen bundesländern und               seefeld in tirol.
+               ebenso im süddeutschen raum geplant. dabei handelt es sich            errichtung eines biomasse-heizwerks mit
+               um folgende:                                                          wärmeverteilnetz im raum bayern.
+
+
+
+                                                                                  weitere schritte zu einer nachhaltigen entwicklung unseres
+                                                                                  unternehmens:
+                                        „nachhaltig handeln heißt,
+                                          geborgenheit zu geben.“
+                                                                                     steigerung unserer umsatzerlöse aus dem energieverkauf
+                                                                                     um wenigstens 12 %.
+                                                                                     steigerung des anteils der erneuerbaren energieträger im
+                                                                                     verhältnis zum gesamtenergieeinsatz auf 30 %.
+                                                                                     steigerung der umsatzerlöse im geschäftsbereich facility
+                                                                                     management um 20 %.
+                                                                                     aufbau einer fm-gruppe am ostmarkt.
+                                                                                     einführung eines umweltmanagementsystems.
+                                                                                     forcierung ökologischer lieferantenkriterien.
+
+
+
+
+                                                                             33
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs33 33                                                                                                           19.06.2007 17:48:06 uhr
+
+               impressum
+
+
+
+
+                        für den inhalt verantwortlich:
+
+                        projekt-team nachhaltigkeit           herausgeber:                     konzept & gestaltung:
+                        (alphabethisch ohne titel):              energiecomfort                   kreativ arge nachhaltigkeit
+                            alexander bauer                      energie- und gebäudemanage-
+                            kurt caspari                         ment gmbh                     fotonachweise
+                            michaela deutsch                     obere donaustraße 63              energiecomfort
+                            hermann fischer                      1020 wien                         kreativ arge nachhaltigkeit
+                            angelika frauenberger                tel: +43 1 313 17-0
+                            alfred haberl                                                      druck:
+                            martina jochmann                  www.energiecomfort.eu               druckerei lischkar & co
+                            eva petermann                     www.ortswaerme.eu                   gesellschaft mbh
+                            rudolf pfaff
+                            hartwig willfort
+
+                        ©2007 energiecomfort gmbh
+                        vorbehaltlich druck- und satzfehler
+
+
+
+
+                                                                              34
+
+
+
+
+ec-nachhaltigkeitsbericht_web_fs34 34                                                                                            19.06.2007 17:48:06 uhr
+

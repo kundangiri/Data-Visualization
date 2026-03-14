@@ -1,0 +1,1877 @@
+nachhaltigkeits -
+  bericht 2016
+
+nachhaltigkeitsthemen bei adler
+
+            inhaltsverzeichnis nachhaltigkeitsbericht 2016
+
+
+
+
+         inhaltsverzeichnis
+vorwort des vorstands .................................................................. 4
+
+geschichte und geschäftsmodell von adler .................5
+
+nachhaltigkeitsmanagement ..................................................... 7
+
+corporate governance ............................................................... 10
+
+code of conduct .............................................................................. 10
+
+die textile wertschöpfungskette von adler ................... 11
+design & produktentwicklung ................................................ 12
+
+rohstoffe und verarbeitung ..................................................... 14
+
+konfektion ............................................................................................... 17
+
+logistik ........................................................................................................ 24
+
+vertrieb ........................................................................................................ 26
+
+mitarbeiter ................................................................................................. 30
+
+gesellschaftliches engagement ............................................ 33
+
+impressum .................................................................................................. 35
+
+
+
+
+                                             3
+
+                      vorwort des vorstands nachhaltigkeitsbericht 2016
+
+
+
+
+vorwort des vorstands
+
+
+
+
+liebe leserinnen und leser,
+
+das angebot qualitativ hochwertiger textilien zu fairen preisen ist die basis für den wirtschaftlichen
+erfolg der adler gruppe. dabei legen wir großen wert darauf, eine ethisch einwandfreie balance zu
+schaffen zwischen wettbewerbsfähigen produkten und profitablem wachstum auf der einen seite
+– und der achtung vor mensch und natur auf der anderen. auch in einem schwierigen aktuellen
+marktumfeld ist es uns wichtig, an diesen grundsätzen festzuhalten. wir haben daher 2016 – auch
+wenn es kein einfaches jahr für adler und den textilmarkt insgesamt war – unsere aktivitäten im
+bereich nachhaltigkeit noch verstärkt.
+
+die textilbranche gehört aufgrund ihrer hohen relevanz und sichtbarkeit für den endverbraucher
+zweifelsfrei zu jenen wirtschaftszweigen, die in der diskussion um nachhaltiges handeln ganz beson-
+ders im fokus der öffentlichkeit stehen. die einordnung des eigenen wohlstands in einen globalen
+zusammenhang und das bewusstsein für die endlichkeit von ressourcen haben dazu geführt, dass
+produktionsprozesse stärker hinterfragt werden und von unternehmen ein höheres maß an trans-
+parenz eingefordert wird. damit einhergehend zeichnet sich ein umdenken ab: weg von linearen
+herstellungs- und verbrauchskonzepten und hin zu intelligenten, auf nachhaltigkeit ausgerichteten
+kreislauf-modellen. das schont rohstoffe und rechnet sich für kunden und unternehmen meist auch
+wirtschaftlich. adler etwa arbeitet bereits seit 2009 mit dem i:co-take back system zusammen und
+hat gerichtlich durchgesetzt, gebrauchte textilien im sinne der produktverantwortung auch ohne
+rücksicht auf den ursprünglichen händler zurücknehmen zu dürfen.
+
+die adler gruppe konzentriert ihre nachhaltigkeitsaktivitäten auf bereiche, die sich aus dem
+gesellschaftlichen diskurs mit interessengruppen und aus der spezifischen verantwortung eines
+textileinzelhändlers ergeben. in dem vorliegenden report berichten wir ausführlich darüber, welche
+handlungsschwerpunkte wir definiert haben und wie weit einzelne maßnahmen bereits umgesetzt
+wurden. dabei wollen wir uns nicht mit dem status quo zufrieden geben; wir verstehen nachhal-
+tigkeit als kontinuierlichen prozess, um den nutzen aller akteure entlang der wertschöpfungskette
+zu optimieren und die ökologischen auswirkungen unserer geschäftstätigkeit auf ein minimum zu
+begrenzen.
+
+dieser bericht soll keine kommunikative einbahnstraße sein. er ist unsere einladung an sie, mit uns in
+den dialog zu treten und ihre gedanken zum thema nachhaltigkeit mit uns zu teilen.
+
+eine anregende lektüre wünscht ihnen
+
+ihr
+
+lothar schäfer
+
+
+
+
+                                                  4
+
+             geschichte und geschäftsmodell von adler nachhaltigkeitsbericht 2016
+
+
+
+
+geschichte und geschäftsmodell von adler
+
+ 1948                gründung des unternehmens durch wolfgang adler in annaberg (sachsen)
+
+                     eröffnung des ersten modemarktes am neuen unternehmenssitz in haibach
+ 1970                (bei aschaffenburg)
+
+ 1981                markteintritt in luxemburg
+
+ 1982                verkauf des unternehmens an die asko deutsche kaufhaus ag
+
+ 1987                markteintritt in österreich
+
+ 1990                eröffnung des 50. adler-modemarktes
+
+ 1996                verkauf der asko deutsche kaufhaus ag an die metro gruppe
+
+ 1998                eröffnung des 100. adler-modemarktes
+
+ 2009                verkauf des unternehmens an die beteiligungsgesellschaft bluo
+
+ 2009                übernahme von ehemaligen woolworth-filialen in österreich
+
+ 2010                start des adler-online-shops
+
+                     umwandlung des unternehmens in die rechtsform der aktiengesellschaft und
+ 2011                börsengang _ notierungsaufnahme der adler-aktie im prime standard
+                     der frankfurter wertpapierbörse
+
+ 2011                übernahme der wehmeyer-filialen
+
+                     steilmann gruppe und equinox übernehmen 53,9% der anteile an der
+ 2013                adler modemärkte ag
+
+ 2015                übernahme der bekleidungshäuser kressner und hefa
+
+
+
+
+die adler modemärkte ag ist eine der führenden und größten textileinzelhandelsketten in deutsch-
+land: gemäß dem top-100-ranking 2015 des branchenmagazins textilwirtschaft zählt adler
+zu den top 20 der umsatzstärksten textilhändler. ende 2016 betrieb die unternehmensgruppe
+insgesamt 183 modemärkte (vorjahr: 177), davon 156 (153) in deutschland, 22 (21) in österreich,
+drei (2) in luxemburg und zwei (1) in der schweiz. darüber hinaus betreibt das unternehmen unter
+www.adlermode.com mit wachsendem erfolg einen online-shop.
+
+das produktsortiment von adler ist bezüglich passform, modegrad, funktionalität und qualität
+in erster linie auf die altersgruppe der über 45-jährigen zugeschnitten. deren anteil an der
+bevölkerung wächst beständig. adler bietet im unteren mittelpreissegment qualitativ hochwertige
+produkte mit einem attraktiven preis-/leistungsverhältnis an. das produktsortiment umfasst ein breites
+angebot an damen- und herrenoberbekleidung sowie wäsche. mit einem ergänzungssortiment aus
+accessoires, schuhen, kinder- und babybekleidung, trachtenmode sowie hartwaren bietet adler
+ein gut abgerundetes warenportfolio und nutzt auf diese weise auch cross-selling-potenzial in den
+modemärkten.
+
+die hauptumsatzträger von adler sind die eigenmarken des konzerns. mit ihnen erwirtschaftet das
+unternehmen etwa 75% des gesamtumsatzes und den überwiegenden teil des ertrags. in vielen
+modemärkten bietet adler zusätzlich auch unterschiedliche, in deutschland und darüber hinaus
+bekannte fremdmarken an. dies gilt sowohl für damen- als auch für herren- und kinderbekleidung.
+bei kindermode kooperiert adler seit dem jahr 2012 exklusiv mit tom tailor.
+
+
+
+
+                                                    5
+
+           geschichte und geschäftsmodell von adler nachhaltigkeitsbericht 2016
+
+
+
+
+das fremdmarkenangebot wird oftmals in shop-in-shop-form präsentiert und befindet sich in den
+adler-modemärkten häufig in eingangsnähe. so kann es zu einem attraktiven store-front-design
+beitragen, wie es insbesondere in neuen und modernisierten märkten prägend ist. gezielt kombiniert
+adler die fremdmarken mit den jüngeren und modischeren eigenmarken wie myown, viventy by
+bernd berger, via cortesa und eagle no.7. auf diese weise will adler auch neue kunden gewinnen,
+die das unternehmen bisher nicht in ihre shopping-auswahl genommen haben oder erst in die
+zielgruppe der über 45-jährigen hineinwachsen.
+
+weitere informationen zur geschäftstätigkeit und -entwicklung der adler-gruppe finden sie im
+aktuellen geschäftsbericht sowie unter www.adlermode-unternehmen.com.
+
+
+
+
+adler in zahlen (in mio. €)      2011       2012       2013        2014       2015       2016
+
+umsatz                           476,6      506,1      528,6       535,5      566,1      544,6
+
+ebit                              16,4       20,5       28,9       26,2       17,0        6,5
+
+jahresüberschuss                  8,5        10,1       18,6       14,1        7,9        0,4
+
+eigenkapital                      74,8       80,3       92,0       105,6      104,9       95,8
+
+anzahl mitarbeiter zum 31.12.    4.404      4.390      4.301       4.154      4.203      3.984
+
+
+
+
+                                                6
+
+                    nachhaltigkeitsmanagement nachhaltigkeitsbericht 2016
+
+
+
+
+nachhaltigkeitsmanagement
+die beschaffung und der verkauf von textilbekleidung bilden das kerngeschäft der adler
+modemärkte ag. dabei stellen gesellschaftliche verantwortung, nachhaltigkeit und umwelt-
+bewusstsein wichtige voraussetzungen für den langfristigen erfolg des unternehmerischen
+handelns dar. überlegungen zur nachhaltigkeit fließen in alle strategischen und operativen entschei-
+dungen ein und werden auch bei der zusammenarbeit mit den geschäftspartnern berücksichtigt.
+ziel des nachhaltigkeitsmanagements von adler ist es, dem kunden ein ökologisch und sozial
+einwandfreies produkt anzubieten und gleichzeitig im sinne der mitarbeiter, lieferanten und anderen
+interessengruppen (stakeholder) gesellschaftlich untadelig und wirtschaftlich erfolgreich zu handeln.
+
+handlungsfelder und schwerpunkte im nachhaltigkeitsmanagement
+
+adler konzentriert seine nachhaltigkeitsaktivitäten auf felder, die sich aus dem gesellschaftlichen
+diskurs mit interessengruppen und aus der speziellen verantwortung eines textileinzelhändlers
+ergeben.
+
+interessengruppen (stakeholder) wie mitarbeiter, kunden, investoren, geschäfts- und koopera-
+tionspartner, politische entscheidungsträger, journalisten sowie vertreter von nicht-regierungs-
+organisationen (nro) stehen im direkten austausch mit adler und können ihre anliegen an das
+unternehmen adressieren. indirekt leitet adler wesentliche impulse für das nachhaltigkeitsmanage-
+ment aus der verfolgung gesellschaftlicher diskurse, der beobachtung der medien und fachpubli-
+kationen sowie der teilnahme an branchenveranstaltungen und investorenkonferenzen ab.
+
+die zentralen themen und aufgaben, die für adler von bedeutung sind und die interessengruppen
+an das unternehmen herantragen, werden in der abgebildeten wesentlichkeitsmatrix dargestellt.
+dabei lassen sich die einzelnen arbeitsbereiche mit hilfe des drei-säulen-modells der nachhaltigkeit
+kategorisieren, das eine soziale, eine ökonomische und eine ökologische komponente umfasst. die
+matrix ordnet die einzelnen aspekte nach hoher, mittlerer und geringer relevanz sowohl für adler
+als auch für die stakeholder.
+
+hinsichtlich der sozialen komponente liegt der fokus bei adler zum einen auf den ca. 4.000 direkt
+bei adler beschäftigten mitarbeitern; zum anderen auf jenen menschen in unterschiedlichen län-
+dern, die im auftrag von dritten waren für adler produzieren. einen wesentlichen teil des sozialen
+nachhaltigkeitsmanagements bildet die umsetzung und überwachung grundlegender sozialer und
+arbeitsrechtlicher standards bei den geschäftspartnern. ergänzt wird diese aufgabe von gesell-
+schaftlichem engagement im in- und ausland.
+
+bei der ökologischen komponente sind maßnahmen zum klimaschutz, zur energieeffizienz sowie
+zur entwicklung von ökologischen und humantoxikologisch optimierten sortimenten ein wesentlicher
+bestandteil des nachhaltigkeitsmanagements.
+
+mit blick auf die ökonomische komponente ergeben sich für adler aus der wesentlichkeitsana-
+lyse vorrangig die ziele, beständige erträge zu erwirtschaften, arbeitsplätze zu sichern und nach
+recht und gesetz zu handeln. dabei hat das nachhaltigkeitsmanagement die aufgabe, prozesse
+und kontrollmechanismen kontinuierlich zu hinterfragen, zu verbessern und den regelmäßigen
+austausch mit den unterschiedlichen interessengruppen zu suchen.
+
+im folgenden werden die strategien, organisationsformen und instrumente beschrieben, die zur
+erreichung der definierten ziele eingesetzt werden. dabei dient die wertschöpfungskette als roter
+faden, anhand dessen die wesentlichen handlungsfelder und die damit verbundenen aufgaben
+beschrieben werden.
+
+
+
+
+                                                 7
+
+                                     nachhaltigkeitsmanagement nachhaltigkeitsbericht 2016
+
+
+
+
+                                                       n
+                                                         maßnahmen zum klimaschutz        n
+                                                                                            kundenzufriedenheit
+                                                         und zur energieefﬁzienz          n datenschutz
+                                                                   (ökologie)             n geschäftsethik und compliance
+
+
+                                                         bezahlung von angemessenen         corporate governance
+
+
+ hohe bedeutung
+ für stakeholder
+                                                       n                                  n
+
+
+                                                         löhnen und gehältern             n produktqualität und produkt-
+
+
+                                                                    (soziales)             sicherheit
+                                                                                          n wertsteigerung des unterneh-
+
+
+                                                                                            mens
+                                                                                                    (ökonomie)
+                                                                                          n gesundheit und arbeitssicherheit
+
+                                                                                          n einhaltung elementarer arbeits-
+
+
+                                                                                            und menschenrechte in der
+                                                                                            produktion
+                                                                                                    (soziales)
+                      n umweltmanagement               n
+                                                         mitarbeiterzufriedenheit         n
+                                                                                            nachhaltigkeit als integrierter
+                      n abwassermanagement und -       n
+                                                         aus- und weiterbildung der        bestandteil der unternehmens-
+                        behandlung in der produktion     mitarbeiter                       strategie
+                      n ressourcenverbrauch in der                  (ökonomie)            n transparenz und berichterstattung
+ mittlere bedeutung
+
+
+
+
+                                                       n angebot und entwicklung von      n qualiﬁzierung von lieferanten
+                        produktion
+  für stakeholder
+
+
+
+
+                                  (ökologie)             ökologischen und                 n warenverfügbarkeit
+
+
+                                                         humantoxikologisch optimierten             (ökonomie)
+                                                         sortimenten
+                                                       n optimierung des
+
+
+                                                         chemikalienmanagements
+                                                         und der nassprozesse in der
+                                                         produktion
+                                                                    (ökologie)
+                                                       n gesellschaftliches engage-
+
+
+                                                         ment an standorten und in der
+                                                         lieferkette
+                                                                     (soziales)
+                        abfallmanagement                   efﬁzienz in der logistik           it-sicherheit
+ geringe bedeutung
+
+
+
+
+                      n                                n                                  n
+  für stakeholder
+
+
+
+
+                        und recycling                  n
+                                                           prozesssicherheit                           (ökonomie)
+                      n biodiversität
+                                                                       (ökonomie)
+                                    (ökologie)
+
+
+
+
+                          geringe bedeutung                    mittlere bedeutung                   hohe bedeutung
+                               für adler                            für adler                         für adler
+
+
+
+integriertes nachhaltigkeitsmanagement
+
+adler verfolgt den ansatz eines integrierten nachhaltigkeitsmanagements, der durch strategische
+und operative nachhaltigkeitsziele des vorstandes unterstützt wird. grundgedanke dabei ist die schaf-
+fung und pflege einer unternehmenskultur, in der die grundsätze nachhaltigen handelns verankert
+sind und von jedem mitarbeiter gelebt werden. auf dieser basis entwickelt und implementiert adler
+qualifizierungsmaßnahmen und managementprozesse für die fachabteilungen und unterstützt sie
+mit diesen instrumenten auch operativ.
+
+um den ansatz des integrierten nachhaltigkeitsmanagements zu fördern, werden mit den bereichs-
+und abteilungsleitern persönliche ziele mit nachhaltigkeitsaspekten vereinbart. dies unterstützt zugleich
+die erreichung der unternehmensziele in den wesentlichen handlungsfeldern. die weiterbildung
+der mitarbeiter in den fachabteilungen stellt sicher, dass mehrere personen im unternehmen über
+kompetenzen im bereich nachhaltigkeit verfügen.
+
+durch managementsysteme wird das nachhaltigkeitsmanagement systematisiert und strukturiert.
+
+
+
+
+                                                                        8
+
+                    nachhaltigkeitsmanagement nachhaltigkeitsbericht 2016
+
+
+
+
+qualifizierungsmassnahmen
+
+bei der umsetzung von nachhaltigkeitsstandards kommt den fachabteilungen eine entscheidende
+rolle zu. besonders im einkauf schafft adler gezielt kompetenzen, indem nachhaltigkeitsverant-
+wortliche ausgebildet und gefördert werden. darüber hinaus erhalten mitarbeiter schulungen über
+die inhalte und anforderungen unterschiedlicher standards und initiativen. so werden risiken in den
+beschaffungsprozessen besser erkannt und effizienter begrenzt. seminarteilnehmer werden dadurch
+befähigt, einen wichtigen beitrag zum nachhaltigen einkauf von textilien zu leisten.
+
+um gemeinsam mit den lieferanten an der optimierung des produktsortiments in ökologischer und
+humantoxikologischer hinsicht zu arbeiten, sind schulungen und workshops über chemikalien und
+nassprozesse unabdingbar. diese binden neben den verantwortlichen bei adler auch die lieferanten
+und geschäftspartner in asien ein.
+
+für die mitarbeiterinnen und mitarbeiter im vertrieb werden schulungen durchgeführt und unterlagen
+über die nachhaltigkeitsaktivitäten von adler bereitgestellt. dies fördert das wissen der verkaufsmit-
+arbeiter über nachhaltigkeit und macht sie kompetenter in der beratung ihrer kunden.
+
+managementprozesse
+
+stringente managementprozesse, die handlungsabläufe definieren und steuern, sind eine grundvo-
+raussetzung für die gezielte durchführung von nachhaltigkeitsmaßnahmen. diese prozesse werden
+mit den fachabteilungen im rahmen von workshops entwickelt.
+
+darüber hinaus hinterfragt adler bestehende prozesse und erarbeitet bei bedarf gemeinsam mit
+den fachabteilungen alternativen im sinne der nachhaltigkeit. bei der umsetzung der maßnahmen
+nutzt adler themenbezogen auch externes fachwissen, um bewährte best-practice-lösungen für
+adler anzuwenden.
+
+
+
+
+                                                  9
+
+            corporate governance & code of conduct nachhaltigkeitsbericht 2016
+
+
+
+
+corporate governance
+der begriff corporate governance steht für eine verantwortungsvolle, transparente und auf nach-
+haltige wertschöpfung ausgelegte führung und kontrolle des unternehmens, effiziente zusammen-
+arbeit zwischen vorstand und aufsichtsrat, achtung der aktionärs- und mitarbeiterinteressen sowie
+respekt vor den grundlegenden gesellschaftlichen anliegen. auch offenheit und transparenz der
+unternehmenskommunikation sind wesentliche aspekte guter corporate governance. mit der befolgung
+dieser grundsätze in allen bereichen des unternehmens will adler eine verantwortliche, qualifizierte,
+transparente und auf den langfristigen erfolg ausgerichtete unternehmensführung gewährleisten und
+das vertrauen der stakeholder in das unternehmen weiter stärken.
+
+als deutsche börsennotierte aktiengesellschaft orientiert sich adler im hinblick auf corporate gover-
+nance maßgeblich an den im inland geltenden gesetzen sowie den empfehlungen und anregungen
+des deutschen corporate governance kodex, denen die adler modemärkte ag bis auf wenige
+ausnahmen entspricht. eine aktualisierte entsprechenserklärung haben vorstand und aufsichtsrat am
+11. mai 2016 abgegeben, die auf der internetseite von adler dauerhaft abrufbar ist.
+
+weitere informationen zur corporate governance des unternehmens, insbesondere zur arbeitsweise
+von vorstand und aufsichtsrat sowie zu wesentlichen unternehmensführungspraktiken, enthält die
+erklärung zur unternehmensführung gem. § 289a hgb, die ebenfalls auf der internetseite von adler
+sowie im geschäftsbericht zu finden ist.
+
+
+
+
+code of conduct
+die reputation und die glaubwürdigkeit des unternehmens haben für adler höchste priorität.
+um eine schädigung weitestgehend auszuschließen, ist unternehmerisches handeln bei adler
+eng an ethische grundsätze geknüpft. dies ist der schlüssel zum nachhaltigen unternehmenserfolg.
+mit wachsender internationalität der geschäftlichen ausrichtung unterliegt adler unterschiedli-
+chen nationalen und internationalen gesetzlichen regelungen, deren anforderungen zunehmend
+anspruchsvoller werden. gleichwohl müssen diese regelungen im operativen (tages-) geschäft
+vollständig berücksichtigt werden.
+
+vor diesem hintergrund gibt der „adler code of conduct“ einen klaren orientierungsrahmen.
+er muss von allen mitarbeiterinnen und mitarbeitern unterschrieben werden und ist ein klares bekenntnis
+zur einhaltung von recht und gesetz, das die mitarbeiter über ländergrenzen und kulturen hinweg
+verbindet. so tragen sie dazu bei, dass adler nicht nur wirtschaftlich erfolgreich, sondern stets auch
+im einklang mit seiner gesellschaftlichen verantwortung agiert.
+
+der code of conduct ist auf der internetseite von adler dauerhaft abrufbar.
+
+
+
+
+                                                  10
+
+             die textile wertschöpfungskette von adler nachhaltigkeitsbericht 2016
+
+
+
+
+die wertschöpfungskette von adler
+adler überprüft seine wertschöpfungskette kontinuierlich mit blick auf risiken für menschen und die
+umwelt. mit hilfe des implementierten nachhaltigkeitsmanagements sollen die identifizierten risiken
+minimiert bzw. abgewendet werden.
+
+indem dieser nachhaltigkeitsbericht entlang der wertschöpfungskette gegliedert ist, spiegelt er das
+ganzheitliche nachhaltigkeitsmanagement wider. anhand dieser struktur werden ökologische, soziale
+und ökonomische auswirkungen der geschäftstätigkeit von adler sowie deren bewertung durch die
+einzelnen interessengruppen dargelegt.
+
+
+
+
+                                                11
+
+                   design & produktentwicklung nachhaltigkeitsbericht 2016
+
+
+
+
+design & produktentwicklung
+adler hat den anspruch produkte anzubieten, die perfekt den vorstellungen und wünschen der
+zielgruppe entsprechen. ein modernes und langlebiges produkt ist dabei insbesondere für die inter-
+essengruppe der kunden von wesentlicher bedeutung. eine zentrale aufgabe des unternehmens ist
+es daher, die sortimente hinsichtlich modischer trends, attraktivität und qualität permanent weiter-
+zuentwickeln und auf die jeweiligen kundenbedürfnisse anzupassen.
+
+markenkonzept
+
+adler erwirtschaftet rund 75% des gesamtumsatzes mit eigenmarken. die mit abstand erfolg-
+reichste adler-marke ist bexleys. sie richtet sich an frauen und männer, die im alltag modern und
+dennoch klassisch-elegant gekleidet sein möchten. die produkte der marke bexleys verbinden hohe
+ansprüche an qualität mit modernen materialien und zeitloser eleganz.
+
+mit den eigenmarken malva (damen) und senator (herren) bedient adler eine über jahrzehnte
+gewachsene stammkundschaft im eher reifen alter.
+
+adler ist bekannt für äußerst erfolgreiche sortimente mit übergrößen, die vorrangig von den
+marken thea (damen) und big fashion (herren) repräsentiert werden. sie stehen für produkte in
+großen größen, die dem wunsch ihrer käufer nach hohem tragekomfort, exzellenten passformen
+und ansprechendem design gerecht werden.
+
+modisch prägnante aussagen für eher jüngere und trendorientierte kundinnen bieten die marken
+myown, viventy by bernd berger und via cortesa. diese casual-kollektionen können immer wieder
+neu kombiniert werden. sie greifen aktuelle trends auf, sind aber nie übertrieben modisch.
+
+mitte november 2016 hat die adler modemärkte ag die rechte an der bisher schon im sortiment
+geführten marke „steilmann“ übernommen und führt sie seitdem als eigenmarke weiter.
+
+darüber hinaus wird auch das thema trachtenmode und funktionale sportbekleidung von adler
+mit wachsendem erfolg bedient.
+
+neben den eigenmarken bietet adler in vielen modemärkten bekannte fremdmarken wie
+cecil, street one, s.oliver, triumph und schiesser an. außerdem gehören jeansmarken wie wrangler,
+levi´s, paddock’s und pioneer zum produktangebot. für die kinderbekleidung ist adler eine
+exklusive kooperation mit tom tailor eingegangen.
+
+die fremdmarken sollen zur gewinnung neuer kunden beitragen, die in die hauptzielgruppe
+der über 45-jährigen hineinwachsen. zurzeit beträgt der anteil an fremdmarken rund 15% vom
+gesamtumsatz.
+
+im jahr 2016 hat adler insgesamt über 3.300 verschiedene artikelarten für eigenmarken entwickelt
+und eingekauft. für diese eigenmarkenartikel trägt adler in der wertschöpfungskette die ökologi-
+sche und soziale verantwortung. bei den fremdmarken liegt die verantwortung bei den marken und
+herstellern, da adler hier keinen einfluss auf die produktion hat. somit beschränkt sich die tätigkeit
+des nachhaltigkeitsmanagement im bereich einkauf auf die sortimente der eigenmarken.
+
+
+
+
+                                                 12
+
+                   design & produktentwicklung nachhaltigkeitsbericht 2016
+
+
+
+
+design
+
+das design der artikel und die zusammenstellung einer kollektion sind die grundlage des späte-
+ren verkaufserfolges. markt- und wettbewerbsanalysen, die auswertung des kaufverhaltens in den
+eigenen läden und der besuch von modemessen stellen sicher, dass die von adler entwickelte
+mode den bedürfnissen der kunden entspricht. dieser entwicklungsprozess wird durch regelmäßige
+gespräche mit den produzenten und die wahl konkurrenzfähiger farbpaletten ergänzt. aus diesen
+informationen setzt sich die einkaufs- und beschaffungsplanung für die unterschiedlichen kollektio-
+nen zusammen.
+
+zur entwicklung einzelner kollektionen und saisonaler farbkonzepte hat adler ein eigenes
+design-team, das den einkauf punktuell und konzeptionell unterstützt. zudem werden trends verfolgt
+und die stimmigkeit der eigenmarken-kollektionen sichergestellt. aktuelle trends aufzugreifen anstatt
+sie selbst zu setzen, begrenzt das risiko, den markt falsch einzuschätzen, was wiederum ökonomi-
+sche risiken verringert.
+
+passform & qualität
+
+„alles passt“ – diesen grundsatz nimmt adler bei der planung und entwicklung seiner kollektionen
+sehr ernst. adler berücksichtigt, dass die zielgruppe der über 45-jährigen zwar wert auf zeitgemäße,
+modische kleidung legt, aber andere ansprüche an passform und konfektionsgrößen stellt als jün-
+gere menschen. qualität ist für adler zudem gleichbedeutend mit haltbarkeit, langlebigkeit und
+einem guten tragegefühl. mit geschäftspartnern arbeitet adler permanent an der verbesserung
+der qualität.
+
+damit die ware den modischen und qualitativen anforderungen unserer kunden gerecht wird, hat
+adler eine eigene schnittabteilung in der unternehmenszentrale. sie sorgt dafür, dass alle teile
+optimal sitzen. dazu werden die muster ausgemessen und anprobiert, bis die längen- und größen-
+verhältnisse optimal abgestimmt sind. neben der anpassung der muster auf die adler-passform
+wird auch überprüft, wie der stoff beim tragen fällt und ob sich zum beispiel die tascheneingriffe
+an der richtigen stelle befinden. die notwendigen veränderungen werden dokumentiert und den
+produzenten mitgeteilt.
+
+gleichzeitig entwickelt, überprüft und überarbeitet die schnittabteilung regelmäßig maßtabellen,
+wobei die schnitte immer wieder den modischen trends angepasst werden. standardmaßtabellen
+werden auf die adler-passform und gradierung normiert. das gibt den kunden die gewissheit,
+dass alle artikel im adler-sortiment einer homogenen passform-philosophie folgen. damit kann der
+kunde praktisch „blind“ verschiedene eigenmarken von adler kaufen, denn seine konfektionsgröße
+ist markenübergreifend identisch.
+
+
+
+
+                                                 13
+
+                    design & produktentwicklung nachhaltigkeitsbericht 2016
+
+
+
+
+                                  oeko-tex® standard 100
+
+ der oeko-tex® standard 100 ist ein unabhängiges prüf- und zertifizierungssystem für textile roh-,
+ zwischen- und endprodukte aller verarbeitungsstufen. zertifizierbare artikel sind u.a. rohe und ge-
+ färbte/veredelte garne, rohe und gefärbte/veredelte gewebe und gestricke, konfektionierte artikel.
+
+ die schadstoffprüfungen umfassen:
+ n gesetzlich verbotene substanzen
+
+
+ n gesetzlich reglementierte substanzen
+
+
+ n bekanntermaßen gesundheitsbedenkliche (jedoch noch nicht gesetzlich geregelte
+
+
+  chemikalien)
+
+ voraussetzung für die zertifizierung textiler produkte nach oeko-tex® standard 100 ist, dass sämt-
+ liche bestandteile eines artikels ausnahmslos den geforderten kriterien entsprechen – neben
+ dem oberstoff also beispielsweise auch die nähgarne, einlagen, drucke etc. sowie nicht-textiles
+ zubehör wie knöpfe, reißverschlüsse, nieten usw.
+
+
+
+adler hat entlang der gesamten wertschöpfungskette qualitätssicherungsprozesse und maßnah-
+men implementiert, welche die hohen eigenen anforderungen sicherstellen. zum beispiel ist ein
+nachweis erforderlich, dass nur materialien gemäß dem oeko-tex® standard 100 eingesetzt
+werden. muster der direktbeschaffung werden bereits vor der produktion physischen und
+chemischen tests unterzogen. im jahr 2016 haben 73% der getesteten muster die anforderungen
+auf anhieb erfüllt. 27% der muster hielten nicht den prüfvorgaben stand. davon haben 92% die
+die physischen und 8% die chemischen vorgaben nicht erfüllt. muster, die den physischen und
+chemischen anforderungen nicht entsprechen, müssen nachbearbeitet werden. vor der auslie-
+ferung findet für jede bestellung eine finale endabnahme der ware beim produzenten statt. die
+ergebnisse dieser tests werden auch in der lieferantenbewertung berücksichtigt.
+
+
+
+rohstoffe & verarbeitung
+in der textilen wertschöpfungskette haben die gewinnung und die verarbeitung von rohstoffen
+die größten auswirkungen auf die umwelt. gleichzeitig besteht für adler in den produktionsstufen
+vom baumwollfeld über die weberei bis zum veredeln der stoffe der geringste handlungsspiel-
+raum. dadurch, dass adler fertig produzierte endprodukte bei den produzenten – und damit den
+letzten akteuren im produktionsprozess – einkauft, besteht lediglich mit diesen eine direkte geschäfts-
+beziehung. das risiko der intransparenz in produktionsprozessen, die nicht in der endfertigung statt-
+finden, sinkt mit dem grad der vertikalität eines produzenten. daher bevorzugt adler insbesondere in
+risikoländern die zusammenarbeit mit vertikal aufgestellten betrieben.
+
+
+
+
+                                                  14
+
+                     rohstoffe & verarbeitung nachhaltigkeitsbericht 2016
+
+
+
+
+      „feel good“: das kennzeichen für nachhaltige produkte bei adler
+
+ die adler-einkäufer achten bei ihrer auswahl nachhaltiger produkte auf den schutz der arbeiter
+ und die schonung der umwelt. produkte aus nachhaltiger beschaffung werden im sortiment von
+ adler unter dem label „feel good“ gebündelt. ausgewählte produkte, die das label „feel good“
+ tragen, sind aus nachhaltigen rohstoffen hergestellt, die durch unabhängige und vertrauenswür-
+ dige standards überprüft wurden.
+
+ mit der kennzeichnung und beschreibung der nachhaltigen wahl, erleichtert das label „feel good“
+ interessierten kunden die orientierung. produkte, die von folgenden standardorganisationen
+ zertifiziert sind oder einen hohen anteil an recycelten fasern enthalten, dürfen mit „feel good“
+ gekennzeichnet werden:
+
+ n global organic textile standard (gots)
+ n fairtrade baumwolle
+ n better cotton initiative (bci)
+
+ n biobaumwolle vom organic cotton standard (ocs)
+
+
+
+
+das nachhaltigkeitsmanagement der lieferanten und produktionsstätten, die von adler beauftragt
+werden, wird im kapitel „konfektion“ beschrieben.
+
+zum jetzigen zeitpunkt kann adler keine belastbaren aussagen zur struktur der vorlieferanten von
+rohstoffen machen, da adler mit diesen keine direkten geschäftsbeziehungen unterhält. dies
+betrifft insbesondere spinner, weber und veredlungsbetriebe, wenn diese produktionsschritte nicht
+auch vom konfektionär durchgeführt werden.
+
+somit ist adler in den vorgelagerten produktionsstufen auf freiwillige standards wie dem global
+organic textile standard (gots) angewiesen. dieser sichert neben dem biologischen baumwoll-
+anbau die einhaltung sozialer und ökologischer rahmenbedingungen in den produktionsstufen.
+
+zur erfassung der vorlieferanten hat adler anfang 2016 ein lieferanten-management-system
+eingeführt. primär dient das system der dokumentation der compliance-daten direkter geschäfts-
+partner und ihrer produktionsstätten, doch lassen sich damit auch die vorstufen der wertschöp-
+fungskette erfassen. auf dieser basis können zukünftig alle betriebe entlang der wertschöpfungskette
+dokumentiert und hinsichtlich ihrer ökologischen und sozialen standards überprüft werden. mehr
+zum lieferantenmanagementsystem finden sie im kapitel „konfektion“.
+
+baumwolle
+
+in der rohstoffgewinnung ist der baumwollanbau der produktionsprozess mit der größten umwelt-
+belastung. adler hat einen jährlichen baumwollverbrauch von ca. 4.800 tonnen.
+
+derzeit wird baumwolle neben herkömmlichen quellen aus zertifiziertem bio-anbau (global organic
+textile standard (gots) oder organic cotton standard (ocs)), der better cotton initiative (bci) und
+von fairtrade beschafft. bei diesen standards wird darauf geachtet, dass der wasser- und energie-
+verbrauch verringert wird, der nährstoffgehalt im boden ausreichend ist und toxische und bleibende
+pestizide nur moderat oder gar nicht eingesetzt werden.
+
+
+
+
+                                                15
+
+                      rohstoffe & verarbeitung nachhaltigkeitsbericht 2016
+
+
+
+
+durch die zusammenarbeit mit den unterschiedlichen initiativen wirkt adler darauf hin, dass die
+lieferanten den einkäufern immer produkte aus nachhaltiger baumwolle anbieten können. somit
+werden die einkäufer dabei unterstützt, den anteil nachhaltiger artikel im sortiment zu steigern und
+damit ihre diesbezüglichen zielvorgaben zu erreichen. dies wiederum trägt dazu bei, dass adler
+seine ziele im bereich der nachhaltigen beschaffung umsetzen kann.
+
+
+
+
+                         gütesiegel für nachhaltige baumwolle
+
+  fairtrade baumwolle:
+  ziel von fairtrade ist es, die lebens- und arbeitsbedingungen von produzenten in entwicklungs-
+  ländern zu verbessern. das fairtrade certified cotton-siegel bedeutet, dass die im kleidungs-
+  stück enthaltene baumwolle aus kleinbäuerlichen betrieben stammt, welche die anforderungen
+  von fairtrade in den bereichen ökologie, ökonomie und soziales erfüllen.
+
+  global organic textile standard (gots):
+  umfassender standard, der die produktion von umweltfreundlichen und sozialen produkten
+  sicherstellt. der fokus liegt auf der gesamten produktionskette vom baumwollfeld bis zur endferti-
+  gung. entlang der wertschöpfungskette werden strenge anforderungen an eingesetzte chemi-
+  kalien, herstellungsverfahren und –bedingungen gestellt.
+
+  better cotton initiative (bci):
+  multi-stakeholder-initiative für nachhaltigen baumwollanbau mit ökologischen kriterien (wie
+  minimierung des pestizideinsatzes, wassereffizienz, erhalt der bodenfruchtbarkeit, erhalt natürli-
+  cher biotope), sozialen kriterien (ilo-arbeitsnormen) und ökonomischen kriterien (wie qualitäts-
+  standards für baumwollfasern, lerngruppen für bauern).
+
+  biobaumwolle vom organic cotton standard (ocs):
+  der einsatz von kontrolliert biologisch angebauter baumwolle wird nach dem organic content
+  standard (kurz: ocs) von textile exchange durch unabhängige institute zertifiziert. ocs trägt
+  wesentlich zur ökologischen und sozialen verbesserungen beim anbau von baumwolle und
+  deren verarbeitung bei.
+
+
+
+
+verbot von angorawolle und pelz
+
+aus gründen des tierschutzes verkauft adler grundsätzlich keine produkte aus angorawolle oder
+naturpelzen. lieferanten sind dementsprechend angewiesen, den einkäufern keine produkte aus
+angorawolle und naturpelz anzubieten.
+
+
+
+
+                                                  16
+
+                            konfektion nachhaltigkeitsbericht 2016
+
+
+
+
+konfektion
+die endfertigung bzw. konfektion von rohwaren zu fertigen produkten umfasst die arbeitsschrit-
+te nähen, finishing und qualitätskontrolle sowie die verpackung. bei diesen schritten entsteht
+eine überschaubare emission von klimagasen und schadstoffen. somit ist das ökologische
+risiko in der endfertigung begrenzt. den schwerpunkt des nachhaltigkeitsmanagements von
+adler stellen hier die sozialen risiken für die in diesem bereich beschäftigten mitarbeiter dar.
+
+adler hat mit den lieferanten aus der endfertigung eine direkte geschäftsbeziehung und
+damit höheren handlungsspielraum als in den vorstufen der wertschöpfungskette. die
+einhaltung von sozialstandards wird in zusammenarbeit mit standardorganisationen und durch
+geschäftspartner in den produktionsländern durchgesetzt. die kernarbeitsnorm der international
+labour organisation (ilo) ist fester bestandteil der allgemeinen einkaufbedingungen von adler.
+
+um die wertschöpfungskette besser einblicken und kontrollieren zu können, bevorzugt
+adler die zusammenarbeit mit vertikal aufgestellten betrieben. diese betriebe übernehmen
+neben der konfektionierung von rohware auch das herstellen von stoffen sowie deren verede-
+lung. bei den hier entstehenden ökologischen risiken im chemikalienmanagement und bei
+den nassprozessen hat adler einen handlungsspielraum. im fokus der aktivitäten des nach-
+haltigkeitsmanagements stehen qualifizierungsmaßnahmen der lieferanten und mitarbeiter.
+
+sowohl für interne also auch externe stakeholder stellen soziale risiken in der wertschöpfungs-
+kette das bedeutendste handlungsfeld dar, welches folglich das nachhaltigkeitsmanage-
+ment bei adler dominiert. neben der gesellschaftlichen verantwortung ergibt sich die notwen-
+digkeit auch aus den risiken, die sich aus der beschaffung von ware aus asien ergeben und
+die sich negativ auf die reputation und die geschäftstätigkeit von adler auswirken können.
+
+lieferanten
+
+die einkaufsbedingungen von adler erlauben keinen einkauf von produkten, die unter ausbeuteri-
+schen, gesundheitsschädigenden oder sonstigen die menschenwürde verletzenden bedingungen
+wie kinderarbeit oder zwangsarbeit hergestellt wurden.
+
+die von adler gehandelten produkte sind eigenmarken und fremdmarken. bei eigenmarken trägt
+adler die direkte produktverantwortung. neben den verwendeten rohstoffen ist das wissen und die
+dokumentation, unter welchen sozialen und ökologischen bedingungen die ware hergestellt wurde,
+essentiell.
+
+eine laufende aufgabe besteht für adler insofern darin, die transparenz in der lieferkette weiter
+zu erhöhen. adler betrachtet es als eine der zentralen herausforderungen im nachhaltigkeitsma-
+nagement, dass auch sublieferanten und vorgelagerte produktionsbetriebe sämtliche sozial- und
+umweltstandards nachprüfbar einhalten. eine lückenlose nachverfolgbarkeit der produktion umfasst
+die kenntnis und dokumentation der sublieferanten und vorgelagerter produktionsstufen. dieses ziel
+kann nur gemeinsam mit den partnern in der beschaffung und mithilfe mitgliederstarker initiativen
+erreicht werden.
+
+
+
+
+                                               17
+
+                             konfektion nachhaltigkeitsbericht 2016
+
+
+
+
+beschaffungsstruktur
+
+insgesamt kommen 73,5% (2015: 75%) der eingekauften ware aus asien, 22% (2015: 15%) aus
+europa und 4% (2015: 3%) aus afrika. dies umfasst die beschaffung direkt beim produzenten und
+bei europäischen geschäftspartnern, welche teilweise weltweit produzieren. bei lediglich 0,5% der
+artikel war 2016 systemtechnisch kein herkunftsland hinterlegt. adler konnte diesen anteil durch
+systemseitige prozessverbesserungen maßgeblich verringern (2015: 7%).
+
+langfristige partnerschaften
+
+adler setzt in der zusammenarbeit neben angemessenen auch auf langfristige lieferbeziehungen,
+um sich gemeinsam mit den lieferanten partnerschaftlich weiterzuentwickeln.
+
+da adler als auftraggeber bei kleineren bestellmengen nur einen eingeschränkten einfluss auf die
+entwicklung des lieferanten ausüben kann, wird eine langfristige zusammenarbeit mit größerem
+volumen angestrebt. dies wirkt sich neben wirtschaftlichen aspekten auch positiv auf die produkt-
+qualität aus.
+
+adler arbeitet größtenteils mit stammlieferanten, die im geschäftsjahr 2016 46% des einkaufsvo-
+lumens ausmachten. für die neuaufnahme eines lieferanten ist die einhaltung der sozialstandards
+grundvoraussetzung. die weitere zusammenarbeit sieht adler als partnerschaftlichen prozess, bei
+dem lieferanten im bereich ihrer sozialen und ökologischen verantwortung als auch hinsichtlich
+qualitativer aspekte unterstützt und weiterentwickelt werden.
+
+
+
+
+                               beschaffungsmöglichkeiten
+
+ adler hat im jahr 2016 waren im wert von insgesamt € 234 mio. eingekauft. davon entfallen
+ € 56 mio. auf den einkauf von fremdmarken und € 178 mio. auf eigenmarken. bei den eigenmar-
+ ken wurden € 97 mio. über die agenturen mgb oder nts in asien beschafft und € 10 mio. direkt
+ über die produzenten. der anteil der eu-lieferanten lag im geschäftsjahr 2016 bei € 71 mio. somit
+ unterscheidet adler drei arten von lieferantenbeziehungen:
+
+ direktbeschaffung:
+ in der direktbeschaffung der eigenmarken arbeitet adler im asiatischen raum mit den agentu-
+ ren metro group buying hk ltd., hongkong (mgb) sowie der nts holding limited, shanghai (nts)
+ zusammen. die nominierten agenturen bündeln die beschaffungsaktivitäten von adler in asien.
+
+ einzelne produzenten in marokko und der türkei werden direkt von der adler-einkaufsabteilung
+ betreut.
+
+ eu-lieferanten:
+ lieferanten, die eigenmarken von adler liefern und ihren firmensitz in europa haben. die ware
+ wird von geschäftspartnern oder tochterunternehmen der lieferanten hergestellt.
+
+ fremdmarken:
+  hersteller von markenartikeln.
+
+
+
+
+                                                18
+
+                             konfektion nachhaltigkeitsbericht 2016
+
+
+
+
+direktbeschaffung
+
+in der direktbeschaffung werden alle lieferanten, die in einem risikoland produzieren, nach den
+kriterien der business social compliance initiative (bsci) auditiert. hierbei werden die audits auf der
+ebene der produktionsstätten durchgeführt.
+
+zum jahresende 2016 haben 42% der 185 produzenten das audit mit „gut“ bestanden. bei 52%
+der produzenten wurde verbesserungsbedarf festgestellt. nur 6% haben das bsci-audit mit dem
+status „non-compliant“ eingeschränkt erhalten. sie bekommen nach dem audit die auflage, die
+beanstandeten mängel zu beseitigen und verbesserungsmaßnahmen innerhalb von 18 monaten
+durchzuführen und nachzuweisen. erfolgt dieser nachweis nicht, wird die produktionsstätte für künf-
+tige aufträge gesperrt. im rahmen des verbesserungsprozesses werden die lieferanten und produ-
+zenten durch maßnahmenpläne der auftraggeber unterstützt. in bangladesch werden keine audits
+mit dem status „non-compliant“ akzeptiert.
+
+neben den arbeitsbedingungen zählt das thema brandschutz zum bestandteil der bsci-anforde-
+rungen. dazu gehören brandschutzvorkehrungen und -managementsysteme wie notausgänge,
+feuerlöscher, brandmeldeanlagen und brandschutzübungen. über die anforderungen von bsci
+hinaus führt adler mit partnern bei produzenten in bangladesch und in weiteren risikoländern in
+kooperation mit externen organisationen brandschutz- und arbeitssicherungstrainings durch.
+
+
+
+
+                                                  19
+
+                              konfektion nachhaltigkeitsbericht 2016
+
+
+
+
+eu-lieferanten / importeure
+
+eigenmarken werden von adler auch über lieferanten beschafft, die in der eu ihren unterneh-
+menssitz haben und die ware in unterschiedlichen ländern herstellen. europäische lieferanten, die
+in einem von der bsci definierten risikoland produzieren lassen, sind seit dem jahr 2013 von adler
+verpflichtet, ein gültiges bsci-audit des produzenten nachzuweisen.
+
+mit der einführung eines lieferanten-management-systems für compliance-daten hat adler
+anfang 2016 die voraussetzung geschaffen, die produktionsstätten der eu-lieferanten und impor-
+teure systematisch in einem it-system zu dokumentieren sowie die erfüllung von sozialstandards
+aktiv nachzuverfolgen. damit ist ein grundstein für weitere transparenz in der wertschöpfungskette
+gelegt.
+
+neben bsci sind auf fabrikebene auch äquivalente standards wie sa 8000, gots und wrap
+zulässig, die sich auf die einschlägigen normen der vereinten nationen und der international labour
+organisation (ilo) berufen.
+
+
+
+
+                         business social compliance initiative
+
+ die business social compliance initiative (bsci) wurde im jahr 2003 durch die foreign
+ trade association (fta) gegründet. die fta ist ein auf internationale handelsfragen spezialisierter
+ europäischer dachverband der außenhandelsvereinigungen des deutschen einzelhandels. die
+ zahl der mitgliedsunternehmen der bsci wuchs stetig auf heute über 1.500 mitglieder, darunter
+ handelsunternehmen, markenhersteller und importeure. die initiative hat die verbesserung der
+ arbeitsbedingungen in internationalen wertschöpfungsketten zum ziel und führt hierzu audits und
+ qualifizierungen in produktionsstätten durch.
+
+ die bsci-verhaltensgrundsätze sind :
+ kontinuierliche verbesserung:
+ die bsci-mitglieder verpflichten sich, den bsci-verhaltenskodex schritt für schritt umzusetzen. sie
+ erwarten von ihren geschäftspartnern die gewährleistung einer kontinuierlichen verbesserung
+ der arbeitsbedingungen.
+
+ zusammenarbeit:
+ durch zusammenarbeit und einen gemeinsamen ansatz wird der einfluss der bsci-mitglieder auf
+ die arbeitsbedingungen in ihren lieferketten größer und deren verbesserung wahrscheinlicher.
+
+ empowerment (ermächtigung):
+ ein zentrales ziel der bsci ist es, die gestaltungs- und entscheidungsmacht der bsci-mitglieder
+ und ihrer geschäftspartner, insbesondere im falle der zu überwachenden produzenten, zu stär-
+ ken. gleichzeitig sollen den betrieben in der lieferkette instrumente zur verfügung gestellt werden,
+ mit denen sie die arbeitsbedingungen nachhaltig verbessern können. die entwicklung interner
+ managementsysteme spielt bei der verankerung der bsci-grundsätze eine entscheidende rolle.
+
+               mehr informationen zu bsci finden sie online unter www.bsci-intl.org.
+
+
+
+
+                                                 20
+
+                             konfektion nachhaltigkeitsbericht 2016
+
+
+
+
+lieferanten-management-system für compliance daten
+
+ein wesentlicher teil der strategie des integrierten nachhaltigkeitsmanagements bei adler ist die
+unterstützung des einkaufs mit managementsystemen. im fokus stehen dabei produktionsstätten,
+in denen lieferanten adler-eigenmarken in risikoländern produzieren lassen. anfang 2016 hat
+adler ein lieferanten-management-system eingeführt, mit dem relevante informationen über
+produktionsstätten dokumentiert und nachverfolgt werden können – unabhängig davon, ob eine
+direkte geschäftsbeziehung besteht oder nicht. auf basis dieses systems wurden die prozesse bei
+der betreuung und neulistung von lieferanten angepasst.
+
+das lieferanten-management-system ermöglicht es adler, die gültigkeit der akzeptierten sozial-
+standards zu überprüfen: jeder lieferant ist verpflichtet, die compliance daten selbstständig im
+managementsystem zu pflegen und einen entsprechenden nachweis zur verfügung zu stellen. die
+aktualität und richtigkeit der angaben werden von adler überprüft. ob ein lieferant die freigabe
+zur produktion erhält, ist an einen nachweis zur einhaltung eines der akzeptierten standardorganisa-
+tionen geknüpft.
+
+in einem ersten schritt stellt das system zunächst transparenz über die erste zulieferstufe her, in der
+ware von adler gefertigt wird. perspektivisch sollen weitere teilnehmer der wertschöpfungskette auf-
+genommen werden, um auch deren compliance-status zu dokumentieren und zu bewerten. auf
+dieser basis lassen sich auch qualifizierungsmaßnahmen für produktionsstätten der vorgelagerten
+prozesse koordinieren und umsetzen.
+
+jede neue produktionsstätte eines lieferanten muss einen definierten freigabeprozess durchlau-
+fen, bei dem adler die überprüfung der angegeben daten vornimmt. ohne eine freigabe ist es
+dem geschäftspartner nicht erlaubt, dort adler-produkte zu produzieren. adler behält sich vor, die
+angaben im system durch dritte überprüfen zu lassen. auf diese weise soll sichergestellt werden,
+dass adler eine umfassende kontrolle darüber hat, wo ware für das unternehmen produziert wird.
+direkt von adler beauftragte produzenten durchlaufen diesen prozess bereits.
+
+die operative betreuung der lieferanten obliegt dem verantwortlichen einkaufsbereich. dadurch
+wird die strategie des integrierten nachhaltigkeitsmanagements bereits in ersten schritten erfolg-
+reich umgesetzt. anfang 2016 wurden alle einkäufer von adler für dieses system geschult. weitere
+qualifizierungsmaßnahmen finden laufend statt, um die leistungsfähigkeit des managementsys-
+tems voll auszuschöpfen.
+
+
+
+
+                                                  21
+
+                             konfektion nachhaltigkeitsbericht 2016
+
+
+
+
+zukünftige handlungsfelder
+
+ kategorie      maßnahme                                                            zeithorizont
+
+                qualiﬁzierungsmaßnahmen zur förderung guter
+                                                                                    kurzfristig
+                arbeitsbedingungen in den produktionsstätten
+
+                dokumentation der sozialstandards von produktionsstätten
+ soziales                                                                           aktiv
+                in risikoländern
+
+                qualiﬁzierungsmaßnahmen zur förderung guter
+                                                                                    langfristig
+                arbeitsbedingungen in vorgelagerten zulieferbetrieben
+
+                erfassung aller eigenmarkenproduktionsstätten der ersten
+                                                                                    aktiv
+                zulieferstufe in risikoländern
+ ökonomie
+                erfassung der vorgelagerten zulieferstufen von direkt
+                                                                                    mittelfristig
+                beauftragten produktionsstätten
+
+                schaffung von transparenz über die nassprozesse                     langfristig
+
+                inventarisierung eingesetzter chemikalien pro nassprozess-stufe     langfristig
+
+                qualiﬁzierungsmaßnahmen von lieferanten im bereich
+                                                                                    mittelfristig
+                nassprozesse und chemikalienmanagement
+
+                durchführung von maßnahmen zur senkung des energie-,
+ ökologie                                                                           mittelfristig
+                wasser- und ressourcenverbrauchs in den produktionsstätten
+
+                steigerung des anteils nachhaltig produzierter baumwolle            mittelfristig
+
+                pilotprojekt zur umstellung von produktionsstätten auf zdhc
+                                                                                    mittelfristig
+                (zero discharge of hazardous chemicals)
+
+                qualiﬁzierungsmaßnahmen für die einkäufer von adler                 kurzfristig
+
+
+
+
+im fokus der aktivitäten im handlungsfeld soziales stehen weiterbildungs- und fördermaßnahmen
+für gute arbeitsbedingungen sowie die einhaltung von sozialstandards in allen produktionsstätten,
+die adler-eigenmarken herstellen.
+
+transparenz entlang der gesamten wertschöpfungskette ist in der beschaffung die zentrale
+herausforderung der kommenden jahre. mit der einführung des oben beschriebenen liefe-
+ranten-management-systems hat adler die dafür notwendigen voraussetzungen geschaffen.
+allerdings muss sichergestellt werden, dass dieses instrument in den kommenden jahren operativ
+genutzt und entsprechend der prozessvorgaben gearbeitet wird.
+
+die grundlage für ökologische maßnahmen bilden die vorgaben der zdhc-initiative. ökologi-
+sche herausforderungen sind die transparenz über eingesetzte chemikalien und nassprozesse. ein
+wesentlicher aktionspunkt ist die bestandsaufnahme bei allen lieferanten mit veredelungsprozessen.
+diese liefert aufschluss über die gegenwärtige leistungsfähigkeit der lieferanten sowie über stärken
+und schwächen, die im rahmen des angestrebten qualifikationsprogramms adressiert werden
+können und müssen. auf basis der bestandsaufnahme werden individuelle implementierungspläne
+für die lieferanten entwickelt.
+
+die ersten pilotprojekte zur qualifizierung haben bereits anfang 2016 begonnen. hierbei werden
+die mitarbeiter ausgewählter produktionsstätten in gruppenarbeiten und seminaren in die prinzipien
+einer nachhaltigen textil- und bekleidungsproduktion im einklang mit der umwelt eingeführt. darüber
+hinaus erhalten sie weiterbildungen im bereich toxikologischer ökologie. durch ein kontinuierliches
+monitoring werden die lieferanten bei der umsetzung optimierter managementprozesse und sub-
+stitutionspläne für chemikalien unterstützt. dabei ist es entscheidend, die lieferanten langfristig zur
+eigenverantwortlichen einhaltung von umwelt- und sozialstandards sowie den anforderungen aus
+
+                                                  22
+
+                              logistik nachhaltigkeitsbericht 2016
+
+
+
+
+der toxikologischen ökologie zu befähigen. das wissen und die erfahrung aus den ersten qualifi-
+zierungsmaßnahmen soll genutzt werden, um schrittweise weitere asiatische produktionsstätten zur
+einhaltung gültiger umwelt- und sozialstandards zu qualifizieren.
+
+
+
+
+                                          ppp-projekt
+
+ seit april 2016 ist die adler modemärkte ag durch die deg deutsche investitions- und entwick-
+ lungsgesellschaft mbh mit der durchführung eines developpp.de-projektes mit dem regio-
+ nalschwerpunkt bangladesch betraut. das projekt umfasst die verbesserung der umwelt- und
+ arbeitsbedingungen in den am projekt teilnehmenden produktionsstätten. hierbei wird
+ adler durch die hessnatur stiftung bei der schaffung nachhaltiger beschaffungsstrukturen und -
+ prozesse unterstützt. mit der csi consulting service international ltd. werden qualifikationsmaß-
+ nahmen und management-prozessoptimierungen bei ausgewählten produzenten in bangladesch
+ initiiert. durch die eingeleiteten maßnahmen wird sich auch das risikomanagement der
+ produzenten verbessern, da sie zusätzlich von den potentialen ihrer effizienzsteigerungen profitie-
+ ren können.
+
+ aus diesem projekt heraus ergibt sich sowohl für adler wie auch für die für adler vor ort in den
+ beschaffungsländern tätigen agenturen ein aufbau an nachhaltigkeitskompetenz, die für die
+ weiterentwicklung anderer produzenten und beschaffungsländer genutzt werden kann.
+
+
+bündnis für nachhaltige textilien
+
+das bündnis für nachhaltige textilien, gegründet im jahr 2014, ist eine multi stakeholder initiative,
+bestehend aus vertretern der wirtschaft, zivilgesellschaft, standardorganisationen und gewerkschaf-
+ten. das bündnis, initiiert vom bundesministerium für wirtschaftliche zusammenarbeit und entwick-
+lung, soll die kraft und expertise der mitglieder bündeln, um soziale, ökologische und ökonomische
+verbesserungen entlang der textilen wertschöpfungskette zu erreichen. das textilbündnis versteht
+sich hierbei als plattform, auf der die beteiligten akteure die umsetzung der bündnisziele gemein-
+sam überprüfen, ihre erfahrungen teilen, sich über so genannte best practices austauschen und
+voneinander lernen – um auf diese weise die rahmenbedingungen in den produktionsländern zu
+verbessern.
+
+die mitglieder des textilbündnisses haben sich daher verpflichtet, einen nachweislichen beitrag zur
+verfolgung der gemeinsam gesetzten ziele zu leisten. hierzu sieht ein aktionsplan die kontinuierli-
+che fortschrittsmessung im rahmen des so genannten review-prozesses vor (baseline-erhebung
+des status quo sowie festlegung von individuellen jährlichen unternehmenszielen im rahmen einer
+roadmap). dadurch wird die zielverfolgung und -erreichung jedes mitglieds, aber auch die des
+bündnisses insgesamt überprüft. jedes mitglied erhält so feedback zum erfolg seiner maßnah-
+men und kann, ebenso wie das bündnis als ganzes, seine strategien und aktivitäten anpassen und
+weiterentwickeln. die jährlichen ziele, die sich jedes unternehmen in der roadmap setzt, werden
+von einem unabhängigen dritten einer plausibilitätsprüfung unterzogen. die erste baseline-erhebung
+sowie die roadmap 2017 wurden von den mitgliedern am 31.01.2017 abgeschlossen.
+
+adler hat das textilbündnis von beginn an begleitet und den prozess hin zu einem mehrheitsfähigen
+bündnis mitgestaltet. im juni 2015 ist adler zusammen mit den spitzenverbänden von handel und
+herstellern sowie weiteren unternehmen beigetreten. aktuelle informationen zum stand sind unter
+www.textilbuendnis.com abrufbar.
+
+die in diesem bericht beschriebenen maßnahmen des nachhaltigkeitsmanagements im bereich
+beschaffung zielen darauf ab, auch den anforderungen aus dem textilbündnis nachzukommen.
+
+
+
+                                                 23
+
+                                logistik nachhaltigkeitsbericht 2016
+
+
+
+
+logistik
+wesentlich für die geschäftstätigkeit von adler ist es, im interesse der kunden und mitarbeiter ware
+zum richtigen zeitpunkt in den filialen zur verfügung zu stellen.
+
+der reibungslose ablauf von der idee über die herstellung bis zum verkauf von waren verlangt eine
+durchdachte planung und logistik: einerseits sollen alle aktuellen kollektionen in sämtlichen verkaufs-
+stellen jederzeit verfügbar sein, andererseits sollen der hierfür erforderliche aufwand als auch die
+umweltbelastung so gering wie möglich ausfallen.
+
+beim transport und der distribution von waren ist für die stakeholder und das unternehmen
+insbesondere die emission von schadstoffen und klimagasen relevant. neben der reduktion der
+ökologischen auswirkungen auf die umwelt ist eine ökonomische und effiziente logistik für das
+unternehmen von bedeutung. daher werden in diesem handlungsfeld sowohl ökologische als auch
+ökonomische aspekte berücksichtigt.
+
+
+
+transport
+
+im produktionsland wird die ware nach der fertigung einer mengen- und qualitätskontrolle unterzo-
+gen und für den weitertransport vorbereitet. in der direktbeschaffung plant adler immer mit dem
+transport per schiff. dies dauert länger und erfordert eine bessere beschaffungsplanung, da keine
+kurzfristigen änderungen möglich sind. jedoch ist der transport mit dem schiff umweltfreundlicher
+und kostengünstiger.
+
+2016 wurden per seefracht 1.239 (2015: 1.408) containereinheiten mit adler-ware verschifft. in den
+vergangenen jahren hat adler seine transportlogistik immer weiter optimiert. durch konsolidierung
+von ware in den jeweiligen exporthäfen wird sichergestellt, dass die container ausgelastet sind, was
+transportkosten als auch co2-emissionen reduziert. da die gesamte ware von adler an ein zentra-
+les lager geliefert wird, kann die containerauslastung hoch gehalten werden.
+
+per luftfracht werden lediglich sendungen verschickt, bei denen die ware produktionsbedingt nicht
+zum vereinbarten termin geliefert werden kann. absolute pünktlichkeit ist insbesondere bei solcher
+ware von großer bedeutung, die in werbemedien von adler erscheint. hier hat die warenverfüg-
+barkeit oberste priorität. in diesen ausnahmefällen ist es notwendig, die ware zu fliegen. 2016 gab
+es 195 luftfracht-sendungen (2015: 154) mit einem gewicht von insgesamt 210 tonnen (2015: 188).
+
+
+
+zugelassener wirtschaftsbeteiligter im warenverkehr
+
+die zunehmende globalisierung und die veränderte internationale sicherheitslage haben die welt-
+zollorganisation (wzo) veranlasst, mit einem „framework of standard to secure and facilitate global
+trade“ (safe) weltweite rahmenbedingungen für ein modernes und effektives risikomanagement
+in den zollverwaltungen zu schaffen. die einführung des zugelassenen wirtschaftsbeteiligten (aeo -
+authorised economic operator) stellt ein wesentliches element des eu-sicherheitskonzepts dar.
+adler ist seit 2008 aeo-zertifiziert und damit ein zugelassener wirtschaftsbeteiligter im warenverkehr,
+was adler eine zollrechtliche vereinfachung im warenverkehr ermöglicht.
+
+
+
+distribution
+
+die in asien eingekaufte ware wird an ein zentrales lager in thüringen geliefert. der auf textile
+distribution spezialisierte logistikdienstleister blg sports & fashion logistics gmbh vereinnahmt die
+ware, unterzieht sie einer qualitätskontrolle, bereitet sie entsprechend auf und verteilt sie dann in die
+filialen in deutschland, österreich, luxemburg und der schweiz.
+
+
+
+
+                                                   24
+
+                               logistik nachhaltigkeitsbericht 2016
+
+
+
+
+umweltmanagement im warentransport
+
+über 60% der ware wird in den adler-märkten auf kleiderbügeln präsentiert. diese werden bei
+adler grundsätzlich einem kreislauf zugeführt: nach dem verkauf werden sie an einen sortierer
+gesendet, der unbeschädigte bügel wieder dem zentrallager und den lieferanten zur verfügung
+stellt. so können sie für neuware verwendet werden. beschädigte bügel werden aussortiert und zu
+granulat verarbeitet, aus dem neue kleiderbügel hergestellt werden. bis zur aussortierung durchläuft
+ein bügel den kreislauf im durchschnitt sechs mal.
+
+transportverpackungen aus pappe, papier und karton presst adler in den filialen und führt sie dem
+fachgerechten recycling zu. die abfälle aus diesen materialien beliefen sich 2016 auf 750 tonnen
+(2015: 869 tonnen). andere abfälle zur verwertung, wie anfallende verpackungsmaterialien (folie,
+füllmaterial, styropor etc.) werden gesammelt und fachgerecht entsorgt. hiervon fielen 2016 4.557
+kubikmeter an (2015: 4.673 kubikmeter). messbar sind dabei nur die abfallmengen, die adler
+selbstständig entsorgt. daher verstehen sich die zahlen ohne die standorte in einkaufszentren sowie
+einen großteil der österreichischen märkte.
+
+zur minimierung von transport- und produktverpackungen werden optimierungspotentiale regelmä-
+ßig untersucht und gemeinsam mit geschäftspartnern umgesetzt.
+
+co2 emissionen
+
+die adler modemärkte ag verantwortete im geschäftsjahr 2016 emissionen von insgesamt 28.607
+tonnen (2015: 25.734 tonnen). die jahre 2015 und 2016 dienten der dokumentation und sollen die
+grundlage für zukünftige optimierungen bilden. aktuell beschäftigt sich adler mit möglichkeiten zur
+co2 reduktion vor allem bei den standorten und dem transport von ware aus asien.
+
+
+
+
+                        emissionen in der wertschöpfungskette
+
+ die werte der co2-emissionen beziehen sich auf kalenderjahre. die kennzahlen umfassen alle direkten
+ und indirekten emissionen der tochtergesellschaften der adler modemärkte ag gemäß den interna-
+ tionalen grundsätzen und anforderungen des greenhouse gas protokolls. die umrechnungsfaktoren
+ stammen aus dem „carbon footprint - teilgutachten monitoring für den co2-ausstoß in der logistikkette“.
+
+ transportbedingte co2-emissionen
+
+ im kalenderjahr 2016 betrugen die treibhausgasemissionen bei adler durch warentransporte
+ 4.832 tonnen (2015: 2.686 tonnen). 95% der emissionen gehen auf den transport der direkt in
+ asien beauftragten waren ins logistikzentrum zurück und berechnen sich auf basis von zurückge-
+ legten tonnenkilometern. 5% der transportemissionen entstehen bei der distribution der waren
+ vom zentralen logistikzentrum in die modemärkte.
+
+ der transport und die distribution der waren wird von beauftragten dienstleistern durchgeführt und
+ fällt gemäß dem greenhouse gas protokoll unter die berichterstattung von scope 3 emissionen.
+
+ standortbedingte co2-emissionen
+
+ an den standorten und in den büros von adler entstehen co2-emissionen durch strom- und
+ wärmeverbrauch. die standortbedingten co2-emissionen, die direkt von adler verursacht wurden,
+ beliefen sich 2016 auf 23.605 tonnen (2015: 22.933 tonnen).
+
+
+
+                                                   25
+
+                              vertrieb nachhaltigkeitsbericht 2016
+
+
+
+
+ die standortbedingten emissionen entstehen durch den einsatz von brennstoffen zur beheizung
+ der filialen (scope 1) sowie aus emissionen, die in kraftwerken in verbindung mit strombezug und
+ durch den einsatz von fernwärme (scope 2).
+
+ mobilitätsbedingte co2-emissionen
+
+ basis zur berechnung von mobilitätsbedingten co2 emissionen sind die zurückgelegten personen-
+ kilometer der mitarbeiter von adler. im jahr 2016 haben sich mobilitätsbedingte emissionen von
+ 170 tonnen (2015: 115 tonnen) ergeben, die ausschließlich den geschäftstätigkeiten von adler
+ zuzurechnen sind.
+
+ mobilitätsbedingte emissionen bei adler entstehen durch den betrieb von personenkraftwagen
+ im leasing (scope 2), die ausschließlich für geschäftsfahrten verwendet werden sowie durch
+ geschäftliche reisetätigkeiten mit dem flugzeug (scope 3). firmenwagen, die neben der
+ geschäftlichen tätigkeit auch privat genutzt werden können, sind aus abgrenzungsgründen nicht
+ in der ermittlung der co2-emissionen enthalten.
+
+
+
+vertrieb
+relevanz für den bereich nachhaltigkeit
+
+bei adler entstehen insbesondere durch den strom- und wärmeverbrauch in den büros und filialen
+co2-emissionen. die reduzierung der emissionen stellt ein handlungsfeld für das nachhaltigkeitsma-
+nagement von adler dar.
+
+in zusammenarbeit mit der bauabteilung und dem technischen einkauf werden im bereich vertrieb
+maßnahmen zur reduzierung der co2-emissionen entwickelt und nach prüfung umgesetzt.
+
+
+
+vertriebsstrategie
+
+adler verfolgt im vertrieb eine multi-channel-strategie. im stationären verkauf konzentriert sich
+adler auf großflächenkonzepte, das heißt die fläche der betriebenen filialen beträgt in der regel
+mehr als 1.400 m². großzügige platzverhältnisse mit breiten gängen, geräumigen umkleidekabinen
+und ruhezonen kennzeichnen die besondere kundenorientierung der modemärkte. der vertrieb
+erfolgt über ein breites netz von (am jahresende 2016) 183 filialen in deutschland (156), österreich
+(22), der schweiz (2) und luxemburg (3) sowie über einen online-shop.
+
+die filialen liegen zum großteil in einkaufszentren und fachmarktzentren. märkte, die in randbezir-
+ken allein stehen oder sich in innenstadtlagen befinden, bilden die ausnahmen. entscheidend für
+die standortauswahl sind neben wirtschaftlichen faktoren eine gute erreichbarkeit für den kunden,
+die größe des einzugsgebietes und die entfernung zum nächstgelegenen modemarkt.
+
+energiemanagement
+
+ein ziel der nachhaltigkeitsstrategie von adler ist der klimaschutz durch die reduzierung von
+treibhausgasemissionen. mittel sind der einsatz von regenerativen energien und modernisierungs-
+maßnahmen zur reduktion des energiebedarfs an den standorten.
+
+bei allen neu eröffneten oder renovierten adler-modemärkten geht es nicht nur um ein allgemein
+ansprechendes erscheinungsbild und eine attraktive warenpräsentation, sondern auch um energie-
+effizienz. adler arbeitet mit spezialisierten firmen für heizung, klimasteuerung und lüftung zusam-
+men, um ein optimales energiemanagementkonzept vor ort zu verwirklichen. in verbindung mit
+
+
+
+
+                                                26
+
+                              vertrieb nachhaltigkeitsbericht 2016
+
+
+
+
+dem beleuchtungskonzept gilt es, ein möglichst umweltschonendes und nachhaltiges verbrauchs-
+konzept zu realisieren, das auf ambitionierten verbrauchskennzahlen pro quadratmeter basiert.
+jeder euro, der nicht für verbrauchsenergie ausgegeben werden muss, stärkt zudem die wirtschaft-
+lichkeit eines standorts.
+
+recycling von altkleidung
+
+in der zusammenarbeit mit dem i:co take-back system ermöglicht es adler seinen kunden,
+gebrauchte textilien und schuhe in den filialen zurückzugeben, damit diese einer ökologisch vorteil-
+haften weiterverwendung zugeführt werden können. für die rückgabe der ausgedienten textilien
+erhalten kunden einkaufsgutscheine für das adler-sortiment. adler kommt durch diese mit i:co
+entwickelte lösung der produktverantwortung nach und trägt aktiv dazu bei, dass wertvolle ressour-
+cen geschont werden.
+
+
+
+
+                                  erfahrung im recycling
+
+ die i:collect gmbh ist eine tochtergesellschaft der soex group. i:co ist ein take-back system
+ für gebrauchte textilien und schuhe. diese werden in zusammenarbeit mit handelspartnern
+ zurückgenommen, um eine weitere verwendung zu ermöglichen. i:co bietet die infrastruktur
+ für einen geschlossenen produktkreislauf, den so genannten closed loop, in dem konsumgüter
+ immer wieder neu aufbereitet und einer neuen verwendung zugeführt werden können. so werden
+ wertvolle rohstoffe langfristig geschont. i:co organisiert weltweit den gesamten ablauf von der
+ rücknahme bis zur wiederverwendung bzw. weiterverarbeitung.
+
+                     mehr informationen finden sie unter www.ico-spirit.com.
+
+
+
+seit adler im jahr 2009 als erstes textilunternehmen in deutschland mit i:co gestartet ist, wurden
+insgesamt 3,5 mio. kilogramm altkleider gesammelt. allein im jahr 2016 konnten davon 350 tonnen
+in den kreislauf zurückgeführt werden. mit der rückführung der altware leistet adler einen erhebli-
+chen beitrag zur einsparung von co2 und wasser.
+
+für jedes kilogramm zurückgegebener bekleidung und schuhe spendet adler zwei cent an die
+spendenplattform charitystar. jede interessierte person kann dort mitbestimmen, für welches soziale
+projekt das gesammelte geld verwendet werden soll. mehr informationen zur spendenplattform
+charitystar finden sie unter www.charitystar.com.
+
+tragetaschen aus recyceltem material
+
+adler gibt jährlich rund 8 millionen tragetaschen an kunden aus. um diese zahl zu reduzieren,
+unterstützt adler die freiwillige selbstverpflichtung der handelsverbände zur bezahlpflichtigen
+abgabe von kunststofftragetaschen im deutschen einzelhandel. seit juli 2016 verkauft adler in
+allen deutschen modemärkten tragetaschen aus kunststoff zu 10 bzw. 20 cent. die zahl der ausge-
+gebenen kunststofftaschen hat sich dadurch um ca. 30% reduziert.
+
+bei adler werden nur kunststofftragetaschen aus recyceltem material verwendet, die mit dem
+umweltsiegel „blauer engel“ ausgezeichnet sind. dadurch werden pro tasche 60% co2 im
+vergleich zu taschen aus neumaterial eingespart. zudem verlängert sich der lebenszyklus des
+plastikrohstoffes, was natürliche ressourcen schont.
+
+
+
+
+                                                27
+
+                                 vertrieb nachhaltigkeitsbericht 2016
+
+
+
+
+marketing
+
+eine anhaltend hohe kundenzufriedenheit hinsichtlich des preis-leistungs-verhältnisses sowie des
+einkaufserlebnisses sind wesentliche einflussfaktoren für den marken- und unternehmenswert von
+adler und damit essentiell, um das unternehmen dauerhaft erfolgreich weiterzuentwickeln.
+kundenzufriedenheit ist somit für alle stakeholder – vom mitarbeiter über lieferanten bis hin zum
+investor – ein zentraler aspekt nachhaltigen handelns.
+
+die klare zielgruppenfokussierung auf die „best ager“, also auf kunden ab 45 jahren, ist im zusam-
+menhang mit adlers positionierung im unteren mittelpreissegment ein alleinstellungsmerkmal im
+stationären textileinzelhandel. vor dem hintergrund des demographischen wandels in den absatz-
+märkten trägt diese positionierung langfristig zur wertsteigerung des unternehmens bei.
+
+zentrales marketinginstrument bei adler ist die beliebte adler-kundenkarte. die mithilfe der karte
+generierten informationen bilden die basis für individuelle werbe- und kundenbindungsmaßnah-
+men, womit sie einen echten wettbewerbsvorteil darstellt. weitere maßnahmen umfassen beilagen,
+mailings und systematische kundenbefragungen. von wesentlichem interesse für das unternehmen
+ist die sicherheit der kunden- und kassendaten im rahmen des datenschutzes.
+
+kundenkarte
+
+das adler-kundenkartensystem geht auf das jahr 1974 zurück und ist eines der ältesten und
+erfolgreichsten loyalitätsprogramme in deutschland. im geschäftsjahr 2016 haben rund 3,6 mio.
+kunden die karte aktiv eingesetzt, mit der insgesamt ca. 92% der umsätze erfasst wurden. pro monat
+kommen rund 40.000 neue kundenkarten hinzu.
+
+neben der kundenbindung trägt die karte auch entscheidend dazu bei, den versand von
+mailings mit blick auf inhalt, gestaltung, streuzeitpunkt und selektionskriterien zu optimieren, sprich: die
+richtigen kunden zur richtigen zeit mit den richtigen produkten zu erreichen.
+
+zudem lassen sich mithilfe der karte trends, bedürfnisse und vorlieben der kunden schnell erfassen
+und folge-kollektionen entsprechend ihrer präferenzen steuern.
+
+werbung
+
+adler hat sich bei werbemaßnahmen bislang hauptsächlich auf zwei klassische wege der kunden-
+ansprache konzentriert: zum einen auf persönlich adressierte postalische mailings an die rund sechs
+millionen kundenkarteninhaber; zum anderen auf werbebeilagen in zeitungen und zeitschriften.
+sie schaffen für stamm- wie für neukunden immer wieder anreize, die adler-filialen zu besuchen.
+
+im jahr 2016 verschickte adler mailings per postsendung mit einer gesamtauflage von 48 mio.
+stück (2015: 63 mio. stück). im selben zeitraum lag die gesamtauflage aller beilagen bei etwa 128
+mio. (2015: 183 mio.). dies entspricht einer papiermenge von 2.350 tonnen (2015: 3.900 tonnen) für
+beilagen und 950 tonnen für mailings (2015: 1.190 tonnen). die einsparung bei den auflagen konnte
+durch eine optimierte auswahl der empfänger erreicht werden. mit einer umstellung der grammatur
+von 60 auf 57 gramm flächengewicht konnte adler zudem die papiermenge reduzieren. darü-
+ber hinaus erfolgte die umstellung der beilagenpapiere auf recyclingpapier aus 100% altpapier.
+
+auszeichnung „deutschlands kundenchampions“
+
+adler wurde 2016 bereits zum neunten mal in folge mit der auszeichnung „deutschlands kunden-
+champions“ in der kategorie „unternehmen über 500 mitarbeiter“ für die hervorragende kundenbe-
+ziehung ausgezeichnet. diese auszeichnung verleihen das forum! marktforschung und die deutsche
+gesellschaft für qualität e.v. (dgq).
+
+
+
+
+                                                    28
+
+                               vertrieb nachhaltigkeitsbericht 2016
+
+
+
+
+elektronische terminals zur kundenbefragung und verbraucherpanel
+
+seit mitte 2015 sind zur besseren erfassung von kundenmeinungen flächendeckend elektronische
+terminals in den filialen installiert. das befragungssystem ermöglicht es dem kunden, anonymisiert
+feedback und anmerkungen durch standardisierte antworten oder eine freie texteingabe abzuge-
+ben. die gewonnenen informationen helfen adler, die servicequalität weiter zu verbessern.
+
+zusätzlich startete 2016 die „consumer heartbeat“-befragung als regelmäßiges unabhängiges ver-
+braucherpanel von adler- und auch wettbewerbs-kunden. sie ermöglicht unter anderem erkennt-
+nisse darüber, warum kunden bestimmte teile gekauft oder nicht gekauft haben.
+
+
+
+datenschutz
+
+die kontinuierlich steigenden anforderungen an datenschutz und informationssicherheit finden bei
+adler strenge beachtung. die konzernweit gültigen richtlinien für datenschutz regeln den schutz
+personenbezogener und sensibler unternehmensdaten vor missbräuchlichem zugriff oder diebstahl
+und definieren den umgang mit informationen.
+
+die für den datenschutz verantwortliche abteilung „revision und it-sicherheit“ ist in unterschiedlichen
+organisationseinheiten angesiedelt. der datenschutzbeauftragte des adler-konzerns wirkt auf die
+einhaltung des datenrechtes hin und berät den vorstand, die führungskräfte und mitarbeiter. die
+konzernrevision überprüft, ob die vorschriften der datenschutzrichtlinien und organisationsanweisun-
+gen eingehalten und umgesetzt werden.
+
+auch im adler-verhaltenskodex ist der umgang mit unternehmenseigentum und informationen ge-
+regelt, um ein angemessenes datenschutzniveau und die verankerung im konzern sicherzustellen.
+die handhabung der kundendaten, die bei der beantragung einer kundenkarte erhoben werden,
+regelt ein verbindlicher prozess sowie eine interne organisationsanweisung. bei jedem neuen kun-
+denkartenantrag wird mit der interessierten person eine datenschutzvereinbarung getroffen, ohne
+die keine erfassung im adler-kundeninformationssystem erfolgt.
+
+
+
+
+                                                  29
+
+                              mitarbeiter nachhaltigkeitsbericht 2016
+
+
+
+
+mitarbeiter
+adler ist ein unternehmen mit mehr als 60-jähriger tradition und verfügt über eine gewachsene
+unternehmenskultur, die auf serviceorientierung, teamgeist, kreativität, offenheit und transparenz
+beruht.
+
+die adler-mitarbeiter sind die basis für den erfolg des unternehmens. täglich bringen sie ihre fähig-
+keiten in das unternehmen ein und tragen so wesentlich dazu bei, die strategischen und operativen
+ziele von adler zu erreichen. dabei ist es im interesse des unternehmens, ein arbeitsklima zu schaf-
+fen, in dem sich die fähigkeiten der mitarbeiter entfalten können. neben den wichtigen aufgaben
+in der zentrale wird vor allem kundennähe im verkauf groß geschrieben. das richtige gespür für die
+zielgruppe ist dabei von besonderer bedeutung. ein ziel der personalarbeit des unternehmens ist es,
+die sensibilität der mitarbeiter für die jeweiligen kundenbedürfnisse zu schärfen, die kompetenzen
+weiterzuentwickeln und die motivation zu fördern.
+
+
+
+mitarbeitermanagement
+
+erfahrenes management vor ort
+
+das adler-management sorgt durch organisatorische und personelle entscheidungen dafür, dass
+die einzelnen modemärkte von erfahrenen mitarbeitern vor ort geführt werden. diese mitarbeiter sind
+auf den verkaufsflächen präsent und mit angemessenen entscheidungsfreiräumen ausgestattet.
+die geschäftsleiter sind vertraut mit den örtlichen gegebenheiten und den regionalen besonderhei-
+ten. adler konnte für die standortexpansion und das management vor ort bislang stets qualifizierte
+und erfahrene mitarbeiter aus den eigenen reihen, aber auch von wettbewerbern gewinnen.
+
+niedrige fluktuation
+
+die mitarbeiter-fluktuation ist bei adler sowohl in der zentrale als auch beim verkaufspersonal in den
+modemärkten im vergleich zu anderen einzelhandelsunternehmen sehr gering. die fluktuationsrate
+lag im berichtsjahr bei rund 13%. die niedrige fluktuation ist ein guter indikator für die einhaltung
+hoher sozialer standards und die wertschätzung der mitarbeiter für das unternehmen und umge-
+kehrt. viele mitarbeiter sind bereits seit vielen jahren im adler-konzern tätig. die durchschnittliche
+betriebszugehörigkeit liegt bei über elf jahren. durch lange betriebszugehörigkeiten zum adler-
+konzern konnten viele mitarbeiter gute beziehungen zu kunden aufbauen, was zum hohen anteil an
+stammkunden beiträgt.
+
+vielfalt bei adler
+
+adler ist ein arbeitgeber, der mitarbeiter und bewerber völlig unabhängig von nationalität,
+geschlecht, herkunft, religion, alter, behinderung oder sexueller neigung betrachtet und beurteilt.
+mit blick auf den demographischen wandel will adler alle bewerberpotenziale ausschöpfen. bei
+der auswahl stehen für das unternehmen ausschließlich fachliche qualifikationen und persönliche
+integrität im vordergrund. vielfalt innerhalb der belegschaft ist für adler ein erstrebenswertes ziel, da
+so komplementäre fähigkeiten und talente im unternehmen fruchtbar zusammenwirken können. so
+beschäftigte adler 2016 menschen aus 47 unterschiedlichen nationen.
+
+
+
+
+                                                   30
+
+                              mitarbeiter nachhaltigkeitsbericht 2016
+
+
+
+
+der frauenanteil bei adler ist seit gründung des unternehmens sehr hoch. auf der ersten und zwei-
+ten führungsebene ist etwa die hälfte der führungspositionen mit frauen besetzt. im aufsichtsrat
+stellen frauen aktuell ein drittel der mitglieder. insgesamt beträgt der frauen-anteil an der adler-
+belegschaft 90%. da viele mütter im alltag eine doppelbelastung bewältigen müssen, will adler
+die vereinbarkeit von familie und beruf durch anpassung der arbeitsbedingungen weiter verbessern.
+adler setzt sich ebenfalls dafür ein, dass menschen mit schwerbehinderung gleichberechtigt am
+arbeitsleben teilhaben können.
+
+mitarbeiterbefragung und inqa-audit
+
+bereits 2015 hatte adler eine anonyme, konzernweite mitarbeiterbefragung durchgeführt. ziel
+dieser befragung war es, mehr darüber zu erfahren, wie die führungskultur von adler aktuell gelebt
+und von der belegschaft empfunden wird. dabei sollte auch herausgefunden werden, welchen
+entwicklungsgrad die führungskultur hat und welches verbesserungspotenzial besteht. ein sehr hoher
+anteil von 74% der mitarbeiter hat an der anonymen umfrage teilgenommen.
+
+2016 hat adler zusätzlich mit dem prozess für die inqa-auditierung begonnen. das audit zukunfts-
+fähige unternehmenskultur ist ein angebot der initiative neue qualität der arbeit. im rahmen eines
+professionell begleiteten prozesses werden hierzu individuelle, betriebsspezifische aktivitäten umge-
+setzt. dabei werden sämtliche maßnahmen gemeinsam mit der belegschaft erarbeitet. ziel des
+audits ist es, unter einbindung der beschäftigten nachhaltige veränderungsprozesse in unternehmen
+und verwaltungen anzustoßen und so die arbeitsbedingungen langfristig zu verbessern und zukunfts-
+fähig zu machen.
+
+das audit zukunftsfähige unternehmenskultur ist ein angebot der initiative neue qualität der
+arbeit, wird vom bundesministerium für arbeit und soziales gefördert und von der demografieagen-
+tur für die niedersächsische wirtschaft umgesetzt. die kuratoren des audits sind: bertelsmann stiftung,
+demographie netzwerk e.v. (ddn) und das institut „great place to work“.
+
+betriebliche vorsorge
+
+die finanzielle absicherung der mitarbeiter im alter ist für adler angesichts der demographischen
+entwicklung von hoher bedeutung. deshalb bietet adler eine betriebliche altersvorsorge an, die mit
+einem arbeitgeberzuschuss gefördert wird.
+
+betriebliches vorschlagswesen
+
+im ideenpotenzial der mitarbeiter sieht adler einen wichtigen treiber für die positive entwicklung
+des unternehmens. daher fördert adler im rahmen des betrieblichen vorschlagswesens durch
+angemessene anreize gezielt das einreichen von verbesserungsvorschlägen für bestehende prozes-
+se sowie von innovativen ideen.
+
+arbeitssicherheit
+
+das thema arbeitssicherheit ist in deutschland gesetzlich geregelt und wird bei adler entsprechend
+umgesetzt. für die ausländischen töchter des konzerns gilt dies gleichermaßen unter berücksichti-
+gung der jeweiligen landesgesetze. eine fachkraft für arbeitssicherheit ist als stabsstelle beratend
+für den vorstand tätig. sie erstellt betriebsanweisungen und handbücher über arbeitssicherheit, die
+den führungskräften und mitarbeitern zur verfügung gestellt werden. darüber hinaus ist sie für die
+durchsetzung und beachtung aller vorgaben und normen zur gesundheits- und arbeitssicherheit
+zuständig.
+
+
+
+
+                                                  31
+
+                              mitarbeiter nachhaltigkeitsbericht 2016
+
+
+
+
+alle adler-modemärkte richten sich nach den neuesten standards zur gesundheits- und arbeitssi-
+cherheit. jeder modemarkt mit mehr als 20 mitarbeitern hat einen eigenen sicherheitsbeauftragten,
+der neue geschäftsleiter im bereich arbeitssicherheit schult. mängel werden dem sicherheitsbeauf-
+tragten über ein meldesystem mitgeteilt, so dass eine zeitnahe ausbesserung erfolgen kann.
+
+darüber hinaus gibt es in jedem modemarkt mindestens einen ersthelfer. die kenntnisse werden
+alle zwei jahre in lehrgängen aufgefrischt. in der adler-zentrale sind fast ein drittel aller mitarbeiter
+ausgebildete ersthelfer.
+
+alle modemärkte haben zugang zu defibrillatoren. modemärkte, die keinen direkten zugriff auf
+defibrillatoren in der umgebung (einkaufszentrum) haben, hat adler mit eigenen geräten
+ausgestattet und die mitarbeiter im umgang geschult.
+
+
+
+aus- und weiterbildung
+
+zahlreiche aus- und weiterbildungsmöglichkeiten
+
+auch in zukunft ist adler auf qualifiziertes und serviceorientiertes personal angewiesen. daher
+fördert das unternehmen den nachwuchs aus den eigenen reihen. die ausbildung bei adler
+ist grundsätzlich bedarfsorientiert. zurzeit bildet adler in folgenden berufen aus: kaufmann/-frau
+im einzelhandel, kaufmann/-frau für büromanagement, groß- und außenhandelskaufmann/-frau,
+fachinformatiker/-in, gestalter/-in für visuelles marketing.
+
+von den 336 auszubildenden und praktikanten waren am 31. dezember 2016 221 als eigene
+auszubildende beschäftigt, 65 als überbetriebliche auszubildende, sieben als auszubildende mit
+einstiegsqualifikation und 41 als praktikanten. zwei waren studenten im dualen studium in zusam-
+menarbeit mit der ldt nagold.
+
+adler bietet seinen mitarbeitern auf ihre individuellen fähigkeiten zugeschnittene weiterbildungs-
+möglichkeiten. im rahmen der mitarbeiterentwicklung ist auch ein wechsel in andere abteilungen
+oder funktionen möglich (cross functional-einsatz). darüber hinaus bietet adler aufstiegsmöglich-
+keiten innerhalb des konzerns sowie die ausweitung von aufgabengebieten und kompetenzen.
+kundenorientierung und servicemotivation der mitarbeiter im verkauf werden durch regelmäßi-
+ge schulungen trainiert. durch ein etabliertes kontrollsystem, das auf laufenden verkaufsanalysen
+basiert, kann das management das verkaufspersonal zielgerichtet schulen und weiter fördern.
+
+
+
+
+                          passgenaue weiterbildungsangebote
+
+ die möglichkeit zur betrieblichen weiterbildung setzt sich bei adler aus vielen bausteinen zusam-
+ men. im jahr 2016 lag der schwerpunkt auf den modemärkten. zum angebot gehörten z. b.:
+
+ n aus- und weiterbildung der mitarbeiter im verkauf (u.a. team-entwicklung bei neueröffnungen,
+   vom mitarbeiter zur führungskraft, verkaufspräsenz, vermeidung von ladendiebstahl und
+   inventurdifferenzen, team-moderation)
+ n führungskräfteprogramm „train the trainer“ (seit 2015): zweijährige ausbildung für geschäftsleiter,
+
+
+   die neu bei adler sind oder gerade erst geschäftsleiter geworden sind: teilnehmer tauschen
+   ihre erfahrungen unter kollegen aus und lernen z.b. konzepte zur mitarbeiterführung kennen.
+
+
+
+
+                                                   32
+
+                   gesellschaftliches engagement nachhaltigkeitsbericht 2016
+
+
+
+
+gesellschaftliches engagement
+engagement für die gesellschaft gehört seit jeher zur unternehmenskultur des adler-konzerns. die
+mitarbeiter und das unternehmen unterstützen nationale und internationale organisationen, vereine
+und projekte, deren ziel es ist, die lebensbedingungen von menschen zu verbessern.
+
+auf nationaler ebene unterstützt adler seine mitarbeiter in den filialen dabei, selbstständig regiona-
+le projekte und initiativen zu betreuen. da die mitarbeiter regional gut vernetzt und gesellschaftlich
+verankert sind, fördert adler die tätigkeiten nur organisatorisch und steuert diese projekte nicht aktiv.
+der vorstand konzentriert sich demgegenüber auf überregionale und internationale projekte.
+
+international liegt der schwerpunkt des gesellschaftlichen engagements auf bangladesch und
+indien, aus denen ein großteil der ware bezogen wird. beim besuch dieser länder gewinnen die
+einkäufer und die geschäftsleitung einen unmittelbaren eindruck davon, wo hilfe am nötigsten
+gebraucht wird. gleichzeitig macht sich adler gemeinsam mit wettbewerbern, nicht-regierungsor-
+ganisationen, verbänden und der politik für die verbesserung der lebens- und arbeitsbedingungen
+in den asiatischen beschaffungsländern stark.
+
+in diesem rahmen gehört es zur aufgabe des nachhaltigkeitsmanagements, den dialog mit
+nationalen und internationalen entwicklungspolitikern, verbänden, initiativen und gewerkschaften zu
+suchen. dieser austausch mit unterschiedlichen interessengruppen wird durch die mitgliedschaft im
+textilbündnis vereinfacht und gefördert.
+
+meena e.v.
+
+adler unterstützt den verein meena e.v. und trug maßgeblich zu dessen gründung bei. die
+ursprüngliche initiative, aus der sich später meena e.v. entwickelte, entstand aus der schnellen
+und unbürokratischen hilfe, die zeitnah nach dem einsturz des gebäudekomplexes rana plaza in
+bangladesch ins leben gerufen wurde.
+
+aus dieser ersthilfe für die opfer der katastrophe wurde ein langfristig angelegtes projekt:
+meena setzt sich für die nachhaltige unterstützung der opfer von rana plaza ein. die gründer der
+deutsch-bangladeschischen initiative haben das leiden der überlebenden vor ort miterlebt und
+daraufhin direkt und unbürokratisch notwendige hilfe geleistet. der verein organisierte die finanzi-
+ellen mittel für operationen, ärztliche behandlungen sowie gesundheitscamps und kümmert sich
+weiterhin im direkten austausch um die opfer. insbesondere mütter, die die katastrophe als schwan-
+gere erlebt haben, sowie kinder, die ein oder beide elternteile verloren haben, werden dauerhaft
+unterstützt. die finanzielle unterstützung und psychologische therapie für die opfer wird durch krea-
+tive freizeittage für die kinder und ein alphabetisierungsprogramm für junge mütter abgerundet. für
+die kinder wurde ein vorschulprogramm eingeführt. trainings zum selbstständigen schneidern und
+regelmäßige treffen mit kulturellen aktivitäten wie musizieren, tanzen und malen hilft den jungen
+frauen und kindern, wieder ins leben zurück zu finden.
+
+der nächste schritt der initiative ist das projekt aid-by-trade. in diesem zusammenhang erhalten die
+frauen die chance, sich wirtschaftlich von der finanziellen unterstützung unabhängig zu machen.
+handwerklich hergestellte produkte sollen mit hilfe von lokalen organisationen und unternehmen
+national und international vertrieben werden. dadurch bekommen die frauen wieder eine perspek-
+tive für eine unabhängige zukunft.
+
+weitere informationen finden sie online unter www.meena-support.de.
+
+
+
+
+                                                   33
+
+                    gesellschaftliches engagement nachhaltigkeitsbericht
+
+
+
+
+                                     carlotta school
+
+die carlotta school befindet sich in dhaka, bangladesch und wird von einer gruppe katholischer
+schwestern und nonnen geführt.
+die einrichtung bietet bildung für kinder, jugendliche und junge erwachsene, die aufgrund ihrer
+extremen armut nicht am öffentlichen oder privaten bildungssystem teilnehmen können. die eltern
+der schüler sind zumeist tagearbeiter ohne eigene schulbildung. sie verfügen nicht über die mittel,
+ihren eigenen kindern eine teilnahme am öffentlichen oder privaten schulunterricht zu ermöglichen.
+das programm der carlotta school fördert nachhaltig die eigenständigkeit und selbstbestimmtheit
+der menschen vor ort, indem es diesen kindern und jugendlichen zugang zu bildung verschafft.
+sie erhalten so die möglichkeit, ihr leben besser zu gestalten und aus dem teufelskreis der armut
+auszubrechen.
+
+adler unterstützt die carlotta school durch patenschaften für die schüler und spenden für größere
+anschaffungen, wie etwa 2016 die einrichtung eines computerraumes.
+
+weitere informationen finden sie online unter http://carlottacentre.blogspot.de/
+
+
+
+
+                                                34
+
+                              impressum nachhaltigkeitsbericht 2016
+
+
+
+
+impressum
+
+ansprechpartner
+
+adler modemärkte ag
+industriestraße ost 1- 7
+63808 haibach
+e-mail: nachhaltigkeit@adler.de
+
+herausgeber
+
+adler modemärkte ag
+industriestraße ost 1- 7
+63808 haibach
+telefon: +49 (0) 6021 633-0
+
+redaktion
+
+adler modemärkte ag
+industriestraße ost 1- 7
+63808 haibach
+
+konzeption & gestaltung			
+
+adler modemärkte ag
+industriestraße ost 1- 7
+63808 haibach
+
+haftungsausschluss
+
+dieser nachhaltigkeitsbericht 2016 enthält in die zukunft gerichtete aussagen zur adler modemärkte
+ag. alle diese aussagen basieren auf annahmen, welche die geschäftsführung anhand der ihr zum
+berichtszeitpunkt vorliegenden kenntnisse und informationen getroffen hat. sofern diese annahmen
+nicht oder nur teilweise eintreffen oder zusätzliche risiken eintreten, kann die tatsächliche von der
+erwarteten geschäftsentwicklung abweichen. für daraus resultierende abweichungen, für mögli-
+che redaktionelle fehler sowie für die vollständigkeit in allen gesichtspunkten übernimmt die adler
+modemärkte ag keine haftung und keine garantie. eine aktualisierung der vorrausschauenden aus-
+sagen oder eine korrektur beziehungsweise ergänzung des nachhaltigkeitsberichts 2015 ist weder
+geplant noch übernimmt die adler modemärkte ag die verpflichtung dafür. die adler modemärkte
+ag behält sich jedoch vor, diesen bericht jederzeit ohne besondere ankündigung zu aktualisieren.
+bei widersprüchen zwischen der deutschen und englischen version des berichtes gilt die deutsche
+version.
+
+
+
+
+                                                 35
+
+      adler modemärkte ag
+     industriestrasse ost 1-7
+         d-63808 haibach
+      tel.: +49 (0)6021 633-0
+www.adlermode-unternehmen.com
+    © adler modemärkte ag

@@ -1,0 +1,944 @@
+elgoscar-2000 kft.
+    frissített
+környezetvédelmi
+  nyilatkozata
+      2015. évi
+
+
+
+
+      2016. május
+
+                                 tartalomjegyzék:
+
+bemutatkozás
+    a vállalkozás fejlődése
+    a cégcsoport gazdasági alapelvei
+    referenciák
+    nagyobb munkák
+környezetvédelem
+    a cég környezetvédelmi vezetési rendszere
+    az elgoscar-2000 kft. vállalati politikája
+    a cég környezetvédelmi tevékenysége és a kármentesítési technológiák
+    további tevékenységeink
+tények és adatok a környezetvédelemben
+    jelentős környezeti hatások
+    környezeti célok és célkitűzések
+    teljesítményadatok
+környezetvédelmi program
+    környezetvédelmi program: 2015-2018
+    korábbi megvalósult programok
+    teljesítményadatok
+    kármentesítési teljesítményadatok az elmúlt három évben
+a cégcsoport fejlődésének fenntartása
+
+
+
+
+                                        2
+
+                                        bemutatkozás
+
+   az elgoscar-2000 környezettechnológiai és vízgazdálkodási kft. (elgoscar-2000
+   kft.) 2000-ben alakult. a szakember gárda magját a magyar állami eötvös loránd
+   geofizikai intézet, azon munkatársai képezik, akik még az 1993-1994 folyamán végre-
+   hajtott átszervezés folyamán megszüntetett környezetvédelmi és mérnökgeofizikai osz-
+   tály dolgozói voltak. ezek a kollégák még 1991-ben részben saját, részben amerikai tőké-
+   vel, megalapították az elgoscar international kft.-t. az elgoscar-2000 környezet-
+   technológiai és vízgazdálkodási kft. több, jól működő cég fuzionálásával, az ismert leg-
+   jobb szakemberek kiválasztásával jött létre.
+   2001-ben bevezetésre került az iso 9001:2000 minőségirányítási rendszer és 2002-ben
+   megtörtént az auditálása is. 2003-ban kiépítettük az iso 14001:2004 minőségirányítási
+   rendszert, amely 2004-ben, majd 2006-ban auditálva lett. az emas első hitelesítése
+   2006-ban történt, és hu 000003 számon lett regisztrálva.
+
+
+szervezet:       elgoscar-2000 környezettechnológiai és vízgazdálkodási kft.
+cím:             1134 budapest, klapka u. 1-3.
+telefon:         +36-1-363-7231                      e-mail:     iroda@elgoscar.eu
+fax:             +36-1-467-0188                      honlap: www.elgoscar.eu
+vezetők:         tóth gergely ügyvezető igazgató telephelyek száma:                      1
+                 stickel jános ügyvezető igazgató    alkalmazottak száma:           80
+                 barcza imréné ügyvezető igazgató ebből emas-ban résztvevők: 45
+                 schőnviszky lászló                  telefon: +36-70-319-4812
+koordinátor:
+                 mir-kir vezető                      e-mail      laszlo.schonviszky@elgoscar.eu
+egyéb adatok:    tevékenység:                        környezetvédelem
+                 teáor ’08 szerinti besorolás
+                                                     71.12 mérnöki tevékenység, tanácsadás
+                 /nace kód:
+                 regisztrációs szám:                 hu-000003
+                 lezárásának időpontja:              2016. május 19.
+                 hitelesítés időpontja:              2016. június 6-7.
+az emas-ban      központi vizsgáló laboratórium,
+részt nem vevő   8184 fűzőgyártelep
+egységek:        oktatási és kutatási központ és műszaki telephely
+                 3211 gyöngyösoroszi, ércelő 1.
+
+hitelesítő/                                 akkreditálási száma:                  hu-v-0003/2014
+                  ferjancsik zsombor
+auditor:                                    akkreditálás vonatkozó területe:           71
+
+
+   társaságunk természettudományi és műszaki kutatásokkal, és fejlesztésekkel foglalkozik. te-
+   vékenységünk súlypontja a környezetvédelem, ezen belül: környezetföldtan (hatásvizsgálat,
+   felülvizsgálat, tanácsadás), környezeti kárfelmérés (szennyezőanyagok lehatárolása és azok
+   mozgásának meghatározása a talajban és a talajvízben), környezeti elemek vizsgálata (akkre-
+   ditált mintavétel és laborvizsgálat), környezeti kármentesítés tervezése és kivitelezése, talaj-
+   mechanikai vizsgálatok és szakvélemények készítése.
+   a természettudományi és műszaki kutatások iránti elkötelezettségünk és a környezet-véde-
+   lemmel foglalkozók szakmai továbbképzése érdekében korábban három szakfolyóiratot is ki-
+   adott: a „környezetvédelmi füzetek”-et, a „biotechnológiá”-t és a „környezetvédelem” címűt.
+
+                                                 3
+
+az elgoscar-2000 kft.-nél alkalmazottak létszáma 2016 tavaszán 80, amelyből 22 dolgozó
+rendelkezik egyetemi diplomával, 23 dolgozó középfokú végzettséggel és 13 dolgozó szak-
+munkás képesítéssel. az egyetemi diplomások végzettsége: geológus, hidrogeológus, geofizi-
+kus, geográfus, környezetvédelmi mérnök, vegyész, térképész, elektromérnök, stb.
+rendszeresen továbbképzést tartunk a gyöngyösoroszi oktatási és kutatási központban, rész-
+ben saját munkatársainknak és az egyetemi oktatásban résztvevőhallgatóknak, továbbá a kör-
+nyező ipari üzemek környezetvédelmi munkatársainak.
+az elgoscar-2000 kft. egy, olyan szolgáltató cég, amely a környezetvédelem teljes verti-
+kumát felöleli és magyarországi viszonylatban a legjelentősebb ilyen vállalkozás.
+az elgoscar-2000 kft., mint magyarország egyik legsikeresebb környezetvédelmi cége a
+szénhidrogénnel szennyezett talajok és talajvizek tisztításában egyedülálló technológiával és
+kapacitással rendelkezik. 2015-ben az ország mintegy 19 pontján végzett kármentesítés során
+309 629 m3 szennyezett talajvizet tisztított meg, ami megfelel budapest közel kétnapi vízfo-
+gyasztásának, továbbá 59 979 liter szénhidrogént emelt ki a talajból, ez a mennyiség annyi,
+amit egy kéttengelyes vasúti tartálykocsi elszállít.
+
+                                   a vállalkozás fejlődése
+
+a vállalkozás fejlődését folyamatosan emelkedő árbevétele és létszáma jól tükrözi 2005-ig.
+az 1991-es megalakulást követően csekély árbevétel mellett az állandó létszám is jelentékte-
+len volt, míg a 2003. évi kiemelkedő árbevételt egy jobb év eredményezte. ezt követően
+2006-ban egy 500 millió forintos, három évvel később kifizetett számla a dinamikus fejlődést
+megtörte, amely végül a környezetvédelemben jelentős cégcsoport innovációját akadályozta.
+2008-ban a 956 mft árbevétel mellett 103,2 mft nyereség képződött, ugyanakkor 2009-ben a
+gazdasági válság hatására, az árbevétel már csak 523 mft volt és 6 mft nyereség képződött.
+2010-ben az árbevétel kis mértékben csökkent 494 mft-ra, és a nyereség, hasonlóan csökkent
+4 mft-ra, 2011-ben pedig már kis mértékben emelkedett az árbevétel, a létszám kis mértékű
+csökkentése mellett. ezen években a gazdasági pangás idejében olyan kutatásfejlesztéseket
+végeztünk, amelyek a fellendülés időszakában többszörösen visszatérülnek. 2012-ben és
+2013-ban további kis mértékű emelkedés volt, ami már a létszám növekedésében is jelentke-
+zik. 2015-ben már a létszám és a bevétel stabilizálódott. 2016-ban a cég új telephelyre költö-
+zött, ahol már együtt van a finommechanikai részleggel.
+
+                              a cégcsoport gazdasági alapelvei
+- biztosítani a töretlen fejlődést,
+- mir-kir működtetése,
+- minden munkát elvállalni, jelszó: „every day a new challenge day”,
+- gyorsan reagálni az új kihívásokra: új módszer, új műszer és új technológia,
+- a modern technológiák folyamatos kipróbálása és alkalmazása,
+- nyereség visszafordítása fejlesztésre és beruházásra,
+- több lábon állás.
+
+
+
+
+                                              4
+
+                                       referenciák
+
+az elgoscar-2000 kft. önállóan, részben a társcéggel együttműködve gyakorlatilag ma-
+gyarország számos területén tevékenykedett. az egy napos munkától egészen az évtizedet
+meghaladó időtartamú megbízások fordultak elő. az elmúlt időben közel ötszáz területen dol-
+goztunk, ezt tükrözi az évente 250-280 kimenő műszaki jelentés és szakvélemény. az alábbi
+térképen a legjelentősebb, már részben befejezett munkákat jelöltük meg:
+
+
+
+
+                                                                            felülvizsgálat
+
+                                                                             tényfeltárás
+
+                                                                            kármentesítés
+
+                                                                         mgsz, geofizika
+
+                                     nagyobb munkák:
+ egykori 121 szovjet katonai bázis környezeti tényfeltárása,
+ máv rt. 60 vasútállomás üzemanyag tároló telep környezeti tényfeltárása,
+ máv rt. 4 vasútállomás (kiskunhalas, püspökladány, keleti és nyugati pu.) kármentesítése
+ debreceni repülőtér környezeti tényfeltárása és kármentesítése,
+ hajmáskéri laktanya környezeti tényfeltárása és kármentesítése,
+ máv rt. záhony vegyianyag-átfejtő környezeti tényfeltárása és kármentesítése,
+ máv rt. vasútállomások (kiskunhalas, debrecen járműjavító) kármentesítése,
+ tvk rt. (tiszai vegyi kombinát), tiszaújváros területén tényfeltárás és kármentesítés,
+ mol rt. vezetéktörések és fúrások, okozta környezetszennyezés tényfeltárása,
+ m. honvédség területein (hetényegyháza, míg-29 baleset) tényfeltárás és kármentesítés,
+ malév rt. ferihegyi repülőtér és környezetének kármentesítése,
+ ganz-ansaldo transzformátorgyár, tápiószele teljes körű környezetvédelmi felülvizsgálata,
+ nitrokémia rt. környezeti tényfeltárása, kárrendezése és kárfelszámolási terv készítése,
+ teva rt. (korábban biogál) debrecen, környezeti kármentesítés,
+ országos mentőszolgálat telephelyein tényfeltárás és szénhidrogén tartályok felszámolása,
+ elmü rt. 49 alállomás környezeti tényfeltárása,
+ legrand magyarország rt. szentes teljes körű környezetvédelmi felülvizsgálata,
+ budapesti vegyiművek, környezeti kármentesítés,
+ tiszavasvári alkaloida tényfeltárása és kármentesítése,
+ pétfürdő kármentesítés.
+ sármellék kármentesítése.
+                                            5
+
+                                           környezetvédelem
+
+                             a cég környezetvédelmi vezetési rendszere:
+
+a céget három ügyvezető igazgató vezeti. az első ügyvezető igazgató felel a cég teljes mű-
+ködéséért és a gazdasági vezetéséért. a második ügyvezető igazgató hatáskörébe tartozik a
+szakmai iroda és a terepi tevékenység irányítása. a harmadik ügyvezető igazgató a fűzfő-
+gyártelepi környezettechnológiai laboratórium szakszerű működéséért felel, ugyanakkor a sa-
+ját felelősségi területükön mindhárman felelnek a környezetirányítási rendszer emas előírá-
+sainak betartatásáért és folyamatos javításáért is. a felső vezetésben meghatározó szerepe van
+a minőség és környezetirányítási vezetőnek, akinek hatásköre kiterjed a környezetvédelmi
+vezetési rendszer követelményeinek az emas szabvány szerinti bevezetésének, alkalmazásá-
+nak és betartásának biztosítására. aki a felső vezetés felé jelentésben köteles értékelni a kör-
+nyezetvédelmi vezetési rendszer teljesítményét és a környezetvédelmi vezetési rendszer folya-
+matos javítását.
+
+                                                                                                      munka- és
+                                            ügyvezető
+                                                                                                     tűzvédelem
+                                            igazgatók
+
+                                                                                                     könyvelő
+         minőség- és                                                       külső
+      környezetirányítási                                                megbízottak
+            vezető
+                                                                                                     bérszám-
+                                                                                                       fejtő
+
+          környezet-
+       technológiai labor                                                 titkárság,                  jogász
+         fűzfőgyártelep                                                   előkészítés
+
+
+
+
+          mintavételi                                                    számítógép                  rendszer-
+           csoport                                                        centrum                     gazda
+
+
+
+             műszaki                                                                 terepi
+                                          szakmai iroda
+           technológia                                                             üzemeltetés
+                                           témavezetők
+          főtechnológus                                                            fődiszpécser
+
+
+
+   elektromos            műszaki                 terepi             mozgó             külső                létesítés
+      labor              telephely              feltárás           szolgálat        munkahelyek          felszámolás
+
+
+
+
+                                      gépműhely                   i. sz. tp             ii. sz. tp           iii. sz. tp
+        finommechanika
+                                     gyöngyösoroszi            tiszaújváros         debrecen teva          tiszavasvári
+
+                nem része az emas-nak
+
+
+a témafelelős egy személyben felelős téma vezetéséért az árajánlat elkészítésétől a szerződés
+megkötésén keresztül, majd a tervezéstől a munka befejezéséig. jelentős részt vállal a cég kör-
+nyezetvédelmi vezetési rendszerében. tárgyal a megbízóval, az alvállalkozókkal és minősíte-
+nie kell az alvállalkozókat és beszállítókat minőségi és környezetvédelmi szempontok alapján
+is. kötelessége és felelőssége meggyőződni a szabványok és jogszabályok felhasználás előtti
+érvényességéről. a tevékenységgel kapcsolatos jelentős környezeti hatásokat meg kell vizs-
+gálnia és értékelnie, mindet el kell követnie a környezeti terhelés csökkentése érdekében. a
+cég valamennyi alkalmazottja megismerte és elfogadta a környezetirányítási rendszert, en-
+
+
+                                                           6
+
+nek megfelelően működését figyelemmel kíséri, és javaslataival hozzájárul annak folyamatos
+javításához.
+a cég környezetvédelmi, szakmai és tudományos prioritásának kialakítására félévente a cég-
+vezetés belső továbbképzést, feladatismertető fórumot tart. a rendezvény keretében a jelentő-
+sebb témákról beszámolót tartunk és értékeljük a munkatárs tevékenységét.
+a cég szervezeti felépítése tükrözi a társaság műszaki, minőség- és környezetirányítási rend-
+szerének működését.
+a cég elkötelezett az idevonatkozó hatályos jogszabályok (törvények, rendeletek, szabvá-
+nyok) betartásában és betartatásában. ennek érdekében a nemzeti jogszabálytárat on-line
+rendszeresen használjuk.
+ez úton deklaráljuk, hogy az elgoscar-2000 környezettechnológiai és vízgaz-
+dál-kodási kft.-nek nincs környezeti nem-megfelelősége és nincs tudomásunk a szerveze-
+tére vonatkozó folyamatban lévő elmarasztaló hatósági határozatról vagy bírósági ítélet-
+tel megállapított környezetvédelmi, illetve természetvédelmi kötelezettségről.
+a cég az anyagi forrásainak figyelembevételével minden évben közel egy millió forintot juttat
+egészségügyi, kulturális és sport célú alapítványoknak. ha szerényen is, de támogatni szeretné
+a civil szervezeteken keresztül az ország fejlődését.
+
+
+
+
+az elgoscar-2000 kft.-t 2005 márciusában, genfben (svájc) az “international award for
+technology and quality” (nemzetközi technológiai és minőségi díj) díjjal jutalmazták az in-
+terneten megjelent hazai és külföldi biológiai kármentesítési eredményei alapján. ezt követő-
+en több nemzetközi kármentesítési munkát sikerült elnyernünk.
+2009-ben stockholmban, majd 2010-ben brüsszelben kapta meg az elgoscar-2000 kft.
+az emas award díjat.
+
+
+
+
+                                             7
+
+                az elgoscar-2000 kft. vállalati politikája
+társaságunk természettudományi és műszaki kutatásokkal, ezen belül földtani, vízföldtani, geo-
+fizikai, talajmechanikai és környezetvédelmi módszerek kutatásával, fejlesztésével, és gyakorlati
+megvalósításával és anyagvizsgálattal foglalkozik. elkötelezzük magunkat, hogy környezettuda-
+tos magatartásunkkal megfeleljünk a vevői, jogszabályi, szakmai és egyéb követelményeknek, il-
+letve ügyfeleink elégedettségét folyamatosan növeljük. ezt a célt a szolgáltatás minőségi színvo -
+nalának állandó emelésével és a környezeti szempontok fokozottabb érvényesítésével kívánjuk
+elérni, a munkatársak folyamatos szakmai és munkavédelmi továbbképzése mellett külső szak-
+emberek bevonásával. bővítjük a képesítéshez kötött továbbképzéseket és a szakmunkás tovább-
+képzéseket a vonatkozó jogszabályok és szakmai előírásoknak megfelelően.
+céljaink eléréséhez az alábbi eszközöket vesszük igénybe:
+  szolgáltatási tevékenységeinkre kialakítjuk, működtetjük, és folyamatosan fejlesztjük az
+   iso 9001:2009, az iso 14001:2004 és az bs ohsas 18001:2007 szabványoknak megfe-
+   lelő minőség-és környezet- és munkahelyi egészségvédelem- és biztonságirányítási rend-
+   szereket, amelyeket független szervezet tanúsít.
+  megrendelőink igényeinek jobb kielégítése és a vevőkör szélesítése érdekében tevékeny-
+   ségeinket, eszközállományunkat folyamatosan bővítjük, korszerűsítjük. a tevékenységünk
+   során törekszünk a környezetkímélő technológiák alkalmazására, miközben megfelelünk a
+   hatályos jogszabályoknak, valamint a hatósági és megrendelői követelményeknek.
+  szolgáltatásaink és a hozzákapcsolódó termékeink minőségét a szükséges erőforrások biz-
+   tosításával, a megrendelői igények rugalmas kezelésével, a munkavégzés vezetői ellenőr-
+   zésével, a megrendelői észrevételek, panaszok tapasztalatainak a munkafolyamatba törté-
+   nő visszacsatolásával, a minőségirányítási rendszer előírásainak betartásával biztosítjuk.
+  a működésünkből eredően céljainkat és célkitűzéseinket összhangba hozzuk, amely nem
+   csak a környezetszennyezés megelőzése, hanem a szennyeződés elkerülésének folyamatos
+   javulása és a mások által okozott környezeti károk felmérése és mentesítése.
+  tevékenységünk megtervezésénél, a fejlesztés irányainak meghatározásánál alapvetőnek
+   tekintjük, hogy szolgáltatásaink minőségi színvonala és környezettudatosságunk javuljon.
+   környezeti célunk, hogy szolgáltató tevékenységünket csökkenő fajlagos ráfordítás mel-
+   lett érjük el. ugyanakkor törekszünk a munkahelyi egészségvédelmi előírásokat teljes
+   mértékben betartani és munkatársainkkal betartatni.
+  beszállítóinkat folyamatosan értékeljük, elemezzük, valamint arra ösztönözzük, hogy te-
+   vékenységüket a legmagasabb minőségi követelmények, a környezetvédelem és a munka-
+   egészségügyi előírások figyelembevételével végezzék.
+  munkatársainktól elvárjuk, hogy folyamatos képzéssel, önképzéssel fejlesszék tudásukat,
+   képességeiket és javaslataikkal segítsék céljaink elérését, biztosítjuk az ehhez szükséges
+   feltételeket.
+  biztosítjuk, hogy vállalati politikánkat szervezetünk minden szintjén megértsék, elfogad-
+   ják, és hogy munkatársaink természetes igényévé váljon a minőségi és környezettudatos
+   munkavégzés, a kezdeményezés a minőség és környezetünk állapotának javítására.
+
+             környezetvédelem ― a tisztább jövőért dolgozunk!
+budapest, 2016. 04. 14.
+
+  ……..……………………………                                               …………………………………..
+        tóth gergely                                                 stickel jános
+      ügyvezető igazgató                                           ügyvezető igazgató
+
+
+
+
+                                               8
+
+         a cég környezetvédelmi tevékenysége és a kármentesítési technológiák:
+
+a cég olyan speciális szolgáltatást nyújt, amely a mások által elszennyezett talajokat és talaj-
+vizeket tisztítja, oly módon, hogy önmaga nem szennyez és a mentesítés során is arra törek-
+szik, hogy ezzel újabb szennyezés ne jöjjön létre, másrészt a mentesítéshez felhasznált energia
+folyamatosan csökkenjen, a tisztítási technológiák alkalmazásával a hulladékképződés meg-
+előzhető legyen.
+tényfeltárás:
+a tevékenység a környezeti kár felmérésével, a tényfeltárással kezdődik. lehetőség szerint
+maximális mértékben alkalmazzuk a környezetre semmiféle káros hatást nem gyakorló geofi-
+zikai módszereket: különböző geoelektromos módszerek mellett a mérnökgeofizikai szondá-
+zást. ez a szonda nagy nyomással hatol be a talajba, ahol geofizikai módszerekkel tárja fel a
+földtani szerkezetet és a vízföldtani viszonyokat is. a módszer környezetvédelmi szempontból
+kiválóan alkalmas, mivel akkor sem alakul ki több réteg összekapcsolódása, ha a szonda több
+réteget harántolt. az így megismert földtani szerkezetben végzett mintavételező fúrásokkal
+már elkerülhető a réteg összekapcsolódás. a geofizikai mérések eredményei alapján optimali-
+zálható a mintavétel helye; a roncsolás mentes rétegszelvény 10 cm-es felbontással minden ré-
+teget pontosan kijelöl. ezt követően lehet elkészíteni a környezeti kármentesítési tervet.
+
+
+
+
+kármentesítés:
+kármentesítéskor a figyelő és a szennyezett víz kitermelésére létesítendő kutakat szárazfú-
+rással, védőcsöves technológiával készítjük. így az öblítő iszap használata nem szükséges,
+amely veszélyes hulladékképződéssel járna.
+a szennyezett talajvíz kitermelésekor kettős szivattyúrendszert használunk, külön szivattyúval
+termeljük ki a talajvizet és víz tetején úszó úgynevezett felúszó szabad fázisú szénhidrogént.
+a kettős szivattyúrendszer alkalmazásával kizárható a felúszó önálló fázisú szénhidrogén
+emulziós bekeverése; és így megelőzhető a talajvíz emulziós terhelése, vízszennyezettség
+mértékének növelése.
+a felúszó szénhidrogént geotech típusú lefölöző szivattyúk, túltöltés-gátlóval védett hordóba
+vagy tartályba továbbítják. a tartályok, hordók a veszélyes hulladék tárolását szabályozó ren-
+deleteknek megfelelően kármentővel, tetővel védett kivitelben készülnek. a szennyezett talaj-
+                                              9
+
+vizet és felúszó szénhidrogént kitermelő szivattyúk folyamatos működését, az elgodiszp
+számítógépes adatnyilvántartó és felügyelő rendszer rögzíti. ez a folyamatos nyilvántartás se-
+gíti a megbízót a szennyező források és az újraszennyeződések azonnali feltárásában, elhárí-
+tásában. így lehetővé vált minden egyes köbméter kitermelt szennyezett talajvíz és minden
+egyes kitermelt liter szénhidrogén számítógépes naplózása és nyilvántartása.
+az elgodiszp rendszer első alkalommal a záhonyi vegyianyag-átfejtő telepen került
+üzembe helyezésre. a rendszer feladata az volt, hogy növelje mind a kárelhárítás, mind pedig
+a beépített berendezések használatának hatékonyságát. az elgodiszp rendszer tökéletesí-
+tett változata az első rendszer üzemeltetésénél szerzett tapasztalatok alapján került megépítés-
+re és a tiszai vegyi kombinát olefin üzemében lévő vasúti töltő és lefejtő állomásnál létesí-
+tett 16 db termelő kútnál 2001 óta, a vésztározó és tartálypark üzemnél lévő 46 db talajvíz
+szivattyúnál pedig 2003 decembere óta üzemel. hasonló rendszer működik 2003. decembere
+óta a teva/biogal rt területén a kárelhárításnál üzemelő 22 pár talajvíz szivattyúnál. a
+kibővített elgodiszp rendszer hetényegyházán, és a budapesti vegyiművek illatos úti tele-
+pén pedig 70 db tisztító kútnál üzemel. majd 2011-től a tiszavasvári alkaloida művek terüle-
+tén kezdtük el a kármentesítést kezdettben 42 termelőkúttal, amit később 100-ra emeltünk. je-
+lenleg tiszavasvári, sármellék, szolnok és a nitrogén művek területén végzünk kármentesí-
+tést.
+a kitermelt felúszó szénhidrogén veszélyes hulladéknak minősül, amelynek az energiaterme-
+lésben történő hasznosítását esetenként folyamatosan keressük.
+a szennyezett talajvizet alsó-felső szintvezérelt, speciális, környezetvédelemben használható
+grundfos u. n. „e” (environment) szivattyúkkal termeljük ki. a kutakba a vízszint pontos be-
+állítását szintvezérlőkkel és korábban a felszínen található tolózár fojtásával állítottuk be.
+energia racionalizálás és energiatakarékossági okokból frekvenciaszabályozóval ellátott szi-
+vattyúk alkalmazását kezdjük bevezetni, amelyekkel a víz kitermelése és a kút vízszint beállí-
+tása fokozatmentesen történhet.
+
+
+
+
+a kiszivattyúzott, szennyezett víz a vízkezelőbe kerül, míg a lefölözött szénhidrogén tároló
+tartályokba, ezek utóbbiak gondatlan kezelése (tárolása, átfejtése) jelenti a legnagyobb kör-
+nyezeti kockázatot. a kezelés biztonságát növeli a matasorb szénhidrogén felitató paplan,
+amely csak a szénhidrogént itatja fel akár a víz tetején úszva anélkül, hogy a vizet magába
+szívná. a matasorb paplanból a szénhidrogén kifacsarható és újra felhasználható.
+a kutakból kitermelt talajvizet a szennyeződés összetétele és koncentrációja alapján ki-válasz-
+tott víztisztítóval kezeljük. a víztisztító berendezés főbb részei és működési elve a következő:
+
+
+
+                                              10
+
+a termelő kutakból a szennyezett víz a homokfogó, emulzió leválasztó tartályba folyik. ezek
+térfogatát úgy határozzuk meg, hogy a talajvíz tartózkodási ideje a tartályban minimum
+40 perc legyen. ennyi idő kell ahhoz, hogy a vízben, az emulziós fázisban meglévő szén-hid-
+rogén kiváljon (felúszón) és a mechanikus szennyeződések (iszap, kémiai üledékek) kiüleped-
+jenek. a kivált, felúszó szénhidrogént speciális, újra hasznosítható (15-20 alkalommal) hidro-
+fób anyagú lefölöző paplannal (matasorb®) itatjuk fel. a tartály alján 50-100 mg iszap válik ki
+vízköbméterenként. a kút szűrővázának pontos méretezésével és a vízszivattyú felesleges új-
+raindításával az iszap mennyisége csökkenthető. az iszap eltávolításakor meg kell vizsgálni
+annak veszélyességét, mivel a vas- és mangán-hidroxid kiülepedésekor gyakran szerves
+szennyezőanyag is adszorbeálódik a kémiai iszap felületén.
+az emulzió leválasztó, homokfogó tartályokban szintvezérelt átemelő szivattyúk működnek,
+amelyek a vizet a következő tisztító fokozatba a strippelő toronyba nyomják. általában 3 db
+átemelő vízszivattyú működik, amelyek teljesítményét a vízhozamtól függően határozzuk meg
+és működésüket a szintvezérlők, szabályoz-
+zák. a szivattyúk teljesítményét a rend-szer-
+kezelők tolózárral szabályozzák. nagyobb
+teljesítményű (3-5 kw) vízszivattyúk esetén
+a víz mennyiségét frekvenciaváltós szabá-
+lyozóval állítjuk be. a frekvenciaváltós
+szabályozórendszer elterjesztésével jelen-
+tősen csökkenthető a túltöltésből származó
+környezeti kockázat. ilyen rendszer műkö-
+dik jelenleg a tvk rt., a biogal (teva)
+rt., tiszavasvári és sármellék területén fo-
+lyó kármentesítési munkáknál.
+a víz tisztítása az ellenáramú töltetes torony
+(air stripper) működésén alapul, amelyekben
+a c5-c18 szénatom számú alifás és az aromás
+szén-hidrogén vonható ki. méretezésénél a
+szennyező szénhidrogének milyenségét,
+mennyiségét és arányát kell figyelembe ven-
+ni. a tisztítandó talajvíz a torony tetején ke-
+rül bevezetésre, ahol egy vízelosztó rendszer
+van, majd egymástól 1-1 méter távolságban
+elhelyezett lantec gyártmányú cseppkép-
+ző felületen történik a víz porlasztása. a
+vízzel ellenáramban levegőt áramoltatunk,
+amely a vízcseppekből elpárolgó szénhidro-
+géneket magával viszi. a levegő-víz arányát kísérleti mérésekkel határoztuk meg, egy köbmé-
+ter erősen szennyezett vízre 50-55 m3 levegőt számolunk, kevésbé szennyezett vízre 15-25 m3-
+t. a strippelő tornyokat rendszeresen karban kell tartani, mivel a lantec betéteken a vízkő,
+vas- és mangán-hidroxid kirakódásokat okoz, amelyek jelentősen lerontják a tisztítás hatásfo-
+kát.
+a kezelés végén az átszívott levegő telítődik illékony szénhidrogénnel, ami nem bocsátható ki
+a légkörbe, ezért ezt a levegőt egy aktív szénnel töltött szűrőn kell keresztül vezetni, így az ak-
+tív szén veszélyes hulladékká válik, amelyet regenerálni, vagy hulladékégetőben kell elégetni.
+a kutakból lefejtett szénhidrogént átadjuk a megbízónak a veszélyes hulladékkezelés szabá-
+lyainak megfelelően. az aktív szén regenerálását, illetve égetését a gyártó végzi, oly módon,
+hogy az elhasználtat újra cseréli.
+
+
+
+                                                11
+
+szénhidrogén kezelése uv reaktorokkal:
+most megkezdett technológiai fejlesztés keretében kísérleteket végzünk a szennyezett levegő
+és víz uv fényt sugárzó reaktorokkal való kezelésére, amely hatására a veszélyes hulladékból
+víz és szén-dioxid keletkezik. a módszer beruházási költsége magasabb, mint az illékony
+szénhidrogének aktív szénnel történő megkötése, de üzemeltetési költsége kedvezőbb és nem
+jár veszélyes hulladékképződéssel.
+az elgoscar-2000 kft. által végzett kármentesítések változó területeken és különböző
+ideig, emellett a mentesítés más földtani, más vízföldtani és más szennyezési viszonyok között
+történik. ezért az úgy nevezett környezetvédelmi indikátorokat csak egy-egy mentesítési terü-
+leten belül vagy fajlagos adatokkal lehet összehasonlítani. ebből következik, hogy területen-
+ként különböző a villamos energia felhasználás és más a kitermelt szennyezett víz és a kiter-
+melt felúszó szénhidrogén aránya is. így a kitűzött környezeti célok megfogalmazása lehet
+azonos, de a mérhető célkitűzések mentesítési területenként változóak. olyan fajlagos teljesít-
+ményadatok használhatók csak, amelyek úgy a különböző mentesítési területektől, mint a
+mentesítendő anyagtól függetlenül konkrét összehasonlítást tesznek lehetővé.
+további tevékenységeink
+kármentesítő berendezések gyártása:
+a kármentesítési tevékenységhez berendezések tervezése és gyártása is kapcsolódik, kizárólag
+saját felhasználási célból. magunk gyártjuk a vízkezelő rendszereket, valamint az elektronikus
+vízkezelő- és kútvezérlőket. a vízkezelők gyártása a gyöngyösoroszi műszaki telephelyen fo-
+lyik, ami elsősorban lakatos munkából és festésből áll. az elektronikus vezérlők tervezése, be-
+mérése és ellenőrzése a központi elektromos laborban, míg az összeszerelése alvállalkozói te-
+vékenység. ezek a tevékenységek nem rendszeresek, hanem a mentesítések mennyiségétől
+függnek.
+egyéb tevékenység:
+a környezetvédelmi tevékenység mellett a cég kiegészítés képen talajmechanikai vizsgálato-
+kat is végez épületek alapozása és útépítési céllal, valamint kis mélységű földtani kutatásokat
+is folytat. részt vettünk a bátapáti nukleáris hulladéklerakó földtani kutatásában is. majd a
+2010-es kolontár és környékén bekövetkezett vörösiszap szennyezés után környezeti hatás-
+vizsgálatot és katasztrófavédelmi tervet készítettünk. a nitrogénművek zrt. (pétfürdő) salak-
+gyári rekultivációját végeztük el.
+a központi vizsgáló laboratórium a megvett talaj és talajvíz minták vizsgálatát végzi a leg-
+modernebb technológiával és berendezésekkel.
+
+
+
+
+                                              12
+
+                tények és adatok a környezetvédelemben
+
+                                jelentős környezeti hatások
+
+társaságunk a környezeti hatások értékelését öt alapvető szempont szerint végzi el:
+
+1. jogi és egyéb követelmények:
+    a: van jogi vagy egyéb követelmény, amelynek jelenleg nem felel meg a tényező,
+    b: van jogi vagy egyéb követelmény, melynek megfelel a tényező,
+    c: nincs jogi vagy egyéb követelmény.
+2. környezetszennyezés valószínűsége:
+    a: normál működés esetén környezetszennyezés áll fenn,
+    b: előírástól eltérő tevékenység, gondatlanság esetén bekövetkező környezetszennyezés,
+    c: vészhelyzet miatt bekövetkező környezetszennyezés.
+3. környezeti hatás súlyossága:
+    a: környezetterhelés,
+    b: környezetszennyezés nélkül elhárítható hatás,
+    c: környezeti hatás jelentős vagy azzá válhat.
+4. a környezeti tényezővel kapcsolatos tevékenység felügyelete
+    a: nem áll rendelkezésre kialakított megfigyelési gyakorlat vagy írott szabályozás, vagy a
+        rendelkezésre álló írott szabályozás végrehajtása vagy a folyamat felügyelete nem
+        megfelelő
+    b: rendelkezésre áll írott szabályozás de végrehajtása vagy a folyamat felügyelete nem
+        valósul meg folyamatosan
+    c: a folyamat szabályozott, a szabályozás végrehajtott megfigyelés alatt tartott
+5. érdekelt felek elvárásai:
+    a: folyamatos elégedetlenség valamely érdekelt fél részéről
+    b: elégedetlenség valamely érdekelt fél részéről
+    c: nincs negatív észrevétel az érdekelt felek részéről
+bármely kategóriában az értékelésnél „a” minősítést kapott minden tényező jelentős.
+
+a közvetlen és a közvetett hatások értékelését egyaránt a fenti szempontok szerint végezzük.
+a cég alapvető szolgáltatása a korábbi jelentős környezeti hatást jelentő szennyezett talajok
+és talajvizek kármentesítése, ezen tevékenység során jelentkező járulékos környezeti hatások
+jelentéktelenek. a cég megbízóval kötött szerződésben rögzített igényeinek, illetve a hatósági
+határozatoknak megfelelően végzi tevékenységét. amennyiben tevékenysége olyan környe-
+zeti hatással jár, amely a lakosságot zavarná, úgy erről tájékoztatást ad. mivel a mentesítési
+tevékenység általában ipartelepeken, gyárak területén történik – amelyek a szennyezést elő-
+idézték – ezért ez a tevékenység a gyakorlatban a lakosságot nem zavarja. beszerzésből
+egyetlen veszélyes anyag kerül a céghez: a festék. amennyiben a technológiában módosítás
+történne, akkor a hozzákapcsolódó környezeti hatásokat is felülvizsgáljuk, és szükség szerint
+kiegészítjük.
+a kármentesítési területeken működő vízkezelő rendszer az illékony szénhidrogéneket kivon-
+ja a szennyezett talajvízből, ennek jelentős környezeti hatása van, amely nem juthat a légtérbe
+ezért gondoskodni kell ennek megakadályozásáról.
+kármentesítéskor a talajból kitermelt szénhidrogének kezelése (gyűjtés, átfejtés, szállítás)
+csak műszaki baleset esetén járhat jelentős környezeti hatással, ha a szennyezés a talajba és a
+talajvízbe jut.
+jelentős közvetett környezeti hatással járhat, ha a szennyezett területeken végzett fúrási tevé-
+kenység során a technológiát nem tartják be. ugyanis a vízzáró agyagréteg esetleges átfúrásá-
+val réteg összekapcsolás jön létre, amelynek következtében a felső szennyezett talajvíz lejut-
+hat az alatta lévő tiszta rétegvízbe.
+
+                                               13
+
+ legjelentősebb tényezők                        hatások                         mértéke
+veszélyes hulladékok kezelése         talajvíz és talajszennyeződés             jelentős
+    mintavételező fúrás                  réteg-összekapcsolás                   jelentős
+            árvíz                      talajvíz és talajszennyezés              jelentős
+      kármentesítéskor                    energia felhasználás                  jelentős
+kármentesítéskor az alábbi hatásokkal kel számolni: légszennyezés, talaj-és talajvíz-szennye-
+zés, veszélyes hulladék keletkezésével és jelentős villamos energia felhasználással, ami kör-
+nyezetterhelést jelent.
+a cég alapelve, hogy nyílt párbeszédet folytasson a lakossággal és más érdekelt felekkel, bele-
+értve a helyi közösségeket, ügyfeleket és hatóságot is, a tevékenysége, a termékei és a szolgál-
+tatásai környezeti hatásairól, a lakosságot és más érdekelt feleket érintő kérdések feltárása ér-
+dekében. figyelembe kell venni azt a tényt, hogy az általunk végzett kármentesítés legtöbb
+esetben olyan ipartelepen történik, ahol legtöbbször még nem tudták teljes mértékben megállí-
+tani a levegő, a talaj- és a talajvízszennyezést. így a kármentesítéssel járó környezeti hatást
+sem az ott dolgozók sem a lakosság nem érzékeli. kivételt képez az a kevés eset, amikor már
+az ipari tevékenység megszűnt, amikor alapvető érdekünk, hogy a kármentesítés hatásairól tá-
+jékoztassuk a lakosságot. bár olyan eset is volt, amikor a lakosság azért vette rossznéven a
+kármentesítést, mert a gázolajjal szennyezett kútjaikból elszívtuk az addig fűtésre használt
+gázolajat.
+                              környezeti célok és előirányzatok
+
+a környezeti célok és előirányzatok összhangban vannak a környezeti tényezőkkel. a célok és
+célkitűzéseink a környezeti hatást nem csak mérséklik, hanem elsősorban annak folyamatos
+teljes megszüntetésére vagy kiküszöbölésére törekszünk. a műszaki és technológia fejleszté-
+seink egy része is a folyamatos javítás érdekeit szolgálja. a lehetőségek szerint törekszünk a
+célkitűzések konkrét mérhető meghatározására.
+a vízkezeléskor kivont illékony szénhidrogéneket korábban csak aktív szenes szűrökkel kö-
+töttük meg, amelyeket esetenként regenerálásra küldtünk. a célok között szerepel az uv bon-
+tás, illetve égetés. célkitűzés, hogy a további műszaki fejlesztés keretében ezeket a kísérleti
+méréseket és értékeléseket befejezzük és a nagyobb kármentesítési területeken uv bontókat
+szerelünk fel, ez által az aktív szén felhasználását 1,5-2,0%-kal tudjuk csökkenteni.
+a kitermelt szénhidrogének kezelésénél a technológia betartása esetén elcsöpögés nem jöhet
+létre, csak műszaki baleset vagy gondatlanság okozhat környezeti szennyezést, ezért a célkitű-
+zés, hogy ismételten felülvizsgáljuk a kezelés menetét, további olajfogó tálcákat rendszeresí-
+tünk, majd a technológia módosítása esetén oktatást tartunk.
+a fúrások alkalmával az a cél, hogy a réteg összekapcsolások számát csökkentsük, ezért célul
+tűztük ki, hogy a réteg összekapcsolások számát meg kívánjuk szüntetni. ezt úgy szándékoz-
+zuk elérni, hogy minden kritikus területen előzetes geofizikai méréseket, vagy mérnökgeofizi-
+kai szondázást végzünk a vízzáró agyagréteg mélyégbeli helyzetének felderítésére.
+cél a berendezések, mintavevők és műszerek tisztításához használt rongyok mennyiségének
+csökkentése. a célkitűzés a tisztításra használt rongyok mennyiségének 3,5%-os csökkentése.
+az olajos rongyokat veszélyes hulladékként kezeljük. ennek érdekében több helyen mata-
+sorbc olajfelitató paplant használunk, amely kifacsarása után többször felhasználható. a na-
+gyobb mentesítési területeken centrifugát használunk a kifacsaráshoz, ezáltal 10%-os megta-
+karítást tűztünk ki célul.
+festésnél a felhasznált anyag mennyiségét csökkentjük. a kitűzött cél 3%-al kevesebb festék
+felhasználása, amit a festendő felületek előzetes kezelésével vagy előkezelt anyagok felhasz-
+nálásával kívánunk elérni. a kiürült festékes dobozokat veszélyes hulladékként kezeljük.
+
+
+                                               14
+
+a villamos energia felhasználás csökkentése, a célkitűzés évente területtől függően 0-3,5%-os
+csökkentés, amit részben jobb hatásfokú szivattyúmotorokkal és frekvenciaváltós szabályo-
+zókkal, illetve a kitermelés optimalizálásával szándékozunk megvalósítani. ennek megvalósí-
+tása a földtani viszonyoktól és a szennyező anyag típusától függ, tehát területfüggő, ezért ezen
+célkitűzéseket egyenként és területenként kell értékelni.
+a telephelyeken a parkok locsolása már esővízzel történik, így gyöngyösorosziban az össze-
+gyűjtött csapadékvizet használjuk, a fűzfői laborban, a területen feltörő forrásvizet tudjuk lo-
+csolásra felhasználni. ezáltal az ivóvizet csak kommunális és laboratóriumi célra használjuk
+fel.
+
+
+
+
+                          környezetvédelmi program
+az elgoscar-2000 kft. környezetvédelmi elkötelezettségéből adódóan az alábbi célkitűzé-
+seket folyamatosan szem előtt tarja:
+     -a mentesítéskor kitermelt veszélyes hulladék fokozott gondoskodással történő kezelése
+     -mentesítéskor a szénhidrogén elcsöpögés csökkentése,
+     -mentesítéskor a víztisztítóból távozó illékony szénhidrogén mennyiségének csökkentése,
+     -jobb hatásfokú szivattyúk és frekvenciaváltók alkalmazása,
+     -előadások tartása környezetvédelmi konferenciákon,
+     -környezetvédelmi oktatás a soproni, a veszprémi, a budapesti és a miskolci egyetemen,
+     -szakfolyóiratok kiadása,
+     -a cégcsoport környezetirányítási rendszerének összehangolása.
+az elgoscar-2000 kft. környezetvédelmi programját a környezeti tényezők és hatások
+analizálása és környezetvédelmi célból történő súlyozása alapján fogalmazhattuk meg. ez a
+környezetvédelmi program intézkedései a cégcsoport környezetvédelmi teljesítményének javí-
+tását szolgálják. a 2015-2018. évi időszakra vonatkozó környezetvédelmi program az alábbi-
+akban látható:
+
+
+
+
+                                              15
+
+                            környezetvédelmi program: 2015-2018
+
+                                                                    költ-                   határ- telje-
+környezetvédelmi cél                  intézkedés                     ség      felelős        idő    sítés
+                                                                    (eft)                   év. hó %-ban
+hulladékgazdálkodás
+a környezetbarát irodai   leghatékonyabb erőforrás felhasz-                  kapcsos
+                                                                     25                     2016.12    80
+működés bevezetése        nálás kidolgozása                                   barbara
+megelőző környezetvéde-   hulladék minimalizálásának kidol-                   kurfis
+                                                                     50                     2017.06.   50
+lem                       gozása                                             krisztina
+víz-minőségvédelem
+                          szénhidrogén elcsöpögés megakadá-
+megelőző környezetvéde-                                                                     folya-
+                          lyozása: további olajfogó tálcák tele-     220    témavezetők                100
+lem                                                                                         matos
+                          pítése, kézi kanlazás korszerűsítése
+levegőtisztaság-védelem
+                          víztisztításkor az uv szénhidrogén
+megelőző környezetvéde-
+                          bontás aránya az összes tisztított víz-    500    stickel jános   2018.12.   11,7
+lem
+                          hez viszonyítva, éves átlagban
+erőforrások
+                          felhasznált villamos energia csök-
+megelőző környezetvéde-   kentése, 300 w feletti frekvencia
+                                                                     600    stickel jános   2018.12    80
+lem                       szabályzót használó és anélküli víz-
+                          szivattyúk aránya, éves átlagban
+külső és belső kommuni-
+káció
+                          évente egy alkalommal szakmai na-                 schőnviszky
+belső kommunikáció                                                   25                     évente     100
+                          pok és előadások tartása                            lászló
+                          részvétel környezetvédelmi konfe-
+                          renciákon és bemutató kiállításokon:              schőnviszky
+külső kommunikáció                                                   500                    évente     60
+                          románia, ukrajna és a volt jugo-                    lászló.
+                          szláv utódállamokban
+
+                                korábbi megvalósult programok
+
+uv bontók felszerelése,
+olajfogó tálcák felszerelése,
+használt toner patronok cseréje vásárláskor.
+mintavételi üvegek és edények tisztítása többszöri felhasználás céljából.
+a hulladékgazdálkodási koncepció felülvizsgálata.
+
+ „alapmutatók és más fontos környezeti teljesítménymutatók
+
+                                              alapmutatók
+
+az elgoscar-2000 kft. speciális helyzetben van az emas esetében, amely az alapmuta-
+tók megjelenítése szempontjából eltérő összehasonlítást mutat:
+    • nem termelőüzem, hanem szolgáltató.
+    • nem definiálható jól az input és az output.
+    • gyakorlatilag nem termel hulladékot, viszont más hulladékát gyűjti.
+    • a végzett kármentesítések területenként és a szennyező anyagtól függően eltérőek:
+          függ a földtani viszonyoktól (vízzáró-, vízvezető rétegek, szivárgási tényező),
+          függ a vízföldtani viszonyoktól (talajvíz mélysége, mozgása),
+          függ a szennyező anyag milyenségétől,
+          függ a szennyező anyag mozgásától,
+          függ a szennyezés időtartamától és korától,
+
+                                                     16
+
+             függ az alkalmazható kármentesítési módoktól (in situ, ex situ, on site).
+    • energia hatékonyság is a fenti tényezőktől függ.
+    • a munkavállalók száma és képzettsége is fenti tényezőktől függ.
+ezért kell olyan speciális mutatókat alkalmaznunk, amelyek az ilyen változó körülmények kö-
+zött is jól tükrözik a cég környezeti teljesítményét.
+
+az a szám az éves felhasználások, míg a b szám az elgoscar-2000 kft. munkavállalói-
+nak létszáma
+
+                    éves felhasználás                                 a       b         r
+elektromos áram kwh                                                 5 943     80        74,29
+munkagépek és szállítóeszközök co2 kibocsátása kg                   22,59     80       0,2824
+ivóvíz m3                                                             769     80          9,61
+ipari víz m3                                                       20 284     80       253,55
+talajból történő szennyezett talajvíz kitermelés m3               309 629     80       387,36
+talajból történő folyékony szénhidrogén kitermelés liter           59 979     80       749,74
+
+
+                        más fontos környezeti teljesítménymutatók
+
+a teljesítményadatokat minden esetben egy viszonyszámmal vagy fajlagos teljesítményekkel
+adjuk meg összehasonlítva az előző évvel és kitűzve a következő évi tervet. ugyanakkor a te-
+rületenként változó paraméterek nem összehasonlíthatók.
+
+                                                                            tény
+                                             hely
+                                                             2012      2013     2014    2015
+                        3       3
+      kitermelt víz (10 ×m )                                  738       597      246     310
+   kitermelt szénhidrogén (m3)                                 19        24      0,7      60
+     újrahasznosított ch (m3)                                   0         0       0        0
+réteg összekapcsolások száma (db)                               0         0       0        0
+    festék felhasználás (kg/m2)         gyöngyösoroszi     0,150      0,142 0,143      0,139
+                                        szolnok ipari         -         70     628       62
+                                      tiszavasvári ipari      -       19285 24 275 20 125
+                            3
+      víz felhasználás m /év              fűzfő ivó          558        501    501      511
+                                          fűzfő ipari        71*         0      0       97
+                                      gyöngyösoroszi ivó     215        150    302      258
+* az ipari vízszolgáltatás 2012. 03. 31-el megszűnt
+
+az adatok valamennyi területen végzett összesített adatokat tartalmazza. a kitermelt szennye-
+zett víz mennyisége az elmúlt években folyamatosan csökkent. a kitermelt szénhidrogén
+mennyisége is folyamatosan csökkent, mivel az elmúlt években több területen (tvk, hetény-
+egyháza) teljesen befejeződött a mentesítés. az aktív szén felhasználása részben azért esett
+vissza 2009-től, mivel a kitermelt szénhidrogén mennyisége csökkent és az uv bontók kiépí-
+tése folyamatosan bővül. 2013 óta két területen, szolnokon és tiszavasváriban már csak ipari
+vizet használunk. a felhasznált festékek esetében csak kismértékű változás érhető el. fűzfőn
+és gyöngyösorosziban az ivóvíz felhasználás változó, amely függ az ott folyó tevékenység
+nagyságától.
+
+
+
+
+                                              17
+
+kármentesítési teljesítményadatok egyes projektek estében az elmúlt három évben:
+
+      téma                                         terület                2013                            2014                             2015
+                                                   szolnok                                  0                          9 860                          3 250
+kezelt víz (m3)
+
+
+
+                                                    teva                            94 353                            87 525                         72 418
+                                               nitrogén művek                               0                         29 243                          9 416
+                                                tiszavasvári                        18 017                            19 935                         13 537
+                                                  sármellék                         68 195                          100 198                           5 161
+                                                    összes                         597 297                          246 761                        103 782
+                                                   terület           l               l/m3            l                l/m3             l              l/m3
+                  ch kitermelés (l)
+
+
+
+
+                                                   szolnok                     0     0,0000                   0       0,0000                   0     0,0000
+                                                    teva                       0 0,0000                       0       0,0000                   0     0,0000
+                                               nitrogén művek                  0 0,0000                       0       0,0000                   0     0,0000
+                                                tiszavasvári                   0 0,0000               364             0,0018                   0     0,0000
+                                                  sármellék           1 350 0,0198                    360             0,0036                   0     0,0000
+                                                 összes/átlag       23 850 0,0399                     724             0,0060                   0     0,0000
+                                                   terület         kwh             kwh/m3          kwh              kwh/m3           kwh           kwh/m3
+        felhasználás (kwh)
+
+
+
+
+                                                   szolnok         88 500           0,2292          9 795             0,9934          2 887          0,8883
+           villamos áram
+
+
+
+
+                                                    teva           70 457           0,7467        65 358              0,7467         60 917          0,8412
+                                               nitrogén művek   szolgáltatva ismeretlen         szolgáltatva       ismeretlen     szolgáltatva     ismeretlen
+
+                                                tiszavasvári       30 000           1,6651        30 000              1,5049          30 000         2,2161
+                                                  sármellék      229 651            3,3676        41 901              0,4182          3 056          0,5921
+                                                 összes/átlag    316 783            0,4293       477 882              0,8001         66 860          0,6442
+                                                   terület          kg               kg/l           kg                kg/l            kg              kg/l
+            matasorb aktív szén felhasználás
+
+
+
+
+                                                   szolnok               150        0,0067                0           0,0000               0         0,0000
+                                                    teva                   0        0,0000                0           0,0000               0         0,0000
+                                                                                                                     nem értel-
+                                               nitrogén művek              0        0,0000               50           mezhető              0         0,0000
+                               (kg)
+
+
+
+
+                                                tiszavasvári               0        0,0000                0           0,0000               0         0,0000
+                                                  sármellék                0        0,0000                0           0,0000               0         0,0000
+                                                 összes/átlag        1930           0,1039               50           0,0067               0         0,0000
+                                                   terület          kg               kg/l           kg                kg/l            kg              kg/l
+        felhasználás (kg)
+
+
+
+
+                                                   szolnok                80        0,0036                0           0,0000               0         0,0000
+                                                                                                                     nem értel-
+                                               nitrogén művek              0        0,0000                1           mezhető              0         0,0000
+                                                tiszavasvári               0        0,0000                0           0,0000               0         0,0000
+                                                  sármellék                0        0,0000                0           0,0000               0         0,0000
+                                                                                                                  nem értelmez-
+                                                 összes/átlag             80        0,0036                1                hető            0         0,0000
+                                                   terület           l                %              l                 %               l               %
+                  ch elfolyás (l)
+
+
+
+
+                                                   szolnok                     0 0,0000                       0       0,0000                   0     0,0000
+                                               nitrogén művek                  0 0,0000                       0       0,0000                   0     0,0000
+                                                tiszavasvári                   0 0,0000                       0       0,0000                   0     0,0000
+                                                  sármellék                    0 0,0000                       0       0,0000                   0     0,0000
+                                                 összes/átlag                  0 0,0000                       0       0,0000                   0     0,0000
+
+a szénhidrogén kitermelés és a felhasznált elektromos energia esetében a termelés hatékony-
+ságát az egy köbméter kitermelt víz arányában vizsgáljuk. a felhasznált aktív szenet és a ma-
+
+                                                                                       18
+
+tasorbot pedig a kitermelt szénhidrogén arányában vizsgáljuk. a szénhidrogén elfolyást a ki-
+termelt anyag százalékában adjuk meg.
+
+a cég 2015-ben elért környezeti kármentesítés teljesítmény adatai:
+       talajból történő szennyezett talajvíz kitermelés:        309 629 m3
+       talajból történő folyékony szénhidrogén kitermelés:        59 979 liter
+
+célkitűzések a cégcsoport fejlődésének fenntartására
+
+          szakmai:                           - új műszerek fejlesztése,
+          - előadások, szakmai napok,        - új berendezések fejlesztése,
+          - mérnök továbbképzés,             - telemetrikus rendszerek kifej-
+          - tanfolyamok,                     lesztése,
+          - szakirodalom figyelése,          - műszer- és berendezésgyártás,
+          - nyelvoktatás,                    - új technológiák kidolgozása,
+          - szakmai gyakorlatok,             - új módszerek bevezetése.
+          - egyetemi oktatás,                gyöngyösoroszi oktatási köz-
+          - ipari konzulens biztosítása,     pont:
+                                             - elméleti és gyakorlati oktatás,
+                                             - szálláslehetőség
+          műszer- és módszerfejlesztés:
+
+
+
+
+                                             19
+
+a környezetvédelmi hitelesítő nyilatkozata a
+hitelesítésről és az érvényesítésről
+
+
+
+
+ferjancsik zsombor emas környezetvédelmi hitelesítői nyilvántartási szám: hu-
+v-0003/2014 akkreditált vagy engedélyezett a következő hatáskörben: m 71
+(nace-kód)
+
+kijelenti, hogy hitelesítette, hogy a szervezet frissített környezetvédelmi
+nyilatkozatában szereplő telephely elgoscar-2000 környezettechnológiai és
+vízgazdálkodási kft. amelynek a nyilvántartási száma: hu-000003 teljesíti-e a
+közösségi környezetvédelmi vezetési és hitelesítési rendszerben (emas) való
+önkéntes részvételéről szóló, 2009. november 25-i 1221/2009/ek európai
+parlamenti és tanácsi rendelet valamennyi előírását.
+
+e nyilatkozat aláírásával igazolom, hogy:
+
+    –   a hitelesítés és az érvényesítés végrehajtása teljességében megfelel a
+        1221/2009/ek rendelet előírásainak,
+
+    –   a hitelesítés és az érvényesítés eredménye megerősíti, hogy semmi nem utal
+        arra, hogy a szervezet ne teljesítené a környezettel kapcsolatos hatályos jogi
+        előírásokat,
+
+    –   a telephely frissített környezetvédelemi        nyilatkozatának adatai és
+        információi megbízható, hiteles és helyes képet adnak telephely összes
+        tevékenységéről, a frissített környezetvédelmi nyilatkozatban meghatározott
+        alkalmazási körön belül.
+
+ezen okmány nem egyenértékű az emas keretében való nyilvántartásba vétellel.
+az emas keretében történő nyilvántartásba vételt kizárólag a(z) 1221/2009/ek
+rendelet szerint illetékes testületek végezhetnek. ezen okmány nem használható fel
+önálló nyilvános közleményként.
+
+kelt: budapest, 2016. 06. 07.
+
+
+
+
+ferjancsik zsombor
+
+
+
+
+                                         20

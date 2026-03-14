@@ -1,0 +1,3015 @@
+2014   relatório de sustentabilidade
+
+    índice
+
+          mensagem do conselho de administração                                                 3
+
+    i enquadramento da empresa                                                                   5
+      1. história da empresa                                                                     6
+      2. missão, visão e estratégia                                                              9
+      3. organização da empresa                                                                 11
+      4. atividade operacional de transporte                                                    11
+    		    4.1 modo autocarro                                                                    11
+    		    4.2 modo elétrico                                                                     12
+    		    4.3 serviço para pessoas portadoras de deficiência/mobilidade reduzida                12
+    		    4.4 central de comando de tráfego (cct)                                               12
+      5. caracterização e relação com as partes interessadas                                    12
+
+    iienquadramento da sustentabilidade                                                         14
+      1. políticas-chave e iniciativas para o desenvolvimento sustentável                       15
+      2. gestão da inovação                                                                     15
+    		    2.1 espaço inovação/plataforma de gestão de ideias                                    16
+    		    2.2 prémios “inovação carris”                                                         16
+    		    2.3 inquéritos à inovação                                                             16
+      3. “benchmarking” e relaçõesinternacionais                                                16
+      4. análise do ano de 2014                                                                 17
+    		    4.1 frota de autocarros                                                               17
+    		    4.2 manutenção e gestão de garantias do material circulante                           18
+    		    4.3 rede e plano da oferta                                                            18
+    		    4.4 melhoria das condições de circulação                                              18
+    		    4.5 sistema de gestão integrado (sgi)
+    			        - qualidade, ambiente, segurança e saúde no trabalho e responsabilidade social   18
+    		    4.6 sistemas telemáticos                                                              19
+    		    4.7 rede de vendas da carris                                                          21
+    		    4.8 sistema tarifário. bilhética                                                      21
+    		    4.9 desenvolvimento e inovação - ações                                                23
+      5. obrigações e projetos futuros mais relevantes                                          25
+
+      responsabilidades
+    iii                                                                                         27
+      1. responsabilidade económica                                                             28
+      2. responsabilidade social                                                                28
+    		    2.1 processo de certificação                                                          28
+    		    2.2 desenvolvimento organizacional                                                    28
+    		    2.3 clientes                                                                          33
+    		    2.4 colaboradores /recursos humanos                                                   37
+    		    2.5 banda de música dos empregados da carris                                          41
+    		    2.6 grupo desportivo da carris                                                        42
+    		    2.7 associação de reformados da carris - areca                                        42
+    		    2.8 comunidade                                                                        43
+      3. responsabilidade ambiental e política energética                                       45
+    		    3.1 aquisição de bens e serviços                                                      45
+    		    3.2 gestão de energia - instalações                                                   45
+    		    3.3 gestão de energia - atividade de transporte                                       47
+    		    3.4 material circulante – propulsões combustíveis                                     49
+    		    3.5 emissões poluentes e de gases com efeito de estufa                                50
+    		    3.6 ruído                                                                             50
+    		    3.7 gestão da água                                                                    51
+    		    3.8 gestão dos resíduos                                                               51
+    		    3.9 gestão dos efluentes líquidos                                                     52
+
+    iv    grelha de indicadores 2014 - gri 3 + específicos do sector dos transportes            53
+
+          considerações finais                                                                  61
+
+
+
+2   relatório de sustentabilidade 2014
+
+    mensagem do conselho de administração
+
+
+
+
+3   relatório de sustentabilidade 2014
+
+    este relatório evidencia, com clareza e rigor, as diferentes áreas de atuação da carris,
+    durante o ano de 2014, com repercussões positivas na sustentabilidade, pelo que foram
+    relevados os aspetos económicos, sociais, culturais e ambientais da intervenção quotidiana
+    da empresa que contribuem para a sua melhoria e da sua envolvente, bem como
+    para a satisfação das necessidades e expetativas das suas principais partes interessadas:
+    clientes, colaboradores, fornecedores e comunidade.
+
+    face à conjuntura económica do país que tem afetado, direta ou indiretamente, empresas
+    e cidadãos, bem como à necessidade de alterar práticas que comprometem a sustentabilidade,
+    nas suas principais vertentes – económica, ambiental e social, urge implementar um novo
+    e mais dinâmico modelo empresarial que melhore a intermodalidade e que permita otimizar
+    a qualidade e a eficiência do serviço prestado.
+
+    é neste contexto de mudança que, em princípios de 2015, foi adotada uma nova
+    marca – transportes de lisboa, tendo subjacente a nomeação de uma administração comum
+    às empresas de transporte público em lisboa, abrangendo a carris, o metropolitano de lisboa
+    e o grupo transtejo, visando a uniformização de procedimentos e a obtenção de economias
+    de escala, através da utilização conjunta de recursos materiais, humanos e financeiros.
+
+    paralelamente, prevê-se que as concessões de serviço público de transporte sejam abertas
+    à iniciativa privada através da concretização de subconcessões para a gestão da atividade.
+    é imprescindível que as empresas integradas neste novo e dinâmico modelo corporativo
+    se focalizem no seu respetivo core business, continuando a ser empresas de referência a nível
+    europeu no âmbito da sustentabilidade, com uma imagem fortemente associada a lisboa.
+
+
+    o conselho de administração
+
+
+
+
+    eng.º rui lopes loureiro
+
+
+
+
+    dr. pedro gonçalo de brito bogas
+
+
+
+
+    dr. tiago carvalho dos santos
+
+
+
+
+    dr.ª maria manuela bruno de figueiredo
+
+
+
+
+    dr. josé rui roque
+
+
+
+
+4   relatório de sustentabilidade 2014
+
+i   enquadramento da empresa
+
+
+
+
+5   relatório de sustentabilidade 2014
+
+    1. história da empresa
+    1872
+    em 18 de setembro, é fundada no rio de janeiro a companhia carris de ferro de lisboa,
+    a qual pretendia implantar na capital portuguesa um sistema de transporte do tipo americano
+    (carruagens movidas por tração animal e deslocando-se sobre carris).
+    1873
+    em 23 de janeiro, o escritor luciano cordeiro de sousa e seu irmão obtêm os direitos
+    para o lançamento, na cidade de lisboa, de um sistema de transporte, do tipo americano,
+    de tração animal.
+
+    em 14 de fevereiro a câmara municipal de lisboa aprova o trespasse daquela concessão
+    para a empresa companhia carris de ferro de lisboa.
+
+    em 17 de novembro é inaugurada a primeira linha de “americanos”.
+    1876
+    em 31 de maio, a carris torna-se exclusivamente portuguesa e é legalmente reconhecida
+    como sociedade anónima.
+    1897
+    em 5 de junho, é assinado um contrato entre a câmara municipal de lisboa e a carris,
+    com vista à substituição do sistema de tração animal, então utilizado, pela tração elétrica.
+    em 27 de julho a firma wernher, beit & co. cede à lisbon electric tramways limited (l.e.t.l.)
+    todos os direitos e obrigações assumidos por aquele contrato. foi acordado entre as duas
+    companhias que os corpos gerentes da carris continuariam a ocupar-se da exploração
+    das linhas por conta da l.e.t.l.
+    1901
+    em 31 de agosto é inaugurado o serviço de elétricos.
+    1912
+    a carris inicia o transporte em autocarros com uma frota de 5 unidades. no dia 14 de novembro
+    foi inaugurada a primeira ligação entre sete rios e carnide. este serviço terá cessado em 1915.
+    1944
+    em 9 de abril, utilizando veículos adquiridos em 1940 para a exposição do mundo português,
+    é inaugurado oficialmente o serviço de autocarros.
+    1973
+    em 21 de dezembro, pelo decreto-lei nº. 688/73, é rescindido o contrato de arrendamento
+    à l.e.t.l.. simultaneamente, efetua-se com a câmara municipal de lisboa um contrato
+    de renovação da concessão, pelo prazo de 50 anos, de exploração do serviço público
+    de autocarros, elétricos e ascensores.
+
+    1975
+    grande renovação da frota de autocarros, com a aquisição de 200 veículos “standard”
+    de nova geração, equipados com caixa de velocidades automática, direção assistida
+    e suspensão integralmente pneumática.
+
+    1991
+    em julho, no âmbito de um plano de modernização da frota da empresa, entraram ao serviço
+    os primeiros autocarros articulados.
+
+    1995
+    no primeiro trimestre, entram em exploração 10 elétricos articulados, de nova geração,
+    os primeiros com esta característica a integrarem a frota da empresa.
+
+
+
+6   relatório de sustentabilidade 2014
+
+    1996
+    procede-se à renovação da imagem da empresa, traduzida em diversas formas de comunicação,
+    designadamente na imagem exterior dos veículos, adotando o “amarelo” como cor dominante
+    no material circulante.
+    2000
+    lançamento do sistema de ajuda à exploração e informação aos passageiros em tempo real
+    (saeip).
+
+    em maio, inicia-se o processo de instalação dos primeiros sistemas de videovigilância.
+    2001
+    refletindo a preocupação da empresa com a melhoria da qualidade ambiental e com
+    o aprovisionamento e diversificação de energia, entram ao serviço os primeiros 20 autocarros
+    movidos a gás natural, combustível que constitui uma alternativa energética ao petróleo.
+    2003
+    início de um processo de reestruturação global e de modernização da empresa,
+    destacando-se a renovação de mais de metade da frota de autocarros. este processo
+    é projetado a 3 anos, com a aquisição de 408 novos veículos euro 3, a fornecer a partir
+    de 2004 (40 minis e 368 “standard” dos quais 20 a gás natural).
+
+    início do fornecimento do sistema de bilhética sem contacto.
+    2004
+    otimização do sistema de bilhética sem contacto com o lançamento dos novos suportes
+    eletrónicos para os títulos de transporte, cartão “lisboa viva” e cartão “7 colinas”.
+    2005
+    início do processo de externalização da manutenção de autocarros.
+    2006
+    em janeiro, é oficialmente certificado o sistema de gestão da qualidade da carris, de acordo
+    com a norma np en iso 9001:2000, pela apcer – associação portuguesa de certificação.
+
+    foi, também, iniciado o processo de certificação do serviço de transporte, tendo
+    a carris obtido, em fevereiro, a certificação das primeiras 4 linhas (15e, 56, 60, 83).
+    este reconhecimento foi concedido pela certif – associação para a certificação de produtos,
+    com base na norma np en 13816:2003 e nas especificações técnicas da certif.
+
+    a 9 de setembro é lançada a 1ª fase da “rede 7”, refletindo uma renovação global da rede,
+    caracterizada por menor sobreposição e maior articulação com as linhas de metropolitano,
+    bem como maiores níveis de frequência.
+
+    a 20 de outubro é assinada, em bilbau, a carta de compromisso da uitp – união internacional
+    do transporte público - com o desenvolvimento sustentável, como “pledge charter signatory”.
+    2007
+    em fevereiro, a carris subscreve a carta europeia de segurança rodoviária. continuação
+    do processo de certificação de serviços com a certificação (em maio) de mais 18 linhas.
+
+    no concurso promovido pela revista exame / heidrick & struggles, a carris é considerada
+    a 27ª melhor empresa para se trabalhar em portugal.
+
+    a 18 de setembro, em lisboa, é assinada, com a uitp, a carta de compromisso
+    com o desenvolvimento sustentável, com o estatuto de “full charter signatory”.
+    no fim do ano é finalizado o processo de externalização da manutenção de autocarros.
+
+
+
+7   relatório de sustentabilidade 2014
+
+    2008
+    é lançada a 2ª fase da “rede 7”.
+
+    no concurso promovido pela revista exame / heidrick & struggles, a carris é considerada
+    a 31ª melhor empresa para se trabalhar em portugal.
+
+    a carris ficou em 8º lugar no “ranking” “responsabilidade climática: índice acge”
+    - elaborado pela euronatura.
+
+    em abril é obtida a certificação do sistema de gestão ambiental através da np en iso
+    14001:2004.
+
+    no estudo “estado do país em práticas sustentáveis”, organizado pela heidrick & struggles
+    e o jornal expresso em parceria com o banco bes, a carris obteve 89,3% no barómetro
+    de sustentabilidade, muito acima da média nacional.
+
+    em junho, na feira europeia de mobilidade realizada em paris, um motorista da carris obteve
+    o 2º lugar no concurso “bus d’or de melhor motorista da europa”.
+
+    consolidação do processo de renovação da frota com a entrada ao serviço de mais
+    40 autocarros, 20 médios (euro 4) e 20 articulados (euro 5).
+
+    início do processo de reposicionamento da marca carris, através de uma abordagem
+    inovadora em transporte público, fazendo uso do “marketing” multissensorial.
+    2009
+    prémio desenvolvimento sustentável – a carris foi considerada a melhor empresa
+    /instituto público.
+
+    carris ficou em 1º lugar no “ranking” “índice acge sectorial 2009” referente ao sector
+    dos transportes.
+
+    aquisição de mais 60 autocarros “standard” (40 de propulsão diesel euro 5 e 20
+    a gás natural eev).
+
+    a certificação do serviço de transporte atinge um total de 52 linhas (mais de 50%).
+
+    a carris conseguiu a 21ª posição no “ranking” “melhores empresas para trabalhar”
+    na categoria grandes empresas (grau de compromisso de 66,84%), tendo sido a melhor
+    do sector empresarial do estado.
+    2010
+    aquisição de mais 30 autocarros articulados euro 5, com livre acesso à internet.
+
+    é lançada a 3ª fase da “rede 7”.
+
+    certificação de mais 12 linhas em agosto, passando a haver 64 linhas certificadas
+    (mais de 65% do total).
+    a carris conseguiu a 36.ª posição no “ranking” “melhores empresas para trabalhar”
+    na categoria grandes empresas (grau de compromisso de 74,78%), tendo sido a melhor
+    do sector empresarial do estado.
+
+    em setembro, a carris obteve a certificação do sistema de gestão da segurança e saúde
+    no trabalho, de acordo com a np 4397/ohsas 18001.
+
+    a carris foi eleita marca de excelência por parte dos consumidores portugueses,
+    no âmbito da votação promovida pela superbrands.
+
+
+
+8   relatório de sustentabilidade 2014
+
+    campanha multimeios “andamos a pensar em si”, reposicionando a marca carris
+    junto dos clientes atuais e potenciais.
+    2011
+    o barómetro da eficiência energética, destacou a carris como “empresa mais eficiente”,
+    no que respeita a boas práticas de eficiência energética.
+
+    a carris foi considerada, pelo 5º ano consecutivo, como uma das “melhores empresas
+    para trabalhar”.
+
+    a carris recebeu, pelo 2º ano consecutivo, o prémio de desenvolvimento sustentável,
+    na categoria “empresa pública”.
+
+    a carris testou um autocarro híbrido de nova geração “volvo 7700 hybrid”,
+    nas ruas de lisboa.
+    2012
+    início do processo de integração operacional entre a carris e o metropolitano de lisboa.
+
+    lançamento de um novo passe denominado “navegante” que permite aos clientes
+    uma mobilidade plena em toda a cidade de lisboa, integrando as redes da carris,
+    do metropolitano e dos percursos urbanos da cp.
+
+    a carris foi certificada em responsabilidade social, pela np 4469-1 e em alinhamento
+    com as orientações da np iso 26000:2011.
+
+    a carris recebeu o prémio apg empresa, em resultado das práticas e projetos na área
+    dos recursos humanos.
+
+    a carris foi considerada, pelo 6º ano consecutivo, como uma das “melhores empresas
+    para trabalhar”, em portugal.
+
+    a carris obteve, mais uma vez, o 1º lugar entre as empresas de transportes no “índice acge”
+    (alterações climáticas e gestão de empresas).
+    2013
+    consolidação do processo de integração operacional entre a carris e o metropolitano
+    de lisboa.
+
+    a carris foi considerada, pelo 7º ano consecutivo, como uma das “melhores empresas
+    para trabalhar”, em portugal, destacando-se na categoria de “maior variação positiva
+    na satisfação dos colaboradores”.
+
+    a carris foi distinguida, com o 2º lugar, no prémio excelência no trabalho, na categoria
+    de grandes empresas com mais de 1 000 colaboradores.
+    2014
+    a carris foi considerada, mais uma vez, como uma das “melhores empresas para trabalhar”
+    – 45ª posição no “ranking” das 100 melhores empresas, 9ª posição das grandes empresas
+    e a única do sector empresarial do estado.
+
+
+    2. missão, visão e estratégia
+    a missão da carris é a prestação do serviço de transporte público urbano de superfície
+    de passageiros, orientada por critérios de sustentabilidade.
+
+
+
+
+9   relatório de sustentabilidade 2014
+
+     a carris assume, de forma consciente, a sua responsabilidade como agente económico
+     e social que atua no domínio da mobilidade urbana, contribuindo para o desenvolvimento
+     e sustentabilidade de lisboa e da sua área metropolitana. para o efeito, ajusta a sua atividade
+     às reais necessidades do mercado, otimizando a utilização dos recursos disponíveis,
+     com vista ao aumento da sua eficiência empresarial e à permanente melhoria da qualidade
+     do serviço que presta.
+
+     a carris disponibiliza uma rede servida por linhas de autocarros / elétricos / ascensores
+     e elevador, que assegurou, em 2014, o transporte a cerca de 169,6 milhões de passageiros.
+
+     compromisso para com o cliente
+     a carris assume na sua missão, perante o cliente, o compromisso de:
+     • desenvolver a rede, para que qualquer ponto da cidade tenha uma paragem
+       a uma distância aceitável;
+     • definir os horários de forma ajustada à procura, adotando rapidamente medidas corretivas
+       que se revelem necessárias;
+     • disponibilizar uma informação clara e correta;
+     • promover ações que garantam a segurança do cliente;
+     • adotar medidas que assegurem a regularidade, em colaboração com as entidades gestoras
+       da via pública;
+     • desenvolver a rede de vendas e concretizar as melhores formas para facilitar a aquisição
+       de títulos de transporte;
+     • manter os veículos em bom estado de conservação e limpeza;
+     • assegurar a qualidade dos recursos humanos da empresa;
+     • cumprir os requisitos legais quanto a emissões poluentes, contribuindo para a proteção
+       do meio ambiente;
+     • avaliar periodicamente, através de inquérito específico, o grau de satisfação do cliente;
+     • atender às reclamações e sugestões do cliente como fonte de informação para a melhoria
+       contínua do serviço.
+
+     princípios e valores estruturantes
+     tendo subjacente, nomeadamente, o conceito de desenvolvimento sustentável, os valores
+     e compromissos do pacto mundial das nações unidas - “global compact” e a np iso 26000
+     / np4469-1, a carris adotou os seguintes princípios estruturantes da sua missão:
+     • respeito e proteção dos direitos humanos;
+     • conduta ética;
+     • cumprimento da lei e outra regulamentação aplicável à atividade;
+     • respeito pelas convenções e declarações reconhecidas internacionalmente;
+     • respeito pelos interesses das partes interessadas;
+     • responsabilização;
+     • responsabilidade na defesa e proteção do meio ambiente;
+     • atuação com transparência em todas as relações internas e externas.
+     a carris, após auscultação dos colaboradores, estabeleceu, para o exercício da sua atividade,
+     os seguintes valores estruturantes:
+     • excelência;			
+     • qualidade;
+     • inovação;			
+     • rigor;		
+     • sustentabilidade.
+     quer os princípios, quer os valores estruturantes encontram-se consagrados
+     no código de ética da empresa.
+
+
+
+
+10   relatório de sustentabilidade 2014
+
+     3. organização da empresa
+     apresenta-se, de seguida, o organograma da empresa, encontrando-se a descrição funcional
+     de cada um dos órgãos no manual de organização funcional.
+
+     conselho de administração
+
+
+
+              direção comercial                                  provedor do cliente
+              tarifário e mercado
+              vendas                                             secretaria geral
+                                                                 apoio técnico e documentação
+              direção financeira e de controlo de gestão         museu
+              contabilidade                                      relações públicas
+              operações financeiras e tesouraria
+              planeamento e controlo de gestão                   unidade de controlo operacional e planeamento da rede
+                                                                 controlo de tráfego
+              direção de logística e tecnologias de informação   fiscalização
+              apoio geral                                        planeamento operacional
+              aprovisionamentos
+              conservação do património imobiliário              unidade de coordenação de transportes
+              gestão de contratos                                estação de santo amaro
+              tecnologias de informação                          estação de miraflores
+                                                                 estação da musgueira
+              direção de gestão de pessoas e capital humano      estação da pontinha
+              gestão de capital humano
+              gestão laboral                                     gabinete de auditoria, qualidade e segurança
+              gestão de pessoas                                  auditoria
+              saúde, higiene e segurança no trabalho             normalização e certificação
+
+              gabinete de apoio jurídico e contencioso           gab. de desenvolvimento organizacional e relações internacionais
+
+              gabinete de inovação e desenvolvimento             gabinete de marketing
+
+
+
+
+     4. atividade operacional de transporte
+     		 4.1. modo autocarro
+     • a rede de autocarros é composta por 72 linhas/carreiras regulares, sendo 53 urbanas
+       e 19 suburbanas, em que se incluem 6 linhas da rede da madrugada. para além destas
+       existem ainda 3 em regime de exploração conjunta carris - carristur.
+       a rede estende-se por 669 km, sendo 67,8 km (10,1%) em corredores reservados
+       a transportes públicos (faixas bus).
+     • a frota de autocarros de serviço público é composta por 619 veículos que, no final do ano
+       de 2014, estavam distribuídos pelas seguintes tipologias:
+       • 476 autocarros “standard”, 58 dos quais movidos a gás natural (73 a 87 lugares);
+       • 33 autocarros do segmento “mini” (27 lugares);
+       • 20 autocarros do segmento “médio” (58 lugares);
+       • 90 autocarros articulados (141 a 155 lugares).
+     		 em 2014, a dimensão da frota de autocarros foi reduzida em 13 unidades (12 “standard”
+     		 e 1 “mini”), continuando o processo de adequação da oferta à procura.
+     • a carris transportou na frota de autocarros 155,3 milhões de passageiros, menos 3%
+       do que em 2013, correspondendo a 491 milhões de passageiros x km e a uma taxa
+       de ocupação de 18,1 % (18,2 % no ano anterior).
+
+
+
+
+11   relatório de sustentabilidade 2014
+
+       4.2. modo elétrico
+     • a rede de elétricos é composta por 5 linhas regulares.
+     a rede estende-se ao longo da cidade de lisboa num total de 47,5 km, dos quais 15,0 km
+     (31,5%) em sítio reservado.
+     • a frota de elétricos é constituída por 49 elétricos, sendo 10 articulados e 39 históricos.
+       para além destes, existem 11 elétricos ligeiros do serviço turístico.
+       em 2014, a carris transportou nos carros elétricos 12,1 milhões de passageiros,
+       menos 2,4% do que em 2013, correspondendo a 32,7 milhões de passageiros x km
+       e a uma taxa de ocupação de 20% (20,3% no ano anterior).
+     • ascensores e elevador: a carris tem ainda um serviço de 3 ascensores (glória, bica e lavra)
+       e de 1 elevador (santa justa), que assegurou o transporte de 2,2 milhões de passageiros em 2014.
+     • assim, em termos globais, o modo elétrico transportou 14,3 milhões de passageiros.
+       4.3. serviço para pessoas portadoras de deficiência/mobilidade reduzida
+     no âmbito da prestação do serviço público, a carris dispõe, ainda, desde 1982,
+     de um serviço especial de transporte, o qual é assegurado por 3 miniautocarros.
+
+     este serviço destina-se a pessoas que, pelas suas dificuldades de locomoção,
+     não podem utilizar os veículos da frota da carris, exigindo veículos especialmente
+     adaptados, podendo fazer-se acompanhar de uma pessoa, quando necessário.
+     trata-se de um serviço que atua num sistema de porta a porta, dentro da rede de exploração
+     da carris, exclusivamente no concelho de lisboa, sendo utilizado preferencialmente
+     em deslocações regulares entre a residência e o emprego, a escola e os serviços de saúde
+     ou equipamentos de lazer.
+
+     durante o ano de 2014, foram percorridos 110 348 km, no âmbito deste serviço
+     e transportados 10 774 passageiros.
+
+       4.4. central de comando de tráfego (cct)
+     a central de comando de tráfego funciona em permanência, cabendo-lhe a gestão do serviço
+     em tempo real. com o auxílio do saeip (sistema de ajuda à exploração e informação aos passageiros)
+     e de outras aplicações informáticas, procura manter a regularidade do serviço, de acordo
+     com os horários e frequências programados, e minimizar os efeitos das perturbações
+     que ocorrem na via pública – congestionamentos de trânsito, acidentes, avarias e outros.
+
+
+     5. caracterização e relação com as partes interessadas
+     a carris estabelece com a generalidade das suas partes interessadas, internas e externas,
+     relações que têm subjacente os valores e os princípios consagrados no código de ética
+     da empresa. as referidas relações assentam numa cooperação ativa e plena, numa lógica
+     de responsabilidade social, atendendo quer a critérios de eficiência empresarial,
+     quer de respeito, consideração e resposta aos interesses das partes envolvidas.
+
+     a certificação do sistema de gestão da responsabilidade social envolveu um intenso trabalho
+     de sensibilização e de auscultação de todas as partes interessadas significativas da empresa.
+     é de relevar o especial contributo dos colaboradores para a definição dos “valores estruturantes”,
+     bem como para a definição dos princípios da responsabilidade social adotados pela carris.
+
+     em 2014, foi efetuada a revisão do sistema de gestão da responsabilidade social, de acordo
+     com os requisitos da norma np 4469-1 e em alinhamento com a np iso 26000. em função
+     do nível de significância determinado para cada parte interessada que interage
+     com a empresa, foram definidas como significativas as seguintes partes interessadas (pi):
+     clientes; colaboradores; fornecedores e comunidade, face às quais a carris assume
+     uma responsabilidade acrescida de as consultar e de atender às suas expetativas,
+     visando o aumento progressivo do seu grau de satisfação.
+
+
+
+12   relatório de sustentabilidade 2014
+
+parte interessada significativa   interesses da pi face à carris                                          interesses da carris face à pi
+clientes                          mobilidade: frequência e regularidade; acessibilidade nos veículos;     aumento do número de clientes (potenciais e ocasionais);
+                                  informação simples, disponível e atual; proximidade dos pontos e/d;     aumento do volume de receitas; fidelização dos clientes regulares;
+                                  segurança, limpeza e conforto; intermodalidade; minimização             redução da fraude; respeito pelas normas instituídas; comportamento
+                                  dos transbordos; boa relação qualidade/preço; facilidade na aquisição   cívico; redução do número de acidentes e de incidentes; redução
+                                  de títulos de transporte; bom atendimento pessoal; controlo             dos atos de vandalismo e de delinquência; manter ou aumentar
+                                  do impacte ambiental.                                                   a satisfação dos clientes; redução do número de reclamações.
+colaboradores                     cumprimento do ae; manutenção de direitos (retribuição e regalias       produtividade; assiduidade; pontualidade; disponibilidade;
+                                  sociais); estabilidade do emprego; progressão na carreira; formação;    cumprimento dos objetivos; cumprimento das normas legais
+                                  boas condições de trabalho; tratamento digno; respeito pela vida        e internas, nomeadamente, ao nível ambiental, de sst e rs;
+                                  pessoal; imagem da empresa.                                             condução económica e defensiva, melhoria da prestação do serviço
+                                                                                                          e da atitude comercial (por parte dos tripulantes); cooperação;
+                                                                                                          inovação; comportamento ético.
+fornecedores                      significativo volume de negócios; regularidade nas aquisições;          qualidade dos bens e serviços; baixo preço; cumprimento
+                                  cumprimento dos pagamentos; obtenção de boa imagem;                     dos requisitos contratuais; boas práticas no âmbito
+                                  divulgação no mercado.                                                  da responsabilidade social; cumprimento das normas da carris
+                                                                                                          no âmbito do sgi; serviço pós-venda; formação de qualidade;
+                                                                                                          desenvolvimento e inovação no âmbito das tic /sistemas telemáticos;
+                                                                                                          fiabilidade / operacionalidade dos veículos.
+comunidade                        incremento dos negócios; minimização da poluição (gases e ruído);       promoção da utilização do transporte público; melhoria das condições
+                                  segurança rodoviária; fonte de emprego; parcerias / protocolos;         de circulação; plano de mobilidade urbana; parcerias / protocolos;
+                                  contributo para a inclusão social; oferta de transporte adequado;       controlo de atos de vandalismo e de delinquência na via pública
+                                  qualidade de serviço.                                                   que afetem o tp; segurança viária.
+
+
+
+
+                              entre outras ações de envolvimento, periodicamente, são efetuados inquéritos
+                              de satisfação às pi significativas, visando a obtenção de informação acerca das necessidades
+                              e expetativas relativas à atividade e ao serviço da carris, bem como do impacte das decisões
+                              e da atividade na sociedade e no ambiente.
+
+                              para o êxito deste processo, uma comunicação eficaz, ao nível interno e externo, tem sido
+                              determinante. internamente, preconiza-se um diálogo constante com os colaboradores,
+                              com recurso a várias ferramentas, nomeadamente, a disponibilização de correio eletrónico
+                              individual, newsletter interna, mobtv (televisão corporativa), intranet e portal do colaborador
+                              “mycarris” (neste portal existe, por exemplo, um espaço reservado a reclamações/denúncias
+                              de violação de direitos humanos, bem como um espaço destinado à apresentação
+                              de sugestões e/ou ideias que possam promover a melhoria contínua da organização).
+                              a comunicação relacional é concretizada principalmente através de reuniões, seminários
+                              e workshops, com crescente recurso às tecnologias de informação: website; painel
+                              de informação nas paragens, widget, apps para smartphones, entre outros. os clientes
+                              e a comunidade dispõem, também, de ferramentas como a linha aberta (telefone e e-mail),
+                              provedor do cliente e newsletter externa, para obterem informações e/ou apresentarem
+                              reclamações/sugestões.
+
+
+
+
+                  13          relatório de sustentabilidade 2014
+
+ii    enquadramento da sustentabilidade
+
+
+
+
+ 14   relatório de sustentabilidade 2014
+
+     a sustentabilidade como conceito, filosofia e modelo de funcionamento está cada vez mais
+     refletida na organização, na cultura e na prática da carris.
+
+
+     1. políticas-chave e iniciativas para o desenvolvimento sustentável
+     o desenvolvimento sustentável é um desafio diário, assumido, sobretudo, como um ponto
+     de partida para a satisfação das necessidades e expetativas dos clientes e para o bem-estar
+     social. neste âmbito, a carris definiu determinados princípios gerais, tendo presente
+     a política do sistema de gestão integrado (sgi):
+     • contribuir para a melhoria do sistema de transportes na área metropolitana de lisboa,
+       assegurando a mobilidade dos clientes, em função das suas necessidades e expetativas;
+     • aumentar a eficácia e eficiência do serviço de transporte público de passageiros através
+       da adequação da oferta à procura e da racionalização dos recursos e métodos utilizados,
+       contribuindo desta forma para a melhoria contínua do serviço oferecido;
+     • cumprir permanentemente os requisitos e compromissos assumidos e expressos
+       na carta do cliente, de forma a obter a sua confiança relativamente ao serviço prestado;
+     • respeitar os princípios da responsabilidade social expressos no código de ética;
+     • minimizar os riscos para as partes interessadas, que possam advir do desenvolvimento
+       das suas atividades;
+     • promover e assegurar um ambiente de trabalho seguro e saudável para os colaboradores
+       e prestadores de serviços;
+     • desenvolver uma política energética e ambiental adequada, reduzindo progressivamente
+       as emissões e o consumo dos recursos naturais e de energia e procedendo à valorização dos
+       resíduos, a fim de minimizar os impactes e efeitos globais, inerentes à atividade da empresa;
+     • promover a inovação a todos os níveis da organização;
+     • consultar e considerar as expetativas dos clientes, colaboradores e outras partes 		
+       interessadas significativas visando o aumento progressivo do seu grau de satisfação;
+     • cumprir todos os requisitos legais, ou outros que a organização subscreva, aplicáveis
+       às suas atividades e serviços;
+     • dar a conhecer os princípios e compromissos anteriormente definidos e envolver
+       as partes interessadas no respeito pelos mesmos.
+
+
+     carta de compromisso com o desenvolvimento sustentável
+     a carris tem vindo a comprometer-se, publicamente, com os princípios do desenvolvimento
+     sustentável, responsabilizando-se pelo cumprimento quer de ações que estimulem
+     e desenvolvam boas práticas de sustentabilidade no sector dos transportes, quer em elaborar,
+     regularmente, relatórios sobre as ações concretizadas, envolvendo as diversas vertentes
+     da sustentabilidade. entre outros, assinou, em setembro de 2007, a carta de compromisso
+     de desenvolvimento sustentável com a uitp – união internacional do transporte público.
+     membro do bcsd portugal
+     - conselho superior para o desenvolvimento sustentável – desde o 1º trimestre de 2007.
+     membro da cotec
+     – associação empresarial para a inovação – desde 31 de maio de 2010.
+
+
+     2. gestão da inovação
+     para dinamizar a inovação na carris, foi criado, em 2010, o comité de inovação,
+     englobando representantes de várias áreas da empresa e das empresas suas participadas.
+     este processo tem sido bastante positivo, numa perspetiva de melhoria da competitividade
+     e da afirmação empresarial.
+
+
+
+
+15   relatório de sustentabilidade 2014
+
+          		 2.1 espaço inovação/plataforma de gestão de ideias
+
+          i) os objetivos do “espaço inovação”, inserido no portal do colaborador “mycarris”,
+          		 são os seguintes:
+             • complemento ao processo natural de inovação dentro da carris, fomentando
+          		 e institucionalizando a inovação como parte da cultura da carris: promoção
+          		 da participação dos colaboradores na geração de ideias, ao nível dos produto /serviços,
+          		 processos e questões organizacionais/métodos de trabalho;
+             • identificar colaboradores com perfil inovador e empreendedor.
+          ii) em 2014, foram submetidas 38 ideias, tendo sido aceites 35 após uma avaliação
+          		 preliminar e selecionadas 22, posteriormente, para efeitos da sua concretização.
+
+
+estado                                     ideias submetidas (38)   total de colaboradores                  2 471
+• não aceite                                           3            colaboradores participantes               25
+• ideia já existente                               3                total de ideias                           38
+                                                              13
+• não aprovado                                    10                nº ideias/colaborador participante       1,52
+• em análise                                      16                colaboradores participantes             1,01%
+• em aprovação                                     3          22    /total colaboradores
+• ideia concluída/em concretização                 3
+
+
+          		 2.2 prémios “inovação carris”
+
+          em 2014, foram, mais uma vez, instituídos os prémios “inovação carris” para distinguir
+          as ideias e os projetos que consubstanciem contributos relevantes para o desenvolvimento,
+          modernização e inovação da carris e suas empresas participadas. é de salientar
+          que os prémios não são pecuniários e que o comité de inovação procede, posteriormente,
+          ao acompanhamento das ideias e projetos distinguidos, até à sua concretização.
+            • prémio “ideia inovação carris” - decorrente da participação dos colaboradores
+          		 na nova aplicação “gestão de ideias”: foram objeto de distinção 2 das ideias registadas
+          		 e atribuído um prémio de participação.
+            • prémio “projeto inovação carris”: foram atribuídos 2 prémios, respeitantes
+          		 a trabalhos com componente técnica e operacional relevante e de caráter inovador.
+
+          		 2.3 inquéritos à inovação
+
+          a carris tem participado, desde há uns anos, no diagnóstico a nível nacional e europeu, através
+          dos inquéritos cis - “community innovation survey” e ipctn - “inquérito potencial científico
+          e tecnológico nacional”.
+
+
+
+          3. “benchmarking” e relações internacionais
+          apesar dos constrangimentos financeiros, a carris continua a manter os relacionamentos
+          institucionais, operacionais e técnico-profissionais, através da participação dos seus
+          representantes nas organizações, comissões e grupos de trabalho nacionais e internacionais
+          que a empresa integra:
+          ceep - “european centre of employers and enterprises providing public services”,
+          intervenção prioritariamente focada no comité “local enterprises”;
+
+
+
+
+ 16       relatório de sustentabilidade 2014
+
+     uitp - união internacional do transporte público
+     a carris integra diversas comissões, no âmbito da uitp:
+     • “bus commission”; ebsf (“european bus system of the future”);
+     • “light rail commission”; “sustainable development commission”;
+     • “transport economics commission”;
+     • “information, technology & innovation commission”;
+     • “marketing and product development commission”; “security commission”;
+     • “human resources commission”; “corporate management commission”;
+     • “seamless mobility platform - car sharing” – representada pela carristur,
+       empresa participada da carris.
+
+     ibbg – “international bus benchmarking group”
+     este grupo, criado em 2004, tem permitido uma partilha de informação específica
+     e o conhecimento e interiorização de práticas e benefícios explicitados pela própria
+     metodologia “benchmarking”, sendo a sua atividade de investigação centrada em três
+     temas – chave: transportes públicos urbanos; benchmarking & medições de desempenho;
+     transporte urbano – estratégica & política.
+     o encerramento dos trabalhos, relativos à 8ª fase – 2012/2013, decorreu na reunião anual
+     do ibbg em julho de 2014; a 9ª fase – 2013/2014, teve, também, a participação da carris.
+
+     mmg – “major metropolises group” - a carris participa neste grupo que tem como missão
+     fazer pressão sobre a ue, relativamente ao processo legislativo sobre a mobilidade e apoiar
+     a organização de cimeiras de ceo’s das empresas aderentes ao grupo.
+
+     rede rso pt – rede nacional de responsabilidade social nas organizações – a carris 		
+     integrou, em 2014, os grupos de trabalho existentes, reforçando as ações de benchmarking
+     nas seguintes áreas: educação e formação; empreendedorismo responsável;
+     comunicação & marketing; iso 26000 e igualdade de género.
+
+     fórum igen | empresas para a igualdade – desde fevereiro de 2013 que a carris e várias
+     empresas/entidades públicas e privadas integram este fórum. a carris, em 2014, 		
+     renovou os seus compromissos com metas e objetivos específicos a atingir, até ao final
+     do período de vigência do plano de ação para a igualdade de género (2015).
+
+     grace – a carris continua a colaborar ativamente nos projetos deste grupo de reflexão
+     e apoio à cidadania empresarial.
+
+     epwn – “european profissional women’s network” – a carris tem participado em projetos
+     e eventos desta rede internacional, que potencia o desenvolvimento profissional no feminino,
+     permitindo alcançar parâmetros de equidade no acesso aos postos de trabalho, bem como
+     na progressão de carreira das mulheres.
+
+
+     4. análise do ano de 2014
+     apresentam-se as realizações mais relevantes da empresa, ao longo do ano de 2014, fazendo
+     referência a constrangimentos vários que obstaram a que vários objetivos fossem atingidos:
+
+       4.1 frota de autocarros
+
+     em 2014 voltou a não ser possível adquirir novos autocarros face aos constrangimentos
+     impostos ao investimento no sector empresarial do estado.
+     a idade média da frota de autocarros de serviço público, no final de 2014, era de 9,6 anos.
+     a idade média dos 3 mini-autocarros, destinados ao transporte de pessoas portadoras
+     de deficiência/mobilidade reduzida, atingiu, no final do ano, 8,8 anos.
+
+
+
+
+17   relatório de sustentabilidade 2014
+
+     4.2 manutenção e gestão de garantias do material circulante
+     • a manutenção da frota de serviço público continuou a ser totalmente assegurada
+       em regime de “outsourcing”.
+
+     nas estações de miraflores e da pontinha, a hydraplan (concessionário man) continuou
+     a assegurar a manutenção de 148 autocarros “standard” man 18.310 hocl.
+     a carrisbus assegurou a manutenção dos restantes segmentos de frota de autocarros,
+     assim como a manutenção da frota de carros elétricos.
+
+     a manutenção dos ascensores da bica, glória e lavra, bem como do elevador de stª justa,
+     continuou a ser garantida pela firma cme.
+
+     a manutenção das subestações de tração, para alimentação da rede de energia elétrica
+     dos carros elétricos e ascensores/elevador, bem como a manutenção dos postos
+     de transformação e de seccionamento das estações/complexos, continuou contratada
+     à efacec.
+     • no decurso da renovação da frota de autocarros, efetuada entre 2004 e 2010,
+       a carris continuou a efetuar a correspondente gestão de garantias, tendo presente
+       os períodos de garantia consignados nos cadernos de encargos.
+
+     este processo implica, por vezes, a alteração/substituição de sistemas, de componentes
+     ou órgãos, com o objetivo de melhorar a sua eficiência e solucionar disfunções ou anomalias
+     repetitivas – por deficiente conceção e/ou baixa fiabilidade.
+
+
+       4.3 rede e plano da oferta
+
+     ao longo do ano, verificou-se um processo dinâmico de ajustamento da rede e reformulação
+     da oferta, com base numa monitorização permanente do serviço e numa interligação
+     e complementaridade com o metropolitano de lisboa. neste contexto, verificaram-se
+     alterações de percursos ou paragens em 11 linhas.
+
+
+       4.4 melhoria das condições de circulação
+
+     as ações de fiscalização dos “corredores bus” e do estacionamento indevido nas paragens,
+     continuaram a ser efetuadas por equipas conjuntas, constituídas por um colaborador
+     da carris e por um agente da polícia municipal, em viaturas devidamente identificadas.
+
+     procura-se sensibilizar os cidadãos para o cumprimento de regras de civismo e de boa conduta
+     e para a necessidade de respeitar os corredores reservados e as regras de estacionamento,
+     em particular, nos locais de paragem dos transportes coletivos.
+
+     em 2014, registaram-se 4 207 autuações, 817 advertências, 172 pedidos de reboque
+     e 2 pedidos de bloqueamento. ocorreram, ainda, 1 199 interrupções devidas a veículos mal
+     estacionados, traduzidas em 788 horas de interrupção.
+
+
+       4.5 sistema de gestão integrado (sgi)
+
+     			 – qualidade, ambiente, segurança e saúde no trabalho e responsabilidade social
+     as certificações obtidas, nos últimos anos, relativamente aos diversos processos de gestão
+     têm sido importantes na consolidação e modernização da empresa.
+
+     paralelamente à certificação dos “meios” (sistemas de gestão), a carris apostou igualmente,
+     desde 2006, na certificação das suas linhas/carreiras (certificação dos “resultados”, i. é,
+
+
+
+18   relatório de sustentabilidade 2014
+
+     do serviço prestado), sendo o único operador de transporte público de passageiros
+     a ter carreiras certificadas. a empresa dispõe, atualmente, de 61 carreiras certificadas
+     (cerca de 74% do total), uma das quais de elétricos.
+
+     apesar dos diversos condicionalismos económico-financeiros, a carris pretende prosseguir
+     na melhoria da qualidade do serviço prestado e no aumento da eficiência dos recursos
+     utilizados. é imprescindível captar novos clientes, criando condições para a transferência
+     modal do transporte individual para o transporte público, e contribuir desta forma para uma
+     cidade menos congestionada e com melhor qualidade de vida.
+
+     auditorias externas em 2014
+     • no período de 24 a 28 de março de 2014, foi realizada, pela apcer, a auditoria
+       de renovação da certificação do sgq e sga (pela np en iso 9001 e np en iso 14001)
+       e a auditoria de 1.º acompanhamento da certificação do sistema de gestão da segurança
+       e saúde no trabalho, de acordo com a np 4397 / ohsas 18001), tendo sido mantidas
+       as diversas certificações.
+     • em simultâneo, no mesmo período, foi também efetuada, pela certif, a auditoria
+       de acompanhamento da certificação do serviço de transporte público de passageiros,
+       de acordo com a np en 13816 e especificações técnicas certif.
+     • nos dias 23 e 24 de setembro de 2014, foi realizada, pela sgs, a 2.ª auditoria
+       de acompanhamento ao sistema de gestão da responsabilidade social, a qual incidiu
+       na avaliação do cumprimento dos requisitos da np 4469-1, no âmbito da “prestação
+       de serviço de transporte público urbano de passageiros, em lisboa”, tendo-se mantido
+       igualmente a certificação.
+
+
+       4.6 sistemas telemáticos
+
+     sistema de ajuda à exploração e informação aos passageiros - saeip
+     ainda não foi possível alargar, a todos os postos de gestão de carreiras da central
+     de comando de tráfego, o conjunto de novas funcionalidades do saeip. a sua aplicação,
+     a partir de 2015, permitirá torná-lo mais eficiente, mais eficaz e mais abrangente em termos
+     de dados disponíveis.
+
+     no final de 2014, foi iniciado o processo de renovação total do saeip, de acordo com
+     um protocolo assinado com a tecmic, que prevê a renovação de todos os equipamentos 		
+     embarcados nos veículos e da aplicação no sistema central, ao longo dos próximos anos.
+
+     sistema de contagem automática de passageiros a bordo
+     durante o ano de 2014, consolidou-se a utilização deste sistema, permitindo a atualização
+     sistemática dos diagramas de carga da procura, na maioria das carreiras da rede, assim 		
+     como a determinação dos respetivos percursos médios, disponibilizando-se informação 		
+     atualizada e valiosa para o processo de planeamento operacional da oferta, nomeadamente:
+     • determinação de indicadores estatísticos da procura;
+     • monitorização de uma taxa de “não validação”, pela comparação entre as validações
+       registadas no sistema de bilhética e os movimentos de passageiros registados este sistema.
+
+     sistema de informação geográfica - sig
+     o sig constitui-se, cada vez mais, como uma importante ferramenta do planeamento
+     operacional da rede carris, interagindo com os diferentes sistemas em utilização
+     na empresa.
+
+     este sistema é responsável pela localização geográfica das paragens e pela determinação
+     das distâncias entre as mesmas, interagindo com vários sistemas (saeip, gist, infopub)
+     e relacionando-se com as estatísticas de tráfego, a bilhética e a contagem automática
+     de passageiros.
+
+
+
+19   relatório de sustentabilidade 2014
+
+     durante o ano de 2014, procedeu-se à atualização de toda a informação da base de dados sig,
+     nomeadamente: percursos, paragens, pontos de venda, pontos notáveis, “interfaces”,
+     sanitários, esquadras ou percursos de saídas e recolhas.
+
+     internamente, o sig garante, ao nível da produção de mapas, diversos desenhos referentes
+     à rede carris e a representação gráfica de “outputs” vindos de outros sistemas,
+     nomeadamente do emme carris e da matriz origem/destino conjunta da carris/metro.
+
+     o sig passou a atualizar, de forma continuada, plantas atualizadas dos percursos e paragens
+     por carreira e sentido, as quais são disponibilizadas no “site” da carris.
+
+     externamente, o sigcarris interage com outras entidades que produzem informação
+     georreferenciada (imt, ine, câmaras municipais, etc.) e responde a pedidos de informação
+     relativos à rede e ao seu desempenho, destacando-se a título de exemplo:
+     • atualização da informação no siggesc (sistema de informação geográfica de gestão
+       de carreiras do instituto da mobilidade e dos transportes - imt);
+     • mapeamentos dos principais pontos de congestionamento, por mau estacionamento,
+       tendo por base as áreas de atuação de cada equipa da emel.
+
+     planeamento estratégico da rede - emme carris
+     em 2014, foi atualizada a parametrização do modelo emme carris de acordo com
+     os ajustamentos na rede carris entretanto decididos e decorrentes das alterações
+     /evoluções ocorridas em todo o sistema de transportes coletivos da cidade de lisboa.
+
+     no âmbito da atualização da licença da manutenção do “software”, foi também instalada
+     a versão mais recente deste modelo – o emme4 – cujas potencialidades poderão
+     ser plenamente aproveitadas com a atualização da formação na nova versão do “software”,
+     que se espera venha a ocorrer no ano de 2015.
+
+     informação ao público - infopub
+     a ferramenta infopub é utilizada, pela carris, para a geração automática da informação
+     ao público sobre os seus serviços, constituindo uma importante “interface” com os clientes.
+
+     a carris disponibiliza, na maioria das paragens (2076), dois tipos de informação ao público:
+     busmap / mapas esquemáticos e bussched / horários.
+
+     gestão integrada de sistemas de transporte - gist
+     o gist permite a otimização dos recursos operacionais, constituindo uma ferramenta de apoio
+     à decisão na geração dos horários dos veículos e dos motoristas, incluindo o escalamento
+     diário destes últimos, e que comunica com diversas aplicações da empresa (saeip, gesbus,
+     infopub e gesvengrh).
+
+     no decorrer de 2014 iniciou-se o processo de parametrização do infopub totalmente a partir
+     do módulo rede do gist que, por sua vez, será atualizado a partir dos dados definidos no sig.
+
+     prevê-se que este processo de atualização, que evitará repetição de parametrizações,
+     esteja concluído em 2015.
+
+     encontra-se em fase desenvolvimento / testes o módulo “escalamento” que permitirá uma
+     maior flexibilização do processo de construção da escala modelo, a gestão das existências
+     versus necessidades, assim como o escalamento integrado de tripulantes e veículos.
+     prevê-se que entre em produção em 2015 (versão 3 do gist- módulos rede, planeamento
+     e escalamento).
+
+
+
+
+20   relatório de sustentabilidade 2014
+
+     escalamento e gestão de veículos - gesbus
+     esta aplicação permite, de forma automática e otimizada, fazer a gestão de veículos
+     na qual se incluem diferentes atividades: escalamento, afetação automática, definição
+     de regras de afetação adaptáveis, gestão das operações de manutenção preventiva
+     e corretiva e sinalização de anomalias.
+
+     as escalas diárias de veículos, geradas a partir da aplicação gesbus, são obtidas a partir
+     das escalas diárias de tripulantes do sistema gist, comunicando simultaneamente com outros
+     sistemas/“interfaces”, dos quais se destacam a gestão de ponto, deteção de entradas/saídas
+     de veículos e gestão de manutenção.
+
+
+       4.7 rede de vendas da carris
+
+     em 31 de dezembro de 2014, a constituição da rede de vendas da carris era a seguinte:
+
+      rede de vendas                      2013       2014
+      espaços cliente carris/metro               2          2
+      quiosques mob carris                       4          4
+      pontos mob carris                      99         95
+      agentes payshop                       222        218
+      estações ctt                           55         47
+      total                                 382        366
+
+
+
+     não obstante o decréscimo do total de pontos de venda da responsabilidade da carris,
+     a empresa continua a oferecer aos seus clientes uma vasta rede de vendas, dispersa por toda
+     a área geográfica abrangida pelas linhas/carreiras da empresa, complementada ainda com
+     a rede de vendas do metropolitano, atm’s, portal viva, cartão caixa viva, etc. pretende-se,
+     assim, proporcionar, aos clientes, uma boa acessibilidade à aquisição dos títulos de transporte
+     e facilitar o uso dos transportes públicos.
+
+     relativamente ao total das vendas, efetuadas pela carris, a posição relativa de cada canal
+     é a seguinte:
+     • espaços cliente (vendas) – 5,0% ; quiosques mob carris – 6,2%
+     • pontos mob carris – 62,1% ; payshop – 25,5% ; ctt – 1,2%
+     os clientes carris continuam a preferir os locais de venda diretamente ligados à carris
+     (especialmente os pontos mob), provavelmente porque nestes locais existe um atendimento
+     personalizado. como forma de incentivo à fidelização e angariação de novos clientes
+     e à melhoria no atendimento ao cliente, deu-se continuidade ao concurso “ponto mob+”,
+     que premeia os concessionários que se distinguem ao longo de cada ano.
+
+     no âmbito da integração carris/metro, tal como previsto, o acolhimento indiferenciado
+     de clientes destas duas empresas foi bem recebido, já que se incrementou o nº de locais
+     de atendimento, dentro da cidade de lisboa, facilitando o acesso à resolução de questões
+     relativas ao pós-venda, à obtenção de informações, etc..
+
+
+       4.8 sistema tarifário. bilhética
+
+     aumento tarifário e alterações tarifárias em 2014
+     o despacho normativo do ministério das finanças economia fixou em 1,0% a percentagem
+     máxima de aumento médio de preços a vigorar a partir de 1 de janeiro de 2014.
+     mantiveram-se os preços dos bilhetes próprios carris (tarifas de bordo da rede)
+
+
+21   relatório de sustentabilidade 2014
+
+     e dos pré-comprados combinados (bilhete viagem carris/metro, bilhete 24 h carris/metro
+     e zapping).
+
+     o referido despacho introduziu algumas alterações no sistema tarifário da região de lisboa:
+     • alargamento do serviço cp nos passes navegante rede, passando a abranger
+       as deslocações ferroviárias entre lisboa e algés (linha de cascais), amadora
+       (linha de sintra) e bobadela (linha da azambuja).
+     • extinção de passes combinados carris/cp (2) e metro/cp (2), devido ao alargamento
+       do serviço cp no passe navegante rede.
+     • desmaterialização de passes - com a desmaterialização, em julho de 2014, dos passes l
+       /isidoro duarte e l/barraqueiro e lx- rodoviária do tejo, em todas as suas modalidades,
+       todos os títulos válidos na região de lisboa passaram a ser exclusivamente eletrónicos.
+
+     receitas dos intermodais
+     conforme o estabelecido na portaria 241-a/2013 de 31 de julho e despacho nº 10076
+     – c/2013 da mesma data, a repartição de receitas dos passes intermodais passou
+     a ser efetuada de acordo com os resultados do inquérito realizado em 2007.
+
+     multimodalidade do zapping
+     continuaram em estudo, durante 2014, novas adesões de operadores de transporte da região
+     de lisboa ao zapping, nomeadamente a fertagus, a barraqueiro, os tcb, os tst, a vimeca
+     e o mts. a entrada destes operadores no zapping está prevista para meados de 2015.
+
+     portal viva - otlis
+     o portal é já um instrumento de trabalho e informação em complementaridade com as redes
+     de vendas dos operadores e ao mesmo tempo um espaço privilegiado de comunicação.
+     a gestão continua a ser assegurada pela otlis numa responsabilidade partilhada por todos
+     os operadores aderentes.
+
+     em 2014, foi já possível consultar, no portal a agenda viva, um espaço com informação cultural
+     estando em construção o mapa viva, com as redes de alguns operadores.
+
+     o serviço web para carregamento on-line de passes e zapping a empresas ficou disponível
+     em setembro. entre outras funcionalidades, o my viva empresas permite definir os títulos
+     de viagem e quantidade a carregar por cada colaborador, poupando o preenchimento
+     de formulários em papel, evitando pagamentos, reembolsos em dinheiro. a nova solução
+     disponibiliza às empresas as informações sobre os carregamentos já efetuados, para efeitos
+     de faturação, concedendo aos colaboradores autonomia para recarregar títulos de transporte,
+     através do portal viva, sendo o pagamento dos mesmos feito, posteriormente,
+     pela entidade patronal.
+
+     cartão bancário – cartão caixa viva
+     o caixa viva é um cartão de pagamento automático internacional da rede maestro, emitido
+     pela cgd, que permite ao seu titular o acesso e movimentação da conta à ordem associada,
+     efetuar pagamentos em estabelecimentos comerciais e transportes aderentes. é um cartão
+     com duas aplicações eletrónicas: aplicação bancária e aplicação de transportes, não existindo
+     ligação física nem integração entre as duas aplicações. começou a ser utilizado, na carris,
+     em fevereiro de 2014.
+
+     este projeto foi uma parceria da otlis, da cgd e dos operadores de transporte.
+
+     mobile ticketing
+     o projeto mobile ticketing, respeitante à utilização de telemóveis com tecnologia nfc
+     (near field communication) como cartão de transportes, continua em fase
+     de desenvolvimento.
+
+
+
+
+22   relatório de sustentabilidade 2014
+
+     durante o ano de 2014, foram contactados vários operadores de telecomunicações
+     visando encontrar uma solução tecnológica. efetuaram-se testes com cinco equipamentos;
+     contudo, o investimento necessário revelou-se muito elevado.
+
+     atualmente as condições de mercado estão em evolução, estando já em comercialização
+     um iphone 6 com nfc instalado, pelo que a otlis e a tsm procuram uma solução para
+     a rápida concretização deste projeto.
+
+
+       4.9 desenvolvimento e inovação - ações
+       4.9.1 integração operacional carris/metro
+
+     • campanha carris/metro de combate à fraude ”abra os olhos e combata a fraude”
+     esta campanha de comunicação visou a responsabilização e sensibilização para a temática
+     da fraude, alertando os clientes para a necessidade de serem detentores de um título
+     de transporte válido, bem como para a utilização correta do sistema de bilhética,
+     como uma forma de garantir a sustentabilidade do transporte público.
+
+     • comunicação de ações de fiscalização – carris/metro com apoio da psp
+     ainda no combate à fraude, nos transportes públicos, concretizaram-se três ações de reforço
+     da fiscalização nas zonas de olivais – encarnação- moscavide (em julho); campo grande
+     – saldanha – marquês de pombal – baixa (em outubro) e campo grande – lumiar – ameixoeira
+     - calçada de carriche e sr. roubado (em dezembro). em paralelo, foi realizada uma ação
+     de comunicação solicitando aos clientes a colaboração com as equipas de fiscalização.
+
+     • campanha de segurança “a prevenção é a melhor proteção” – carris/metro e psp
+     esta campanha de comunicação, dirigida aos utilizadores de transporte público na cidade
+     de lisboa, teve como objetivo promover a adoção de comportamentos de segurança
+     nos transportes, de modo a não colocarem em risco os seus bens e a sua integridade física.
+     além das peças promocionais, veiculadas nos meios de comunicação habituais das empresas,
+     a campanha contou com uma ação de rua, em diversos locais selecionados, com alunos
+     de escolas do ensino básico que, fardados de agentes da psp, distribuíram folhetos informativos.
+
+     • campanha semana da mobilidade “ a carris e o metro são o coração de lisboa”
+     o lançamento desta campanha coincidiu com a semana da mobilidade (16 a 22 de setembro).
+     a ação pretendeu assinalar o contributo das empresas para a mobilidade sustentável,
+     partindo da premissa que os dois operadores são as “artérias” que conduzem as pessoas
+     por toda a cidade.
+
+     • transporte de taças da uefa
+     a carris e o metropolitano de lisboa foram escolhidos pela uefa para transportar os troféus
+     das finais da liga dos campeões masculina e feminina. a viagem, no dia 17 de abril, foi realizada
+     em elétrico e no ascensor da glória da carris e na linha verde do metro. partiu da doca de belém
+     com destino à câmara municipal de lisboa e contou com a participação de milhares de fãs.
+
+     • rock in rio | eu vou no metro e volto na carris
+     foi uma campanha de promoção do uso do transporte público nos dias do festival.
+     a mensagem base da ação de divulgação da oferta de serviço existente, para os clientes,
+     foi “garante um lugar na primeira fila do rock in rio com a carris e o metro.
+     compra antecipadamente o teu título e ganha tempo para ver as tuas estrelas do rock.”
+
+     • 2.ª maratona fotográfica carris/metro
+     esta iniciativa teve como objetivo fomentar o gosto e interesse pela fotografia, através
+     da captação de imagens em espaços tão particulares como o da carris e do metropolitano
+     de lisboa, uma oportunidade para os amantes da fotografia descobrirem os transportes
+     públicos de um ângulo diferente, sem os obstáculos que são colocados no dia-a-dia.
+
+
+
+23   relatório de sustentabilidade 2014
+
+     • criação de micro-site para passatempos carris/metro
+     em outubro de 2014, foi lançada uma plataforma comum online que permite o lançamento
+     de passatempos, para os clientes, decorrentes das parcerias de comunicação que as empresas
+     desenvolvem nas áreas da cultura e do lazer.
+
+     • revista via lx e newsletter
+     a produção de conteúdos e divulgação de informação, tanto ao nível externo como interno,
+     continua a ser uma prioridade da empresa. por este motivo, projetos como a revista via lx
+     e a newsletter via lx viram, em 2014, um ano de continuidade e de melhorias diversas.
+
+     • efemérides / dias temáticos
+     de forma a estabelecer uma relação mais próxima com os seus clientes, a carris apostou
+     na promoção de dias temáticos/efemérides, datas importantes para a cidade de lisboa
+     e para a vida dos lisboetas, que foram partilhadas com uma imagem e tema comum,
+     nas redes sociais e meios “online” da empresa:
+       21 de março: dia mundial da poesia ; 22 de março: dia mundial da água
+       27 de março: dia mundial do teatro ; 07 de abril: dia mundial da saúde
+       09 de abril: aniversário da inauguração serviço de elétricos;
+       19 de abril: aniversário ascensor do lavra
+       23 de abril: dia mundial do livro e dos direitos de autor ;
+       29 de abril: dia mundial da dança
+       15 de maio: dia mundial das famílias ;
+       18 de maio: dia internacional dos museus
+       01 de junho: dia mundial da criança ;
+       05 de junho: dia mundial do ambiente
+       13 de junho: dia de santo antónio ;
+       28 de junho: aniversário ascensor da bica
+       10 de julho: aniversário elevador de santa justa ;
+       31 de agosto: aniversário da inauguração do serviço de carros elétricos
+       18 de setembro: aniversário da carris ;
+       22 de setembro: dia europeu sem carros
+       1 de outubro: dia mundial da música ;
+       24 de outubro: aniversário do ascensor da glória
+       05 de dezembro: dia internacional do voluntariado ;
+       29 de dezembro: aniversário do metropolitano de lisboa.
+
+     • linha de “merchandising” carris/metro
+     de forma a transmitir a uniformidade de imagem, foi criada uma nova linha de “merchandising”,
+     representativa do posicionamento das marcas no mercado da mobilidade. estas peças
+     foram utilizadas em diversas ocasiões institucionais, em distribuição e representação perante
+     clientes, fornecedores e outras entidades.
+
+
+       4.9.2 ações institucionais
+
+     • campanha de promoção do museu
+     com o intuito de aproveitar o aumento crescente de visitantes, na cidade de lisboa,
+     foi lançada uma campanha institucional de promoção do espaço e das atividades desenvolvidas
+     no museu da carris, anunciando o novo espaço totalmente renovado do museu, com novos
+     conteúdos e atividades.
+
+     • promoção dos ascensores
+     os ascensores de lisboa, considerados monumentos nacionais desde fevereiro de 2002,
+     permitem desfrutar de vistas panorâmicas da cidade de lisboa, muito do agrado de residentes
+     e de visitantes.
+
+
+
+
+24   relatório de sustentabilidade 2014
+
+     em 2014, a carris realizou ações de promoção da rede de ascensores, em abril e outubro.
+     além da distribuição de informação, optou-se ainda por veicular esta mensagem noutros
+     canais, tais como o turismo de lisboa, a rede de museus, rede de espaços cliente
+     carris/metro e, nos meios de comunicação da empresa (“online” e “offline”); a peça base con-
+     templava um vale de desconto, associada à oferta de um bilhete de entrada no museu
+     da carris, na compra de outro.
+
+     • lançamento de “site” carrisbus
+     foi em 2014 que a carrisbus, empresa participada da carris, lançou para o mercado
+     o seu “site”, disponível em http://www.carrisbus.pt/.
+
+     • campanha de sensibilização “redução de consumos de energia e água”
+     com vista a sensibilizar os colaboradores para a necessidade de adoção de comportamentos
+     responsáveis, na utilização dos recursos (água, energia e gás comprimido), a carris lançou
+     uma ação de comunicação, faseada, que envolveu meios como: autocolantes, cartazes,
+     folhetos, “teasers” e “spots tv” (mob tv) e meios “online” (internos).
+
+
+       4.9.3 abordagem “corporate”
+
+     verificou-se um crescimento muito significativo da rede de abordagem (hotéis e agências
+     de viagens), que se refletiu, também, no crescimento do volume de vendas dos produtos
+     “living lisbon”, tendo sido obtida uma receita total superior a 195 000 euros,
+     representando um aumento de 318% em relação a 2013.
+
+     o ano de 2014 foi um ano de consolidação dos produtos “living lisbon”, no âmbito
+     dos clientes empresariais: foram comercializados o living lisbon 2 viagens carris/metro,
+     o living lisbon 24 horas carris/metro e o living lisbon 72 horas carris/metro.
+
+
+     5. obrigações e projetos futuros mais relevantes
+     as obrigações e projetos mais relevantes que se perspetivam para os próximos anos,
+     são os seguintes:
+     • cumprimento das orientações governamentais, respeitantes à subconcessão do serviço
+       de transporte público da carris, conforme dec. lei nº 174/2014 de 5 de dezembro.
+     • controlo e redução da fraude
+       • continuação e incremento da colaboração com a psp, nomeadamente através da realização
+     		 de ações de fiscalização conjunta, mais eficazes e de grande visibilidade;
+       • realização de mais ações de controlo à entrada dos veículos, acompanhadas
+     		 de uma adequada divulgação pública;
+       • a alteração à lei nº 28/2006, que transfere para a autoridade tributária e aduaneira
+     		 a responsabilidade da cobrança das coimas, resultantes das infrações detetadas,
+     		 ao permitir uma maior eficácia e celeridade na respetiva cobrança, o que será um fator
+     		 importante de dissuasão da fraude.
+     • concretização de ações específicas que contribuam para o aumento da procura.
+     • consolidação de medidas que concorram para a fidelização dos clientes.
+     • melhorias inerentes à gestão de tráfego e às condições de circulação:
+       • criação de novos corredores reservados;
+       • novos sistemas de prioridade ao transporte público;
+       • gestão mais cuidada da rede viária, em particular no que diz respeito ao estacionamento.
+       • sistema tarifário – continuação do processo de simplificação do sistema.
+       • continuação do redimensionamento e formação dos colaboradores, designadamente
+     		 do pessoal tripulante.
+     • melhoria contínua do desempenho da empresa, compromisso decorrente da certificação
+       da empresa.
+
+
+
+25   relatório de sustentabilidade 2014
+
+     • frota de autocarros
+       • estudo e adoção de medidas visando a melhoria da operacionalidade dos veículos,
+     		 procurando minimizar eventuais impactes que possam advir do envelhecimento da frota,
+     		 enquanto não for retomado o processo de renovação;
+       • aprofundamento das questões relacionadas com a utilização racional de energia
+     		 e com a melhoria da eficiência energética, adotando as melhores práticas nesse sentido;
+       • análise e acompanhamento da evolução tecnológica dos veículos – combustíveis,
+     		 propulsões e processos construtivos – como suporte aos processos de renovação
+     		 da frota que venham a ser decididos.
+     • desenvolvimento e consolidação do sistema de monitorização do desempenho
+       dos motoristas – xtran drive
+     • edifícios/instalações da empresa – continuação da melhoria da eficiência energética,
+       adotando as melhores práticas.
+
+
+
+
+26   relatório de sustentabilidade 2014
+
+iii    responsabilidades
+
+
+
+
+  27   relatório de sustentabilidade 2014
+
+     este capítulo aborda as diversas atividades da empresa, discriminando as ações
+     e os vários indicadores de desempenho referentes aos pilares da sustentabilidade:
+     o económico, o social e o energético-ambiental.
+
+     para os quantificar, a carris recorreu ao “global reporting initiative” (gri),
+     reconhecido internacionalmente e a indicadores específicos do sector dos transportes
+     (ver “grelha de indicadores 2014 - gri 3 + específicos do sector dos transportes”).
+
+
+     1. responsabilidade económica
+     os dados económicos da empresa constam do relatório e contas de 2014, sendo de destacar
+     os seguintes valores:
+     rendimentos: as vendas líquidas ascenderam a 90 193 382,77 euros, tendo a parcela
+     proveniente da prestação de serviço público atingido os 88 300 307,21 euros;
+     fornecedores: os gastos foram de 38 276 988,10 euros, considerando quer os fornecimentos
+     e serviços externos, quer os consumos de materiais não produzidos internamente;
+     deste montante, 16 984 138,07 euros referem-se a gastos com energia - gasóleo, gás natural
+     e eletricidade de tração;
+     colaboradores: os gastos com pessoal fixaram-se nos 56 308 399,72 euros,
+     com 40 142 391,92 euros de remunerações, 3 226 172,83 euros de encargos
+     com complementos de pensões de reforma e 12 939 834,97 euros de encargos sociais;
+     sector público: foram contabilizados gastos com impostos, diretos e indiretos,
+     no valor de 382 139,99 euros e registados proveitos de 7 197 534,01 euros relativos
+     a subsídios atribuídos à empresa.
+
+     resultado operacional
+     em 2014, a carris registou um resultado operacional negativo de cerca de 25,5 milhões
+     de euros, condicionado, sobretudo, pela redução significativa dos subsídios à exploração.
+     ainda assim, o ebitda, corrigido da variação das provisões, foi positivo em 5,3 milhões
+     de euros. a empresa continua a desenvolver medidas para melhorar o resultado operacional,
+     no sentido de assegurar a sua sustentabilidade económica.
+
+
+     2. responsabilidade social
+        2.1    processo de certificação
+
+     a carris foi pioneira, no sector dos transportes, na obtenção desta certificação (em 2012),
+     com base na np 4469-1 e em alinhamento com as orientações da np iso 26000.
+
+        2.2    desenvolvimento organizacional
+
+     • área da saúde
+     procurando a otimização dos meios técnicos e humanos, existentes na posto médico,
+     manteve-se o mesmo horário alargado, permitindo aos colaboradores o acesso às diversas
+     valências de atendimento.
+
+     a área da saúde acompanha as visitas técnicas de sst (segurança e saúde no trabalho),
+     na avaliação das condições de trabalho ou nas ações de sensibilização de sst (carris
+     e carrisbus).
+
+     estabeleceram-se, ainda, dois protocolos com as empresas participadas carristur - exames
+     médicos de admissão - e carrisbus - serviços de medicina no trabalho e enfermagem
+     curativa, englobando as campanhas de saúde realizadas anualmente na carris.
+
+
+
+
+28   relatório de sustentabilidade 2014
+
+     assim, apresenta-se o número de atividades desenvolvidas em 2014.
+
+      consultas de medicina curativa
+                  clínica geral                           psiquiatria                    urologia                        total
+                       8128                                  239                           957                           9324
+      medicina no trabalho
+      ex. periódicos                                    ex. ocasionais                    outros              adm.externas
+                                                                                                                                  total
+              carris          carrisbus          carris            carrisbus    carris           carrisbus     carristur
+
+              1824                 37             765                    8        35                  1           30              2700
+      rastreios
+      mês do coração              híper tensão arterial             álcool     urologia            diabetes
+                                                                                                                         total
+              carris              carris       carrisbus            carris      carris              carris
+              103                 765               8                   2525     726                 247                 4374
+      atos de enfermagem
+                  tratamentos                             biometrias                     vacinas
+                                                                                                                         total
+              carris          carrisbus          carris            carrisbus    carris           carrisbus
+              2278                 34            2461                   46       366                  0                  5185
+      participação em ações de sensibilização de sst
+                              carris                                           carrisbus                                 total
+                                  5                                               11                                         16
+
+
+
+     • serviços de higiene e segurança no trabalho
+     estes serviços estão abrangidos pela certificação do sistema de gestão de segurança e saúde
+     no trabalho e baseiam-se na atividade de identificação, avaliação e controlo de riscos
+     profissionais e das necessidades de informação e formação associadas, visando a melhoria
+     contínua das condições de trabalho.
+
+      ações desenvolvidas - 2014
+      intervenções de hst                                                                                              168
+      – avaliação e controlo de riscos (27 das quais com acompanhamento de terreno de técnicos da saúde)
+      planeamento da prevenção                                                                                           3
+      formação, informação e consulta aos trabalhadores                                                                 10
+      outras atividades - auditorias, pareceres técnicos, estudos ergonómicos de postos de trabalho, etc.                8
+      total                                                                                                            189
+
+
+
+
+     • modelo integrado de gestão de capital humano - gestão por competências e objetivos
+     o modelo de gestão de desempenho é baseado em duas vertentes essenciais - a gestão
+     por competências e a gestão por objetivos e integra as diversas áreas de intervenção
+     da gestão de capital humano.
+
+     em 2014, foram revistos e atualizados os níveis de competência de todos os colaboradores,
+     com o fim de otimizar o processo de gestão contínua do desempenho e, consequentemente,
+     os resultados da organização.
+
+
+
+
+29   relatório de sustentabilidade 2014
+
+     através da análise estatística das competências nas diversas funções, como exemplificado
+     na imagem abaixo, o processo de gestão de desempenho tem vindo a tornar-se cada vez mais
+     eficaz, transversal e transparente, sendo um forte suporte nos processos de gestão
+     da formação e potencial na empresa.
+
+
+
+
+     exemplo do relatório de análise de competências - equipa de motoristas de um inspetor
+
+     efetivo analisado		
+
+     orientação para o cliente				                         disponibilidade
+
+
+
+
+     ranking por competências
+
+      potenciais                                             oportunidades de melhoria
+      orientação para o cliente               1              disponibilidade                         41
+      conhecimento de inglês                  16             conhecimento de rede                    20
+      orientação para resultados              14             compromisso organizacional              13
+      condução (autocarros)                   11             gestão de conflitos                     7
+      ética e responsabilidade profissional   10             ética e responsabilidade profissional   2
+
+
+
+
+30   relatório de sustentabilidade 2014
+
+     • programa drive
+     trata-se de um programa de desenvolvimento e apoio aos gestores de desempenho
+     (chefias diretas) (drive – desenvolver, reconhecer, influenciar, valorizar e energizar).
+
+     com a sua aplicação é possível otimizar desempenhos, identificar as necessidades
+     de formação “no terreno”, promover a mudança de comportamentos e reconhecer
+     os colaboradores cujos perfis de competências e desempenho mais contribuem
+     para o sucesso da organização.
+
+
+
+
+     projeto change - é um modelo de mudança e gestão comportamental, focado no indivíduo,
+     quando o comportamento não se ajusta às reais necessidades da organização, assente
+     em técnicas psicológicas e num acompanhamento de proximidade, no sentido da resolução
+     de problemas e de cumprimento de objetivos (redução do absentismo, sinistralidade,
+     reclamações, etc.).
+
+     formação focalizada - foram desenvolvidos diversos programas integrados de formação,
+     ajustados às reais necessidades de desenvolvimento da empresa.
+     • comunicação interna
+     é uma área em que a carris continua a apostar, para que todos os colaboradores
+     tenham uma visão global da dinâmica da empresa e poderem, assim, participar de forma
+     mais ativa, expondo as suas ideias / sugestões e reclamações, utilizando os múltiplos
+     canais de comunicação existentes (portal mycarris, e-mail, newsletter interna,
+     especial carris, mobtv).
+
+     • academia
+     é um programa dirigido aos quadros mais jovens da organização, que visa desenvolver
+     e potenciar o seu talento e liderança, através da disseminação de boas práticas de gestão.
+     introduz o conceito de “mentoring”, reforçando a relação e a passagem de “know-how”
+     entre os quadros mais experientes e os mais jovens.
+
+     a edição de 2013/2014 teve a participação de 25 formandos e 25 mentores, provenientes
+     da carris/metro, integrando as seguintes iniciativas: programa de mentoring, em que foram
+     lançados cinco desafios (análise swot pessoal, medição de eficácia na gestão do tempo,
+     autoanálise de estilos e valores de liderança, autodiagnóstico de competências
+     empreendedoras, networking); três sessões de formação presencial sobre comunicação
+     e relacionamento interpessoal, gestão de projetos e sobre liderança mobilizadora;
+     e fóruns de discussão acerca de oferta/procura – métodos de captação de novos clientes,
+     fraude – estratégias para redução de situações fraudulentas, integração carris/metro
+     – estratégias de otimização, novos negócios e otimização de custos, kpi’s.
+
+
+
+
+31   relatório de sustentabilidade 2014
+
+     • global management challenge 2014
+     pelo 2º ano consecutivo, a carris e o metro participaram nesta competição que simula
+     a gestão de uma empresa, integrada num ambiente fictício, obedecendo, no entanto,
+     a regras reais do mercado. em 2014, a equipa “tl em movimento” passou à 2ª volta
+     da competição, tendo terminado numa honrosa 6ª posição dentro do grupo de empresas
+     em que estava inserida.
+
+     • estudo do clima 2014 carris/metro
+     no âmbito do 1º diagnóstico conjunto, realizado em 2013, foram criadas equipas de trabalho
+     multidisciplinares, de ambas as empresas, para análise das sugestões apresentadas pelos
+     colaboradores na resposta ao questionário, de modo a poderem ser traduzidas em medidas
+     concretas e concretizáveis nas duas empresas.
+
+     • team up – liderança em movimento
+     recuperando o programa de desenvolvimento das chefias intermédias da empresa,
+     foi realizada, em janeiro de 2014, uma ação destinada às equipas de fiscalização da carris
+     e do metropolitano de lisboa, focada nos testemunhos de outras entidades com funções
+     semelhantes às destes profissionais (ex.: agentes de segurança), reforçando a proximidade
+     entre os colaboradores das respetivas equipas e destacando a sua importância para
+     o funcionamento das duas empresas.
+
+     • atitude comercial
+     integrado na ação interna de sensibilização para a importância da validação dos títulos,
+     foi realizado um “workshop” sobre atitude comercial dirigido aos colaboradores das áreas
+     comerciais da carris e do metropolitano de lisboa. esta iniciativa permitiu a partilha
+     de experiências com outras entidades, em que o atendimento ao cliente é um aspeto
+     fundamental, reforçando as competências necessárias para o exercício dessa função.
+
+     • tripulantes – prémios de boa condução e desempenho +
+     para além dos prémios “inovação”, já mencionados, suscetíveis de atribuição a qualquer
+     colaborador, a carris continua a reconhecer e a premiar a dedicação, a competência
+     e o empenho dos seus tripulantes. estes prémios não são pecuniários.
+
+     os prémios anuais de boa condução têm por base o nº de horas de condução sem acidentes,
+     sendo atribuídos na cerimónia oficial do dia da carris (18 de setembro). em 2014, foram
+     distinguidos 204 motoristas e 29 guarda-freios.
+
+     o prémio desempenho+ elege, quadrimestralmente, os tripulantes com excelente desempenho,
+     sendo suportado num conjunto de critérios transversais a toda a organização. ao longo
+     de 2014, foram atribuídos 148 prémios e distinguidos 68 tripulantes.
+
+     • apoio psicossocial
+     em 2014, prosseguiram as ações da equipa de apoio psicossocial “apoio+”, na intervenção
+     precoce e mitigação de problemáticas que afetam diretamente o desempenho da atividade
+     profissional dos colaboradores.
+
+
+      ações desenvolvidas - 2014
+      intervenções
+      intervenções em incidentes críticos – in loco, tempo real 24h (cct)             3
+      intervenções (“em gabinete”) a pedido dos próprios ou assinalados pela chefia   22
+      total                                                                           25
+
+
+
+
+32   relatório de sustentabilidade 2014
+
+            2.3 clientes
+
+     as estatísticas da empresa, nomeadamente em termos de passageiros transportados
+     e de quilómetros percorridos, atestam a importância da carris na mobilidade da cidade
+     e da área metropolitana de lisboa (aml).
+
+                         2013                                                          2014
+         modo            passageiros serviço         km serviço       passag. /km      passageiros serviço       km serviço      passag. /km
+                         público (103)               público (103)                     público (103)             público (103)
+         autocarro                   136 993               31 100              4,40                  131 889           30 086            4,38
+         elétrico                     12 713                 1 736             7,32                   12 548            1 699            7,39
+         total                       149 706               32 836              4,56                  144 437           31 785            4,54
+
+     obs.: os valores da procura, aqui referidos, têm por base as validações, tendo sido recalculado o ano anterior,
+     para efeitos de comparação.
+
+
+     • saúde e segurança do cliente
+     a carris disponibiliza uma frota de veículos moderna, utilizando sistemas/equipamentos
+     de segurança e sistemas de gestão e de controlo de tráfego, pessoal tripulante
+     qualificado e atencioso e oferecendo adequadas condições de acesso a pessoas idosas
+     e de mobilidade reduzida.
+
+     relativamente à prevenção e combate à delinquência e ao vandalismo, na rede de exploração,
+     a carris continua a realizar diversas ações, muitas delas em articulação com a psp
+     (comando metropolitano de lisboa e comandos das divisões e das esquadras da psp,
+     que superintendem as áreas geográficas das diferentes estações e complexos da carris).
+
+     além disso, a carris elabora um programa de segurança anual e respetivos relatórios
+     de acompanhamento (semestrais) que envia para o instituto da mobilidade e dos transportes
+     (imt), por imperativo legal.
+
+     •      incidentes em exploração
+
+         natureza dos incidentes de exploração                         2013           2014            variação %
+         interrupções de trânsito                                             1 527          2 409         + 57,8
+         atos de vandalismo                                                    175            159              - 9,1
+         atos de delinquência (agressões/furtos/injúrias...)                   348            448          + 28,7
+         outros incidentes                                                    1 393          1 882         + 35,1
+         total                                                                3 443          4 898         + 42,3
+         taxa de incidentes
+                                                                              14,39          21,03
+         (n.º incidentes * 104/ veic . h st)
+
+
+
+     comparativamente com 2013, ocorreu um acréscimo de 42,3% do número total de incidentes,
+     devido, especialmente, ao acréscimo do nº de interrupções de trânsito e dos atos de delinquência
+     contra os tripulantes.
+
+     •      acidentes em exploração
+
+                                                                              taxa de acidentes de exploração
+                              nº de acidentes de exploração
+                                                                              (acidentes * 106 / veic . km st)
+                              2013                    2014                    2013               2014
+         modo autocarro                   1 066                  1 061                   34,02                 35,10
+         modo elétrico                         135                   111                 72,63                 60,22
+         total                            1 201                  1 172                   36,20                 36,56
+
+
+
+
+33   relatório de sustentabilidade 2014
+
+     face a 2013, houve um ligeiro decréscimo do número total de acidentes.
+
+     a taxa de acidentes da carris continua a ser uma das melhores, entre os operadores
+     de transporte urbano europeus.
+
+      natureza dos acidentes   2013        % face ao total   2014        % face ao total
+      choques                     986                82,1       940                80,2
+      quedas                      174                14,5       186                15,9
+      atropelamentos                  31              2,6           24              2,0
+      entalamentos                    10              0,8           22              1,9
+      total                     1 201               100,0     1 172               100,0
+
+
+
+     os choques continuam a ser a principal causa dos acidentes em exploração (80,2% do total).
+     as quedas têm sido, também, uma preocupação da empresa, estando relacionadas
+     com o envelhecimento duma larga faixa dos clientes e com as condições de circulação
+     na via pública.
+
+     a minimização da acidentalidade depende, em grande parte, das aptidões e motivação dos
+     tripulantes e de uma adequada adaptação destes aos veículos. para o efeito, são importantes:
+        •		 o cumprimento do plano anual de formação;
+        •		 as ações de formação / sensibilização realizadas nas próprias estações e ministradas
+     			 pelos inspetores de acompanhamento; no caso da condução de autocarros, estas ações
+     			 têm em conta os dados fornecidos pelo sistema de monitorização do desempenho
+     			 dos motoristas (xtran drive);
+        •		 medidas de motivação, como a atribuição de prémios (não pecuniários).
+
+     • provedor do cliente
+     o provedor do cliente tem a incumbência de receber e analisar as reclamações e sugestões
+     apresentadas pelos clientes, assegurar as respostas adequadas, em tempo útil e oportuno
+     e recomendar soluções tendentes à melhoria do serviço prestado.
+     desde março de 2003 a dezembro de 2014, foram rececionadas 55 665 comunicações,
+     das quais: 27 051 reclamações de serviço, 16 693 pedidos e sugestões, 11 112 queixas
+     de pessoal e 809 elogios (649 dirigidos a pessoal e 160 ao serviço prestado).
+
+     em 2014, foram recebidas 5 110 comunicações (3 643 por e-mail, 511 por telefone,
+     485 via livro de reclamações, 238 pessoalmente, 225 cartas e 8 por fax).
+
+
+
+
+34   relatório de sustentabilidade 2014
+
+     em 2014, a carris respondeu a 2 974 reclamações de serviço e queixas de pessoal.
+     efetuaram-se, também, 1 917 respostas a pedidos, sugestões, elogios a pessoal e ao serviço.
+
+     o tempo médio de resposta a reclamações e queixas, em 2014, foi de 4,33 dias, registando-se
+     uma melhoria em relação a 2013 (5,25 dias).
+
+     o indicador das reclamações/106 pk foi de 6,09, tendo-se verificado um acréscimo
+     relativamente a 2013.
+
+
+
+
+     em 2014, do total de comunicações recebidas, 2 067 foram direcionadas ao serviço prestado,
+     1 847 a sugestões e pedidos diversos, 1 124 à atitude profissional dos trabalhadores
+     e 72 elogios.
+     			
+     								
+
+
+
+
+     tipos de reclamações com maior expressão:
+
+                                  2014     2013
+      irregularidade                1013      643
+      informação deficiente          340      278
+      bilhética                      250      380
+      motorista-atendimento          307      248
+      motorista-não faz paragem      214      182
+      condução agressiva             193      200
+
+
+
+
+35   relatório de sustentabilidade 2014
+
+     a maioria dos elogios ao pessoal incidiu sobre a atitude comercial dos condutores em relação
+     aos clientes.
+
+     os elogios ao serviço foram direcionados à atuação da fiscalização comercial no combate
+     à fraude, à colocação de painéis saeip, ao serviço prestado ao “rock in rio” e ao serviço
+     prestado em dia de greve, entre outros.
+
+     nas linhas/carreiras certificadas, foram apresentadas 1 983 reclamações/queixas,
+     registando-se um acréscimo de 30% relativamente às recebidas em 2013 (1 525). o valor
+     médio do indicador reclamações/106 pk foi de 5,29 (3,58 em 2013).
+
+     a análise às reclamações e queixas recebidas e o seu enquadramento no processo
+     de melhoria contínua do serviço, prestado pela carris, levaram a dar especial atenção
+     às seguintes situações:
+     • irregularidade; informação deficiente; relação comercial estabelecida com os clientes;
+     • “condutores não cumprem horário”; “condutores não abrem a porta”.
+
+     em 2014, das 213 sugestões apresentadas, 31 foram aceites e oportunamente concretizadas
+     pela empresa, destacando-se as que contribuíram para melhorar a fiscalização comercial,
+     a informação aos clientes e as alterações de percurso e de paragens.
+
+     • satisfação do cliente
+     no âmbito do sistema de gestão integrado, a carris tem vindo a realizar, anualmente,
+     o inquérito de satisfação dos clientes (isc):
+         •		 o nível de satisfação global tem evoluído favoravelmente, ao longo dos anos,
+     			 atingindo, em 2014, o valor médio de 66,3 em 100 pontos possíveis;
+         •		 das caraterísticas utilizadas para avaliar a qualidade, continua a ter lugar de destaque
+     			 a avaliação feita sobre a “condução segura e confortável”, a “adequação
+     			 dos equipamentos” e a “distribuição de postos de venda”.
+         •		 em relação aos aspetos a melhorar, os inquiridos continuam a incidir, especialmente,
+     			 sobre o menor tempo de espera nas paragens e sobre a necessidade de uma maior
+     			 rapidez nas deslocações.
+         •		 a carris continua a ser vista como uma empresa importante para a sociedade,
+     			 de confiança e com um elevado sentido de responsabilidade social.
+
+
+
+
+36   relatório de sustentabilidade 2014
+
+         2.4 colaboradores /recursos humanos
+
+     a carris continua a apostar nas parcerias/protocolos de cooperação, no âmbito das práticas
+     de responsabilidade social interna, com empresas, instituições, organismos e entidades,
+     com o objetivo de promover benefícios aos colaboradores e ao seu agregado familiar.
+
+     presentemente, a carris tem um total de 72 parcerias, em diversas áreas:
+     no âmbito destas parcerias, a carris promoveu, em 2014, 11 ações presenciais, com o objetivo
+     de divulgar e dar a conhecer as vantagens das respetivas parcerias. além disso, todos
+     os colaboradores podem aceder, no portal mycarris e na intranet, à “área de parcerias”
+     e recolher toda a informação sobre as mesmas.
+
+
+
+
+         2.4.1 efetivo de pessoal
+
+     efetivo carris
+                                                2012             2013             2014
+      efetivo ao serviço                           2 175            2 063            2 009
+      outras situações                               221              192              132
+      pré-reformados                                   65               58                  2
+      requisitados à empresa                            7                6                  5
+      regime de cedências pela empresa               149              128              125
+      efetivo global                               2 396            2 255            2 141
+
+
+
+     no ano de 2014, o efetivo da carris diminuiu de 114 colaboradores. as saídas deveram-se,
+     maioritariamente, a rescisões por mútuo acordo.
+
+     distribuição funcional do efetivo
+                                                2012             2013             2014
+      dirigentes + resp. área                          36               33               31
+      quadros técnicos                                 85               78               84
+      apoio administrativo                           247              236              249
+      apoio operacional                                65               58               56
+      pessoal tripulante                           1.560            1.491            1.412
+      controlo de tráfego                              58               57               55
+      fiscalização comercial                           33               33               40
+      manutenção                                       91               80               82
+      outros*                                        221              189              132
+      efetivo global                               2 396            2 255            2 141
+      * inclui pessoal em regime de cedência pela empresa, requisitados e pré-reformados.
+
+
+
+
+37   relatório de sustentabilidade 2014
+
+     verifica-se uma ligeira diminuição, exceto no “apoio administrativo”
+     e na “fiscalização comercial”.
+
+     o aumento verificado nos “quadros técnicos” está relacionado com a retoma de funções
+     dos que se encontravam em situação de pré-reforma.
+
+
+
+
+         2.4.2 trabalho suplementar
+
+     trabalho suplementar
+                                          2012      2013      2014
+      moras [milhares]                       66,2      96,6     136,7
+      custo [m€]                            427,1     609,1     820,4
+      taxa de trabalho suplementar         1,83%     2,62%     3,88%
+
+
+
+     os principais motivos que contribuíram para o aumento do trabalho suplementar foram
+     o absentismo por motivo de doença (4,28%), as faltas justificadas (2,37%) e a saída
+     de tripulantes, por pedido de demissão.
+
+
+     absentismo detalhado
+                                          2012      2013      2014
+      doença                               2,08%     3,56%     4,28%
+      acidentes de trabalho                0,62%     0,78%     0,55%
+      faltas injustificadas                0,23%     0,23%     0,25%
+      greves                               0,72%     0,66%     0,07%
+      faltas justificadas                  2,21%     2,31%     2,37%
+      ae - cláusula 33º a)
+      (alínea “m”)                         0,38%     0,41%     0,41%
+      taxa de absentismo global            6,24%     7,94%     7,93%
+
+
+
+     apesar do atual contexto socioeconómico, foi possível manter a taxa de absentismo;
+     a maior redução, relativamente a 2013, verificou-se no absentismo por motivo
+     de greve. por outro lado, as rúbricas que continuam a ter maior contribuição
+     são as “baixas por doença” (54%) e as “faltas justificadas” (30% - estas prendem-se,
+     sobretudo, com a atividade sindical).
+
+
+
+
+38   relatório de sustentabilidade 2014
+
+            2.4.4 ações de formação
+
+     a carris continua a apostar, fortemente, no desenvolvimento dos seus colaboradores,
+     sob o ponto de vista profissional e pessoal, tornando a formação um processo contínuo e dinâmico,
+     que visa valorizar os seus ativos, a sua função e o desempenho global da organização.
+
+
+
+
+     • algumas ações relevantes, em 2014:
+       • técnicas de condução e conhecimento de autocarros e veículos elétricos;
+       •		 qualidade perante o cliente, em termos relacionais e comerciais;
+       •		 área de segurança – formação, para todos os colaboradores, relativa
+     			 aos planos de emergência internos, tendo culminado com simulacros em todas
+     			 as instalações da empresa;
+       •		 auditorias ao sgi - desenvolvido um projeto formativo para o reforço
+     			 e rejuvenescimento da bolsa de auditores internos;
+       •		 segurança e saúde no trabalho - proporcionada uma formação em “suporte básico
+     			 de vida - desfibrilhação” para a equipa de enfermeiros da área da saúde;
+       •		 campanha de atitude comercial, transversal a toda a organização;
+       •		 programa cam (certificado de aptidão para motoristas) - no ano 2014, foi concluída
+     			 a primeira fase, abrangendo todos os motoristas da empresa, bem como parte
+     			 do pessoal de enquadramento e guarda-freios;
+       •		 programa integrado de desenvolvimento da equipa de fiscalização comercial
+     			 (“gestão emocional”, “segurança pessoal preventiva” com apoio da psp e “inglês”
+     			 para melhorar a relação com o cliente estrangeiro);
+       •		 aposta no programa de inglês, alargando, cada vez mais, a sua abrangência
+     			 e transversalidade (quadros; chefias intermédias da operação; tripulantes,
+     			 em módulo integrado no cam; colaboradores do museu).
+
+     • taxa de formação
+     em 2014, foram ministradas 23 882 horas de formação, abrangendo 2 241 participantes
+     (1 635 colaboradores). a taxa de formação foi de 6,49‰.
+     formação
+
+                                          2012      2013      2014
+         horas                             33.710    23.627    23.882
+         participantes                      1.146     1.221     2.241
+         custo [m€]                         288,4     142,6     191,4
+         taxa de formação [%]                8,25      6,06      6,49
+
+
+
+            2.4.5 acidentes de trabalho
+
+
+39   relatório de sustentabilidade 2014
+
+     em 2014, verificou-se uma diminuição do nº total de acidentes de trabalho participados.
+
+     acidentes de trabalho
+
+                                          2012         2013         2014
+         n.º acidentes de trabalho               58           67           92
+         índice de frequência                14,8         16,5         25,2
+         índice de gravidade                     1,1          1,4          0,9
+         dias perdidos (ita)                4.379        5.266        3.511
+         peso relativo dos acidentes de
+                                           0,62%        0,78%        0,55%
+         trabalho no absentismo global
+
+     a rúbrica “agressão” continua a ser a mais preocupante, sendo os principais afetados
+     os motoristas, guarda-freios e agentes da fiscalização comercial.
+
+     ao longo destes últimos anos, a carris tem facultado formação e tomado diversas medidas para
+     a prevenção de riscos nessa área, mas a realidade tem demonstrado que não estão a surtir
+     o efeito desejado.
+     no entanto, pese embora o aumento do nº de acidentes de trabalho, ocorreu uma diminuição
+     sensível dos dias de trabalho perdidos, contrariando a subida verificada em anos anteriores.
+
+
+            2.4.6 igualdade de género
+
+     a carris tem tido a preocupação de garantir a equidade de direitos, a igualdade
+     de oportunidades e o desenvolvimento de políticas que potenciem a conciliação da vida
+     pessoal, familiar e profissional dos seus colaboradores.
+
+     em 2010, definiu o seu 1º plano de ação para a igualdade de género, antecipando-se
+     às orientações legais que seriam, mais tarde, emanadas pelo governo português
+     (rcm nº 19/2012). atualmente, encontra-se em curso o 2º plano de ação, para o período
+     2012-2015, do qual se destacam algumas das iniciativas promovidas em 2014:
+
+     • “benchmarking” – participação em seminários, conferências e grupos de trabalho
+       •		 conferência “projeto de norma guia – organizações familiarmente responsáveis”, 		
+     			 promovida pela associação portuguesa de ética empresarial;
+       •		 renovação dos compromissos para 2014, no âmbito da participação no fórum empresas
+     			 para a igualdade (igen) dinamizado pela cite (comissão para a igualdade no trabalho
+     			 e no emprego), em parceria com várias empresas do setor público e privado;
+       •		 projeto “ihrm – práticas inclusivas de gestão de recursos humanos para trabalhadores
+     			 seniores”, apoiado pela ue, através da advancis;
+       •		 estudo nacional “boas práticas para o aumento da força de trabalho disponível
+     			 em portugal através da manutenção e reinserção de seniores no mercado de trabalho”,
+     			 financiado pelo programa operacional de assistência técnica e fundo social europeu;
+       •		 conferência “seniores ativos: que futuro?”, promovida pela advancis.
+
+     • “especial carris”
+     a carris continua a divulgar esta publicação semanal, pelos colaboradores, com sugestão
+     de atividades culturais e lúdicas, gratuitas, e com promoções especiais, dos parceiros
+     da empresa, que podem ser usufruídas individualmente e/ou em família.
+
+     • “babykit carris”
+     promoção da entrega de um kit, composto por produtos para a primeira infância,
+     aos colaboradores recém pais ou mães. a entrega é feita pelas chefias diretas,
+     com publicação de fotografia na newsletter interna. em 2014, foram entregues 79 kits.
+
+     •      ações de sensibilização na área da igualdade
+
+40   relatório de sustentabilidade 2014
+
+     dentre a divulgação trimestral, por e-mail, de temas relacionados com a área da saúde
+     e com a igualdade de género, cujos conteúdos são desenvolvidos internamente,
+     há a destacar, em 2014, a informação sobre a “violência doméstica”
+     e o “apoio a descendentes dependentes”.
+
+
+        2.4.7 projetos e iniciativas internos
+
+     • campanha de prevenção do cancro da mama
+     a carris e o metropolitano de lisboa juntaram-se ao “movimento vencer e viver” da liga
+     portuguesa contra o cancro, para assinalar o dia nacional de prevenção do cancro da mama,
+     com um conjunto de atividades, apoiando, desta forma, a luta contra esta doença. foi feita uma
+     campanha informativa no interior dos veículos e pelos colaboradores, os quais,
+     voluntariamente, vestiram a “t-shirt” da causa, nesse dia.
+
+     • “próxima paragem, regresso à escola” e plataforma “passa o teu livro”
+     mantém-se ativo um banco de livros usados, dos colaboradores, o qual permite a entrega
+     e recolha gratuita e permanente de manuais, livros de leitura e de apoio (do 1º ano do ensino
+     básico até ao ensino superior).
+
+     • caminhada carris
+     pelo 2º ano consecutivo, realizou-se a caminhada carris, aberta a colaboradores da carris
+     e do metropolitano de lisboa e respetivos familiares, com o apoio do parceiro holmes place.
+
+     • atividades de verão
+     a carris, em parceria com entidades externas, continua a divulgar, anualmente, um conjunto
+     de atividades de verão, de caráter pedagógico e lúdico, no sentido de preencher os tempos
+     livres das crianças e jovens, filhos de colaboradores.
+
+     • feira do livro
+     entre 17 de novembro e 12 de dezembro de 2014, decorreu a 3ª edição da feira do livro
+     promovida pela carris/metro.
+
+     • iniciativas de natal
+     comemoração da época natalícia com iniciativas dirigidas aos colaboradores da empresa
+     e respetivos familiares: “cinenatal 2014”, com sessões de cinema infantil; passatempo
+     “cria o teu natal” e as viagens no elétrico e no comboio de natal.
+
+     • presente consigo – linha da alegria
+     no âmbito desta ação de responsabilidade social, a carris e o metropolitano de lisboa
+     apostaram, novamente, na campanha de angariação de fundos para a entrajuda.
+     foram convidados os clientes e colaboradores a doarem alguns artigos de maior necessidade,
+     em vários locais, e mais uma vez a resposta foi bastante positiva. cerca de 235 quilos
+     de material angariado foi distribuído por várias instituições de solidariedade.
+
+
+        2.5    banda de música dos empregados da carris
+
+     a banda de música foi fundada, em 1929, por um grupo de trabalhadores, e desde essa data
+     tem estado sempre presente nos principais eventos da vida da empresa, desenvolvendo,
+     ao longo de mais de oito décadas, uma grande diversidade de atuações, sendo reconhecida
+     hoje como uma referência na cidade de lisboa e no país.
+
+     apresenta, atualmente, quatro vertentes: banda de música (30 elementos), grupo coral
+     (29 elementos), orquestra ligeira (11 elementos) e escola de música (frequência
+     de 12 alunos, de ambos os sexos e de diferentes faixas etárias).
+     dentre as várias atuações, ao longo do ano, que contam sempre com entusiástica recetividade
+
+
+41   relatório de sustentabilidade 2014
+
+     por parte do público, são de assinalar, pela sua regularidade e tradição:
+        •		 concerto anual;
+        •		 missa anual (grupo coral), em homenagem aos associados falecidos;
+        •		 concertos de natal e ano novo;
+        •		 atuações nas comemorações do aniversário da carris e, agora também,
+     			 do metropolitano de lisboa, assim como no dia do reformado.
+
+     em 2014, associou-se, também, a outros eventos de caráter social, atuando no festival
+     “o bairro i o mundo” (promovido pela câmara m. loures e pela ibisco), bem como no atrium
+     do saldanha no dia nacional do cancro da mama.
+
+     a banda tem as portas abertas aos colaboradores e ex-colaboradores da carris,
+     metropolitano de lisboa e das empresas suas participadas, bem como aos seus familiares,
+     que pretendam aprender e participar nas suas atividades. de salientar o papel que a escola
+     de música tem tido na formação e na divulgação da música, junto dos mais jovens,
+     granjeando assim a captação de novos elementos para o seu efetivo.
+
+
+        2.6    grupo desportivo da carris
+
+     em 2014, o grupo desportivo da carris comemorou o seu centenário de existência.
+     com efeito, fundado em 9 de dezembro de 1914, então designado pela sigla “cfl”,
+     iniciou a sua atividade de carácter lúdico e desportivo, de modo regular. coincidindo
+     com a comemoração do centenário, o grupo desportivo passou a dispor de novas instalações,
+     disponibilizadas pela empresa, mais funcionais, potenciando melhores condições de treino
+     e de prática desportiva, em particular, nas artes marciais.
+
+     desde sempre que o grupo desportivo da carris se destina a promover a prática saudável
+     de desporto, bem como a promoção de atividades de lazer, fomentando o espírito de grupo
+     e de pertença.
+
+     no decorrer de 2014, o grupo desportivo manteve em atividade regular mais de uma
+     centena de colaboradores e respetivos familiares, promovendo a imagem da carris por todo
+     o país. esses atletas disputam os quadros competitivos federativos de diversas modalidades,
+     de forma bastante eclética, designadamente, futebol, hóquei em campo/sala, xadrez,
+     pesca desportiva, atletismo, andebol, cicloturismo, btt, karaté e krav maga.
+
+
+        2.7    associação de reformados da carris - areca
+
+     a areca tem como objetivos:
+        •		 informar os associados sobre as mais variadas matérias e ajudá-los nas dificuldades
+     			 que se manifestem no dia a dia ;
+        •		 manter a “família carris” ligada e unida, mesmo para além de cessar
+     			 a atividade profissional.
+     em 2014, a areca celebrou o seu 9º aniversário, nas instalações do museu da carris
+     em s. amaro, evento que contou com a atuação da orquestra ligeira da banda da carris.
+
+     outros eventos relevantes realizados em 2014:
+        •		 almoço anual de convívio entre associados, reformados e familiares, que teve lugar 		
+     			 em alcobaça, no dia 17 de maio, com a participação da banda de música
+     			 dos empregados da carris.
+        •		 torneio de sueca, que foi, mais uma vez, renhidamente disputado por várias equipas,
+     			 tendo estas sido premiadas pela sua atuação.
+        •		 almoço convívio de natal, que teve lugar em lisboa no dia 8 de dezembro.
+     na área da saúde, há a destacar o seguinte:
+
+
+
+42   relatório de sustentabilidade 2014
+
+       •		 a areca mantém o protocolo com a clínica de s. cristóvão (ipss), em que, a preços
+     			 sociais, os reformados da carris e seus familiares podem ter assistência médica
+     			 (consultas em 31 especialidades e cuidados de enfermagem e de reabilitação);
+       •		 acordo com um grupo farmacêutico que permite aos associados obter medicamentos
+     			 a preços mais reduzidos;
+       •		 nas suas instalações, em stº amaro, para além de uma sala de convívio, tem um pequeno
+     			 ginásio de manutenção física, à disposição dos seus associados.
+
+
+        2.8    comunidade
+
+     • movimento “menos um carro”
+     a carris lançou, em 2009, este movimento para promover a mobilidade sustentável, por via
+     da utilização dos transportes públicos de uma forma mais racional e intensiva. já aderiram
+     ao movimento, na qualidade de parceiros, diversas entidades.
+
+     o “site” desta iniciativa contém notícias e reflexões várias relacionadas com a mobilidade
+     sustentável, incluindo um índice de mobilidade sustentável (ims) que permite aos cidadãos
+     saber quão sustentável é a sua prática quotidiana, fazer comparações de resultados e partilhar
+     esta informação através das redes sociais.
+
+     • museu da carris
+     aberto desde 12 de janeiro de 1999, o museu da carris é um testemunho do contributo
+     que a empresa tem dado à cidade de lisboa, sendo, igualmente, um marco cultural na história
+     e na vida da cidade e de todos os que a visitam, tendo vindo a consolidar-se como um museu
+     de referência em lisboa.
+
+     o museu da carris quer chegar cada vez mais próximo dos seus visitantes,
+     proporcionando-lhes momentos de cultura, descontração e lazer.
+
+     em 2014, o museu registou um aumento de 40% no número de visitantes. a receita
+     da bilheteira teve, pela primeira vez, na história do museu, uma faturação superior
+     a 30 000 euros que corresponde a um crescimento de 187% em relação ao ano anterior.
+
+     das atividades e medidas desenvolvidas pelo museu, em 2014, destacam-se:
+     • consolidação do serviço educativo do museu, com uma ação educativa, vocacionada
+        e adaptada a crianças, jovens, escolas, famílias e públicos com necessidades específicas;
+     • continuação da parceria com a “lisboa quem és tu”, espetáculo multimédia que conta
+        a história da cidade de lisboa através dos monumentos, dos locais emblemáticos,
+        dos factos e das personagens marcantes;
+     • reforço da parceria com o village underground, plataforma internacional para a cultura
+        e para a criatividade, instalada em santo amaro e que integra o percurso do museu;
+     • inclusão de uma coleção permanente alusiva à história do metropolitano de lisboa;
+     • realização de exposições no espaço da galeria do museu e na antiga carpintaria mecânica:
+        •		 exposição “laboratórios artísticos | uma produção tempos de vista” (continuação
+     			 de um projeto iniciado em 2012): maria sassetti e inês moura (2 a 31 janeiro);
+     			 joana gomes e sérgio fernandes (1 a 28 fevereiro); e inês teles e min kim 1 a 31 março);
+        •		 exposição “o efémero em passagem” – fotografia, pintura, som e vídeo:
+     			 joão abreu, nuno lacerda e frederico mendes (maio/junho);
+        •		 “exposição sobre carris,” em parceria com o museu nacional ferroviário
+     			 (18 setembro a 19 dezembro);
+     			 conta a história do que une as duas instituições, convidando a uma viagem no tempo
+     			 quando, sobre carris, já se transportavam pessoas, bens, ideias, usos e costumes;
+        •		 exposição sem formato - duas exposições fotográficas dos artistas josé luís neto,
+     			 mariana marote e rodrigo bettencourt (2 outubro a 14 dezembro).
+     presença da carris em seminários, conferências e outros eventos, em 2014
+
+
+
+43   relatório de sustentabilidade 2014
+
+     a carris participou em diversos eventos, ao longo do ano. a título de exemplo:
+        •		 seminário sobre a gestão de resíduos, no auditório do alto dos moinhos,
+     			 dirigido aos colaboradores da carris/metro – 8 de abril;
+        •		 inauguração do village underground lisboa – 9 de abril;
+        •		 evento apvgn “ o gás natural nos transportes” no lnec, dia 30 de setembro
+     			 – a carris apoiou o evento, tendo cedido um autocarro a gás natural, de última
+     			 geração. participou, também, numa das mesas redondas, transmitindo as ações
+     			 e a experiência da empresa na temática em causa.
+        •		 “hydrogen fuel cells bus seminar” 2014, no salão nobre em stº amaro, dia 27 de junho
+     			 – iniciativa conjunta da ap2h2, do energyin e do projeto europeu chic 2, em parceria
+     			 com a carris e outras entidades nacionais e internacionais.
+        •		 sessões técnicas “veículos volvo euro vi” (21 outubro) e “veículos iveco euro vi”
+     			 (2 dezembro) – estas iniciativas, promovidas pelo gabinete de inovação
+     			 e desenvolvimento, permitiram às áreas técnicas e de operações da carris adquirir 		
+     			 conhecimento técnico das últimas inovações tecnológicas e das diversas opções
+     			 que o mercado disponibiliza.
+        •		 apresentação, em stº amaro, do veículo kangoo ze h2 com célula de combustível, 		
+     			 organizada pela ap2h2 (06 novembro).
+        •		 25ª convenção anual da anecra – “inovação: a via para o sucesso”
+     			 (28 e 29 novembro).
+
+     • prémios atribuídos à carris em 2014
+       •		 “melhores empresas para trabalhar 2014” – 45º lugar no “ranking” das 100 melhores
+     			 empresas, 9ª posição das grandes empresas e a única do sector empresarial do estado.
+
+     •   cultura e entretenimento
+         nesta área, os apoios da carris foram bastante diversificados, garantindo condições 		
+         para a realização de ações de carácter cultural na cidade de lisboa, destacamos
+         a parceria com a egeac no projeto “andar em festa” que contou com várias iniciativas
+         nos transportes públicos:
+         •		 30 maio a 3 julho| “sobe e desce” ; 2 a 6 junho | “fado nos elétricos”
+         •		 9 junho a 3 julho | “escala no metro” ; 16 a 20 junho ”lá vai lisboa”
+
+     • solicitações de entidades e escolas
+       foram várias as entidades que visitaram a carris, tendo sido concretizados vários 		
+       pedidos de transporte para comitivas e realizados diversos passeios e visitas turísticas,
+       integrados nos respetivos programas oficiais:
+       •		 instituto pupilos do exército – 22 janeiro ; técnico da prefeitura de salvador da bahia
+     			 – 17 fevereiro
+       •		 uitp/divisão da américa latina – 17 fevereiro ; escola técnico-profissional de lyon,
+     			 frança – 19 fevereiro
+       •		 associação de amigos do metro de madrid – 10 maio ; embaixador da polónia,
+     			 com passeio de elétrico pelos bairros típicos de lisboa - 30 maio
+       •		 escola eb nº 1 de alcácer do sal – 30 junho ; delegação dos transportes de budapeste
+     			 – 9 julho
+       •		 associação de transportes de passageiros da letónia - 29 setembro
+       •		 comitiva do ministério dos petróleos da república de angola– 17 novembro: visita 		
+     			 às instalações oficinais e à central de comando de tráfego da carris; sessão técnica
+     			 com abordagem de vários aspetos relacionados com as propulsões e os (bio)
+     			 combustíveis nos transportes.
+
+
+
+
+     •   iniciativas musicais e desportivas
+
+
+44   relatório de sustentabilidade 2014
+
+        a carris associou-se à realização de festivais musicais de verão e a diversas iniciativas 		
+        desportivas, através de serviços especiais de transporte ou de reforço de linhas - foi o caso
+        de meias maratonas de lisboa e de portugal, corrida lisboa - a mulher e a vida, rock in rio,
+        festival optimus alive, liga dos campeões, taça de portugal, entre outros.
+
+     • ações solidárias
+     no âmbito da responsabilidade social da carris, direcionada para a comunidade, foram
+     desenvolvidas diversas ações, em parceria com entidades de solidariedade social e outras:
+        •		 “apadrinhamento de desejos” – natal de 2014 - a carris uniu-se à associação novo
+     			 futuro para apadrinhar 70 desejos de crianças e jovens residentes nos abrigos
+     			 da instituição (por via de uma ação interna de solidariedade, foram entregues
+     			 70 conjuntos de pijama/ roupão/ chinelos, doados pelos colaboradores da carris,
+     			 carristur e carribus);
+        •		 “missão kanimambo” – em parceria com o metropolitano, a carris divulgou
+     			 internamente esta campanha de angariação de cremes e vestuário para proteção solar,
+     			 que reverteram a favor das crianças albinas moçambicanas;
+
+     • elétrico de natal
+     durante três semanas, a carris organizou viagens no elétrico de natal, ao longo da zona
+     ribeirinha de lisboa, pelo 34.º ano consecutivo. esta iniciativa contou com a presença de cerca
+     de 50 escolas, tendo sido transportadas cerca de 2 400 crianças. em 2014, a iniciativa
+     integrou um pedido de donativo a cada escola e a cada criança participante, tendo sido
+     angariado um montante de cerca de 1 000 euros, entregue à instituição ajuda de berço.
+     aos fins-de-semana, o elétrico de natal efetuou viagens abertas ao público, num modelo
+     de exploração conjunta com a carristur, tendo sido obtida uma receita de cerca
+     de 4 100 euros.
+
+
+     3. responsabilidade ambiental e política energética
+        3.1 aquisição de bens e serviços
+
+     a carris inclui, desde há uns anos, critérios e considerações ambientais e de caráter
+     energético, no clausulado dos cadernos de encargos, para a aquisição de bens e serviços,
+     nomeadamente de veículos. estas exigências têm contribuído, junto dos fornecedores, para
+     a adoção generalizada de boas práticas nas suas cadeias de produção / fornecimento.
+
+        3.2 gestão de energia - instalações
+
+     na conservação do seu vasto património edificado, a carris tem em linha de conta
+     a legislação em vigor, em particular a que respeita ao desempenho térmico e energético.
+     para este efeito, foi criada uma comissão técnica que tem tido um papel dinamizador
+     na definição e concretização das diversas ações e das boas práticas neste domínio.
+     esta comissão articula-se com a área de logística da empresa, a quem cabe a concretização
+     e a gestão das diversas ações e intervenções preconizadas.
+
+     em 2014, há a destacar o seguinte:
+     •		 sistema de gestão de consumos de energia elétrica, água e gás natural
+     no complexo de miraflores, sede executiva da empresa, este sistema está em funcionamento
+     desde setembro de 2010, tendo sido desenvolvido no 3º trimestre de 2014, um novo
+     “software” que permite a elaboração expedita de relatórios periódicos e adequou melhor
+     o sistema às necessidades da empresa.
+
+     este sistema permite a análise dos consumos, emitindo alertas e recomendações de atuação,
+     em casos de situações anómalas ou que justifiquem melhorias e identificando as poupanças
+     resultantes das medidas tomadas.
+     consumo edíficios - complexo miraflores		           edíficio a - consumo por piso
+
+
+45   relatório de sustentabilidade 2014
+
+     relatório periódico - análises de consumo de energia elétrica por edifícios e pisos (ano 2014)
+
+
+
+     •   certificação energética de edifícios – alterações decorrentes do dec. lei nº 118/2013
+
+     complexo de miraflores - concluído
+     • edifícios “a”, “b” e “e-piso 0”: certificação em 2013
+       (classificações b-, c, c e b-, respetivamente).
+     • edifício “f” - o trabalho foi repetido de acordo com o novo decreto-lei, nomeadamente
+       o levantamento das instalações elétricas. já foi emitido novo certificado energético
+       (classificação c).
+
+     estação da musgueira - concluído
+     • edifício “a” – processo teve que ser reformulado de acordo com o novo normativo.
+        foi emitido o respetivo certificado energético (classificação c).
+
+     complexo de santo amaro
+     foram obtidas 4 certificações, referentes a 3 espaços do edifício “i” e a 1 espaço do edifício “h3”.
+     dar-se-á continuidade a este processo, em 2015.
+
+     estação da pontinha
+     o trabalho tem de ser recalculado, de acordo com o novo normativo. prevê-se que o processo
+     de certificação fique concluído até ao final de abril de 2015.
+
+     complexo de cabo ruivo
+     • edifício “a” – certificação em 2013 (classificação c).
+     • produção de energia elétrica fotovoltaica para autoconsumo
+       - dec.- lei nº 153/2014 de 20 outubro
+       em finais de 2014, iniciou-se a preparação do processo para lançamento de consulta
+       relativa à instalação de uma unidade de produção para autoconsumo (upac), no âmbito
+       da nova legislação.
+     • poupança de energia elétrica / melhoria da eficiência energética
+       em termos da componente técnica, foram concretizadas, nos últimos anos, determinadas
+       ações, nomeadamente:
+       •		 aplicação de automatismos diversos - interruptores horários, células crepusculares,
+     			 detetores de movimento e outros - em determinados circuitos de iluminação
+     			 /quadros elétricos;
+       •		 outras medidas de poupança de energia (eliminação de desperdícios e de alguns
+     			 pontos de iluminação exterior; reprogramação de interruptores horários e verificação
+     			 de temporizações).
+     em 2014, apesar dos constrangimentos financeiros, concretizaram-se algumas alterações
+
+46   relatório de sustentabilidade 2014
+
+              em diversas instalações elétricas (substituição gradual de balastros ferromagnéticos
+              por balastros eletrónicos, lâmpadas de halogénio 50w por lâmpadas led 6w e lâmpadas
+              de vapor de mercúrio de 250w por lâmpadas fluorescentes compactas de 75 w). por outro
+              lado, relançou-se a componente comportamental, com novas campanhas de sensibilização,
+              motivação e responsabilização social e ambiental dos colaboradores da empresa.
+
+              • energia elétrica - resultados obtidos
+              entre 2014 e 2006, obteve-se uma redução de 34,0% no consumo global de energia elétrica
+              e das emissões de co2. em 2014, o consumo global continuou a decrescer (menos 3,4%
+              versus 2013).
+
+              consumo de energia elétrica (kwh)
+
+                                                                                                                             2014 vs
+                 2006         2007        2008        2009        2010        2011        2012        2013        2014
+                                                                                                                            2006 (%)
+santo amaro    1 149 349    1 089 471   1 066 506    950 725     853 964     694 949     634 722     680 935     677 477      -41,1%
+cabo ruivo      333 188      299 565     306 986     379 667     394 734     374 366     372 052     383 057     312 468       -6,2%
+pontinha        647 117      672 392     631 572     554 345     543 466     467 034     422 557     434 506     433 417      -33,0%
+musgueira       842 698      848 731     840 483     834 275     833 600     687 835     633 400     583 375     607 559      -27,9%
+miraflores     2 591 401    2 305 958   2 085 748   2 033 100   2 252 537   1 901 288   1 753 734   1 723 190   1 643 405     -36,6%
+total          5 563 753    5 216 117   4 931 295   4 752 112   4 878 301   4 125 472   3 816 465   3 805 063   3 674 326      -34 %
+
+
+
+                 3.3       gestão de energia - atividade de transporte
+
+              nos últimos anos, a carris desenvolveu medidas e projetos na área da gestão de energia,
+              na atividade de transporte, promovendo a utilização racional de energia, com particular
+              ênfase na melhoria da eficiência energética, o controlo do impacte ambiental e a redução
+              da fatura energética.
+
+              tendo presente que na temática da eficiência energética é fundamental uma interação dos
+              aspetos tecnológicos e comportamentais com a gestão da atividade, a carris, em 2014,
+               procurou consolidar processos e boas práticas nesta matéria:
+              • renegociação dos contratos de combustíveis e lubrificantes, com melhoria
+                 das condições comerciais.
+              • frota de autocarros: após renovação de mais de 70 % da frota, entre 2004 e 2010,
+                 tem sido assegurada a preservação do seu estado de condição, através de uma manutenção
+                 adequada.
+              • condução económica e defensiva - qualificação e desempenho dos condutores
+                 •		 formação contínua – ações no âmbito da cam (certificação de aptidão de motoristas);
+                 •		 ações de formação complementares, sempre que necessário;
+                 •		 apoio dos inspetores de acompanhamento;
+                 •		 ações de sensibilização: utilização do ar condicionado / paragem do motor
+              			 nos terminais das linhas.
+              • sistema de monitorização do desempenho dos motoristas - xtran drive
+
+              este sistema inovador contribui para a consolidação de um estilo de condução racional,
+              com implicações na segurança rodoviária/conforto/operacionalidade/impacte ambiental
+              /consumo de combustível e custos.
+
+
+
+
+        47    relatório de sustentabilidade 2014
+
+     em 31 de dezembro de 2014, o sistema estava aplicado em 80 autocarros, abrangendo
+     6 segmentos de frota – médios, “standard” (4) e articulados – e as 3 estações de autocarros;
+     está em curso processo de extensão a mais 15 autocarros.
+
+     este sistema identifica o perfil comportamental do motorista, evidenciando os aspetos
+     suscetíveis de melhoria e as eventuais necessidades de acompanhamento e/ou de formação,
+     face a padrões de referência. por isso, ao longo de 2014, desenvolveram-se várias medidas
+     e iniciativas, em cada estação, com recurso aos indicadores fornecidos pelo sistema.
+
+     após novos desenvolvimentos e melhorias no “software” do sistema, realizados em 2014,
+     pretende-se desenvolver um plano de ação, para 2015, que aprofunde o que tem sido feito
+     anteriormente e desenvolva novas abordagens. a título de exemplo:
+     • sensibilização e formação dos inspetores de acompanhamento, como utilizadores
+        do sistema;
+     • utilização dos meios de comunicação internos para divulgação, por todos os motoristas,
+        do objetivo do sistema, de ações e de resultados;
+     • ações periódicas de sensibilização dos motoristas, a cargo dos inspetores
+        de acompanhamento (ações integradas a realizar em todas as estações);
+     • continuação da análise dos indicadores do xtran drive em módulo da formação inicial
+        e contínua de motoristas, a cargo da carristur.
+
+     as estações têm constatado a importância deste sistema, como mais um contributo
+     para a consolidação de uma condução económica e defensiva; genericamente, a reação
+     dos motoristas tem sido muito positiva, evidenciando interesse pela auto-avaliação e evolução
+     comportamental e colocando questões concretas relativas ao serviço.
+     • condições de circulação - controlo dos corredores e do estacionamento
+     • consumo de energia - autocarros de serviço público
+        •		 em 2014, o consumo de gasóleo foi de 15 640 057 litros, menos 2% do que em 2013,
+     			 refletindo a redução da oferta de transporte. o consumo médio de gasóleo
+     			 foi de 56,4 l / 100 km (55,6 em 2013).
+     o consumo médio de gás natural foi de 75,2 (n) m3 / 100 km (71,5 em 2013).
+        •		 em termos do rácio de consumo de combustível por passageiro x km, entre 2011
+     			 e 2008, tinha havido uma evolução muito positiva com uma redução de 10%
+     			 (2008: 27,47gep/pk; 2011: 24,68 gep/pk).
+
+
+
+     porém, a exemplo do que já tinha ocorrido em 2012 e 2013, registou-se um aumento
+
+
+
+48   relatório de sustentabilidade 2014
+
+     em 2014 (30,93 gep/pk), por razões há muito identificadas e que justificarão uma reflexão
+     interna acerca das medidas a adotar:
+     • serviço continuou a ser fortemente condicionado por questões exógenas
+        – condições de circulação desfavoráveis e baixa velocidade comercial;
+     • ocorrência de situações de fraude;
+     • a procura de transporte (pk) voltou a ter, em 2014, uma diminuição (- 3,5%),
+        relativamente ao ano anterior, para o que tem contribuído, necessariamente,
+        a atual recessão económica nacional;
+     • os ajustes efetuados na oferta de transporte, não têm evitado a redução dos valores
+        da taxa de ocupação, que já se situa em 18,1%.
+     • o custo anual com combustíveis foi cerca de 16,3 milhões de euros, menos 6,7%
+        que no ano anterior, devido à diminuição do consumo e do preço médio.
+        •		 consumo de energia - modo elétrico
+        •		 o consumo total de energia elétrica (tração + perdas) foi de 3 816 886 kwh,
+     			 o que representa uma redução de 4,1%, relativamente a 2013.
+     o consumo médio de energia elétrica, em 2014, foi de 197,3 kwh/100 km
+     (c. elétrico - sem perdas).
+        • o rácio consumo de energia elétrica por passageiro x km foi de 33,48 gep/pk,
+     			 inferior ao de 2013 (34,06 gep/pk).
+
+
+        3.4     material circulante – propulsões / combustíveis
+
+     a carris aposta na inovação e na procura de novas soluções de mobilidade,
+     mais sustentáveis. nesta perspetiva, tem sido pioneira no estudo, difusão, experimentação
+     e utilização de propulsões/combustíveis complementares, de acordo com os objetivos
+     estratégicos estabelecidos, em termos nacionais e europeus.
+     • autocarros a célula de combustível – tração elétrica: a carris continua a acompanhar 		
+        o desenvolvimento desta promissora alternativa futura. atualmente, estão a decorrer várias
+        iniciativas, com destaque para o programa chic 2010 - 2016 - “clean hydrogen
+        in european cities”.
+     • autocarros elétricos a baterias: a carris está a participar num projeto nacional
+        de desenvolvimento, liderado pelo fabricante caetanobus, em parceria com outras
+        entidades ligadas ao sector dos transportes.
+     • autocarros híbridos de nova geração – propulsão térmica de ciclo diesel /tração elétrica
+        (em fase inicial de comercialização): após a realização de testes em serviço com
+        um volvo 7700 hybrid tipo paralelo, em lisboa, no ano de 2011, a carris pretende
+        efetuar testes com autocarros híbridos tipo série, em 2015, com vista a tirar ilações
+        de carácter técnico, operacional e comercial acerca desta opção.
+     • autocarros movidos a gás natural comprimido (gnc)
+
+     a carris possui 60 autocarros movidos a gnc.
+     por outro lado, continua a assegurar o abastecimento de diversos veículos privados
+     (ligeiros e pesados), na sua instalação de compressão e enchimento de cabo ruivo, dando
+     assim o seu contributo para o desenvolvimento desta opção, na ausência de uma rede pública
+     de abastecimento de gás natural. a carris continua disponível para analisar a viabilidade
+     de instalação de um posto público de abastecimento, junto ao complexo de cabo ruivo,
+     com o aproveitamento da infraestrutura existente.
+     • autocarros com misturas gasóleo / biodiesel – propulsão térmica de ciclo diesel:
+         a concentração média de biodiesel no gasóleo é de ≈ 7%.
+
+
+
+
+        3.5    emissões poluentes e de gases com efeito de estufa
+
+49   relatório de sustentabilidade 2014
+
+     na “grelha de indicadores 2014 - gri 3 + específicos do sector dos transportes”, do presente
+     relatório, estão discriminadas as emissões associadas à atividade da carris.
+
+     • frota de autocarros
+     a grande renovação da frota de autocarros de serviço público, entre 2004 e 2010, para além
+     de reduzir significativamente a idade média (passou de 16,5 anos para 9,6 anos, no final
+     de 2014), teve implicações extremamente positivas no impacte energético e ambiental,
+     associado à atividade de transporte:
+
+
+
+
+     evolução das emissões poluentes regulamentadas e das emissões de co2
+
+
+     • fontes fixas / instalações
+     a carris exige nos cadernos de encargos, inclusivamente para veículos, a adoção de sistemas
+     de pintura de base aquosa, que permitem reduções consideráveis na emissão de compostos
+     orgânicos voláteis (cov) para a atmosfera.
+
+     as caldeiras para produção de água quente estão sujeitas à monitorização das emissões
+     gasosas, a realizar, periodicamente, de acordo com o decreto-lei n.º 78/2004
+     e a portaria n.º 80/2006.
+
+
+         3.6    ruído
+
+     • instalações
+     a carris efetuou a medição das emissões sonoras para o exterior, para verificação
+     da conformidade com o regulamento geral de ruído - decreto-lei n.º 9/2007. os resultados
+     obtidos comprovaram que a atividade e funcionamento de todas as instalações da carris
+     cumprem os requisitos legais aplicáveis ao ruído ambiente.
+
+     • material circulante
+     o valor médio do nível de ruído exterior diminuiu, significativamente, por via do processo
+     de renovação da frota de autocarros (veículos mais antigos: 85 db(a) ; veículos mais recentes:
+     76 db(a) ; limite ce: 80 db(a), de acordo com decreto-lei n.º 19/2009 e diretiva 2007/34/ce).
+
+
+
+
+         3.7    gestão da água
+
+
+50   relatório de sustentabilidade 2014
+
+     •  em 2014, o consumo de água, incluindo captações subterrâneas, diminuiu 30%
+        face a 2013.
+     esta variação resultou da sensibilização dos colaboradores para esta questão, da eliminação
+     de fugas na rede interna de distribuição, no complexo de miraflores, bem como do facto
+     do valor de 2013 ter sido anormalmente elevado (fuga considerável ocorrida no complexo
+     de santo amaro entre setembro/novembro de 2013).
+
+
+
+
+     •   sendo a água um recurso escasso e cada vez mais caro, continuará a ser uma preocupação
+         da empresa, não só a redução do consumo global de água, mas também a melhoria da taxa
+         de utilização de captações de água.
+
+     assim, para efeitos de otimização do nível do consumo de água, torna-se necessário, continuar
+     com diversas ações específicas:
+        •		 deteção remota de fugas de água na rede ; reparação atempada de fugas de água
+     			 e substituição de troços de tubagem deteriorados;
+        •		 extensão da rede de água dos furos artesianos, para um maior aproveitamento
+     			 das captações de água subterrâneas (em 2014, foi feito mais um furo, na estação
+     			 da musgueira);
+     		 • campanhas periódicas de sensibilização dos colaboradores para uma eficiente
+     			 utilização deste recurso.
+
+
+         3.8   gestão dos resíduos
+
+     desde há anos que a empresa tem uma política de recolha seletiva dos resíduos gerados
+     nas suas instalações, quer sejam provenientes de atividades administrativas, de manutenção,
+     dos refeitórios ou hospitalares (independentemente de terem origem em atividades
+     contratadas ou não).
+
+     assim, existem zonas próprias para a recolha seletiva de resíduos, os designados ecopontos,
+     onde se investe continuamente na melhoria da separação, tendo em consideração
+     as exigências específicas de armazenagem de cada tipo de resíduo e as potencialidades
+     de cada um.
+     sempre que se identificam lacunas na separação dos resíduos, são tomadas medidas
+     corretivas, de imediato, e promovidas ações de sensibilização quando se justifica.
+
+
+
+         3.9 gestão dos efluentes líquidos
+
+
+
+51   relatório de sustentabilidade 2014
+
+     nas instalações da carris são gerados efluentes domésticos e das águas pluviais,
+     mas também efluentes industriais resultantes da atividade de manutenção e reparação
+     dos veículos.
+
+     a descarga deste tipo de efluente, nos coletores municipais, obriga a uma autorização
+     de descarga, a qual tem na base a necessidade de se proceder à caracterização analítica
+     do efluente, segundo uma periodicidade pré-estabelecida.
+     em 2014, continuou a investir-se na consolidação de rotinas de limpeza e de manutenção
+     de equipamentos para tratamento de efluentes líquidos (decantadores/separadores
+     de hidrocarbonetos e gorduras), com vista à melhoria da qualidade dos efluentes descarregados
+     e ao cumprimento rigoroso das disposições legais em vigor.
+
+
+
+
+52   relatório de sustentabilidade 2014
+
+iv    grelha de indicadores 2014
+
+
+      gri3 + específicos do setor dos transportes
+
+
+
+
+ 53   relatório de sustentabilidade 2014
+
+código (gri)     descrição                                                                      nº pág.        resultados/ comentários
+visão e estratégia
+gri 1.1          declaração da visão e da estratégia da organização no que se refere            9-10
+                 à sua contribuição para o desenvolvimento sustentável
+gri 1.2          mensagem do presidente                                                         4
+
+
+perfil organizacional
+gri 2.1          nome da organização                                                            1              companhia carris de ferro de lisboa
+gri 2.2          principais produtos e/ou serviços                                              11-12          transporte público urbano
+gri 2.3          estrutura operacional                                                          11
+gri 2.4          localização da sede                                                            63             rua 1º de maio 103 - 1300-472 lisboa
+                                                                                                               www.carris.pt
+gri 2.5          países em que está presente                                                    10
+gri 2.6          tipo e natureza legal de propriedade                                           -              sociedade anónima com capitais públicos
+gri 2.7          mercados servidos                                                              10
+gri 2.8          dimensão e organização                                                         11, 37-38
+gri 2.9          mudanças, no período, da estrutura e participação acionista                    -
+gri 2.10         prémios recebidos no período                                                   44
+
+
+parâmetros para o relatório
+gri 3.1          período coberto pelo relatório                                                 -              ano fiscal de 2014
+gri 3.2          data do relatório anterior mais recente                                        -              ano fiscal de 2013
+gri 3.3          ciclo de emissão de relatórios                                                 -              anual
+gri 3.4          contato para esclarecimento sobre o relatório                                  -              e-mail:provedordocliente@transporteslisboa.pt
+
+
+estrutura de governação, compromissos e sistemas de gestão
+gri 4.1          estrutura de governação                                                        11
+gri 4.2          indicação caso o presidente da administração seja também diretor executivo     -              n.a.
+gri 4.3          percentagem de administradores independentes e não-executivos                  -              n.a.
+gri 4.4          mecanismos de recomendações do conselho de administração                       -              n.a.
+gri 4.5          relação entre remuneração da administração e o desempenho da organização       -
+gri 4.6          processos em vigor para evitar conflito de interesses                          -
+gri 4.7          processos do conselho de administração                                         -
+gri 4.8          missão e valores. códigos internos de conduta                                  9-10
+gri 4.9          procedimentos da administração para avaliar o desempenho de sustentabilidade   -             aplicação bsc - controlo periódico dos indicadores
+                                                                                                              de desempenho; medidas inerentes
+                                                                                                              ao acompanhamento do sgi e da prestação
+                                                                                                              do serviço de transporte (inclui auditorias internas
+                                                                                                              e externas, no âmbito da certificação da carris);
+                                                                                                              candidaturas a prémios/participações em
+                                                                                                              barómetros/"scorings"/grupos trabalho da uitp,
+                                                                                                              relacionados com a sustentabilidade e as suas
+                                                                                                              diversas vertentes; contrato de gestão, com controlo
+                                                                                                              dos objectivos estabelecidos;
+                                                                                                              plano de ação para a igualdade de género;
+                                                                                                              programa de segurança.
+gri 4.10         processos para avaliação ao desempenho económico, ambiental e social           15, 18, 28,
+                                                                                                45-46
+gri 4.11         explicação sobre o princípio da precaução                                      -              n.d.
+                 (gestão do risco no planeamento de novos produtos p/ex.)
+
+
+
+
+                  54          relatório de sustentabilidade 2014
+
+código (gri)   descrição                                                                                        nº pág.      resultados/ comentários
+gri 4.12       cartas de princípios internacionais                                                              9-10, 15
+gri 4.13       principais adesões a associações industriais e empresariais                                      15-17        a carris é membro da uitp, do ceep, do bcsd
+                                                                                                                             e da cotec, entre outros.
+gri 4.14       relação de “stakeholders”                                                                        12-13
+gri 4.15       base para identificação e seleção de “stakeholders”                                              -            n.d.
+gri 4.16       formas de consulta aos “stakeholders”                                                            -            n.d.
+gri 4.17       principais questões levantadas pelos “stakeholders” e medidas adotadas                           -            n.d.
+
+
+código (gri)   descrição                               nº pág.        resultados 2012                    resultados 2013                     resultados 2014
+indicadores de desempenho económico
+gri ec1        valor económico direto gerado           28                            85 002 362,20 €                       88 924 365,33 €                  90 193 382,77 €
+               - vendas líquidas
+gri ec2        implicações financeiras devido          -              disponível no relatório e contas   disponível no relatório e contas    disponível no relatório e contas
+               a alterações climáticas                                2012 da carris                     2013 da carris                      2014 da carris
+gri ec3        cobertura das obrigações                -              n.d.                               n.d.                                n.d.
+               em matéria de plano de benefícios
+               da organização
+gri ec4        benefícios financeiros significativos     28                          23 118 941,50 €                       22 289 416,47 €                     7 197 534,01€
+               dados pelo governo
+gri ec6        política, práticas e proporção          -              n.d.                               n.d.                                n.d.
+               das despesas em fornecedores locais
+gri ec8        desenvolvimento e impacto               -              disponível no relatório e contas   disponível no relatório e contas    disponível no relatório e contas
+               de investimentos em infra-estruturas                   2012 da carris                     2013 da carris                      2014 da carris
+               e serviços essenciais para
+               benefício público
+
+
+indicadores de desempenho energético e ambiental
+gri en1        consumo total de materiais por tipo       -
+               papel                                                  12,0 t                             10,3 t                              9,7 t
+gri en2        percentagem de materiais utilizados       -            n.d.                               n.d.                                n.d.
+               que são resíduos
+gri en3        consumo de energia direta               45-50
+               segmentado por fonte primária
+               instalações:
+                  energia elétrica (inclui com-                       4 269 519 kwh /1 238 tep           4 265 462 kwh /1 237 tep            4 117 741 kwh /1 194 tep
+                  pressão gn + equip. aux.)
+                  gás natural                                         67 174 nm3/55 tep                  58 340 nm3 /48 tep                  55 189 nm3/45 tep
+                  total (1)                                           1 293 tep                          1 285 tep                           1 239 tep
+               atividade de transporte:
+                  gasóleo - autocarros                                16 723 991 l / 14 593 tep          15 962 405 l /13 928 tep            15 640 057 l /13 647 tep
+                  gás natural - autocarros                            1 737 859 nm3 /1 425 tep           1 818 205 nm3/1 491 tep             1 876 509 nm3/ 1 539 tep
+                  sub -total autocarros (2) / rácio a)                16 018 tep / 28,88 gep/pk          15 419 tep / 30,32 gep/pk           15 186 tep / 30,93 gep/pk
+                  energia elétrica - tração /modo elétrico (3)        4 088 938 kwh / 1 186 tep          3 981 116 kwh /1 155 tep            3 816 887 kwh / 1 107 tep
+                              rácio a)                                33,08 gep/pk                       34,06 gep/pk                        33,48 gep/pk
+                  total (2) + (3) / rácio a)                          17 204 tep / 29,14 gep/pk          16 574 tep / 30,55 gep/pk           16 293 tep / 31,09 gep/pk
+               global carris     (1) + (2) + (3) a)                   18 497 tep / 31,33 gep/pk          17 859 tep / 32,92 gep/pk           17 532 tep / 33,45 gep/pk
+gri en4        consumo de energia indireta               -            n.a.                               n.a.                                n.a.
+
+
+
+
+                55            relatório de sustentabilidade 2014
+
+código (gri)   descrição                                 nº pág.   resultados 2012                resultados 2013                resultados 2014
+gri en5        variação do consumo de energia            45-50
+               versus ano anterior
+               instalações:
+                 energia elétrica                                  - 314 561 kwh     (-6,9%)      - 4 057 kwh       (-0,1%)      - 147 721 kwh     (-3,5%)
+                 gás natural                                       + 1 122 nm3       (+1,7%)      - 8 834 nm3       (-13,2%)     - 3 151 nm3        (-5,4%)
+               atividade de transporte:
+                 gasóleo - autocarros                              - 2 084 986 l     (-11,1%)     - 761 586 l       (-4,6%)      - 322 348 l       (-2,0%)
+                 gás natural - autocarros                          - 49 006 nm3      (-2,7%)      + 80 346 nm3      (+4,6%)      + 58 304 nm3      (+3,2%)
+               energia elétrica - tração/modo elétrico             - 299 473 kwh      (-6,8%)     - 107 822 kwh      (-2,6%)     - 164 229 kwh     (-4,1%)
+gri en6        fornecimento de produtos e serviços       -         n.d.                           n.d.                           n.d.
+               energeticamente eficientes ou
+               baseados em energia renovável
+gri en7        iniciativas para redução do consumo       -         n.a.                           n.a.                           n.a.
+               de energia indireta e a redução
+               alcançada
+gri en8        consumo total de água                     50-51
+               segmentado por fonte
+                 rede pública                                      73 844 m3                      87 096 m3                      61 088 m3
+                 captações subterrâneas                            37 086 m3       tuc=33,4%      37 490 m3       tuc=30,1%      36 035 m3       tuc=37,1%
+gri en16       emissões de gases com efeito              49-50
+               de estufa (gee)
+               instalações:
+                 energia elétrica (* produção + distribuição)      1 217 t co2                    1 378 t co2                    1 136 t co2
+                 gás natural (** utilização)                        142 t co2                      124 t co2                      117 t co2
+               atividade de transporte:
+                 gasóleo - autocarros (**) (inclui biodiesel)      41 549 t co2         ≈b7       39 657 t co2         ≈b7       38 856 t co2         ≈b7
+                 gás natural - autocarros (**)                      3 684 t co2                    3 855 t co2                    3 978 t co2
+                 sub - total autocarros / rácio (**)               45 233 t co2 (81,56 gco2/pk)   43 512 t co2 (85,55 gco2/pk)   42 834 t co2 (87,24 gco2/pk)
+                 energia elétrica - tração/modo elétrico (*)        1 165 t co2                    1 286 t co2                    1 053 t co2
+gri en18       iniciativas de redução das emissões       45-50
+               de gases com efeito de estufa
+gri en19       emissões de substâncias                   -         n.a.                           n.a.                           n.a.
+               destruidoras da camada de ozono
+gri en20       emissões atmosféricas significativas      49-50
+               por tipo
+               fontes fixas - cov (dl nº 127/2013)                 10 t                           12 t                           13 t
+               autocarros de serviço público - média/km:
+                 óxidos de azoto (nox)                             9,76 g/km                      9,67 g/km                      9,83 g/km
+                 hidrocarbonetos não queimados (hc)                0,34 g/km                      0,32 g/km                      0,32 g/km
+                 monóxido de carbono (co)                          1,20 g/km                      1,22 g/km                      1,24 g/km
+                 partículas (pt)                                   0,16 g/km                      0,16 g/km                      0,16 g/km
+                 dióxido de carbono (co2)                          1 379 g/km                     1 395 g/km                     1 420 g/km
+gri en21       total de efluentes líquidos               51-52     103 945 m3                     117 893 m3                     92 415 m3
+
+
+
+
+               56             relatório de sustentabilidade 2014
+
+código (gri)   descrição                                nº pág.       resultados 2012                     resultados 2013                      resultados 2014
+gri en22       total de resíduos por tipo               51
+               e por método de tratamento
+               - não inclui os recolhidos
+               pelos serviços municipalizados
+               resíduos perigosos não hospitalares
+                  acumuladores                                        9,0 t                               11,2 t                               11,7 t
+                 águas e lamas oleosas                                474,3 t                             469,4 t                              384,0 t
+                 absorventes contaminados e filtros de gasóleo/óleo   15,5 t                              11,8 t                               19,8 t
+                 fluido anticongelante                                2,5 t                               6,5 t                                1,1 t
+                 lâmpadas fluorescentes                               0,3 t                               0,1 t                                0,3 t
+                 óleos usados                                         80,4 t                              90,0 t                               78,9 t
+                 solventes                                            0,9 t                               0,3 t                                3,7 t
+                 veículos em fim de vida                              0t                                  39,3 t                               1,5 t
+                 outros                                               2,2 t                               0,1 t                                1,2 t
+               resíduos não perigosos
+                 sucata de ferro/folhanga                             9,1 t                               15,0 t                               11,7 t
+                 vidro                                                16,9 t                              9,1 t                                12,1 t
+                 calços de travão                                     3,1 t                               0,6 t                                1,9 t
+                 borrachas                                            12,7 t                              5,8 t                                11,8 t
+                 papel e cartão                                       9,0 t                               6,0 t                                5,3 t
+                 madeira                                              17,0 t                              10,1 t                               13,2 t
+                 entulho de obras                                     100,3 t                             293,1 t                              116,9 t
+               resíduos biodegradáveis de jardim                      48,1 t                              52,1 t                               51,6 t
+               resíduos indiferenciados                               59,9 t                              74,7 t                               81,3 t
+               outros                                                 10,6 t                              10,0 t                               14,5 t
+gri en26       iniciativas de mitigação dos impactes    -             n.d.                                n.d.                                 n.d.
+               ambientais de produtos e serviços
+gri en28       incidentes ou multas pelo não-           -             n.a.                                n.a.                                 n.a.
+               cumprimento das declarações,
+               convenções, tratados internacionais,
+               legislação nacional, regional e local
+               sobre assuntos ambientais
+gri en29       impactes ambientais significativos do    -             n.d.                                n.d.                                 n.d.
+               transporte de produtos e outros bens
+               e materiais utilizados na atividade
+gri en30       total de gastos e investimentos          49-50         (deduzidos os proveitos)
+               ambientais, por tipo
+                 gestão de resíduos                                                      175 621,06 €                         164 812,25 €                        181 739,26 €
+                 efluentes líquidos (monitorização)                                         1 827,79 €                          1 818,56 €                           1 864,06 €
+                 emissões gasosas (monitorização)       -             n.a.                                n.a.                                                         645,75 €
+
+
+indicadores de desempenho social
+gri la1        mão-de-obra total, por tipo de em-       37-38         no final do ano, o efetivo          no final do ano, o efetivo           no final do ano, o efetivo
+               prego, tipo de contrato de trabalho                    da carris era constituído por um    da carris era constituído por um     da carris era constituído por um
+                                                                      total de 2396 colaboradores.        total de 2255 colaboradores.         total de 2141 colaboradores.
+gri la2        criação de empregos e taxa de            37            a política de admissões, em particular a de pessoal tripulante, tem como principal objectivo a preservação
+               rotatividade, por faixa etária, género                 da qualidade do serviço prestado e elevados padrões de segurança, procurando também garantir
+               e região                                               um adequado número de efetivos para um eficiente exercício da atividade.
+
+
+
+
+                57           relatório de sustentabilidade 2014
+
+código (gri)    descrição                              nº pág.   resultados 2012                    resultados 2013                     resultados 2014
+gri la3         benefícios para os colaboradores a     -         n.a.                               n.a.                                n.a.
+                tempo integral, que não são atribuí-
+                dos aos colaboradores temporários
+                ou a tempo parcial.
+gri la4         percentagem de empregados repre-       -         86,00%                             86,00%                              85,20%
+                sentados por organizações sindicais
+gri la7         taxa de absentismo                     38        global = 6,2%                      global = 7,9%                       global = 7,9%
+                                                                 (2,1% por doença)                  (3,6% por doença)                   (4,3% por doença)
+                                                                 - informação mais detalhada        - informação mais detalhada         - informação mais detalhada
+                                                                 no texto deste relatório           no texto deste relatório             no texto deste relatório
+gri la10        média de horas de formação por ano,    39        33 710 h de formação, abrangendo   23 627 h de formação, abrangendo    23 882 h de formação, abrangendo
+                por empregado e por categoria                    um total de 1 146 participantes    um total de 1 221 participantes     um total de 2 241 participantes
+gri la12        percentagem de colaboradores           28-29     100,00%                            100,00%                             100,00%
+                que recebem avaliação periódica
+                de desempenho e de progressão
+                na carreira
+                taxa de formação (‰) = horas           39        8,25‰                              6,06%                               6,49%
+                de formação / horas de trabalho
+                potencial x 1000
+gri la13        proporção homem / mulher e outros      -         2170 / 226 (90,5% / 9,5%)          2045 / 210 (90,7% / 9,3%)           1944 / 197 (90,8% / 9,2%)
+                indicadores de diversidade
+                 culturalmente apropriados
+
+
+
+código (gri)    descrição                              nº pág.   resultados/ comentários
+indicadores de desempenho social: direitos humanos
+gri hr1         impactes sobre os direitos humanos     -         código de ética da carris
+gri hr2         percentagem de fornecedores e          -         ações de sensibilização/ elab. contratos com requisitos de responsabilidade social
+                empresas contratadas submetidas
+                a avaliações relativas a direitos
+                humanos
+gri hr4         política global e procedimentos ou     -         monitorização de aspetos de responsabilidade social (meios: portal colaborador)
+                programas que previnam formas de
+                não discriminação
+gri hr5         política de liberdade de associação    -         os colaboradores da carris têm direito à liberdade de associação, nomeadamente de sindicalização.
+
+
+indicadores de desempenho social: sociedade
+gri so1         impactes sobre as comunidades          32-33,    ao longo de mais de 142 anos de existência, a carris contribuiu de forma decisiva para o fomento
+                                                       42-45     da cultura na cidade de lisboa e para o desenvolvimento de uma memória coletiva comum a todos
+                                                                 os lisboetas, mas também aos que passam pela capital e usufruem da rede de transportes disponível.
+gri so2         percentagem e número total de          -         a empresa dispõe de um plano de prevenção de riscos de corrupção - área de compras;
+                unidades de negócio alvo de análise              adesão ao projeto “gestãotransparente.org” que inclui simulador de gestão de riscos de corrupção
+                de risco à corrupção
+gri so3         percentagem de trabalhadores           -         ações de sensibilização aquando da certificação em responsabilidade social
+                que efetuaram formação em políticas
+                e práticas anti-corrupção
+gri so4         medidas tomadas em resposta            -         n.a.
+                a casos de corrupção
+gri so8         montantes das coimas e número total    -         n.a.
+                de sanções não monetárias
+                por incumprimento de leis
+                e regulamentos ambientais
+
+
+
+
+                58          relatório de sustentabilidade 2014
+
+código (gri)    descrição                               nº pág.      resultados/ comentários
+indicadores de desempenho social: responsabilidade sobre o produto
+gri pr1         políticas para preservar a saúde        33           a melhoria das condições de acesso, segurança e conforto dos clientes tem sido consolidada
+                e a segurança do cliente                             com a renovação da frota, monitorização do desempenho dos condutores e com a instalação de sistemas
+                                                                     de vídeovigilância.
+gri pr3         informações sobre o produto             21-23        saeip e sip.
+                e sua rotulagem                                      informações relativas ao serviço, disponíveis nas paragens e no interior dos veículos.
+gri pr5         satisfação do cliente                   36           o inquérito de satisfação do cliente é realizado anualmente.
+gri pr6         observância das leis, normas            9-10         compromisso para com o cliente e com a política da qualidade, ambiente, segurança e saúde
+                e códigos voluntários relacionados      18-19        no trabalho e responsabilidade social. a carris integra a comissão de desenvolvimento do produto
+                com comunicações de marketing,                       e marketing da uitp; é, também, associada da apce - associação portuguesa de comunicação
+                incluindo publicidade, promoção                      de empresa.
+                e patrocínio
+gri pr8         reclamações registadas relativas        -            a carris cumpre rigorosamente as disposições legais relativamente à protecção de dados pessoais,
+                à violação da privacidade de clientes                no âmbito da utilização dos sistemas de bilhética e de vídeovigilância e de todos os serviços que presta.
+                                                                     não se registaram reclamações neste sentido.
+gri pr9         montante de coimas por                  -            n.a.
+                incumprimento de leis
+                e regulamentos relativos
+                ao fornecimento e utilização
+                de produtos e serviços
+
+
+
+
+                descrição                               nº pág.      resultados 2012                      resultados 2013                      resultados 2014
+indicadores operacionais
+                veículos - idade média (31 dez)         17
+                  autocarros                                         7,6 anos                             8,6 anos                             9,6 anos
+                  carros elétricos                                   17 anos                              18 anos                              19 anos
+                autocarros - tipologias                 11           632                                  632                                  619 b)
+                                                                     b) 14,9% euro 2 + 60,9% euro
+                                                                     3 + 6,5% euro 4 + 14,5% euro
+                                                                     5 + 3,2% eev
+                • minis                                              34 euro 3                            34 euro 3                            33 euro 3
+                • médios                                             20 euro 4                            20 euro 4                            20 euro 4
+                • standard                                           488                                  488                                  476
+                  gasóleo                                            433                                  428                                  418
+                                                                     45 euro 2 + 348 euro 3 + 40          44 euro 2 + 344 euro                 34 euro 2 + 344 euro
+                                                                     euro 5                               3 + 40 euro 5                        3 + 40 euro 5
+                  gás natural                                        55                                   60                                   58
+                                                                     17 euro 2 + 18 euro 4 + 20 eev       20 euro 2 + 20 euro 4 + 20 eev       18 euro 2 + 20 euro 4 + 20 eev
+                • articulados                                        90                                   90                                   90
+                                                                     40 euro 2 + 50 euro 5                40 euro 2 + 50 euro 5                40 euro 2 + 50 euro 5
+                carros elétricos - tipologias           12
+                  ligeiros históricos                                39                                   39                                   39
+                  articulados                                        10                                   10                                   10
+                  reserva                                            8                                    5                                    -
+                  turismo                                            8                                   6                                     11
+                ascensores                              12           3                                   3                                     3
+                elevadores                              12           1                                   1                                     1
+
+
+
+
+                 59          relatório de sustentabilidade 2014
+
+               descrição                               nº pág.   resultados 2012                resultados 2013                resultados 2014
+               passageiros transportados no modo       11        165,9 milhões                  160,1 milhões                  155,3 milhões
+               autocarro a)
+               passageiros transportados no modo       12        15,1 milhões                   14,4 milhões                   14,3 milhões
+               elétrico a)
+               intensidade de tráfego – autocarros     33        32 677 498 km                  31 099 749 km                  30 086 265 km
+               (veículos x km)
+               intensidade de tráfego –                33        1 803 086 km                   1 736 269 km                   1 698 894 km
+               modo elétrico (veículos x km)
+               extensão da rede de autocarros          11        669,9 km                       669 km                         669 km
+               extensão da rede de elétricos           12        47,5 km                        47,5 km                        47,5 km
+               n.º incidentes, em exploração           33-34     3068                           3443                           4898
+               n.º acidentes, em exploração            33-34     1221                           1201                           1172
+               número de reclamações de clientes       34-35     2 159 reclamações de serviço   1 802 reclamações de serviço   2 067 reclamações de serviço
+                                                                 e 977 queixas de pessoal       e 1052 queixas de pessoal      e 1124 queixas de pessoal
+               tempo médio de resposta a clientes      35        5,4 dias                       5,3 dias                       4,3 dias
+               taxa de ocupação a)                     11-12
+                  autocarros                                     18,8%                          18,2%                          18,1%
+                  modo elétrico                                  20,6%                          20,3%                          20,0%
+               corredores bus (km e %))                11        75,1 km do total da rede       67,9 km do total da rede       67,8 km do total da rede
+                                                                 de autocarros (11,2%)          de autocarros (10,1%)          de autocarros (10,1%)
+               isc – índice da satisfação do cliente   36        65,3%                          67,7%                          66,3%
+
+
+legenda:
+gri - “global reporting initiative”
+n.a. - não aplicável
+n.d. - não disponível
+a) passageiros e pk- dados do rfe /mapa de rendimento da ucop
+
+
+
+
+                60         relatório de sustentabilidade 2014
+
+     considerações finais
+
+
+
+
+61   relatório de sustentabilidade 2014
+
+     para a elaboração do relatório de sustentabilidade, a carris adotou a metodologia
+     do “global reporting initiative” – gri 3, refletindo também as preocupações,
+     os desafios e os objetivos para o sector dos transportes.
+
+     a conformidade do seu conteúdo é assegurada, quer por uma informação detalhada
+     e rigorosa, quer por uma monitorização sistemática da atividade com os correspondentes
+     indicadores de desempenho:
+     • medidas de acompanhamento do sistema de gestão integrado
+         - qualidade, ambiente, segurança e saúde no trabalho, e responsabilidade social
+         e da prestação do serviço de transporte, que inclui auditorias internas e externas
+         no âmbito da certificação da carris;
+     • inspeções aleatórias do tribunal de contas e de ministérios; e auditoria anual às contas
+         e procedimentos administrativos por empresa externa (deloitte);
+     • compromissos para a sustentabilidade, assumidos, por exemplo, com a uitp e com a tutela
+         (contratos de gestão, com controlo dos objetivos estabelecidos);
+     • aplicação bsc – “balanced score card” - análise periódica dos indicadores
+         com a gestão de topo.
+
+     a carris agradece aos clientes, fornecedores, entidades institucionais e demais
+     partes interessadas o seu contributo para a atividade da empresa, na área da sustentabilidade,
+     ao longo do ano de 2014. a carris pretende continuar a melhorar o seu desempenho,
+     em termos globais, indo ao encontro das necessidades e exigências dos seus clientes e ser,
+     cada vez mais, um fator de sustentabilidade na vida da cidade de lisboa e respetiva
+     área metropolitana.
+
+
+
+
+62   relatório de sustentabilidade 2014
+
+     ficha técnica
+
+     fotografia
+
+     maratona fotográfica
+     andré filipe bernardo
+     andreia almeida
+     antónio sousa
+     bruno veiga
+     carlos nunes
+     clara azevedo
+     daniela paulo
+     eugénio buchinho
+     francisco rua
+     hugo correia de sousa
+     isaque neves
+     joão amaro
+     joão esteves
+     jorge faustino
+     jorge pereira
+     luciano reis
+     luís sarmento
+     maria joão meneses
+     marta mimoso
+     miguel silva
+     nelson oliveira
+     nuno franco
+     nuno lopes
+     nuno nunes
+     paulo monteiro
+     rui veloso
+     sérgio paciência
+     shafik ameen mahomad
+     vitor sousa
+
+     gcm/d
+     nelson pereira
+     pedro lopes
+
+     outros
+     antónio costa
+
+
+
+
+63   relatório de sustentabilidade 2014   companhia carris de ferro de lisboa
+                                          rua 1º de maio 103 - 1300-472 lisboa
+                                          www.carris.pt

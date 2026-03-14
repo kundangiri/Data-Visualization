@@ -1,0 +1,1380 @@
+         2015
+swedish match
+sustainability reporting document
+
+about this document
+swedish match is a global company with its corporate headquarters in stockholm, sweden. the company’s largest geogra-
+phies in terms of both sales and operating profit are scandinavia and the us. other important markets include brazil, russia,
+and parts of asia. many decisions are made at the national or regional level, by the group’s operating units within the product
+areas of snus and moist snuff, other tobacco products (cigars and chewing tobacco), lights (lighters, matches, and comple-
+mentary products) as well as other operations (primarily distribution for the swedish market). the company strives to achieve
+a common approach on sustainability while at the same time allowing for differences at local and operating unit level. this
+helps to promote both a high level of engagement and continuous improvement.
+  swedish match is currently in the process of re-evaluating and refining its efforts with regard to sustainability with the aim to
+provide clearer focus with regard to areas that are material to our company both today and in the future, recognizing the larger
+sustainability issues facing society as a whole. the aim is to provide a clear roadmap with measurable goals and targets for
+key focus areas. swedish match is taking a deliberate and rationale approach in this process, with the aim of having a well
+defined strategy in place to be communicated around the time of the publication of the 2016 annual report.
+  swedish match has previously reported according to the gri g3 guidelines at level b with the aim of transitioning toward
+reporting in a manner that is broadly based on the principles of gri g4. at this stage the company’s primary focus is on fur-
+ther developing a solid and relevant strategy for our sustainability efforts. this 2015 sustainability reporting document should
+therefore be regarded as interim/transitional update, reporting on quantitative indicators in line with previous years.
+  for information on how the company works with employee, social and environmental responsibility, please see the company’s
+website, www.swedishmatch.com/sustainability.
+
+
+contact details
+senior vice president investor relations and corporate sustainability, emmett harrison,
+emmett.harrison@swedishmatch.com.
+
+director corporate sustainability, annsie kumlin, annsie.kumlin@swedishmatch.com.
+
+
+
+
+                                                                                              2015 sustainability reporting document / 2
+
+key figures 2015
+in the table below, some of swedish match’s key sustainability figures for the past three years are presented.
+
+economic performance                                                                     2015                  2014                 2013
+sales [msek]                                                                            14,486               13,305               12,610
+operating profit from product areas [msek]*                                              3,690                3,446                3,375
+economic value distributed [msek]                                                       13,455               12,446               11,841
+economic value retained [msek]                                                           1,397                1,171                1,251
+* excluding share of net profit in stg and larger one-time items.
+
+
+
+
+environmental performance                                                                2015                  2014                 2013
+total number of iso 14001 certified manufacturing facilities*                              10                    10                   10
+total energy (direct and indirect) consumption [mwh]                                   171,726              181,558              181,918
+total energy (direct and indirect) consumption [mwh per msek sales]                       11.9                 13.7                 14.4
+total electricity consumption [mwh]                                                     66,248               67,628               69,545
+total waste [metric tons]                                                               23,121               22,982               26,680
+total waste [metric tons per msek sales]                                                   1.6                  1.7                   2.1
+hazardous waste [metric tons]                                                             775                   823                  866
+total direct and indirect greenhouse gas emissions [metric tons]                        49,838               54,398               55,042
+total direct and indirect greenhouse gas emissions [metric tons per msek sales]            3.4                  4.1                   4.4
+* in january 2013, the manaus lighter factory in brazil was certified for iso 14001.
+
+
+
+
+employee and social performance                                                          2015                  2014                 2013
+total workforce (including temporary workers)                                            4,835                4,387                4,311
+gender distribution within total workforce [% of females]                                  38                    38                   38
+injury rate [per 100 employees per year]                                                  1.88                 2.00                 2.93
+occupational diseases rate [per 100 employees per year]                                   0.06                 0.11                 0.16
+lost days rate [per 100 employees per year]                                              62.79                61.24                79.50
+absentee rate [% of working days per year]                                                2.81                 3.12                 2.86
+employees (including temporary workers) receiving a formal performance review [%]          78                    76                   76
+gender distribution in board [% of females]*                                               40                    40                   36
+* including employee representatives but not deputy employee representatives.
+
+
+
+
+                                                                                                 2015 sustainability reporting document / 3
+
+reporting facts and details
+reporting period                   all data in this report has been collected over the calendar years 2013, 2014, and 2015.
+
+reporting principles to define     swedish match has followed guidance from gri’s principles for defining content as well as quality to help guide the selection of
+content and quality                what information to include in the report and which indicators to report on, to ensure transparency in the reporting process, as well
+                                   as to help ensure quality of the reported information.
+
+reporting boundaries               this report includes all fully owned swedish match manufacturing facilities as well as business travel and logistics of the
+                                   company’s products. sales and administrative offices are also included where applicable. for partner and associated
+                                   companies, as well as suppliers, swedish match has established guidelines in its code of conduct as well as in its supplier
+                                   code of conduct, which ensure that sustainability issues are being addressed. also, scandinavian tobacco group (stg),
+                                   of which swedish match holds a 18.1 percent ownership interest (as of september 7, 2016) is not included in the report as
+                                   stg has its own, separate reporting and follow up on sustainability matters.
+
+reporting details – quantitative   an overview of details with regard to quantitative data (economic, environmental, and employee responsibility) can be found
+data                               in the table below.
+                                   environmental data is reported per unit of output by product area, tied to the company’s manufacturing setup:
+                                     •smokefree products (snus, moist snuff, and chewing tobacco), covering the manufacturing facilities in kungälv and
+                                      gothenburg (sweden), as well as owensboro (the us). output is measured by weight, in metric tons.
+                                     •cigars, covering manufacturing facilities in dothan (the us) and santiago (the dominican republic). output is measured
+                                      in million cigars.
+                                     •lights products (matches and lighters), covering match manufacturing facilities in tidaholm and vetlanda (sweden), curi-
+                                      tiba and piraí do sul (brazil) as well as lighter manufacturing facilities in assen (the netherlands), manaus (brazil), and
+                                      manila (the philippines). output is measured in billion matches or million lighters.
+                                   environmental data is also reported in relation to total company sales (msek).
+                                   employee related data is reported under the following geographies, tied to production of the company’s main products:
+                                     •
+                                     sweden and norway, covering the organizations within the operating units scandinavia division (snus), the swedish parts
+                                     of lights international (matches), smd logistics ab, and swedish match ab.
+                                     •
+                                     the us and the dominican republic, covering the organizations within the operating unit us division (moist snuff, chew-
+                                     ing tobacco, and cigars produced in the us and the dominican republic). the us and the dominican republic are com-
+                                     bined, corresponding to the company’s production set-up within cigars.
+                                     •
+                                     brazil, covering the organizations within the operating unit lights latin america (matches and lighters).
+                                     •
+                                     the philippines, covering the philippine part of the operating unit lights international (lighters).
+                                     •
+                                     the netherlands, covering the dutch part of the operating unit lights international (lighters).
+changes in reporting procedures no changes in 2015 compared to previous years.
+
+
+measurement techniques             calculations regarding emissions of greenhouse gases (see pages 13-14) are based on site specific data. conversion
+                                   metho­dologies used are based on the greenhouse gas protocol to calculate the amount of greenhouse gas emissions per
+                                   source.
+
+
+
+                                                                         economic data                 employee related data                environmental data
+
+summary of reporting details – quantitative data                  2015        2014        2013        2015        2014        2013        2015       2014        2013
+
+               fully owned manufacturing facilities                 ü           ü           ü           ü           ü          ü           ü           ü           ü
+
+data covers sales and administrative offices                        ü           ü           ü           ü           ü          ü            -           -           -
+
+               business travel and logistics of products            ü           ü           ü          n/a         n/a        n/a          ü           ü           ü
+
+               in total                                             ü           ü           ü           ü           ü          ü           ü           ü           ü
+
+               in relation to sales (msek)                         n/a         n/a         n/a          ü           ü          ü           ü           ü           ü
+
+               in relation to number of employees                   -           -           -           ü          ü           ü           ü           ü           ü
+data
+presented
+               in relation to unit of output produced               -           -           -           -           -           -          ü           ü           ü
+
+                                                                    -           -           -           ü          ü           ü            -           -           -
+               in relation to geographies, tied to production
+               of the company’s main products
+
+data collected through                                          the corporate control function              human resources              the environmental council
+
+                                                                      data does not always                data using the gri             some historic environmental
+                                                                correspond to figures reported      methodology does not always         figures have been restated in
+                                                                  in the annual report due to       correspond to figures reported        this report compared to the
+                                                                   definitions set forth by gri      in the annual report due to          2014 sustainability report.
+                                                                which may differ from swedish       differences in methodologies.
+other reporting details                                           match’s reporting under the
+                                                                   ifrs methodology. some
+                                                                    historic economic figures
+                                                                   have been restated in this
+                                                                 report compared to the 2014
+                                                                      sustainability report.
+
+
+
+
+                                                                                                                         2015 sustainability reporting document / 4
+
+reporting on performance indicators
+economic performance indicators
+economic performance 1)
+direct economic value generated and distributed, including revenues, operating costs, employee compensation,
+donations and other community investments, retained earnings, and payments to capital providers and governments
+in 2015, the company generated value of 14,852 msek, up 9 percent from 13,617 msek in 2014. total economic value distributed
+amounted to 13,455 msek in 2015, up 8 percent from 12,466 msek in 2014. economic value retained amounted to 1,397 msek in
+2015, up 19 percent from 1,171 msek in 2014.
+  operating costs accounted for 64 percent of total economic value distributed in 2015, followed by employee wages, salaries,
+and benefits (16 percent), and payments to providers of capital (14 percent). payments to governments accounted for 6 percent
+of total economic value distributed. swedish match does not collate global data on payments to governments by country as it is
+more relevant locally.
+  operating costs increased by 8 percent in 2015 compared to 2014. while employee wages, salaries, and benefits increased
+by 15 percent, payments to providers of capital decreased by 2 percent. payments to governments increased by 15 percent.
+community investments increased by 31 percent, from 5 msek to 7 msek.
+
+
+direct economic value generated [msek]                                                                                                                            2015               2014               2013
+
+    revenues                                                                                                                                                    14,852             13,617             13,092
+
+economic value distributed [msek]                                                                                                             [%]
+
+    operating costs                                                                                                                            64                8,665              7,996              7,519
+
+    employee wages, salaries, and benefits                                                                                                     16                2,092               1,811             1,680
+
+    payments to providers of capital                                                                                                           14                1,950              1,990              2,037
+
+    payments to governments                                                                                                                      6                  742                644                600
+
+    community investments                                                                                                                        0                     7                  5                  5
+
+total economic value distributed [msek]                                                                                                       100               13,455             12,446             11,841
+
+economic value retained [msek]                                                                                                                                   1,397              1,171              1,251
+
+
+coverage of the organization’s defined benefit plan obligations2)
+in 2015, the estimated value of benefit plan’s liabilities met by swedish match’s general resources amounted to 1,131 msek,
+down 5 percent from 1,185 msek in 2014. in 2015, 84 percent of the scheme’s liabilities were estimated to be covered by the
+assets that have been set aside to meet them.
+
+estimated value of benefit plan’s liabilities met by the organization’s general resources [msek]                                                                   2015               2014               2013
+
+estimated value of benefit plan’s liabilities met by the organization’s general resources                                                                         1,131              1,185                818
+
+
+
+where a separate fund exists to pay the plan’s pension liabilities [%]                                                                                             2015               2014               2013
+the extent to which the scheme’s liabilites are estimated to be covered by the assets that have
+                                                                                                                                                                      84                 81                 90
+been set aside to meet them
+
+
+
+the structure of retirement plans offered to swedish match employees are based on defined benefit plans and other types of
+benefits. for defined benefit plans, the employer’s obligations to pay pensions under the plan are met directly by the organiza-
+tion’s general resources as well as through a fund held and maintained separately from the resources of the organization. for
+more information about how swedish match works with benefit plans, please refer to pages 61-62 and pages 76-78 (note 21,
+employee benefits) in the 2015 annual report.
+  estimates have been calculated using the project unit credit method (ias 19) on december 31, 2015, december 31, 2014,
+and december 31, 2013.
+
+
+
+
+1) the figures for economic performance using the gri methodology do not correspond to figures reported in swedish match’s annual report due to definitions set forth by gri which may differ from swedish
+  match’s reporting under the ifrs methodology.
+2) please note that the figures for the extent to which the plan’s pension liabilities are estimated to be covered by the assets that have been set aside to meet them have been restated for 2014 and 2013 com-
+  pared to what was reported in the 2014 sustainability report.
+
+
+
+
+                                                                                                                                                     2015 sustainability reporting document / 5
+
+environmental performance indicators3)
+materials
+materials used by weight or volume4)
+in 2015, swedish match used 33,425 metric tons of materials plus 62,048 m3 of wood. in relation to total company sales
+(msek), the total amount of materials excluding wood5) amounted to 2.3 metric tons.
+
+total materials used excluding wood                                                                                                                                2015              2014         2013
+
+total materials used [metric tons]                                                                                                                               33,425             35,176     36,783
+
+total materials used [metric tons per msek sales]                                                                                                                    2.3               2.6          2.9
+
+
+wood consumption decreased 24 percent in 2015 compared to 2014 due to lower production volumes for matches, mainly
+from within the brazilian operations. excluding wood, tobacco leaf used in the production of swedish match’s smokefree
+tobacco products as well as cigars, is the largest group of materials, accounting for 33 percent of total usage in metric tons
+during 2015. the usage of tobacco leaf was down 5 percent from 2014. cardboard, used for packaging materials in the pro-
+duction of all products, accounted for 18 percent in 2015, down significantly from 2014 due to lower production volumes for
+matches. while the use of coated board decreased compared to 2014, down 13 percent, the use of film (used for packaging
+materials in the us production of smokefree products and cigars) was up significantly from 2014, mainly due to product mix
+shifts within the cigar operations. plastics accounted for 11 percent of the total materials used. nylon, used in the production of
+lighters, accounted for 8 percent. paraffin, used in match production, was down 17 percent compared to 2014 due to lower
+production volumes and accounted for 4 percent of total materials used. butane and propane gas, used in the production of
+lighters, accounted for 3 percent.
+
+total materials used excluding wood - by group [metric tons]                                                                                      [%]              2015              2014         2013
+
+tobacco leaf                                                                                                                                       33             11,191            11,778      11,997
+
+cardboard                                                                                                                                          18              6,022             7,279       7,414
+
+coated board                                                                                                                                       14              4,594             5,267       6,358
+
+plastics                                                                                                                                           11              3,743             3,499       3,410
+
+film (aluminum, metalized)                                                                                                                           9             3,092             2,069       2,043
+
+nylon                                                                                                                                                8             2,560             2,729       2,869
+
+paraffin                                                                                                                                             4             1,171             1,406       1,538
+
+gas (butane, propane)                                                                                                                                3             1,052             1,150       1,155
+
+total materials used excluding wood [metric tons]                                                                                                100             33,425             35,176     36,783
+
+wood [m3]                                                                                                                                                        62,048             81,321     89,440
+
+
+in total, 52 percent of total materials used (excluding wood) in 2015 refers to packaging materials (cardboard, coated board,
+plastics, and film). raw materials excluding wood, i.e. tobacco leaf and gas, accounted for 37 percent of all materials used.
+semi-manufactured goods, i.e. nylon and paraffin, accounted for the remaining 11 percent of total materials used.
+
+total materials used excluding wood - by group [metric tons]                                                                                      [%]              2015              2014         2013
+
+packaging materials                                                                                                                                52            17,451             18,114     19,224
+
+raw materials                                                                                                                                      37            12,243             12,927     13,152
+
+semi-manufactured goods                                                                                                                            11              3,732             4,135       4,407
+
+total materials used excluding wood [metric tons]                                                                                                100             33,425             35,176     36,783
+
+raw materials, wood [m3]                                                                                                                                         62,048             81,321     89,440
+
+
+in 2015, 21,806 metric tons of materials used (65 percent of total materials used excluding wood) were renewable. tobacco leaf
+accounted for 51 percent of renewable materials, followed by cardboard with 28 percent, and coated board with 21 percent.
+wood is also a renewable material.
+
+
+
+
+3) when reporting environmental data in relation to msek sales, numbers are based on figures in the 2015 annual report. furthermore, the baseline used for setting environmental 2016 targets was average
+  data per manufacturing facility for 2010 and 2011.
+4) materials reported refer to the most significant materials categories within each product area. the list of materials reported is therefore not exhaustive.
+5) wood is reported in volume (m3) instead of weight (metric tons). due to the inherent inaccuracies when using density conversion rates, wood is not converted into metric tons.
+
+
+
+
+                                                                                                                                                          2015 sustainability reporting document / 6
+
+total materials used excluding wood - renewable [metric tons]                           [%]            2015          2014         2013
+
+tobacco leaf                                                                             51           11,191       11,778       11,997
+
+cardboard                                                                                28            6,022        7,279        7,414
+
+coated board                                                                             21            4,594        5,267        6,358
+
+total materials used excluding wood - renewable [metric tons]                           100          21,806        24,324       25,768
+
+percentage of renewable materials excluding wood [%]                                                      65           69           70
+
+
+per product area, 42 percent of total materials (excluding wood) was used for the production of smokefree products while
+approximately 32 percent refers to materials used for the production of lights products. for the production of cigars, materials
+used (excluding wood) accounted for 26 percent of total materials (excluding wood) used.
+
+total materials used excluding wood - by product area [metric tons]                     [%]            2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                  42          13,886        13,641       14,209
+
+cigars                                                                                   26            8,841        9,398        9,504
+
+lights products (matches, lighters)                                                      32          10,698        12,138       13,070
+
+total materials used excluding wood [metric tons]                                       100          33,425        35,176       36,783
+
+
+materials used in relation to total weight of smokefree products amounted to 0.9 metric tons in 2015. the snus factories in
+sweden have had to manage an increasing complexity in terms of production, due to new product initiatives that have resulted
+in an increasing number of small batches and scrapped finished goods. for the production of cigars, 7.2 metric tons of materials
+were used per million cigars, a decrease of 14 percent. for match production, total materials used were 45.1 metric tons plus
+432.5 m3 of wood per billion matches. for lighters, 11.4 metric tons of materials were used per million lighters.
+
+total materials used by product area and unit of output produced [metric tons]                         2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco) [metric tons/metric tons]                        0.9          0.8           0.8
+
+cigars [metric tons/mn cigars]                                                                           7.2          8.4           9.9
+
+matches, excluding wood [metric tons/bn matches]                                                        45.1         44.2          45.0
+
+lighters [metric tons/mn lighters]                                                                      11.4         11.2          10.9
+
+matches, wood [m3/bn matches]                                                                          432.5        471.5        479.7
+
+
+percentage of materials used that are recycled input materials
+in total, 10,615 metric tons, or 32 percent of input materials, were recycled in 2015. the largest part refers to cardboard, which
+accounted for 57 percent of all recycled input materials, followed by coated board which accounted for the remaining 43 percent.
+
+total materials used - recycled input materials [metric tons]                           [%]            2015          2014         2013
+
+cardboard                                                                                57            6,022        7,279        7,414
+
+coated board                                                                             43            4,594        5,267        6,358
+
+total materials used - recycled input materials [metric tons]                           100          10,615        12,546       13,771
+
+percentage of recycled input materials [%]                                                                32           36           37
+
+
+
+
+                                                                                              2015 sustainability reporting document / 7
+
+energy
+direct energy consumption by primary energy source6)
+in 2015, swedish match consumed 92,157 mwh of direct energy, a decrease of 7,438 mwh (7 percent) compared to 2014. in
+relation to total company sales (msek), the total amount of direct energy consumed decreased by 15 percent to 6.4 in 2015
+compared to 2014.
+
+total direct energy consumption                                                                                                                             2015              2014              2013
+
+total direct energy consumption [mwh]                                                                                                                     92,157            99,594            97,042
+
+total direct energy consumption [mwh per msek sales]                                                                                                          6.4                7.5               7.7
+
+
+swedish match’s primary direct energy sources are wood chips (a renewable energy source) and natural gas. wood chips
+accounted for 53 percent of all direct energy consumed in 2015 while natural gas accounted for 46 percent. fuel distilled from
+crude oil accounted for 1 percent. the use of wood chips declined by 7 percent to 49,294 mwh in 2015 with lower production
+volumes for matches in brazil. the total amount of natural gas decreased by 8 percent compared to 2014, largely due to less
+usage in the moist snuff factory in owensboro, the us, as a result of an overall decrease in production volumes as well as mild
+weather conditions during the year. the use of fuel distilled from crude oil was virtually flat.
+
+total direct energy consumption by source [mwh]                                                                                         [%]                 2015              2014              2013
+
+wood chips                                                                                                                               53               49,294            52,816            53,839
+
+natural gas                                                                                                                              46               42,269            46,187            42,607
+
+fuel distilled from crude oil                                                                                                             1                   594               592               597
+
+total direct energy consumption [mwh]                                                                                                  100                92,157            99,594            97,042
+
+percentage of renewable energy sources [%]                                                                                                                     53                53                55
+
+
+the production of lights products accounted for 55 percent of the total direct energy consumed in 2015, followed by the pro-
+duction of smokefree products which accounted for 45 percent. for smokefree products, total direct energy consumed
+decreased by 9 percent to 41,233 mwh compared to 2014. for cigars, total direct energy increased by 50 percent, due to higher
+usage of fuel distilled from crude oil with higher production volumes. concerning lights products, total direct energy consumed
+decreased by 6 percent compared to 2014 due to a lower usage of wood chips as a result of lower production volumes.
+
+total direct energy consumption by product area [mwh]                                                                                   [%]                 2015              2014              2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                                                                  45               41,233            45,435            41,508
+
+cigars                                                                                                                                    0                   432               288               245
+
+lights products (matches, lighters)                                                                                                      55               50,492            53,871            55,289
+
+total direct energy consumption [mwh]                                                                                                  100                92,157            99,594            97,042
+
+
+per unit of output produced, total direct energy consumed decreased by 4 percent to 2.5 mwh per unit of output by weight for
+smokefree products. for cigars, the 2015 figure was higher than during the prior year, as the increase in total direct energy
+consumed was higher than the increase in production volumes. for matches, total direct energy consumed per unit of output
+increased by 12 percent in 2015 compared to 2014 as the overall decline in direct energy consumption did not correspond to
+the decline in production volumes. for lighters, total direct energy consumed per unit of output was significantly higher com-
+pared to 2014. consumption in 2014 was unusually low reflecting low usage in the assen factory in the netherlands due to
+exceptionally warm weather conditions.
+
+
+total direct energy consumption by product area and unit of output produced [mwh]                                                                            2015              2014              2013
+
+smokefree products (snus, moist snuff, chewing tobacco) [mwh/metric tons]                                                                                      2.5               2.6               2.4
+
+cigars [mwh/mn cigars]                                                                                                                                         0.4               0.3               0.3
+
+matches [mwh/bn matches]                                                                                                                                    346.1             309.2             291.8
+
+lighters [mwh/mn lighters]                                                                                                                                     2.3               1.3               2.1
+
+
+
+
+6) direct energy is defined as swedish match’s purchased and produced energy sources. wood chips from the brazilian match production are categorized as a direct energy source as the wood chips are
+ produced and used internally to heat the boilers within match production.
+
+
+
+
+                                                                                                                                               2015 sustainability reporting document / 8
+
+indirect energy consumption by primary energy source7)
+in 2015, swedish match consumed 79,570 mwh of indirect energy, a decrease of 2,394 mwh (3 percent) compared to 2014. in
+relation to total company sales (msek), the total amount of indirect energy consumed decreased by 11 percent to 5.5 mwh.
+
+total indirect energy consumption                                                                                                                               2015              2014               2013
+
+total indirect energy consumption [mwh]                                                                                                                      79,570             81,964            84,876
+
+total indirect energy consumption [mwh per msek sales]                                                                                                            5.5                6.2                  6.7
+
+
+electricity accounted for 83 percent of total indirect energy consumed while purchased steam and district heating accounted
+for 9 and 8 percent, respectively. in 2015, the total amount of electricity consumed was slightly lower compared to 2014. while
+district heating decreased by 9 percent, purchased steam decreased by 5 percent.
+  in 2015, 31 percent of swedish match’s indirect energy consumed was composed of renewable energy sources, up from 18
+percent in 2014. this renewable energy refers to electricity purchases in sweden, where the company’s suppliers undertake
+to produce and supply the amount of electricity that swedish match consumes without the use of fossil fuels. in 2015, the
+match factories in sweden started to consume electricity from renewable energy sources, which explains the change in the
+overall share of indirect energy from renewable energy sources.
+
+total indirect energy consumption by source [mwh]                                                                                          [%]                  2015              2014               2013
+
+electricity                                                                                                                                 83               66,248             67,628            69,545
+
+purchased steam                                                                                                                               9                7,312              7,719             8,848
+
+district heating                                                                                                                              8                6,010              6,617             6,484
+
+total indirect energy consumption [mwh]                                                                                                   100                79,570             81,964            84,876
+
+percentage of renewable energy sources [%]                                                                                                                         31                 18                  21
+
+
+per product area, 44 percent of total indirect energy and 48 percent of total electricity was consumed for the production of
+smokefree products. approximately 12 percent of total indirect energy and 15 percent of total electricity was consumed for the
+production of cigars. approximately 44 percent of total indirect energy and 38 percent of total electricity was consumed for the
+production of lights products.
+  for the production of smokefree products, total indirect energy decreased by 3 percent and electricity consumed was basically
+unchanged in 2015 compared to 2014. for cigars, total indirect energy consumed (which only refers to purchases of electricity)
+increased by 7 percent substantially due to higher production volumes. for the production of lights products, total indirect
+energy and electricity consumed decreased 5 percent and 6 percent in 2015 compared to 2014, respectively.
+
+total indirect energy consumption by product area [mwh]                                                                                    [%]                  2015              2014               2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                                                                     44               34,931             36,041            36,033
+
+cigars                                                                                                                                      12                 9,705              9,107             8,937
+
+lights products (matches, lighters)                                                                                                         44               34,934             36,816            39,907
+
+total indirect energy consumption [mwh]                                                                                                   100                79,570             81,964            84,876
+
+
+
+total electricity consumption by product area [mwh]                                                                                        [%]                  2015              2014               2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                                                                     48               31,654             31,940            32,620
+
+cigars                                                                                                                                      15                 9,705              9,107             8,937
+
+lights products (matches, lighters)                                                                                                         38               24,889             26,580            27,989
+
+total electricity consumption [mwh]                                                                                                       100                66,248             67,628            69,545
+
+
+per unit of output produced, total indirect energy consumed increased by 3 percent in 2015 compared to 2014 for smokefree
+products. for cigars, total indirect energy consumed decreased by 3 percent per unit of output produced. for the production of
+matches, total indirect energy consumed increased by 15 percent in 2015 compared to 2014, due to lower production volumes.
+for the production of lighters, total indirect energy consumed increased by 2 percent per unit of output produced.
+
+
+
+
+7) indirect energy is defined as energy produced outside swedish match that is consumed to supply energy for the company’s intermediate energy needs (e.g. electricity, district heating, and purchased
+  steam).
+
+
+
+
+                                                                                                                                                   2015 sustainability reporting document / 9
+
+total indirect energy consumption by product area and unit of output produced [mwh]                     2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco) [mwh/metric tons]                                 2.2           2.1          2.1
+
+cigars [mwh/mn cigars]                                                                                    7.9           8.2          9.3
+
+matches [mwh/bn matches]                                                                                148.2        129.0         132.7
+
+lighters [mwh/mn lighters]                                                                               36.9         36.1          35.4
+
+
+total energy (direct and indirect) consumption by primary energy source
+in 2015, swedish match’s total energy consumption amounted to 171,726 mwh, down 9,832 mwh (5 percent) from 2014. in
+relation to total company sales (msek), the total amount of energy consumed decreased by 13 percent to 11.9.
+
+total energy (direct and indirect) consumption                                                          2015          2014         2013
+
+total energy (direct and indirect) consumption [mwh]                                                 171,726       181,558      181,918
+
+total energy (direct and indirect) consumption [mwh per msek sales]                                      11.9         13.7          14.4
+
+
+direct energy accounted for 54 percent of total energy consumption while indirect energy accounted for the remaining 46 percent.
+
+total energy (direct and indirect) consumption [mwh]                                    [%]             2015          2014         2013
+
+total direct energy consumption                                                          54            92,157       99,594       97,042
+
+total indirect energy consumption                                                        46            79,570       81,964       84,876
+
+total energy (direct and indirect) consumption [mwh]                                    100          171,726       181,558      181,918
+
+
+electricity accounted for 39 percent of total energy consumed in 2015. wood chips accounted for 29 percent while natural gas
+accounted for 25 percent. purchased steam and district heating accounted for 4 percent and 3 percent, respectively.
+
+total energy (direct and indirect) consumption by source [mwh]                          [%]             2015          2014         2013
+
+electricity                                                                              39            66,248       67,628       69,545
+
+wood chips                                                                               29            49,294       52,816       53,839
+
+natural gas                                                                              25            42,269       46,187       42,607
+
+purchased steam                                                                           4             7,312        7,719        8,848
+
+district heating                                                                          3             6,010        6,617        6,484
+
+fuel distilled from crude oil                                                             0               594          592          597
+
+total energy (direct and indirect) consumption [mwh]                                    100          171,726       181,558      181,918
+
+
+per product area, the production of smokefree products in 2015 accounted for 44 percent of total energy consumed. the pro-
+duction of cigars accounted for 6 percent of total energy consumed. approximately 50 percent of total energy consumed was
+for the production of lights products.
+
+total energy (direct and indirect) consumption per product area [mwh]                   [%]             2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                  44            76,163       81,476       77,541
+
+cigars                                                                                    6            10,137        9,395        9,181
+
+lights products (matches, lighters)                                                      50            85,426       90,687       95,196
+
+total energy (direct and indirect) consumption [mwh]                                    100          171,726       181,558      181,918
+
+
+performance against targets – total energy consumption
+per unit of output produced, total energy consumption for smokefree products and cigars decreased by 1 percent in 2015
+compared to 2014, respectively. while the total energy consumed increased by 12 percent for matches, the increase was 5
+percent for lighters. in relation to the aggregated 2016 targets, results for smokefree products in 2015 were 20 percent higher
+than the target of 3.9 mwh per unit of output by weight. within the production of cigars, total energy consumed per million
+cigars was 36 percent lower than the aggregated 2016 target of 13.0 mwh per million cigars. with regards to matches, total
+energy per billion matches was 14 percent higher than the aggregated 2016 target of 813.4 mwh per billion matches. total
+energy per million lighters was 1 percent higher than the aggregated target of 38.9 mwh per million lighters.
+
+
+
+
+                                                                                              2015 sustainability reporting document / 10
+
+total energy (direct and indirect) consumption by product area and unit     target                                                increase/decrease
+of output produced [mwh]                                                     2016     2015     2014        2013     baseline               vs. target
+
+smokefree products (snus, moist snuff, chewing tobacco) [mwh/metric tons]      3.9     4.7      4.7         4.5            4.2                   20%
+
+cigars [mwh/mn cigars]                                                        13.0     8.3      8.4         9.6           12.5                  -36%
+
+matches [mwh/bn matches]                                                    813.4    930.6    827.8       803.9          784.8                   14%
+
+lighters [mwh/mn lighters]                                                    38.9    39.2     37.5        37.5           43.1                    1%
+
+
+performance against targets – total electricity consumption
+per unit of output produced, total electricity consumed in 2015 compared to 2014 increased for all product areas but cigars,
+where the consumption decreased by 3 percent. for smokefree products, the electricity consumed increased by 5 percent.
+while the increase amounted to 12 percent for matches, total electricity consumed increased 2 percent for lighters.
+  in relation to the aggregated 2016 targets, results for smokefree products in 2015 were 27 percent higher than the aggre-
+gated target of 1.5 mwh per unit of output by weight. for cigars, total electricity per million cigars was 32 percent lower than
+the aggregated 2016 target of 11.6 mwh. with regards to matches, total electricity per billion matches was 9 percent behind
+the aggregated 2016 target of 150.8 mwh. total electricity per million lighters was almost in line with the aggregated 2016
+target of 36.8 mwh.
+total electricity consumption by product area and unit of output            target                                                increase/decrease
+produced [mwh]                                                               2016    2015    2014       2013      baseline                 vs. target
+
+smokefree products (snus, moist snuff, chewing tobacco) [mwh/metric tons]      1.5     1.9     1.8        1.9            1.7                     27%
+
+cigars [mwh/mn cigars]                                                        11.6     7.9     8.2        9.3           11.4                    -32%
+
+matches [mwh/bn matches]                                                    150.8    165.0   147.7      144.9        143.0                        9%
+
+lighters [mwh/mn lighters]                                                    36.8    36.9    36.1       35.4           40.8                      0%
+
+
+energy saved due to conservation and efficiency improvements
+in 2015, several energy efficiency improvement projects were registered. for the production of smokefree products, a project
+was completed to optimize reusable heating which enabled savings in terms of district heating. for the production of cigars, air
+conditioning units were replaced to increase energy efficiency. examples from the company’s lighter facilities include intro-
+ducing energy efficient and more environmentally friendly air conditioning, modifications to molding machinery, installing of
+led lamps and fluorescent lamps with lower wattages, and replacing an old compressor unit.
+  in total, swedish match registered projects that led to energy improvements of 898 mwh in 2015. in terms of total cost savings,
+these registered projects led to cost savings of 783,115 sek in 2015 (using average 2015 currency rates from the swedish riksbank).
+
+total energy saved per product area [mwh]                                                     [%]               2015              2014          2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                        45                 400               35             0
+
+cigars                                                                                         18                 161              142            21
+
+lights products (matches, lighters)                                                            37                 337              534           194
+
+total energy saved [mwh]                                                                      100                 898              711           215
+
+
+
+total cost saved per product area [sek]                                                       [%]               2015              2014          2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                        26           200,000              23,000            0
+
+cigars                                                                                         28           219,310              34,289       16,936
+
+lights products (matches, lighters)                                                            46           363,805            517,638       272,817
+
+total cost saved [sek]                                                                        100           783,115            574,927       289,753
+
+
+
+
+                                                                                                     2015 sustainability reporting document / 11
+
+water
+total water withdrawal by source
+in 2015, swedish match withdrew 879,218 m3 water, a decrease of 2,408,055 m3 (73 percent) compared to 2014. the
+decrease refers to the water withdrawn for the company’s irrigation of poplar farms in brazil. the amount of water that is
+needed to be withdrawn for irrigation purposes varies significantly from one year to another due to natural differences in climate
+behavior, such as the amount of rain that has fallen during the year. figures for water withdrawal are therefore highly vola-
+tile. in relation to total company sales (msek), total water withdrawals decreased by 75 percent to 60.7 m3.
+
+total water withdrawal [m3]                                                                              2015          2014         2013
+
+total water withdrawal                                                                                879,218     3,287,273    3,806,561
+
+total water withdrawal per msek sales                                                                     60.7        247.1        301.9
+
+
+in 2015, 61 percent of swedish match’s total water withdrawals were taken from surface water, followed by municipal water
+supplies or other water utilities (33 percent). six percent was withdrawn from ground water. nearly all water withdrawals from
+surface water took place in the company’s poplar farms in brazil.
+
+total water withdrawal by source [m3]                                                    [%]             2015          2014         2013
+
+surface water                                                                             61          540,530     2,983,812    3,525,528
+
+municipal water supplies or other water utilities                                         33          287,172       252,819      232,721
+
+ground water                                                                               6            48,626       47,652       45,539
+
+on-site well                                                                               0             2,890        2,990        2,773
+
+total water withdrawal [m3]                                                              100          879,218     3,287,273    3,806,561
+
+
+in 2015, 73 percent of the company’s total water was withdrawn for the production of lights products, a result of water with-
+drawals taking place in the company’s poplar farms in brazil. approximately 20 percent was withdrawn for the production of
+smokefree products while production of cigars accounted for 7 percent of total water withdrawals.
+  for the production of smokefree products, total water withdrawals increased by 19 percent to 174,168 m3 in 2015. the snus
+factories in sweden have had to manage an increasing complexity in terms of production. for the production of cigars, total water
+withdrawals increased by 30 percent to 58,976 m3. in late 2015, opportunities were identified to reduce water consumption in the
+santiago factory in the dominican republic, and investments were made to change the urinals to a water free model. the
+impact can be observed from october 2015 and the trend in 2016 clearly shows significantly less water usage than in 2015.
+for the manufacturing of lights products, water withdrawals decreased by 79 percent due to the decrease of water withdrawals
+for the poplar farms in brazil.
+
+total water withdrawal by product area [m3]                                              [%]             2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                   20          174,168       146,137      135,832
+
+cigars                                                                                     7            58,976       45,421       32,834
+
+lights products (matches, lighters)                                                       73          646,074     3,095,715    3,637,895
+
+total water withdrawal [m3]                                                              100          879,218     3,287,273    3,806,561
+
+
+per unit of output produced, for the production of smokefree products and cigars, water withdrawals increased by 26 percent
+and 19 percent, respectively. for lighters, water withdrawals decreased by 10 percent. for matches, total water withdrawals
+per unit of output decreased significantly, by 76 percent, due to decreased irrigation for the company’s poplar farms in brazil.
+
+total water withdrawal by product area and unit of output produced                                       2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco) [m3 metric tons]                                  10.7          8.5           8.0
+
+cigars [m3/mn cigars]                                                                                     48.3         40.7          34.2
+
+matches [m3/bn matches]                                                                                4,348.2     17,791.6      19,364.0
+
+lighters [m3/mn lighters]                                                                                 60.1         66.5          64.1
+
+
+
+
+                                                                                               2015 sustainability reporting document / 12
+
+emissions, effluents, and waste8)
+total direct and indirect greenhouse gas emissions by weight9)
+in 2015, swedish match emitted 49,838 metric tons of greenhouse gas emissions, a decrease of 4,560 metric tons (8 percent)
+compared to 2014. in relation to total company sales (msek), total greenhouse gas emissions decreased by 16 percent to
+3.4 metric tons.
+
+total greenhouse gas emissions by weight [metric tons]                                                                                                          2015               2014              2013
+
+total greenhouse gas emissions                                                                                                                                49,838            54,398             55,042
+
+total greenhouse gas emissions per msek sales                                                                                                                     3.4                4.1               4.4
+
+
+approximately 61 percent of the greenhouse gas emissions were identified as direct emissions, i.e. gases from all sources
+owned or controlled sources. in 2015, emissions of total direct greenhouse gases decreased by 12 percent. emissions of total
+indirect greenhouse gas emissions decreased by 2 percent compared to 2014.
+
+total greenhouse gas emissions by weight [metric tons]                                                                                     [%]                  2015               2014              2013
+
+total direct greenhouse gas emissions                                                                                                       61                30,270            34,423             34,622
+
+total indirect greenhouse gas emissions                                                                                                     39                19,568            19,974             20,419
+
+total greenhouse gas emissions [metric tons]                                                                                              100                 49,838            54,398             55,042
+
+
+generation of electricity, heat, or steam from biomass accounted for 66 percent of the company’s greenhouse gas emissions
+in 2015, down 7 percent from 2014. with regards to other sources, generation of electricity, heat, or steam decreased by 10
+percent compared to 2014 and accounted for 31 percent of the company’s direct greenhouse gas emissions. swedish match
+emitted 745 metric tons of direct greenhouse gases from the transportation of materials, products, and waste, a decrease of
+65 percent compared to 2014. this was mainly due to the use of less fuel for transports of raw materials in brazil. fugitive
+emissions accounted only for a small part of the company’s emissions of direct greenhouse gases.
+
+
+ total direct greenhouse gas emissions by weight and source [metric tons]                                                                 [%]                  2015               2014              2013
+
+ generation of electricity, heat, or steam (from biomass)                                                                                  66                19,875            21,295             21,708
+
+ generation of electricity, heat, or steam                                                                                                 31                 9,249            10,294              9,365
+
+ transportation of materials, products, and waste                                                                                            2                   745             2,102             2,986
+
+ fugitive emissions                                                                                                                          1                   400               732                563
+
+ total direct greenhouse gas emissions [metric tons]                                                                                      100                30,270            34,423             34,622
+
+brazil accounted for 69 percent of all direct greenhouse gas emissions in 2015, followed by the us and the dominican republic
+with 25 percent, and sweden with 4 percent. very small amounts were emitted in the philippines and in the netherlands.
+
+total direct greenhouse gas emissions by geographic area [metric tons]                                                                     [%]                  2015               2014              2013
+
+brazil                                                                                                                                      69                21,017            23,944             25,065
+
+the us, the dominican republic                                                                                                              25                 7,706              8,917             8,121
+
+the philippines                                                                                                                               0                    88                 74                15
+
+the netherlands                                                                                                                               1                   170                111               183
+
+sweden                                                                                                                                        4                1,289              1,378             1,238
+
+total direct greenhouse gas emissions [metric tons]                                                                                       100                 30,270            34,423             34,622
+
+
+the us and the dominican republic accounted for 67 percent of all indirect greenhouse gas emissions in 2015, followed by
+the philippines with 18 percent, and the netherlands with 11 percent. small amounts were emitted in sweden and brazil.
+
+
+
+
+8) all calculations of emissions, effluents, and waste are based on site specific data, and conversion methodologies based on the greenhouse gas protocol are used in order to calculate the amount of green-
+  house gas emissions per source. references for emission factors include the swedish environmental protection agency (naturvårdsverket), the international energy agency, and the uk department for
+  environment, food and rural affairs (defra).
+9) all numbers presented refer to what has been reported to the carbon disclosure project (cdp) in 2016. all co2/greenhouse gas reporting is according to cdp protocols, scope 1 and scope 2.
+
+
+
+
+                                                                                                                                                  2015 sustainability reporting document / 13
+
+total indirect greenhouse gas emissions by geographic area [metric tons]                                                                    [%]                  2015              2014               2013
+
+brazil                                                                                                                                        2                   478                551                582
+
+the us, the dominican republic                                                                                                               67               13,129             12,839             12,982
+
+the philippines                                                                                                                              18                 3,468              3,727             4,198
+
+the netherlands                                                                                                                              11                 2,178              2,294             2,133
+
+sweden                                                                                                                                        2                   315                562                524
+
+total indirect greenhouse gas emissions [metric tons]                                                                                      100                19,568             19,974             20,419
+
+
+brazil accounted for 43 percent of all direct and indirect greenhouse gas emissions in 2015, followed by the us and the domini-
+can republic with 42 percent, the philippines with 7 percent, the netherlands with 5 percent, and sweden with 3 percent.
+
+total greenhouse gas emissions by geographic area [metric tons]                                                                             [%]                  2015              2014               2013
+
+brazil                                                                                                                                       43               21,496             24,496             25,647
+
+the us, the dominican republic                                                                                                               42               20,834             21,756             21,103
+
+the philippines                                                                                                                               7                 3,556              3,801             4,213
+
+the netherlands                                                                                                                               5                 2,348              2,405             2,316
+
+sweden                                                                                                                                        3                 1,604              1,940             1,763
+
+total greenhouse gas emissions [metric tons]                                                                                               100                49,838             54,398             55,042
+
+
+other relevant indirect greenhouse gas emissions by weight10)
+
+in 2015, swedish match emitted 16,101 metric tons of other relevant indirect greenhouse gas emissions, an increase of
+1,256 metric tons (8 percent) compared to 2014. in relation to total company sales (msek), total greenhouse gas emissions
+was virtually flat.
+
+other relevant indirect greenhouse gas emissions by weight [metric tons]                                                                                         2015              2014               2013
+
+other relevant indirect greenhouse gas emissions                                                                                                              16,101             14,845             15,683
+
+other relevant indirect greenhouse gas emissions per msek sales                                                                                                    1.1                1.1               1.2
+
+
+ business travel (including data from travel agencies and mileage from company and private cars) accounted for 50 percent
+of total other relevant indirect greenhouse gas emissions. transportation and distribution (including purchased transports of
+goods to and from facilities) accounted for the remaining 50 percent.
+ regarding business travel, the increase was substantially due to an increased amount of business travel within the us operations.
+
+other relevant indirect greenhouse gas emissions by weight [metric tons]                                                                    [%]                  2015              2014               2013
+
+business travel                                                                                                                              50                 8,042              6,849             7,529
+
+transportation and distribution                                                                                                              50                 8,059              7,996             8,153
+
+other relevant indirect greenhouse gas emissions by weight [metric tons]                                                                   100                16,101             14,845             15,683
+
+
+emissions of ozone-depleting substances by weight
+swedish match has a very small amount of emissions of ozone-depleting substances. in 2015, the emissions decreased sig-
+nificantly, by 49 percent in cfc-11 equivalent, as more environmentally friendly methods have been used to an even larger
+extent than before. all cfc-11 equivalent emissions come from the substance r22.
+  the emissions originate in the company’s cigars factories in dothan, the us, santiago, the dominican republic, as well as
+in manila, the philippines.
+
+total emissions of ozone-depleting substances                                                                                                                    2015              2014               2013
+
+total emissions of ozone-depleting substances [metric tons]                                                                                                       0.20              0.40               0.31
+
+total emissions of ozone-depleting substances [cfc-11 equivalent]                                                                                                 0.01              0.02               0.02
+
+
+
+
+10) all numbers presented refer to what will be reported to the carbon disclosure project (cdp) in 2015. all co2/greenhouse gas reporting is according to cdp protocols, scope 3. please note that the figures
+  for other relevant indirect greenhouse gas emissions by weight have been restated for 2014 compared to what was reported in the 2014 sustainability report.
+
+
+
+
+                                                                                                                                                  2015 sustainability reporting document / 14
+
+total weight of waste by type and disposal method
+in 2015, swedish match generated a total waste of 23,121 metric tons, a small increase (238 metric tons, 1 percent) compared
+to 2014. in relation to total company sales (msek), total waste decreased 8 percent to 1.6 metric tons.
+
+total waste [metric tons]                                                                                              2015          2014         2013
+
+total waste                                                                                                           23,121       22,982       26,680
+
+total waste per msek sales                                                                                               1.6          1.7           2.1
+
+
+in 2015, 82 percent of swedish match’s total waste was generated in the production of lights products while waste from pro-
+duction of smokefree products accounted for approximately 14 percent. waste generated in the production of cigars
+accounted for approximately 4 percent. the vast majority of the waste (according to definitions by gri) is generated in the
+production of matches in sweden, where pure wooden waste from match splint is used for incineration to generate district
+heating for local communities.
+  in 2015, compared to 2014, total waste generated in the production of smokefree products increased by 6 percent to 3,341
+metric tons, attributable to the snus factories in sweden as large projects, testing and a new production unit in kungälv, sweden
+have impacted total waste generation. in the production of cigars, total waste decreased by 21 percent to 883 metric tons. in
+early 2014, a new scale was installed in the santiago factory in the dominican republic, providing more accurate estimates of
+total waste. in the production of lights, total waste increased by 1 percent, to 18,896 metric tons.
+
+total waste per product area [metric tons]                                                             [%]             2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                                 14             3,341        3,144        3,241
+
+cigars                                                                                                   4               883        1,118        1,552
+
+lights products (matches, lighters)                                                                    82             18,896       18,720       21,887
+
+total waste [metric tons]                                                                              100            23,121       22,982       26,680
+
+
+of the total waste produced, 97 percent was identified as being non-hazardous in 2015 and 3 percent of total waste was iden-
+tified as being hazardous.11) compared to 2015, the company’s total weight of hazardous waste decreased by 6 percent.
+
+total waste by type [metric tons]                                                                      [%]             2015          2014         2013
+
+hazardous waste                                                                                          3              775           823          866
+
+non-hazardous waste                                                                                    97             22,346       22,160       25,814
+
+total waste [metric tons]                                                                              100            23,121       22,982       26,680
+
+
+the majority of the company’s hazardous waste is generated in the company’s match production facilities in sweden and
+brazil. in 2015, production of lights products accounted for 97 percent of all hazardous waste produced. examples of hazard-
+ous waste from the match production are scrapped match boxes (defect match boxes and matches from the production),
+slurry from the waste water treatment plant, as well as empty bags from chemical handling. in the production of match splints,
+hazardous waste includes slurry from the waste water treatment plant, empty printing ink cans, as well as water contaminated
+with lacquer.
+
+total hazardous waste per product area [metric tons]                                                   [%]             2015          2014         2013
+
+smokefree products (snus, moist snuff, chewing tobacco)                                                  2                15           20           21
+
+cigars                                                                                                   1                 8            6             4
+
+lights products (matches, lighters)                                                                     97               752          797          842
+
+total hazardous waste [metric tons]                                                                    100               775          823          866
+
+
+incineration is the one waste disposal method most commonly used followed by landfill and recovery/recycling/reuse. in
+2015, approximately 79 percent of the company’s total waste referred to incinerated waste, mainly from the company’s
+match factories in sweden. the majority of waste produced in the swedish match factories refers to pure wooden waste used
+for incineration to generate district heating for the local communities. approximately 9 percent of the total waste was treated as
+landfill, followed by 6 percent treated as recovery/recycling/reuse. hazardous waste treatment accounted for 3 percent.
+approximately 2 percent was composted.
+  in 2015, incinerated waste increased by 3 percent compared to 2014, while landfill and recovery/recycling/reuse decreased
+by 6 and 12 percent respectively.
+
+11) in accordance with gri, swedish match defines hazardous waste according to national legislation.
+
+
+
+
+                                                                                                             2015 sustainability reporting document / 15
+
+total waste by treatment method [metric tons]                                                                                                 [%]                   2015               2014               2013
+
+incineration                                                                                                                                    79                18,372             17,908             20,899
+
+landfill                                                                                                                                          9                2,095              2,220              2,656
+
+recovery/recycling/reuse                                                                                                                          6                1,414              1,606              1,777
+
+hazardous waste treatment                                                                                                                         3                   765                817                860
+
+composting                                                                                                                                        2                   475                431                488
+
+total waste [metric tons]                                                                                                                     100                 23,121             22,982             26,680
+
+
+the method of disposal has primarily been determined by information provided by the local waste disposal contractors, and in
+some cases also what is disposed directly by swedish match.
+
+performance against targets – total waste12)
+per unit of output produced, for the production of smokefree products and matches excluding biomass, total waste increased
+by 13 percent and 9 percent, respectively, compared to the prior year. for the production of cigars and lighters, total waste
+decreased by 28 percent and 2 percent, respectively.
+  in relation to the aggregated 2016 targets, results for smokefree products in 2015 were 32 percent higher than the aggre-
+gated target of 0.16 metric tons. for the production of cigars, total waste per million cigars was 64 percent lower than the 2016
+target of 1.99 metric tons. regarding matches, total waste excluding biomass per billion matches was 14 percent higher than
+the aggregated 2016 target of 19.15 metric tons, and total waste per million lighters was 12 percent below the aggregated
+2016 target of 0.86 metric tons.
+                                                                                                                                                                                                   increase/
+                                                                                                                       target                                                                      decrease
+total waste by product area and unit of output produced [metric tons]                                                   2016               2015         2014          2013      baseline           vs. target
+
+smokefree products (snus, moist snuff, chewing tobacco) [metric tons/metric tons]                                         0.16              0.21         0.18          0.19           0.16                 32%
+
+cigars [metric tons/mn cigars]                                                                                            1.99              0.72         1.00          1.62            2.11               -64%
+
+matches [metric tons/bn matches]                                                                                               -         220.92       201.01       217.55          204.69                   n/a
+
+matches, excluding biomass [metric tons/bn matches]                                                                     19.15             21.92         20.07        20.70           18.13                 14%
+
+lighters [metric tons/mn lighters]                                                                                        0.86              0.76         0.78          0.84           1.12                -12%
+
+
+performance against targets – hazardous waste
+per unit of output produced, total hazardous waste in 2015 compared to 2014 increased for all product areas except for
+smokefree products.
+  in relation to aggregated 2016 targets, results for smokefree products were in line with the aggregated target of 0.001 metric
+tons. total hazardous waste per million cigars was also in line with the aggregated 2016 target of 0.007 metric tons. with
+regard to matches, total hazardous waste per billion matches was 41 percent higher than the aggregated 2016 target of 8.912
+metric tons, and total hazardous waste per million lighters was 7 percent higher than the aggregated 2016 target of 0.045
+metric tons.
+                                                                                                                                                                                                   increase/
+                                                                                                                      target                                                                       decrease
+total hazardous waste by product area and unit of output produced [metric tons]                                        2016               2015          2014         2013       baseline           vs. target
+
+smokefree products (snus, moist snuff, chewing tobacco) [metric tons/metric tons]                                       0.001             0.001        0.001        0.001           0.001                   -8%
+
+cigars [metric tons/mn cigars]                                                                                          0.007             0.007        0.005        0.004           0.007                   -2%
+
+matches [metric tons/bn matches]                                                                                        8.912           12.538        11.386       10.866           9.410                  41%
+
+lighters [metric tons/mn lighters]                                                                                      0.045             0.048        0.029        0.049           0.043                    7%
+
+
+
+
+12) for match production in sweden, total waste excluding biomass (pure wooden waste from match splint) is tracked internally instead of total waste. biomass is a “positive waste” as it is used for incineration
+  to generate district heating (biofuel) for local communities, and waste excluding biomass is a more relevant performance indicator when setting reduction targets.
+
+
+
+
+                                                                                                                                                      2015 sustainability reporting document / 16
+
+total number and volume of significant spills
+in 2013, one oil spill in the dominican republic was recorded. the environmental impact of this spill was considered to be
+insignificant and did not require any legal action.
+
+total weight of significant spills [metric tons]                                                    2015          2014         2013
+
+chemicals                                                                                               -             -            -
+
+fuel                                                                                                    -             -            -
+
+oil                                                                                                     -             -         0.03
+
+total weight of significant spills [metric tons]                                                        -             -         0.03
+
+total number of significant spills                                                                      0            0             1
+
+
+
+
+                                                                                          2015 sustainability reporting document / 17
+
+employee related performance indicators13)
+labor practices and decent work
+total workforce by employment type, employment contract, and region
+at the end of the reporting period, december 31, 2015, swedish match employed 4,835 people, an increase of 448 employees
+compared to 2014. the number of employees, excluding temporary workers, increased by 411 people (10 percent) to 4,595
+employees, and the number of temporary workers increased by 37 people (18 percent) to 240 employees. temporary workers
+accounted for 5 percent of the total workforce. the majority of the new employees were hired within the cigar operations to
+handle the increased demand for the company’s products.
+
+total workforce                                                                                                                             [%]                  2015              2014               2013
+number of employees excluding temporary workers                                                                                              95                 4,595             4,184              4,012
+
+number of temporary workers                                                                                                                   5                   240                203               299
+
+total workforce (employees + temporary workers)                                                                                            100                  4,835             4,387              4,311
+
+
+employment type                                                                                                                            [%]                   2015              2014               2013
+
+number of employees working full-time                                                                                                        96                 4,629             4,205              4,072
+
+number of employees working part-time*                                                                                                        4                   206                182               233
+
+number of employees not classified as working full-time or part-time (temporary workers in the us)**                                          0                      0                  0                     6
+
+total workforce (employees + temporary workers)                                                                                            100                  4,835             4,387              4,311
+
+* a number of employees working part-time in sweden are full-time employed, but work part time according to the swedish parental leave act (föräldraledighetslagen).
+** temporary workers in the us.
+
+
+employment contract                                                                                                                        [%]                   2015              2014               2013
+
+number of employees with an indefinite/permanent contract                                                                                    95                 4,593             4,181              4,012
+
+number of employees with a fixed term/temporary contract                                                                                      5                   242                206               299
+
+total workforce (employees + temporary workers)                                                                                            100                  4,835             4,387              4,311
+
+
+total workforce by geography                                                                                                               [%]                   2015              2014               2013
+
+the us, the dominican republic                                                                                                               54                 2,587             2,175              1,976
+
+sweden, norway                                                                                                                               26                 1,256             1,198              1,214
+
+brazil                                                                                                                                       12                   597                629               684
+
+the philippines                                                                                                                               6                   290                278               332
+
+the netherlands                                                                                                                               2                   105                107               105
+
+total workforce (employees + temporary workers)                                                                                            100                  4,835             4,387              4,311
+
+
+
+percentage of employees covered by collective bargaining agreements
+in total, 2,173 employees, or 45 percent of swedish match’s total workforce (including temporary workers), were covered by
+collective bargaining agreements in 2015. the percentage of employees covered by collective bargaining agreements was
+down compared to 2014 due to the fact that the majority of the increase in the total workforce consisted of individuals that were
+not subject to collective bargaining agreements.
+employees covered by collective bargaining agreements by geography                                                                                              2015               2014              2013
+
+the us, the dominican republic                                                                                                                                    202                208               216
+
+sweden, norway                                                                                                                                                 1,207              1,148              1,162
+
+brazil                                                                                                                                                            591                624               679
+
+the philippines                                                                                                                                                    83                 86                 93
+
+the netherlands                                                                                                                                                    90                 93                 90
+employees covered by collective bargaining agreements (employees + temporary workers)                                                                          2,173              2,159              2,240
+
+
+
+
+13) due to differences in methodologies, the total workforce presented in the sustainability report does not correspond to workforce breakouts in the annual report. in the 2015 annual report, the average
+  number of employees in the group was 4,488 for 2015, 4,395 for 2014, and 4,382 for 2013. the average number of employees in the annual report also includes temporary employees.
+
+
+
+
+                                                                                                                                                  2015 sustainability reporting document / 18
+
+percentage of employees covered by collective bargaining agreements by geography [%]                  2015         2014          2013
+
+the us, the dominican republic                                                                           8            10           11
+
+sweden, norway                                                                                          96            96           96
+
+brazil                                                                                                  99            99           99
+
+the philippines                                                                                         29            31           28
+
+the netherlands                                                                                         86            87           86
+
+percentage of employees covered by collective bargaining agreements by geography [%]                    45            49           52
+
+
+percentage of total workforce represented in formal joint management-worker health and safety committees that
+help monitor and advise on occupational health and safety programs
+in 2015, 85 percent of the swedish match total workforce (including temporary workers) was represented in formal joint man-
+agement-worker health and safety committees that help monitor and advise on occupational health and safety programs. the
+committees operate at different levels: company, regional, divisional, function, or facility level.
+
+percentage of total workforce represented in formal joint management-worker health and
+safety committees by geography [%]                                                                    2015          2014         2013
+
+the us, the dominican republic                                                                           79           75           73
+
+sweden, norway                                                                                           84          100          100
+
+brazil                                                                                                  100           74           76
+
+the philippines                                                                                         100          100          100
+
+the netherlands                                                                                         100          100          100
+percentage of total workforce represented in formal joint management-worker health and
+safety committees by geography [%]                                                                       85           84           84
+
+
+rates of injury, occupational diseases, lost days, and absenteeism, and total number of work-related fatalities by region)
+in accordance with the gri guidelines, the rates of injury, occupational diseases, lost days, and absenteeism presented below
+are related to the number of employees, not the number of hours worked. the factor 200,000 is derived from 50 working
+weeks at 40 hours per week, per 100 employees.
+  to calculate the total number of working hours and working days per year, the following calculations have been used:
+
+    a. working hours per year = average number of employees per year * average numbers of hours worked per year.
+    b. calculated working days per year = total working hours per year ÷ 8.
+
+ the systems of rules are applied from national law in different countries.
+
+all geographies
+the total number of injuries/accidents (excluding minor first-aid level injuries/ accidents) increased slightly from 88 cases in
+2014 to 91 cases in 2015, leading to an increased injury rate of 1.88 (per 100 employees). the total number of occupational
+illnesses decreased from 5 cases in 2014 to 3 cases in 2015, leading to a decrease in the accompanying occupational diseases
+rate to 0.06 per 100 employees.
+   the total number of lost days due to occupational illnesses or injuries/accidents increased with 12 percent to 3,033 while the
+total number of absentee days decreased by 1 percent to 33,946, leading to a lost days rate of 62.79 and an absentee rate of
+2.81 per 100 employees.
+
+
+
+
+                                                                                            2015 sustainability reporting document / 19
+
+                                                                                                             2015          2014         2013
+
+a. total number of working hours per year                                                                9,660,049    8,807,576    9,020,184
+
+b. calculated number of total working days per year                                                      1,207,506    1,100,947    1,127,523
+
+c. total number of injuries/accidents excluding minor (first-aid level) injuries/accidents                      91           88          132
+
+d. total number of occupational illnesses                                                                        3            5             7
+
+e. total number of lost days due to occupational illnesses/injuries/accidents                                3,033        2,697         3,586
+
+f. total number of absentee days                                                                            33,946       34,397       32,264
+
+g. total number of fatalities due to occupational illnesses/injuries/accidents                                   0            0             0
+
+injury rate [per 100 employees per year] = c / a * 200,000                                                    1.88         2.00          2.93
+
+occupational diseases rate [per 100 employees per year] = d / a * 200,000                                     0.06         0.11          0.16
+
+lost days rate [per 100 employees per year] = e / a * 200,000                                                62.79        61.24         79.50
+
+absentee rate [% of days per year] = f / b                                                                    2.81         3.12          2.86
+
+
+percentage of employees receiving regular performance and career development reviews
+during 2015, 78 percent of the total workforce (including temporary workers) received a formal performance evaluation, an
+increase from 76 percent in 2014.
+
+employees receiving regular performance reviews by geography                                                 2015          2014         2013
+
+the us, the dominican republic                                                                               2,385        1,967        1,701
+
+sweden, norway                                                                                               1,078        1,024        1,179
+
+brazil                                                                                                           0            0             4
+
+the philippines                                                                                                290          278          332
+
+the netherlands                                                                                                 22           46           42
+
+employees receiving regular performance reviews (employees + temporary workers)                              3,775        3,315        3,258
+
+
+
+percentage of employees receiving regular performance reviews by geography [%]                               2015          2014         2013
+
+the us, the dominican republic                                                                                  92           90           86
+
+sweden, norway                                                                                                  86           85           97
+
+brazil                                                                                                           0            0             1
+
+the philippines                                                                                                100          100          100
+
+the netherlands                                                                                                 21           43           40
+
+percentage of employees receiving regular performance reviews [%]                                               78           76           76
+
+
+composition of governance bodies and breakdown of employees per category according to gender, age group,
+minority group memberships, and other indicators of diversity
+of swedish match’s total workforce in 2015, 38 percent were female employees. swedish match does not collate global data
+per age groups or minority groups.
+
+employees by gender                                                                          [%]             2015          2014         2013
+
+total number of female employees                                                             38              1,836        1,669        1,617
+
+total number of male employees                                                               62              2,999        2,718        2,694
+
+total workforce (employees + temporary workers)                                              100             4,835        4,387         4,311
+
+
+
+
+                                                                                                   2015 sustainability reporting document / 20
+
+percentage of female employees by geography [%]                                      2015          2014         2013
+
+the us, the dominican republic                                                          41           41           38
+
+sweden, norway                                                                          39           39           39
+
+brazil                                                                                  26           30           33
+
+the philippines                                                                         46           45           48
+
+the netherlands                                                                          7            7             7
+
+percentage of female employees (employees + temporary workers) [%]                      38           38           38
+
+
+
+members of group management by gender                                [%]             2015          2014         2013
+
+total number of female group management members                      29                  2            2             1
+
+total number of male group management members                        71                  5            5             6
+
+total number of group management members                             100                 7            7             7
+
+
+
+board members (including employee representatives) by gender         [%]             2015          2014         2013
+
+total number of female group management members                      40                  4            4             4
+
+total number of male group management members                        60                  6            6             6
+
+total number of group management members                             100                10           10           10
+
+
+
+
+                                                                           2015 sustainability reporting document / 21

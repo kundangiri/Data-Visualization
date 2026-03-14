@@ -1,0 +1,1099 @@
+    samtrans sustainability report // table of content s
+1
+
+
+
+
+                          sustainability report
+          samtrans 2017
+
+     2
+samtrans sustainability report // table of content s
+
+
+
+
+                                                       acknowledgments
+                                                       this document was prepared by louis berger and ascent environmental
+                                                       under contract through the san mateo county transit district (district),
+                                                       administered by the district’s sustainability program. technical input
+                                                       was provided by staff in the following departments: planning, operations
+                                                       financial analysis, facilities, bus maintenance, bus transportation, bus
+                                                       contracts, real estate and property development, human resources, and
+                                                       marketing and communications.
+
+                                                     3
+
+
+
+table of contents
+
+
+
+
+                                               samtrans sustainability report // table of content s
+introduction                              4
+
+   message from the general manager/ceo   5
+
+   about samtrans                         6
+
+   ridership and operations               7
+
+samtrans sustainability performance       8
+
+   achievements                           9
+
+   sustainable performance summary        10
+
+   ghg inventory                          12
+
+   criteria air pollutants                14
+
+   energy use - fleet                     15
+
+   energy use - facilities                16
+
+   water                                  18
+
+   waste and recycling                    19
+
+current and planned initiatives           20
+
+                                                                                       1
+ri            ab                 a
+  de             ou                  m
+     rs             t                 es
+       hi               sa                sa
+         p                   m              ge
+             an                tr
+               d                  a  ns
+                                                 fro
+                                                    m
+                   op
+                        er                              th
+                          at                              e
+                             io                               ge
+                                 ns                             ne
+                                                                   ra
+                                                                     lm
+                                                                        an
+                                                                          ag
+                                                                             er
+                                                                               /c
+                                                                                  eo
+                                                                                       introduction
+
+  a message from the                                                                                                     5
+
+  general manager/ceo
+
+
+
+
+                                                                                                                   samtrans sustainability report // introduction
+as a life-long peninsula resident, i understand
+the important role our bus, paratransit, and
+shuttle services play in maintaining our quality
+of life and sustaining the economic vitality
+of our region. serving over 40,000 riders
+each day in san mateo county, samtrans is
+committed to supporting a more sustainable
+region by providing affordable, accessible,
+environmentally-friendly mobility options to
+move people where they live, work, and play.
+
+corporate responsibility is vital for any
+organization, especially one impacting
+thousands of riders and hundreds of buses
+a day; its sustainability programs must focus
+both on its own operational impacts on the
+environment, as well as promoting a similar
+ethic within its customers and communities.
+i recognize the importance of samtrans’
+sustainability efforts to help improve air
+quality within the bay area.
+
+in fy2017, samtrans elected to participate in a community choice energy program that will provide samtrans
+facilities with electricity from 100 percent renewable sources such as solar, wind, and geothermal. in addition,
+the samtrans board-adopted fy2017 capital budget includes investment in a pilot program to procure, operate,
+and maintain samtrans’ first fully-electric buses. both actions will reduce pollution and climate-changing
+emissions within the bay area.
+
+i am pleased to share this sustainability report, which summarizes our performance between fy2010 and
+fy2016, highlights key accomplishments, and identifies planned initiatives.
+
+sincerely,
+
+jim hartnett
+general manager / ceo
+
+    6
+
+                                                       about samtrans
+samtrans sustainability report // introduction
+
+
+
+
+                                                  the district, also known as samtrans, is the managing           report purpose and scope
+                                                  agency for three business units: 1) samtrans, which
+                                                                                                                  the district has prepared this report to quantify key
+                                                  operates fixed-route bus, paratransit, and shuttle
+                                                  services in the county; 2) caltrain, which operates             sustainability indicators and summarize sustainability
+                                                  commuter rail service along the san francisco                   achievements for samtrans operations in fiscal year
+                                                  peninsula from san francisco to gilroy and is owned             (fy) fy2010 through fy2016. the goal of this report
+                                                  by the peninsula corridor joint powers board; and               is to publicly share data on the district’s sustainability
+                                                  3) the san mateo county transportation authority,               performance that will allow samtrans to establish
+                                                  which administers the countywide half-cent sales                benchmarks and sustainability reduction goals.
+                                                  tax dedicated to transportation-related projects and
+                                                  programs in the county. the district also partners              this sustainability inventory and report focuses
+                                                  with other transit systems including bart, santa clara          specifically on the facilities, fixed-route bus, paratransit,
+                                                  valley transit authority (vta), san francisco municipal         and shuttle services under the operational control
+                                                  transportation agency (sfmta or muni), and alameda              of samtrans. this inventory also includes indicators
+                                                  county transit (ac transit) to promote regional transit         for non-revenue vehicles and employee commuting
+                                                                                                                  across all three district units due to overlapping roles.
+                                                  and efficient interagency connections.
+                                                                                                                  the district has prepared a separate sustainability
+                                                  samtrans’ sustainability program                                inventory and report for caltrain operations that does
+                                                                                                                  not include either non-revenue vehicles or employee
+                                                  sustainability is a key component of the district’s vision
+                                                                                                                  commuting to avoid double-counting.
+                                                  to be a mobility leader that provides safe transportation
+                                                  choices and a sustainable future. the district’s                this report includes the following sustainability
+                                                  sustainability policy outlines six key action commitments       indicators: revenue and non-revenue fleet fuel
+                                                  that support the operations of the agency.
+                                                                                                                  usage, employee commute, displaced or avoided
+                                                  the district is a strong supporter of the american public       customer trips, facility energy usage, water usage,
+                                                  transportation association’s (apta) sustainability              waste generation and diversion, greenhouse gas
+                                                  program and participates in the annual sustainability           (ghg) emissions, and criteria air pollutants. ghgs
+                                                  & public transportation workshop as well as apta’s              include carbon dioxide (co2), methane (ch4),
+                                                  sustainability committees. in 2011, the district received       and nitrous oxide (n2o) and are presented in this
+                                                  the apta sustainability commitment bronze recognition           report as metric tons of carbon dioxide equivalent
+                                                  for samtrans operations.                                        (mtco2e). sustainability indicators are normalized
+                                                                                                                  by total samtrans ridership including fixed-route bus,
+                                                                                                                  paratransit, and shuttle services.
+
+
+
+
+                                                 the district’s sustainability policy commits the district to:
+                                                 • streamline business practices           • educate and incentivize                    • measure the environmental
+                                                   to reduce waste and improve                employees to integrate                      impacts of activities on an
+                                                   operational effectiveness;                 sustainability practices into their          ongoing basis, and set and meet
+                                                 • evaluate and improve the                   work and their personal lives;               targets to reduce our impacts; and
+                                                   long-term resource efficiency of        • encourage business partners to             • deploy sustainability-themed
+                                                   facilities and equipment, including        incorporate sustainability practices         programs that encourage the use
+                                                   the life-cycle return on investment;       into their own operations;                   of public transit and that support
+                                                                                                                                           our local communities.
+
+     ridership and                                                                                                                                       7
+
+     operations
+                                                             san francisco
+
+
+
+
+                                                                                                                                                   samtrans sustainability report // table of content s
+                                                                    22nd st.
+
+in san mateo county, each day samtrans serves
+over 43,000 riders through its bus, paratransit,                  bayshore
+
+and shuttle services. between fy2010 and
+fy2016, ridership measured as total passenger                                     south
+                                                                                  san francisco
+boardings per year decreased by over 1.2 million              san bruno
+trips (9 percent), and passenger miles traveled                     millbrae            broadway
+decreased by 11 million miles (15 percent). this                     burlingame
+                                                                                            san mateo
+
+decline in overall ridership is primarily attributed to                hayward park
+                                                                              hillsdale
+decreased bus ridership, and is generally related                                              belmont
+                                                                                    san carlos
+to the economic downturn, decrease in gas prices
+                                                                                    redwood city
+(eroding some of the cost competitive edge of                                                 atherton           menlo park
+transit for choice passengers), and limited financial
+                                                                                                   palo alto        california ave.
+ability of samtrans to increase service levels
+                                                                                                                          mountain view
+during this time period. in contrast, paratransit                                                          san antonio
+                                                                                                                                    lawrence
+ridership has increased in recent years, mirroring                                                                  sunnyvale                college park
+san mateo county’s growing aging population.                                                                                   santa clara
+                                                                                                                                                   san jose dirido
+samtrans is actively engaged in efforts targeted at
+                                                                                                                                          taimen
+increasing bus ridership, including evaluating new
+                                                                                                                                             capitol
+travel markets, targeting mobility improvements for
+youth and seniors, expanding marketing strategies                                                                                             blossom hill
+
+around social media and mobile technologies, and
+developing a customer experience taskforce.
+
+table 1 summarizes samtrans’ service operation
+metrics. total vehicle miles traveled (vmt) declined
+by almost 252,000 miles between fy2010 and
+fy2016, a 2 percent decrease. during the same
+time period, the service population (the population
+of san mateo county) increased gradually from
+720,496 to 768,122 million people, or 7 percent.                         caltrain station
+this means that samtrans ridership has not                               limited commuter
+                                                                         service only
+increased at the same pace as san mateo county’s
+population, resulting in a declining number of trips
+per capita over the last seven years.                         n
+                                                                                                   miles
+                                                                     0      2.5     5         10
+
+
+
+
+table 1. samtrans service operation summary
+                              fy2010         fy2011       fy2012             fy2013               fy2014            fy2015            fy2016
+passenger miles traveled      75,114,296    66,867,227    67,753,560        63,831,352            64,137,761       63,898,769         64,091,394
+
+boardings                     14,714,270    13,978,007    13,380,219        12,994,888            13,510,234        13,743,557        13,440,131
+
+service population              720,496        729,292       740,568              748,761            756,371             764,379         768,122
+
+vehicle miles traveled       12,336,524     11,615,458    11,611,199         11,711,993       11,943,049            11,919,978        12,084,554
+
+                                                                                                                                                                 2
+w         w                   en                 en            cr                    gh             su                   ac
+ as        at                    e   rg            er              ite                 g                   st               hie
+   te        er
+                                        y            gy                r   ia              in                  ai
+                                                                                                                 na            ve
+        an
+          d
+                                            us            us                    ai           ve
+                                                                                                n                                 m
+                                              e                e                  rp                to
+                                                                                                                    bl
+                                                                                                                      e                  en
+              di
+                ve                                -f               -f
+                                                                     le
+                                                                                    ol
+                                                                                          lu           r   y              pe                 ts
+                   r                                ac
+                                                                           et               ta                               r   fo
+                       sio
+                          n
+                                                        ilit
+                                                            ie                                 nt                                   rm
+                                                               s                                 s                                      an
+                                                                                                                                          ce
+                                                                                                                                                  su
+                                                                                                                                                    m
+                                                                                                                                                       m
+                                                                                                                                                        ar
+                                                                                                                                                             y
+                                                                                                                                                                 samtrans
+
+                                                                                                                                                                 performance
+                                                                                                                                                                 sustainabilit y
+
+                                                                                                                       9
+
+achievements
+
+
+
+
+                                                                                                               samtrans sustainability report // sustainabilit y performance
+                                                    sustainability programs
+
+                  -26%
+  facility energy use decreased by
+                                                    in addition to the energy, water, and waste initiatives
+                                                    described earlier, samtrans has also implemented a
+                                                    number of other strategies and partnerships in the
+                                                    previous three fiscal years in support of the agency’s
+  26 percent
+                                                    commitment to sustainability. these include:
+  overall facility energy use declined by more
+  than 26 percent between fy2010 and                samtrans sustainability webpage
+  fy2016. samtrans currently uses natural gas       the samtrans sustainability website (http://www.
+  for space heating and electricity for lighting,   samtrans.com/about/sustainability) highlights the
+  office equipment, maintenance equipment,          environmental and community benefits of riding public
+  and hvac.                                         transit, as well as the agency’s ongoing commitment to
+                                                    sustainability in operating and maintenance programs,
+                                                    capital projects, long-term planning, and everyday
+
+
+                     -39%
+  total water consumption decreased
+                                                    business practices. the sustainability in action subpage
+                                                    provides details on specific projects and initiatives.
+
+                                                    bay area transit sustainability working group
+  39 percent                                        samtrans meets quarterly with sfmta, vta, bart,
+                                                    sfo, and other bay area transportation agencies
+  in response to california’s historic
+                                                    to share best practices and support each other in
+  drought, samtrans implemented a
+                                                    sustainability efforts.
+  number of water-saving conservation
+  measures, and decreased water                     resiliency and sea level rise
+  consumption by more than a third                  samtrans proactively assesses vulnerabilities and
+  between fy2010 and fy2016.                        adaptation options at samtrans facilities through
+                                                    the technical advisory committee for the san mateo
+                                                    county sea level rise vulnerability assessment.
+
+
+                       -14%
+  greenhouse gas emissions
+                                                    earth day
+                                                    each april, samtrans celebrates earth day with
+                                                    public and employee events. past events include a
+  decreased by 14 percent                           sustainable scavenger hunt, a tour of the shoreway
+                                                    recycling center and transfer station, and “lunch and
+  in fy2016, samtrans generated 4,754 fewer
+                                                    learn” presentations by the bay area water supply and
+  metric tons of ghgs compared to fy2010.
+                                                    conservation agency, sustainable san mateo county,
+  although ridership has declined during this
+                                                    and peninsula clean energy. in addition, special
+  time period, samtrans has reduced its overall
+                                                    “earth day every day” headsigns are displayed on all
+  emissions at a faster pace.
+                                                    buses each earth day, to encourage the public to ride
+                                                    samtrans as a sustainable transportation alternative
+                                                    to driving alone.
+
+
+
+
+                                                          samtrans received a 2015
+                                                          bizsmart@work award from recology
+                                                          and rethinkwaste for achievements in
+                                                          recycling and composting.
+
+10                                                                      sustainable
+                                                                        performance summary
+samtrans sustainability report // sustainabilit y performance
+
+
+
+
+                                                                      table 2: sustainability indicator summary for fy2016 compared to fy2010
+                                                                the direction of the bus indicates whether the change in the sustainability indicator per boarding (rider) reflects a positive
+                                                                step toward greater sustainability. for example, an increase in ghgs makes samtrans less sustainable, and moves the
+                                                                bus to the left (regressed). a decrease in the water consumed makes samtrans more sustainable, and moves the bus to
+                                                                the right (improved).
+
+                                                                generated ghg emissions or criteria air pollutants (caps) are emissions directly or indirectly generated by samtrans
+                                                                operations, excluding any emissions that may be offset. displaced/avoided ghg or cap emissions are associated with
+                                                                emissions that would have been generated by passenger vehicles whose trips have been assumed to be displaced
+                                                                by persons taking samtrans instead. the net ghg or cap emissions is equal to the sum of generated and displaced
+                                                                emissions.
+
+                                                                                                                                                    less sustainable        more sustainable
+                                                                    indicator                                              percent change between fy2010 and fy20161        percent change between fy2010 and fy20161
+
+
+                                                                    ghg emissions generated                                                                                         6%
+                                                                                                                                                                          0.29 fewer pounds per boarding
+
+
+                                                                    net ghg emissions                                                                                          1%
+                                                                                                                                                                          0.02 fewer pounds per boarding
+
+
+                                                                    energy use in facilities                                                                                                    19%
+                                                                                                                                                                          0.38 fewer kbtu per boarding
+
+                                                                    energy use in revenue and                                                                                       5%
+                                                                    non-revenue fleet
+                                                                                                                                                                          1.34 fewer kbtu per boarding
+
+                                                                    criteria air pollutants                                                                                                       25%
+                                                                    generated
+                                                                                                                                                                          0.01 fewer pounds per boarding
+
+
+                                                                    water consumed                                                                                                                      34%
+                                                                                                                                                                          0.21 fewer gallons per boarding
+
+
+                                                                    waste generated                                                  20%
+                                                                                                                                   0.02 additional pounds per boarding
+
+
+
+                                                                    waste diverted2
+                                                                                                                                                                                                 16p.p.
+                                                                                                                                                                          16 additional percentage points of waste
+                                                                                                                                                                          was diverted
+                                                                1
+                                                                 waste data was not available until fy2014. therefore, waste performance is compared to fy2014.
+                                                                2
+                                                                 diversion is measured as the percent of total waste generated that was diverted from landfill through recycling or composting. the diversion rate is not
+                                                                normalized by boarding.
+
+                                                                                                                                                         11
+
+
+
+
+                                                                                                                                                         samtrans sustainability report // sustainabilit y performance
+   table 3: samtrans sustainability indicator areas1
+
+indicator                  unit            fy2010          fy2011          fy2012          fy2013           fy2014          fy2015           fy2016
+greenhouse gas emissions
+generated               mtco2e/year           34,126         32,037           35,435          31,782           31,671          30,563          29,372
+
+displaced/avoided       mtco2e/year          -11,975         -10,676         -10,634           -9,871          -9,757           -9,519          -9,323
+
+net total               mtco2e/year           22,151         21,361           24,801          21,911           21,914          21,044          20,049
+
+criteria air pollutant emissions2
+generated                  tons                  381            345              380             314              301             281             259
+
+displaced/avoided          tons                 -128            -103             -94              -78             -69              -60             -53
+
+net total                  tons                  253             242             286             236              232             221             206
+
+facility energy use
+electricity                kwh             5,466,402      4,999,144        4,937,101       4,959,179       5,085,783        4,944,275       5,003,459
+
+natural gas               therms             108,719        110,598         108,695          110,442          96,605           68,336          48,305
+
+total facility energy
+                           kbtu          29,521,443      28,114,946      27,712,992       27,962,983      27,011,604      23,702,536       19,936,472
+use
+revenue and non-revenue fleet vehicle energy use
+diesel                    gallons          2,753,510      2,546,084       2,836,600        2,439,629       2,380,852        2,450,796       2,211,076
+
+gasoline                  gallons           132,659         126,956          174,468         186,670         255,723          113,511         309,280
+
+cng                        gge                     0               0               0          12,113           16,172          16,172                0
+
+biodiesel                 gallons                  0               0          16,640          45,621           45,411           6,918                0
+
+non-revenue fleet
+                           kbtu            4,137,645      3,772,309       3,883,053        3,447,986       3,543,411        3,394,840       3,298,156
+energy use
+total vehicle energy
+                           kbtu         396,828,991     367,471,463     415,692,626      367,376,618     368,269,618     355,148,286     343,999,067
+use
+water
+consumed                  gallons          9,062,020      9,064,264       9,092,688       10,248,348      10,376,256        9,623,020       5,487,328
+
+waste and recycling
+generated                  tons                  na3             na3             na3              na3             894             977              977
+
+diverted                percentage               na3             na3             na3              na3            15%              31%             31%
+
+employee commuting
+vehicle miles
+                           miles           4,959,995      4,956,852        4,817,647       4,746,473       4,675,299        4,944,279       4,842,125
+traveled
+
+notes: totals may not add due to rounding. mtco2e = metric tons of carbon dioxide equivalent; fy = fiscal year; kwh = kilowatt hours; kbtu =
+thousand british thermal units; cng = compressed natural gas; gge = gasoline gallon equivalent.
+1
+  this sustainability inventory and report focuses specifically on the facilities, fixed-route bus, paratransit, and shuttle services under the
+operational control of samtrans. this inventory also includes indicators for non-revenue vehicles and employee commuting across all three district
+units due to overlapping roles. the district has prepared a separate sustainability inventory and report for caltrain operations that does not include
+either non-revenue vehicles or employee commuting to avoid double-counting.
+2
+  includes rog, nox, co, pm10, and pm2.5.
+3
+  these data were either not available or incomplete. for the purposes of consistency with the rest of the inventory, ghg emissions from waste
+between fy2010 and fy2013 were assumed to be the same as data in fy2014.
+
+12
+
+                                                                    ghg inventory
+samtrans sustainability report // sustainabilit y performance
+
+
+
+
+                                                                greenhouse gas emissions (ghgs) are primarily
+                                                                generated by burning fossil fuels (such as gasoline and
+                                                                                                                               between fy2010 and fy2016
+                                                                diesel used in vehicles) – but also through chemical
+                                                                                                                               net ghg emissions declined by
+                                                                reactions, the decay of organic waste, agricultural
+                                                                production, and industrial processes. in this inventory,
+                                                                emissions of carbon dioxide, methane, and nitrous oxide
+                                                                are calculated into a carbon dioxide equivalent (co2e)
+                                                                                                                               2,102                              metric tons of co 2 e
+                                                                according to their global warming potentials, which
+                                                                measures the pollutants’ insulating effect (i.e., ability to
+                                                                warm the earth’s atmosphere or ‘greenhouse effect’).           which is equal to removing
+                                                                other ghgs, such as sulfur hexafluoride and refrigerants,
+                                                                                                                               emissions from
+                                                                are excluded from this inventory at this time, though they
+                                                                may be added in future inventories.
+
+                                                                in fy2016, samtrans generated approximately 29,372
+                                                                                                                               444                               vehicles on the road
+
+
+
+                                                                metric tons of co2e. to compare that figure to overall bay     or the amount of carbon
+                                                                area transportation emissions, the metropolitan transit        sequestered by
+
+                                                                                                                               1,990
+                                                                commission (mtc) estimated that approximately 30.2                                                acres of trees
+                                                                million metric tons of co2e were emitted by cars, trucks,
+                                                                                                                                                            acres of forest in one year
+                                                                motorhomes, and motorcycles in fy2011.
+
+                                                                samtrans also displaces emissions that would have
+                                                                occurred if travelers chose to travel by private automobile.
+                                                                figure 1 shows a line graph of samtrans’ net ghg
+                                                                emissions, with generated and displaced emissions
+                                                                highlighted as bars for each fiscal year. in this chart,
+                                                                displaced emissions are equal to the emissions avoided
+                                                                by passengers riding samtrans instead of driving their
+                                                                personal cars. over the past seven years, emissions
+                                                                generated from samtrans operations decreased by
+                                                                approximately 14 percent. however, primarily as a result
+                                                                of decreased ridership over the same period, displaced
+                                                                emissions decreased approximately 22 percent. the result
+                                                                is a reduction of 2,102 mtco2e from fy2010 to fy2016.
+
+
+
+                                                                although total ridership (including all modes: fixed-route bus, paratransit, and shuttle)
+                                                                decreased from fy2010 to fy2016, ghg emissions have decreased more quickly.
+
+
+                                                                                                                                                  14%
+                                                                                                                                     decrease in mtco2e generated
+                                                                                                                                     since fy2010
+
+
+
+                                                                                                                                                       9%
+                                                                                                                                     decrease in boardings since fy2010
+
+                                                                                                                                                                    13
+                      figure 1.                                                                               figure 2 shows the percent breakdown
+                                                                                                              of sources contributing to ghg emissions
+                      ghg emissions – generated, displaced, and net
+                                                                                                              generated by samtrans operations. figure
+                      40,000                                                                                  2 highlights only ghg emissions generated
+                                                                                                              by samtrans (and excludes displaced trips),
+
+
+
+
+                                                                                                                                                                    samtrans sustainability report // sustainabilit y performance
+                      30,000
+                                                                                                              and reveals an overall slight decreasing
+                                                                                                              trend. figure 2 and figure 3 show that the
+  mtco 2 e per year
+
+
+
+
+                      20,000
+                                                                                                              overwhelming majority of emissions are
+                      10,000                                                                                  generated by diesel use in buses, which
+                                                                                                              contributed approximately 76 percent of all
+                           0                                                                                  ghg emissions in fy2016.
+                      -10,000                                                                                 as shown in table 2, samtrans has reduced
+                      -20,000                                                                                 emissions per boarding as measured in
+                                fy2010   fy2011       fy2012     fy2013        fy2014   fy2015     fy2016
+                                                                                                              pounds (lbs) per co2e. converting the bus
+                          generated ghg emissions
+                          displaced ghg emissions                                                             fleet from diesel to electric will dramatically
+                          net reduction in ghg emissions                                                      reduce the agency’s ghg emissions. in
+                                                                                                              fy2017, samtrans initiated a capital project
+                                                                                                              to procure the agency’s first set of electric
+               figure
+               figure      2. ghg
+                           2.           emissions by
+                               ghg emissions      by source
+                                                     source                                                   buses.
+               (excludes displaced/avoided trips)
+
+
+                       35,000
+                                                                                                              figure 3. fy 2016 percentage of ghg
+                                                                                                              emissions by source
+                      30,000                                                                                                     revenue
+                                                                                                                                  fleet
+mtco 2 e per year
+
+
+
+
+                                                                                                                                 gasoline
+                       25,000
+                                                                                                                    employee
+                                                                                                                    commute
+                       20,000                                                                                       gasoline
+                                                                                                                                            8%
+                                                                                                                 waste
+                       15,000
+                                                                                                                                       6%           revenue fleet
+                                                                                                                                                       diesel
+                                                                                                             facilities
+                       10,000
+                                                                                                             electricity              5%            76%
+                            0
+                                                                                                            non-revenue                3%
+                                fy2010 fy2011        fy2012 fy2013           fy2014 fy2015 fy2016           fleet gasoline
+                                                                                                                 1%
+                                         biodiesel             electricity              gasoline                 facility
+                                         cng                   natural gas              diesel
+                                                                                                               natural gas
+                                                                                                                    1%
+                                                                                                                   non-revenue
+                                                                                                                    fleet diesel
+                                                                                                                           <1%              water
+                                                                                                                                            <1%
+
+
+
+
+employee commuting
+employee commuting vmt and associated ghg and criteria air pollutant emissions were calculated for the sake of
+completeness. as shown in figure 3 above, employee commute contributes approximately 5 percent of total samtrans
+ghg emissions. however, because of data limitations, several important assumptions apply: for any samtrans employee in
+fy2016, emissions were estimated based on the anonymized zip code for each employee.
+the total number of employees per work location were provided for certain years and used to interpolate values for
+remaining years. furthermore, it is assumed that all employees were employed full time, and the vehicle mix was based on a
+region-average vehicle mix from the california air resources board’s emission factor database (emfac 2014). the american
+community survey (acs) was used to estimate the share of employees who drive in single occupancy vehicles, carpool, and
+take alternative modes such as transit, walking, or biking. according to a the 2014 acs, 65.7 percent of bay area residents
+drive alone and 9.9 percent carpool (acs 2014). for samtrans, the actual percentage of employees driving personal
+vehicles may be lower, due to the agency’s transit-oriented workforce and headquarters located in close proximity to transit
+stations. in the future, samtrans may choose to use an employee commute survey to improve the agency’s estimate.
+
+14
+
+                                                                    criteria air pollutants
+samtrans sustainability report // sustainabilit y performance
+
+
+
+
+                                                                criteria air pollutants (caps) include
+                                                                pollutants that cause smog, acid rain, and
+                                                                                                                                     figure 4. criteria air pollutants -
+                                                                have been linked to negative health effects.                         generated, displaced, and net
+                                                                samtrans vehicles emit caps when they
+                                                                burn fossil fuels like diesel and gasoline,                          500
+                                                                but they also displace caps that otherwise                           400
+                                                                would have been emitted if passengers had
+                                                                chosen to drive instead of taking public                             300
+
+
+
+
+                                                                                                               tons per year
+                                                                transit.                                                             200
+
+                                                                in figure 4, the net reduction in caps is                            100
+                                                                shown in a line graph, where the generated
+                                                                                                                                       -0
+                                                                and displaced caps are shown in bars
+                                                                above and below the line. caps generated                             -100
+                                                                by samtrans operations have decreased                                -200
+                                                                by about 33 percent from fy2010 to                                          fy2010    fy2011    fy2012    fy2013    fy2014      fy2015   fy2016
+
+                                                                fy2016. displaced and net caps have also                                generated caps
+                                                                                                                                        displaced caps
+                                                                decreased during this time period.                                      net caps
+
+                                                                figure 5 shows the percent breakdown of
+                                                                sources contributing to the caps generated                      figure 5. criteria air pollutant emissions by source
+                                                                by samtrans. over 93 percent of caps from
+                                                                                                                                type (excludes displaced/avoided trips)
+                                                                agency operations are from diesel fuel use
+                                                                in buses. as samtrans transitions over time                          400
+                                                                from diesel to electric-powered buses, the
+                                                                                                                                     350
+                                                                agency’s cap emissions will continue to
+                                                                decrease, since electric-powered buses do                            300
+                                                                not emit tailpipe caps.
+                                                                                                                 mtco 2 e per year
+
+
+
+
+                                                                                                                                     250
+                                                                                                                                     200
+                                                                                                                                     150
+                                                                                                                                     100
+                                                                                                                                      50
+                                                                                                                                       0
+                                                                                                                                            fy2010   fy2011    fy2012    fy2013     fy2014 fy2015        fy2016
+                                                                                                                                                                diesel               gasoline
+
+                                                                                                                                     *cap emissions from biodiesel and cng are too small to be seen in this
+                                                                                                                                     chart, and amount to less than 2 tons over the seven year period.
+
+                                                                                                                                                                  15
+
+    energy use
+fleet (revenue and non-revenue)
+                                                                             figure 6. fuel use by fuel type
+samtrans’ fleet consists of revenue vehicles
+and non-revenue vehicles, including
+contractor operations under samtrans’                                        3,500,000
+operational control. samtrans’ revenue
+vehicle fleet operates on diesel, gasoline,                                  3,000,000
+biodiesel, and compressed natural gas
+                                                                             2,500,000
+
+
+                                                    gallons per year
+(cng). the directly operated bus route
+(samtrans fixed-route) used only diesel                                      2,000,000
+fuel. the contracted fixed-route buses and
+shuttles used diesel, gasoline, biodiesel, and                               1,500,000
+cng. the paratransit such as redi-wheels
+                                                                             1,000,000
+and redicoast used diesel and gasoline fuel.
+samtrans’ non-revenue vehicle fleet includes                                  500,000
+gasoline-eletric hybrid employee pool cars,
+supervisor cars, maintenance trucks, and                                                 fy2010 fy2011 fy2012 fy2013                 fy2014 fy2015 fy2016
+specialty vehicles, such as money-collection                                                  biodiesel
+                                                                                                                       revenue fleet -       revenue fleet -
+                                                                                                                       diesel                gasoline
+and ticket vending machine trucks that use                                                    revenue fleet -          employee commute -
+                                                                                              compressed natural gas   gasoline
+diesel and gasoline.
+                                                  *compressed natural gas (cng) is measured in gallons of gasoline equivalent
+energy use by revenue fleet makes up
+the majority of samtrans’ energy use, as
+measured in thousand british thermal units                                   figure 7. fleet energy use per boarding and vmt
+(kbtu): in fy2016, diesel and gasoline for
+buses made up 93 percent of all energy
+                                                                               40
+consumed by samtrans.
+                                                                               35
+diesel fuel consumed by revenue fleet,
+                                                  kbtu per boarding or vmt
+
+
+
+
+primarily fixed-route bus service, constitutes                                 30
+the majority of the fuel used by samtrans.                                     25
+more than 2,200,000 gallons were
+                                                                               20
+consumed in fy2016. figure 6 illustrates
+the amount of fuel used, in gallons,                                           15
+between fy2010 and fy2016. diesel use                                          10
+decreased by 20 percent between fy2010
+                                                                                 5
+and fy2016. the only fuel type to increase
+during the past seven years was gasoline,                                        0
+                                                                                     fy2010      fy2011      fy2012    fy2013    fy2014     fy2015       fy2016
+which increased by approximately
+                                                                                                                          boarding                 vmt
+281,696 gallons.
+
+figure 7 illustrates the fleet energy intensity
+between fy2010 and fy2016. the graph
+shows that energy intensity spiked in
+fy2012, then gradually decreased. the
+graph shows that fuel consumption per
+boarding or per vehicle mile traveled has
+declined slightly since fy2010.
+
+16                                                                 facilities
+                                                                                                                                                            figure   9. facility energy use
+                                                                                                                                                              35,000,000
+                                                                   samtrans operates four primary facilities:
+                                                                   central administrative offices (central), north
+                                                                   base maintenance and operations facility                                                     30,000,000
+samtrans sustainability report // sustainabilit y performance
+
+
+
+
+                                                                   (north base), south base maintenance and
+                                                                   operations facility (south base), and brewster                                               25,000,000
+                                                                   depot (currently used by contracted bus
+                                                                   and paratransit services). these facilities                                                  20,000,000
+
+
+
+
+                                                                                                                                    kbtu per year
+                                                                   use electricity for lighting, office equipment,
+                                                                                                                                                                15,000,000
+                                                                   maintenance equipment, and hvac. certain
+                                                                   facilities also use natural gas for space
+                                                                                                                                                                10,000,000
+                                                                   heating. samtrans is also responsible for
+                                                                   electricity use (lighting) at the pacifica and
+                                                                                                                                                                 5,000,000
+                                                                   colma park & rides. samtrans, caltrain,
+                                                                   and the san mateo county transportation
+                                                                   authority all operate out of central. however,                                                            fy2010 fy2011 fy2012 fy2013 fy2014 fy2015 fy2016
+                                                                   the energy use and emissions associated with                                                                              electricity              natural gas
+                                                                   central are only included in the district (also
+                                                                   known as samtrans) inventory, because the
+                                                                   district is the managing agency for all three
+                                                                   business units. figure 8 identifies the percent                                       figure 10. fleet energy use per boarding and vmt
+                                                                   breakdown of facilities consuming energy in
+                                                                   fy2016. as shown in figure 9 and 10, facility                                                   3
+                                                                   electricity, natural gas, and energy intensity
+                                                                   (kbtu per boarding and kbtu per vmt) have                                                     2.5
+                                                                                                                                     kbtu per boarding or vmt
+
+
+
+
+                                                                   decreased from fy2010 to fy2016.
+                                                                                                                                                                   2
+                                                                   figure 8. percentage of energy use by
+                                                                   facility (fy2016)                                                                             1.5
+
+                                                                                                                                                                   1
+
+                                                                                                               brewster
+                                                                           north base
+                                                                                                                 3%                                              0.5
+                                                                            23%                   south base
+
+                                                                                                  15%            central - tenant
+                                                                                                                   suite 102                                       0
+                                                                                                                      <1%                                              fy2010   fy2011   fy2012     fy2013        fy2014        fy2015    fy2016
+                                                                                                                                                                                                           boarding                 vmt
+                                                                             central - district
+                                                                                                                        pacifica
+                                                                                 offices                              park & ride
+                                                                                                                          <1%
+                                                                              59%
+
+
+
+                                                                the district is currently working on a project to replace
+                                                                existing high-intensity discharge (hid) lighting at
+                                                                north base and south base with energy-efficient light-                                                                                 leds are
+                                                                emitting diodes (leds), which are 80 percent more
+                                                                efficient and require less maintenance. in addition, the                                                                                    80%
+                                                                district will defray some of the capital costs through an                                                                   more efficient
+                                                                energy efficiency rebate partnership with pacific gas &
+                                                                electric and san mateo county energy watch.
+
+                                                  17
+
+
+
+
+                                                  samtrans sustainability report // sustainabilit y performance
+
+
+
+
+in response to california’s historic drought,
+samtrans has reduced water use by nearly 50
+percent from fy2014 to fy2016, by adjusting
+exterior wash schedules, reducing landscape
+irrigation, installing high-efficiency faucet
+aerators, promptly fixing leaks, and providing
+water-savings tips in restaurants and kitchens.
+samtrans recycles 70-85 percent of the water
+used to wash buses.
+
+18                                                                  water, waste, and
+                                                                    diversion
+samtrans sustainability report // sustainabilit y performance
+
+
+
+
+                                                                water
+                                                                samtrans uses water for bus washing, limited      figure 12 identifies the percent breakdown of facilities consuming
+                                                                outdoor irrigation, and typical commercial        water in fy2016. the north base facility consumed the largest
+                                                                water uses such as restrooms and showers.         percent of total water, followed by the central and south base
+                                                                emissions are generated indirectly through        facilities. the sequoia facility used only a small percentage of
+                                                                the combustion of fossil fuels in electricity     water, and water use was temporarily eliminated at the park and
+                                                                generation that provides electricity for water    ride locations.
+                                                                delivery, conveyance, and treatment. although
+                                                                samtrans does not directly control these                              figure 11. water consumption
+                                                                emissions, they are included in this inventory
+                                                                because any emissions are a consequence of                            12,000,000
+                                                                samtrans’ use of the water.
+
+                                                                in response to california’s historic drought,                         10,000,000
+                                                                samtrans implemented a number of
+                                                                                                                   gallons per year
+
+
+
+
+                                                                conservation measures including: reducing                              8,000,000
+                                                                the frequency of exterior bus washing by half;
+                                                                reducing landscape irrigation; installing high-                        6,000,000
+                                                                efficiency faucet aerators and showerheads
+                                                                in customer and staff restrooms; promptly                              4,000,000
+                                                                fixing leaks; and providing water-saving
+                                                                tips through restroom and kitchen signage.                             2,000,000
+                                                                overall, samtrans’ water conservation efforts
+                                                                in facilities, fleet, and employee behavior                                   0
+                                                                and messaging have reduced water use by                                            fy2010 fy2011 fy2012 fy2013 fy2014 fy2015 fy2016
+                                                                47 percent in fy2016 compared to baseline                                             north base              south base          brewster
+                                                                year fy2014 (approximately equivalent to                                             colma park & ride
+                                                                                                                                                                              sequoia             redwood city park & ride
+                                                                the state drought baseline calendar year                                                                      central
+                                                                2013). samtrans continues to employ these
+                                                                                                                  note: pr-rwc = redwood city park and ride, pr-colma = colma park and ride, sb = south
+                                                                conservation measures in its daily operations     base, nb = north base
+
+                                                                and maintenance practices. moving forward,
+                                                                samtrans is also exploring capital projects to    figure 12. percentage of water use by facility (fy 2016)
+                                                                replace aging sprinkler systems with water-
+                                                                efficient drip irrigation.
+                                                                                                                                                                                            brewster
+                                                                figure 11 shows total water usage between                                                                                       1%
+                                                                fy2010 and fy2016. overall, water use has                                      central                   south base                       sequoia
+                                                                declined substantially over the past three                                     28%                        18%                                1%
+                                                                years, going from over 9,000,000 gallons
+                                                                in fy2010 to less than 5,500,000 gallons
+                                                                in 2016—a reduction of almost 40 percent.
+                                                                samtrans’ water reduction is equivalent to
+                                                                                                                                                         north base
+                                                                over 5 olympic-sized swimming pools.
+                                                                                                                                                          52%                                                                5
+                                                                                                                                                                                                                             7
+
+                                                                                                                                                                                 19
+
+
+
+     waste and diversion                            figure 13 shows total landfilled, recycled, and composted waste
+
+
+
+
+                                                                                                                                                                                 samtrans sustainability report // sustainabilit y performance
+                                                    as bars for each fiscal year. the total diversion rate, measured
+     samtrans-generated waste consists of
+                                                    as the percent of total waste diverted as recycling or compost, is
+     municipal waste from passengers (paper,
+                                                    shown as a blue line. in fy2016, 69 percent of samtrans’ waste
+     food scraps, bottles and cans, other
+                                                    by weight was landfilled, or 977 tons. the next-largest category is
+     common recyclables) and employees
+                                                    composted waste, at 16 percent, followed by recycled waste at 15
+     (from typical office activities and low-
+                                                    percent.
+     impact maintenance activities). industrial
+     maintenance waste such as hazardous            samtrans’ total diversion rate has increased significantly in
+     waste and large metal scrap recycling are      the last two years, increasing from approximately 15 percent in
+     not included in this inventory.                fy2014 to 31 percent in fy2016 (figure 13). this is largely as a
+                                                    result of adding a composting service at central. in fy2017, that
+     the waste and diversion rates are estimated
+                                                    program was extended to the bases and brewster as well, and will
+     through invoices from samtrans’ waste
+                                                    continue to drive up samtrans’ diversion rate.
+     service provider. for the purposes of this
+     inventory, samtrans assumes that all
+     landfill, recycling, and organics collection                   figure 13. waste disposal by type
+     containers are 80 percent full when
+     collected each week. this assumption may              1,200                                                                              35%
+     overstate the actual amount of discards                                                                                                  30%
+                                                             1,000
+     generated and diverted. however, this is the
+
+
+
+
+                                                                                                                                                      waste diversion rate (%)
+                                                                                                                                              25%
+     best estimate available, as samtrans’ waste                    800
+                                                    tons per year
+
+
+
+
+     hauler does not report customer waste by                                                                                                 20%
+     actual weight, only volume of container                        600
+                                                                                                                                              15%
+     capacity and scheduled pickup frequency.
+                                                                    400
+                                                                                                                                              10%
+                                                                    200                                                                        5%
+
+                                                                      0                                                                        0%
+                                                                                  fy2014                fy2015                  fy2016
+                                                                     diversion rate        recycled waste      landfill waste       composted waste
+
+
+                                                    note: fy2010 through fy2013 are not shown due to insufficient data
+
+
+
+
+                                                                               samtrans trains and encourages employees to
+                                                                               compost and recycle waste.
+
+                                                                               in fy2015, the district introduced composting
+                                                                               service at central, and in fy2017 extended
+                                                                               the program to north base, south base, and
+                                                                               brewster. this program includes not only
+                                                                               the service, but also upgraded waste bins
+5%                                                                             and signage. employees can also review the
+                                                                               samtrans waste sorting training manual to
+                                                                               check what goes in the compost, recycle, and
+7%                                                                             landfill/trash bins. the initiative has helped
+                                                                               samtrans to double the district’s diversion
+                                                                               rate in the last two years.
+
+3   current
+    and planned
+    initiatives
+
+    current and planned                                                                                              21
+
+    initiatives
+
+
+
+
+                                                                                                                     samtrans sustainability report // current and planned initiatives
+electric bus pilot program                                 commitment to renewable energy
+as part of the advanced clean transit initiative, the      by summer 2017, samtrans will use 100 percent
+california air resources board (carb) has set a state-     renewable and 100 percent ghg emission-free
+wide goal of transforming all transit fleets to zero-      electricity to power all its facilities. in march 2017,
+emissions bus technology by 2040. the district has         the samtrans board of directors voted to expand the
+been collaborating with the arb and other bay area         agency’s use of renewable electricity by partnering
+transit agencies on efforts to further reduce emissions    with peninsula clean energy, san mateo county’s
+from the conventional bus fleet by phasing in zero         community choice energy program.
+emissions bus purchases leading up to this milestone.
+samtrans is a partner in zero emission bay area
+(zeba), a bay area regional transit agency consortium
+that operates twelve zero-emission fuel cell buses.
+samtrans also participates in the arb advanced clean
+transit workgroups and transit subcommittees to
+inform the development of the advanced clean transit       peninsula clean energy will supply 100 percent
+rule.                                                      renewable power from sources such as solar, wind, and
+                                                           small hydroelectric. samtrans chose peninsula clean
+the samtrans board-adopted fy2017 capital budget           energy’s service package due to its reliability, cost,
+includes investment in a pilot program to procure,         environmental benefits, administrative procedures,
+operate, and maintain samtrans’ first fully-electric       and compatibility with future samtrans operations.
+buses. this budget includes the installation of the        the electricity will still be delivered in partnership
+necessary charging infrastructure for these vehicles       with pg&e on pg&e’s infrastructure and supported
+at north base. samtrans will conduct a competitive         by pg&e’s billing and customer service. through this
+procurement process to identify the vendor for the         effort, samtrans will reduce its carbon footprint from
+10 proposed battery-electric buses (40-foot, slow/         electricity use by 40 percent, equivalent to the annual
+depot charge). incorporating electric buses into           carbon emissions of 200 cars or 100 homes.
+samtrans’ fleet will advance state air quality goals and
+support samtrans’ strategic plan goal to strengthen
+fiscal health by controlling operating costs. electric
+buses will have zero criteria air pollutant emissions
+and dramatically lower greenhouse gas emissions
+compared to diesel buses.
+
+22
+     samtrans sustainability report // table of content s

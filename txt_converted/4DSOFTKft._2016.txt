@@ -1,0 +1,522 @@
+a 4d soft kft. esélyegyenlőségi és fenntarthatósági jelentése
+
+
+
+
+                         készült:
+                   budapest, 2016. április
+
+előszó
+
+
+
+
+a fenntartható fejlődés célja olyan fejlődés, amely a „jelen igényeinek kielégítése mellett nem fosztja
+meg a jövő generációit saját szükségleteik kielégítésének lehetőségétől.”1
+
+
+
+
+a fenntartható fejlődés egyik kulcsfontosságú kihívása, hogy új, innovatív választásokat és
+gondolkodásmódot követel. ahogy a tudás és a technológia fejlődése hozzájárul a gazdasági
+fejlődéshez, ugyanúgy segítheti társadalmi kapcsolataink fejlődését, a környezet és a gazdaság
+fenntarthatóságának elérését akadályozó kockázatok, fenyegetések leküzdését is. az új tudás, a
+technológiai, vezetési és közpolitikai innováció mind kihívást jelent a szervezetek számára, hogy
+működésüket, termékeiket, az általuk nyújtott szolgáltatásokat, és egyéb, a földet, az emberiséget,
+valamint a gazdaságot befolyásoló tevékenységeiket új alapokra helyezzék.2
+
+
+
+
+----------------------------------
+
+1
+    ensz közös jövőnk jelentés, 1987
+
+2
+    útmutató fenntarthatósági jelentések készítéséhez gri www.globalreporting.org
+
+
+
+
+„a technológiai forradalom mélyrehatóan átalakítja a társadalmat. amennyiben megfelelően
+hasznosítjuk és irányítjuk, az infokommunikációs technológiák lehetőséget biztosítanak társadalmi,
+gazdasági és kulturális életünk valamennyi aspektusának fejlesztésére. az infokommunikációs
+technikák a xxi. századi fejlődés hajtómotorjaként szolgálhatnak, és mint hatékony eszközök
+segíthetnek, hogy elérjük a millennium fejlesztési célok megvalósítását.”
+
+                                                                                    kofi annan
+
+
+                                                           2
+
+ügyvezető igazgató levele
+
+
+
+
+kedves olvasó!
+
+örömmel köszöntöm önt a 4d soft számítástechnikai kft. fenntarthatósági jelentésének hasábjain.
+
+az utóbbi időben gyakran emlegetett kifejezés a fenntartható fejlődés, a vállalati társadalmi
+felelősségvállalás, ami hazánkban, különösen a kkv-k körében, még viszonylag új trendnek számít. a
+felelős vállalkozói magatartás véleményem szerint nem újdonság. több mint 23 éve vagyunk a
+piacon, amit annak köszönhetünk, hogy tudatosan törekedtünk partnereink problémáinak
+megértésére, együttműködő felekké kívántunk válni, miközben biztosítottuk munkatársaink jó
+közérzetét, törődtünk szállítóinkkal és nem utolsó sorban a környezetünkkel. ezt a tendenciát a
+jövőben is fent kívánjunk tartani.
+
+a fenntarthatósági jelentés elkészítése egy formai keretet ad azoknak a tevékenységeknek (pl.
+szelektív hulladékgyűjtés, alapítvány támogatása stb.) melyeket eddig ösztönösen végeztünk el.
+
+az információs technológiák hozzájárulnak a környezet kíméléséhez, az erőforrásokkal való takarékos
+gazdálkodáshoz, hosszú távon több munkahelyet teremtenek. az infokommunikációs technikák közül
+az európai unió szerint a jövőben leginkább a mobil internet, a grid computing rendszerek, a person-to-
+person technológiák (pl. személyek közötti online fizetés), az e-learning (internetes oktatás), az e-
+procurement (internetes ügyintézés), az e-commerce (internetes kereskedelem), vagy az e-health
+(internetes egészségügyi tanácsadás) jelentős térhódítására számíthatunk.
+
+vállalatunk felkészült az informatikai piac változásaira. részt veszünk a magyar telekom web-es
+ügyfélkiszolgáló portáljának kialakításában.
+
+a jövőben továbbra is aktív tagja kívánunk lenni a nemzetközi kutatási vérkeringésnek, ennek
+érdekében ápoljuk és fejlesztjük meglévő nemzetközi kapcsolatainkat. a legújabb eredmények
+felhasználásával kívánunk hozzájárulni a környezetvédelemhez. alkalmazásainkat 2004-től vékony
+kliensre fejlesztjük, amely egy környezetbarát technológia, hiszen ezzel a megoldással elősegítjük a
+távmunkát és ezzel közvetett módon csökkentjük a dolgozók utazási szükségleteit.
+
+
+
+
+                                                   3
+
+sikereinket nem a vállalat, hanem munkatársaink érik el. számunkra nem csak szlogen a munkatársak
+tisztelete, a családbarát munkahely vagy az esélyegyenlőség biztosítása, a nemzetközi normák
+betartása. a vállalat fő tevékenységéből kifolyólag nem bocsátunk ki veszélyes hulladékot vagy egyéb
+szennyező anyagot, fontosnak tarjuk a szelektív hulladékgyűjtést, a munkahelyi környezet
+ergonomikus, környezetbarát kialakítását.
+
+
+
+
+legfontosabb célkitűzésünk, hogy hozzájáruljunk partnereink sikereihez - azoknak az eredményeihez,
+akik üzleti modelljükben hatékonyan szeretnék kihasználni az információs technológiák előnyeit, akik
+stratégiai jelentőséget tulajdonítanak annak, hogy adataik a megfelelő helyen és időben (4d) hasznos
+információként álljanak rendelkezésre.
+
+
+
+
+üdvözlettel:
+
+somos endre
+
+ügyvezető igazgató
+
+
+
+
+                                                 4
+
+szervezeti profil
+
+
+
+a cég 1990-ben alakult, mint 4d soft betéti társaság, azzal a céllal, hogy a magyar piacon újító
+informatikai megoldásokkal szolgálja ki ügyfeleit. az ügyfelekkel kialakult hosszú távú
+együttműködéseknek köszönhetően 1994-ben cégformánkat korlátolt felelősségű társaságra
+változtattuk. több partnerünkkel azóta is sikeres projektekben vettünk részt .
+
+2003-ban nyitottuk sw engineering üzletágunkat, mely különböző szoftvertesztelési és
+minőségbiztosítási tevékenységekre kínál megoldást.
+
+vállalatunk tevékenységének fontos eleme az innováció, ezért számos magyar és európai uniós
+pályázatot nyertünk, melyek a prototípus létrehozásától az üzleti szoftver készítéséig támogatják a
+fejlesztést.
+
+harmadik évtizedünk kezdetén cégünk újabb fordulóponthoz érkezett; az informatika területén
+megjelenő 21. századi kihívásokra egyedi, innovatív megoldásokat kínálunk.
+
+a 80-as évek végén már magyarországon is egyre több íróasztalon jelentek meg a személyi
+számítógépek és egyre több cégnél már hálózatba is kötötték ezeket a gépeket. hárman
+informatikusok – egyébként régi jó barátok – ebben a fejleményben lényegesen több fantáziát
+láttunk, mint akkori munkaadóink és a rendszerváltás hajnalán megalapítottuk a 4d soft betéti
+társaságot. világosan láttuk, hogy az emberek közötti információátadás új lehetősége alapvetően
+meg fogja változtatni az emberek közötti együttműködés módját is. olyan módszerekkel, olyan
+rendszereket kezdtünk fejleszteni, amelyet később bpr-nak és erp-nek neveztek.
+
+1994-ben már láttuk, hogy hosszú távra tervezhetünk, cégformánkat korlátolt felelősségű társaságra
+változtattuk. nem a tömegtermelést, hanem egy-egy megrendelőnk minél teljesebb kiszolgálását
+tűztük zászlónkra. aránylag kevés céggel kerültünk kapcsolatba, velük viszont hosszú távú stratégiai
+partnerség alakult ki. a danubia szabadalmi és védjegy irodának megalakulásunk óta, a szintén
+iparjogi ügyekkel foglalkozó, usa-beli cpi cégnek pedig 1994 óta vagyunk folyamatos szállítói. komoly
+tapasztalatokat szereztünk a nagy- és kiskereskedelmi áruforgalom területén. ügyfeleink egymásnak
+ajánlották integrált, a vállalati folyamatokat pontosan követő és hatékonyan támogató
+szoftvereinket. különböző iparágakban egyre komplexebb rendszereket építettünk, a legnagyobbat a
+mol pb üzletág számára.
+
+ történetünk második évtizedében az internet nyújtotta lehetőségek kihasználása került előtérbe. az
+internetes alkalmazásokkal és a szerviz orientált architektúrával (soa) kapcsolatos legátfogóbb
+tapasztalatainkat a t-mobile-nál és a magyar telekomnál több éve folyó munkáink során szereztük.
+
+az alkalmazásfejlesztés mellett 2003-ben sw engineering üzletágat nyitottunk, vezetője a három
+alapító taggal egyenrangú tulajdonosa lett a 4d soft-nak.
+
+az új üzletág kezdetben szoftverteszteléssel kapcsolatos szolgáltatásokat nyújtott, a tesztelési
+stratégia elkészítésétől kezdve egészen a tesztelés végrehajtásáig. a cnr isti felkérésére több
+                                                   5
+
+jelentős európai uniós k+f projektben is részt vettünk, a cern felkérésére pedig az etics projekt
+egyik fejlesztési munkacsoportját vezettük.
+
+számos hazai k+f pályázatot nyertünk, amely többek között lehetővé tette, hogy hamarosan
+megjelenjünk első nemzetközi piacra szánt termékünkkel, a deeptest statikus debuggerrel. a
+deeptest-mely egy nagyon hosszú és kemény munka eredménye-egy teljesen új típusú statikus
+analizátor, amely java programok sokkal jobb megértését és hatékonyabb navigációját eredményezi.
+
+üzleti sikereink motorja, hogy az alkalmazások fejlesztésével párhuzamosan mindig végzünk olyan
+k+f tevékenységet, melynek célja az egységes, a teljes életciklust átfogó, biztonságos és hatékony
+fejlesztési technológia kialakítása. jelentős k+f tevékenységeinkhez eu-s forrásokból kapunk
+támogatást.
+
+az iso 9001:2000 minőségbiztosítási rendszert 2002-ben építettük ki valamennyi üzleti
+folyamatunkra. a tanúsítást az sgs hungary végezte el és ismételte meg a bevezetés óta évente
+egyszer, jelenleg az iso 9001:2008 szabvánnyal rendelkezünk.
+
+                                          esélyegyenlőségi program
+
+
+
+                                      i. általános célok, etikai elvek
+
+
+a 4d soft kft. az egyenlő bánásmódról és esélyegyenlőség előmozdításáról szóló 2003. évi
+
+cxxv. tv. –t tekinti irányadónak etikai elvei megfogalmazásakor.
+
+                                 ii. az esélyegyenlőségi program hatálya
+
+
+
+területi hatály: a 4dsoft kft székhelye
+
+időbeli hatálya: 2016.
+
+személyi hatály: a 4d soft kft., mint munkáltató a foglalkoztatási jogviszony, az utasításadásra
+jogosult személy a munkavégzésre irányuló egyéb jogviszony, illetve az ezekkel összefüggő egyéb
+jogviszonyok alanyai.
+
+                                                iii. alapelvek
+
+a 4d soft kft. működése során az alábbi alapelvek megtartására törekszik:
+
+
+    1. megkülönböztetés tilalma, egyenlő bánásmód
+                                                    6
+
+a hátrányos megkülönböztetés tilalmát, mint az alapvető emberi jogokat biztosító európai uniós
+alapelvek egyikét érvényre kell juttatni az élet minden területén. különös figyelmet kell fordítani arra,
+hogy ne érvényesüljön a munkavállalók bármiféle megkülönböztetése sem a fogyatékosságra, a fajra,
+nemre, korra, családi állapotra való tekintettel, sem etnikai vagy társadalmi eredetük, illetve vallásuk
+alapján.
+
+    2. az emberi méltóság tiszteletben tartása
+
+
+mindenki tiszteletet érdemel emberi értéke, méltósága, egyedisége alapján.
+
+erre tekintettel olyan munkafeltételeket, körülményeket és légkört kell kialakítani, melyek ezeknek az
+alapvető értékeknek a megőrzésére és megerősítésére szolgálnak.
+
+    3. partneri kapcsolat, együttműködés
+
+
+cégünk a foglalkoztatás keretei között a partnerség elvének érvényesítésére törekszik azzal, hogy
+átlátható szerződéses viszonyokat alakít ki, természetesen a kölcsönös előnyök biztosítása mellett.
+
+    4. társadalmi szolidaritás
+a foglalkoztatás során semmilyen korú, nemű, nemzetiségű, családi vagy egészségi állapotú
+munkavállaló sem értékesebb a társadalom számára a másiknál.
+
+társadalmunk minden tagjának érdeke a szolidaritás erősítése.
+
+    5. méltányos és rugalmas ellátás
+
+
+
+cégünk igyekszik olyan méltányos és rugalmas intézkedéseket kidolgozni, amely elősegíti a
+foglalkoztatottak pozíciójának javulását, megőrzését.
+
+                                     iv. foglalkoztatási gyakorlat
+
+a foglalkoztatás során nem alkalmazunk semmiféle hátrányos megkülönböztetést. ez kiterjed a
+munkaerő kiválasztásra, - felvételre, az alkalmazásnál a munkabérek, a jövedelmek, a juttatások, a
+képzés, a továbbképzés és egyéb ösztönzések meghatározására, az áthelyezés, a felmondás és egyéb
+foglalkoztatással összefüggő esetekre.
+
+
+
+                                                   7
+
+nem különböztetjük meg hátrányosan az alkalmazottainkat, illetve a pályázókat a 2003. évi cxxv. tv,
+8. §-ban meghatározottak egyike alapján sem.
+
+kiemelt figyelmet fordítunk a gyermekkel rendelkező kollégákra; munkavállalóink többsége családos,
+általában kettő vagy több gyermeket nevelnek. a kiskorú gyermeket nevelő szülők számára
+biztosítjuk a rugalmas munkavégzést. a gyes-en, gyed-en lévő anyukák számára segítjük a munkába
+való visszaállást, ugyanakkor nem gyakorlunk semmiféle nyomást a döntés meghozatalában.
+folyamatosan tartjuk az otthon lévő édesanyákkal a kapcsolatot, megkönnyítve ez által a cégbe való
+integrálódást. ha úgy döntenek, hogy folytatják a munkát, biztosítjuk számukra a rugalmas
+munkaidőt.
+
+jelenleg nem dolgozik fogyatékos személy a vállalatnál, de ettől nem zárkózunk el a jövőben sem. ezt
+az iroda kialakítása is lehetővé teszi, saját mozgássérült wc-vel rendelkezünk.
+
+a vállalaton belül vegyes a kor szerinti összetétel, fiatalok, diákmunkás, illetve pályakezdő épp úgy
+jelen van, mint a nyugdíjas korosztály.
+
+a vezetőség a jövőben is elkötelezett az iránt, hogy megakadályozza és megelőzze a munkavállalók
+hátrányos megkülönböztetését.
+
+
+
+
+                                                   8
+
+                                       fenntarthatósági terv
+
+
+
+jelentés profilja
+
+a fenntarthatósági tervvel a cégünk vállalja, hogy működésében a fenntarthatósági szempontokat
+lehetőségeihez mérten figyelembe veszi és érvényesíti. a fenntarthatósági terv irányelveket
+tartalmaz, amelyek alapján az intézmény környezet nevelési, fenntarthatósági programjait kidolgozza
+és végrehajtja.
+
+az itt található fenntarthatósági jelentés adatai 2015. évre vonatkoznak. a jelentés elkészítése előtt
+áttanulmányoztuk a gri „útmutató a fenntarthatósági jelentések készítéséhez” című tanulmányt. az
+ajánlásban számtalan olyan pont van, melyek cégünk méretéből és fő tevékenységéből adódóan nem
+értelmezhető.
+
+mindezt figyelembe véve alakítottuk ki céges programunkat, amit az évek során a visszajelzések,
+vélemények alapján folyamatosan fejleszteni fogunk.
+
+a      4d   soft-ra   vonatkozóan,   fennállása   óta   környezeti   jogszabályi   nem-megfelelésre,
+környezetvédelmi bírság kifizetésére vagy ezzel kapcsolatban bármi nemű bejelentésre nem került
+sor.
+
+a vállalat nem külső környezetvédelmi tanúsítás szerint működik és nem is folytat környezeti auditot,
+de felelős magatartást tanúsít a környezettel szemben, melyet a jelen jelentés adatai is
+megerősítenek.
+
+akiknek kérdése van a jelentéssel vagy a jelentés tartalmával kapcsolatban, kérjük, forduljanak
+bizalommal ország istvánhoz a 06-1-455-8880 telefonszámon vagy a info@4dsoft.hu email címen.
+
+
+
+
+                                                  9
+
+helyzetfelmérés
+
+
+
+fenntarthatósági indikátorok:
+
+a bérelt iroda mérete                      272 m²
+
+vízfelhasználás
+
+       2015-ben összesen:                  156 m3
+
+
+
+villamos-energia felhasználás
+
+       2015-ben                             29286 kwh
+
+
+
+felhasznált papír mennyisége
+
+       2015-ben                             19 csomag és ebből az újrahasznosított papír aránya 89 %
+
+
+
+a fenntarthatósági indikátorok számításánál alapdokumentumként a szolgáltatói és szállítói
+számlákat vesszük alapul.
+
+a világítás energiatakarékos izzókkal történik.
+
+az irodaházban megoldott a szelektív hulladékgyűjtés. az irodában szelektíven gyűjtjük a hulladékot,
+ehhez külön jelzéssel ellátott különböző szemeteseket tartunk. a veszélyes hulladékot szintén külön
+gyűjtjük és az irodaház vezetője elszállítja.
+
+
+
+
+környezettudatos menedzsment és tervezés
+
+
+
+a 4d soft kft. vezetése elkötelezettséget vállal a fenntarthatósági szempontok figyelembevételére
+az intézmény költséghatékony és környezettudatos működése érdekében. erőfeszítéseket tesz a
+környezeti erőforrások felhasználásának csökkentésére, eszközbeszerzései, szolgáltatásai kialakítása
+
+
+
+                                                    10
+
+során mérlegeli a fenntarthatóság szempontjait. ösztönzi dolgozóit a környezettudatos magatartás
+követésére, és biztosítja ennek feltételeit.
+
+.
+fenntartható fejlődést szolgáló tervezési eljárások
+
+környezeti és fenntarthatósági ismeretek bővítése.
+
+évi rendszeres belső képzéseinken a következő témákat vesszük sorra:
+
+       környezettudatos magatartás és életvitel,
+       a személyes felelősségen alapuló környezetkímélő, takarékos magatartás és életvitel,
+       a környezet (természetes és mesterséges) értékei iránti felelős magatartás,
+       rendszerszemlélet, környezettudatos életmód.
+az új munkavállalókat megismertetjük a szelektív hulladékgyűjtés fogalmával és jelentőségével.
+
+környezetvédelmi szempontból előnyösebb termékek előnyben részesítése
+
+a 4d soft kft. működése és pályázatai megvalósítása során törekszik a kombinált, valamint az anyag
+és energiatakarékos irodatechnikai készülékek beszerzésére és alkalmazására. ennek megfelelően a
+személyi számítógépek, monitorok, nyomtatók, lapolvasók, faxok, másológépek, projektorok
+beszerzésekor az energiafogyasztás fontos szempont, előnyben részesítjük a kétoldalas nyomtatást,
+az újrahasznosított papír használatát.
+
+
+
+
+fenntartható fejlődést szolgáló megvalósítás és fenntartás
+
+fajlagos vízfelhasználás csökkentése
+
+a 4d soft kft. törekszik arra, hogy az éves vízfelhasználását folyamatosan csökkentse. ösztönzi
+dolgozóit a környezettudatos magatartás betartására, így például mindenki kerülje a felesleges
+vízfelhasználást, figyeljen oda az esetlegesen csöpögő vízcsapokra és hívja fel az üzemeltetésért
+felelős figyelmét a hiba kijavítására.
+
+fajlagos energiafelhasználás csökkentése
+
+a 4d soft kft. figyelmet fordít arra, hogy az éves energiafelhasználását csökkentse. az intézményben
+energiatakarékos izzók használatára törekszik és dolgozóit ösztönzi, hogy kerüljék az indokolatlan
+
+
+                                                 11
+
+energia felhasználást (természetes megvilágítás alkalmazása a berendezésnél, a légkondicionáló
+berendezések optimális használata).
+
+az irodában időzített fűtés-hűtés kapcsoló működik, ami este 7-kor és hétvégén automatikusan
+kikapcsol (akkor is, ha bekapcsolva hagyták).
+
+újrahasznosított papír használat növelése az irodai munkák során
+
+a korábban kialakított gyűjtőedényt továbbra is használjuk, melyben azokat a lapokat helyezzük el,
+melyek egyik oldala bár használt, de a másik oldala még üres, így tovább használható. az így
+újrahasznosított papír mennyisége kb. 2 doboz.
+
+az újrahasznosított papírbeszerzés és a gyűjtőedény használatával újrahasznosított papír a teljes
+papír mennyiség kb. 85 %-a.
+
+levelezésekben, projektekben törekszünk a kétoldalas nyomtatás és az újrahasznosított papír
+alkalmazására. törekszünk az elektronikus adattárolásra, és amit nem muszáj, nem nyomtatunk ki.
+
+
+
+
+saját termékek környezettudatos szempontjai:
+
+alkalmazásainkat 2012-ben is vékony kliensre fejlesztettük, amely egy környezetbarát technológia,
+hiszen ezzel a megoldással elősegítjük a távmunkát és ezzel közvetett módon csökkentjük a dolgozók
+utazási szükségleteit.
+
+a    beszerzési     folyamatoknál     kiemelt    szempontként       kezeljük    a    környezetvédelmet.
+megrendeléseinknél figyelembe vesszük azt az irányelvet, hogy a minőségben legjobb, legközelebbi
+szállítótól rendeljünk (csökkentve ezzel a szállítási útvonalat, autóhasználatot stb.).
+
+saját termékeink szoftver termékek, így kiszállításuk nem jelent különösebb bonyodalmat. igyekszünk
+az interneten keresztül továbbítani azokat az adatokat, amiket lehet. rendszerint kisebb
+adathordozón juttatjuk el a terméket a vevőhöz pl. telepítő cd,pendrive.
+
+mivel vállalatunk szoftverfejlesztéssel foglalkozik, így nem kényszerül arra, hogy a gyorsan változó
+infó-kommunikációs technológiából adódóan, a gyorsan elavuló készülékek visszagyűjtéséről
+gondoskodjon. ugyanakkor az általunk használt, leselejtezett műszaki cikkeket szelektív
+hulladékgyűjtés keretében leadjuk az irodaház vezetőjének (uno-soft kft) és ők juttatják el a
+hulladékgyűjtőbe.
+
+                                                    12
+
+bevezettük az éves rendszeres környezetvédelmi, esélyegyenlőségi oktatást, melynek célja, a
+környezeti tudatformálás, illetve hogy gyakorlati tanácsokkal lássuk el munkatársainkat a témára
+vonatkozóan. 2015-ben összesen 23 fő vett részt ilyen oktatáson.
+
+a tudásmegosztás körülményei környezettudatosságot tükröznek, gondoskodtunk a hulladék
+minimalizálásáról, az oktatást interaktívan végezzük, nem osztunk ki előre nyomtatott anyagokat,
+nem használunk elektronikus bemutató eszközöket. a kommunikáción, megbeszélésen közös, aktív
+részvételre helyezzük a hangsúlyt. a lényeg a szemléletmód változás és nem a jegyzetek tömegének
+növelése. az oktatás előtt rendszeresen kiszellőztetjük a helységet. az oktatás időpontját igyekszünk
+olyan időben megválasztani, amikor nincs szükség a mesterséges világítás használatára. az oktató
+helységben zöld növényeket helyeztünk el.
+
+
+
+
+alapítvány támogatása:
+
+a 4d soft kft. 2009 októberétől támogatja a szeretet és gondoskodás a természetért
+alapítványt, mely segítséget nyújt cégünknek a hulladék csökkentésében az eu-s normákhoz
+igazodva, ellenőrizhető úton. újrahasznosítási ciklusban tartva újratöltésre kerülnek a kellékanyagok
+(kiürült tonerek és festékpatronok), ezzel támogatva a környezetvédelmet és csökkentve a mérgező
+hulladék mennyiségét. az alapítványon keresztül aktív módon kíméljük környezetünket, mert a
+bevételből fákat ültetnek a „terhelt” helyeken, megszervezik parkjainkban, erdeinkben a szemét
+szedését és megfelelő helyre történő szállítását.
+
+
+
+
+                                                    13
+
+       célok a jövőre vonatkozóan
+
+2016-ban az újrahasznosított papír használatát igyekszünk folyamatosan 80% felett tartani.
+
+továbbra is szorgalmazzuk a kétoldalas nyomtatást és belső használatú papírokra, jegyzetekre a
+használt papírra való nyomtatást.
+
+2016-ban továbbra is energiatakarékos izzókat használunk és tovább szorgalmazzuk a szelektív
+hulladékgyűjtést.
+
+2016-ban igyekszünk megtartani a tömegközlekedésben résztvevők számát, azaz legalább 8 fő
+részére biztosítjuk a bérletet.
+
+2016-ban is támogatni kívánjuk egy általunk kiválasztott alapítvány tevékenységét.
+
+2016-ban is mindent megteszünk, hogy az itt leírtak, a 2008-ban bevezetett, kiépített
+környezettudatos és esélyegyenlőségi intézkedések megerősödjenek, tovább fejlődjenek.
+
+
+
+
+budapest, 2016. április 11.
+
+
+
+
+ dr.forgács istván                horváth attila               somos endre
+
+ ügyvezető igazgató           ügyvezető igazgató              ügyvezető igazgató
+
+
+
+
+                                                   14

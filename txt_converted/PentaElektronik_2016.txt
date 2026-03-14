@@ -1,0 +1,1282 @@
+     penta elektronik
+   telekomünikasyon
+plastik san. ve tic. a.ş.
+    sürdürülebilirlik
+             raporu2015
+
+                                                   1
+
+
+
+
+rapor hakkinda
+
+bu rapor, küresel raporlama girişimi – gri tarafından yönetilen işte şeffaflık programı dâhilinde,
+elektronik üretim tedarikçisi olduğumuz arçelik önderliğinde ve programın türkiye yürütücüsü
+kıymet-i harbiye firmasının desteğiyle, firmamızın sürdürülebilirlik ekibi tarafından hazırlanmış olan
+ilk sürdürülebilirlik raporu’dur.
+
+hazırlamış olduğumuz bu rapor; gri’nin g4 raporlama ilkelerini esas alarak, temel (core) kapsamda,
+penta’nın istanbul-tuzla üretim tesisindeki, ocak 2015 – aralık 2015 aralığındaki bütün faaliyetlerini
+kapsamaktadır.
+
+penta, 2014 yılı sonunda yeni üretim tesisine geçiş yapmıştır. bu sebeple, 2015 yılı öncesi için verilen
+veriler penta’nın bir önceki üretim tesisi olan istanbul-alemdağ tesisine aittir.
+
+hedefimiz; sürdürülebilirlik raporlamasını bir yönetim aracı olarak efektif bir biçimde kullanıp;
+sürdürülebilirlik yönetiminde hangi konumda olduğumuzu anlamak; kapasitemizi hangi yönde
+geliştirebileceğimizi görmek ve ekonomik, çevresel ve sosyal performansımızı daha verimli hale
+getirebilecek uygulamaları üretebilen bir firma haline gelmektir.
+
+
+
+
+genel müdürümüzün mesaji
+
+saygıdeğer paydaşlarımız;
+
+sizlerle işte şeffaflık programı vasıtasıyla ilk
+sürdürülebilirlik    raporu’muzu      paylaşıyor
+olmaktan büyük mutluluk duyuyorum. bu rapor
+sayesinde        organizasyonumuzda        artan
+sürdürülebilirlik bilinci ve giderek daha da
+olgunlaşacağına inandığım sürdürülebilirlik
+yönetimi’miz ile birlikte; ekonomik, çevresel ve
+sosyal kaygıların giderek arttığı günümüz
+dünyasında, ülkemizin ve dünyamızın daha
+sürdürülebilir    yarınlara    emin    adımlarla
+ilerlemesine bizim de katkıda bulunabileceğimizi
+umuyorum.
+
+başta müşterilerimiz olmak üzere tüm
+paydaşlarımızla daha verimli bir iletişim
+kurmamızı sağlayacak olan bu yeni araca sahip
+
+
+                                                   1
+
+                                                    2
+
+
+olmak büyük bir avantaj. bizi işte şeffaflık programı’na dahil ettiği için tedarikçisi olduğumuz arçelik’e
+ve raporlama sürecindeki yardımları için kıymet-i harbiye ekibine bu vasıta ile en içten teşekkürlerimizi
+sunarım.
+
+2015 yılında firmamız için en büyük değişiklik, şüphesiz ki üretim tesisimizi ve merkezimizi 1994’ten
+beri üretime devam ettiğimiz alemdağ tesisimizden, yeni tuzla tesisimize taşımak idi. bu taşınma
+sayesinde üretim kapasitemizde %30’a yakın bir artışı sağladık ve lojistik olarak müşterilerimiz ve
+tedarikçilerimiz tarafından daha ulaşılabilir bir konuma gelmiş olduk. fiziki taşınma işlemlerinin
+ardından yönetim sistemlerimizi de başarı ile yeni tesisimizde işler hale getirdik. iso 9001 kalite
+yönetim sistemimiz, iso 14001 çevre yönetim sistemimiz, iso 18001 iş güvenliği yönetim sistemimiz
+ve iso/ts 16949 otomotiv üretim yönetimi sistemlerimizin tamamı bureau veritas tarafından
+denetlenerek, tüm kalite belgelerimizin yeni tesisimizde de geçerli olmaları sağlandı.
+
+artan iş hacmimizi karşılamak için üretim ekibimize yeni takım arkadaşlarımızın tamamını, işkur ile
+birlikte yürüttüğümüz iş başı eğitim programı ile kattık. bu program sayesinde genç arkadaşlarımıza
+aldıkları eğitimin sonunda hem meslek edindirmiş, hem de üretim ekibimizin bilgi ve yetenek
+donanımını garanti altına almış olduk.
+
+sürdürülebilirlik bilincini iş süreçlerimizin içine entegre etmeye ve geliştirmeye kararlıyız. amacımız,
+sürdürülebilirliğe ulaşmak için etkili olabileceğimiz her alanda etkin bir rol üstlenmek. sürdürülebilir
+gelişmenin ancak çevresel, ekonomik ve sosyal sürdürülebilirlik sağlandığı takdirde sağlanabileceğinin
+bilincindeyiz. her faaliyetimizde çevreye duyarlı hareket ederek, kısıtlı kaynakların verimli ve bilinçli
+kullanımı sonucu ülke ekonomisine de katkıda bulunulabileceğine, aynı zamanda çevreye duyarlı bir
+yaklaşımla hareket etmenin sonucunda sağlıklı ve bilinçli toplumların oluşacağına inanıyoruz. çevresel
+ve sosyal sürdürülebilirlik bilincinin tedarik zincirimiz boyunca da yayılması için de elimizden geleni
+yapacağız.
+
+birlikte çıktığımız bu serüvenin tüm penta elektronik ailesine daha fazla başarı ve mutluluk
+getirmesini temenni ediyorum. bu vesileyle; bizlere güvenen müşterilerimize, bizden desteklerini
+esirgemeyen tedarikçilerimize ve başarımız için bizlere değerli emeklerini veren tüm çalışanlarımızı
+kutluyor, gönülden teşekkür ediyor, iş birlikteliğimizin devamını temenni ediyorum.
+
+
+
+                                                                          genel müdür, mustafa dinçer
+
+
+
+
+                                                    2
+
+                                                 3
+
+
+firma profili
+
+
+
+
+penta elektronik, 1989 yılında istanbul’da telekomünikasyon ve elektronik sektöründe faaliyet
+göstermek amacıyla kurulmuştur. kurulduğu tarihten itibaren ilk dönemde yoğunlukla kablolu telefon
+makinesi üretmiştir. gerek üretim miktarı, gerek teknik alt yapısı ve gerekse de ürünlerinin kalitesi
+bakımından liderliğe yerleşen penta elektronik, ülkemizdeki en büyük kablolu telefon makinesi
+üreticisi olmuştur. son 10 yılı aşan dönemde ise “elektronik üretim hizmetleri” penta elektronik’in
+ana faaliyet konusudur
+
+şu an ise penta elektronik, tuzla’daki 5.000 m2’lik üretim tesisinde, deneyimli personeli ile
+elektronik üretim sektöründe hizmet vermektedir.
+
+penta elektronik, yüksek teknolojili üretim hatlarında günde 8 milyon elektronik komponent işleme
+kapasitesi ile otomotiv, beyaz eşya, telekomünikasyon ve diğer üretim sektörlerine hizmet
+vermektedir.
+
+gelişen teknolojiyi yakından takip eden penta elektronik, sürekli iyileştirme yaklaşımı ve müşteri
+odaklı çalışmayı bir firma kültürü olarak benimseyip, personelini sürekli eğitip gerekli yatırımları
+zamanında yapmakta ve elektronik üretim hizmetlerini müşterilerinin isteklerine uygun olarak en üst
+kalitede sunmaktadır.
+
+iso9001 kalite yönetim sistemi, iso14001 çevre yönetim sistemi, iso18001/ohsas iş sağlığı ve iş
+güvenliği yönetim sistemi ve iso/ts16949 otomotiv kalite yönetim sistemlerinin uluslararası
+standartlara uygunluğu bureau veritas tarafından belgelendirilmiştir.
+yüksek kaliteli üretim, müşteri taleplerinin zamanında karşılanması ve müşteri memnuniyeti, penta
+elektronik’in öncelikli hedefleridir.
+
+
+
+
+                                                 3
+
+                                                      4
+
+
+güçlü tedarik zinciri desteği
+
+bir elektronik devre çok sayıda komponent ihtiva ettiği ve üretmekte olduğumuz çok sayıda elektronik
+devre olduğu için, yaklaşık 2000 adedin üzerinde farklı elektronik komponent tedarik ediyoruz. 2015
+yılında üretimlerimizde işlediğimiz toplam komponent sayısı 566 milyon adettir. bu sayılar, elektronik
+üretimin doğası gereği tedarik zinciri yönetiminin diğer sektörlere kıyasla çok daha karmaşık olduğunun
+bir göstergesi.
+
+günümüz iş dünyasının küresel gerçekleri göz önüne alındığında, firmaların başarıya ulaşmasında,
+sadece kendi faaliyetlerinin başarısı değil, yer aldığı tedarik zincirinin bir bütün halinde başarılı işleyişi
+önemli bir konuma gelmiştir. biz de penta elektronik olarak bu gerçeği benimseyip, iş ortaklarımıza
+sadece üretim hizmeti değil, aynı zamanda güçlü bir tedarik zinciri desteği de sunuyoruz. 25 yılı aşkın
+tecrübe ve bilgi birikimimiz sayesinde seri üretimlerimizde kullandığımız, dünyaca ünlü üreticilerden
+tedarik ettiğimiz komponentlerin %100’e yakınının planlama, sipariş ve stoklama süreçleri tarafımızdan
+yönetilmektedir. büyük yoğunluğu uzak doğu ve avrupa’ya dağılmış halde toplam 68 adet tedarikçimiz
+bulunuyor.
+
+vizyon & misyon
+
+
+misyonumuz;
+
+
+firma misyonumuz, penta elektronik’in her konuda ve süreçte sürekli gelişimini hedefler. penta
+elektronik olarak, ülke çapındaki iş aktivitelerinde sorumlu, bağımsız, odaklanmış, yarın
+bugünkünden daha fazla kapital üretecek şekilde, müşteri beklentilerinin üstüne çıkacak; gayret ve
+kaynaklarına konsantre olmuş, kalite, servis ve değerlerini sürekli geliştiren ve globalleşmeye çalışan
+yenilikçi ve çevreci bir şirket olmayı hedefliyoruz. çalışanlarımıza, kendilerini maksimum potansiyele
+çıkararak katkıda bulunacakları güvenli bir iç ve dış rekabet ortamı sağlar.
+
+
+vizyonumuz;
+
+
+penta elektronik’in vizyonunu belirleyen ana ilkeler:
+bağımsızlık
+firmanın kendi finansman karakterini ve sürekliliğini sağlar.
+odaklılık
+penta elektronik mevcut ve yeni ürünlerin tasarımını, gelişimini, üretimini ve satışını kendi üretim
+sınırları içinde kalacak şekilde yapar.
+global büyüme
+müşteri ve marketlerin gelişerek küreselleşmesi, ele geçen fırsatları kullanmak için ürün ve hizmetlere,
+proseslere ve organizasyona, doğru bir uluslararası büyüme stratejisi uygulamamızı gerektirir.
+
+
+
+
+                                                      4
+
+                                                    5
+
+
+yenilikçilik
+çalışmalarımızdaki yeni buluşlar, ürün gelişimi ve pazarlama geleceğimizi ve büyüme potansiyelimizi
+anlamamızı sağlar.
+kalite
+müşteri memnuniyetini, sadakatini ve güvenini, müşterinin ihtiyaçlarını, tam zamanında, istikrarlı ve
+doğru bir biçimde karşılayarak kazanırız.
+sürekli gelişim
+penta elektronik bütün süreçlerini yarın bugünkünden daha fazla katma değer sağlayacak şekilde
+oluşturmuştur.
+çevreye duyarlılık
+proseslerimizin ve ürünlerimizin çevreye etkisini minimize etmek ve bu konuda yan sanayilerimizi de
+teşvik etmek görevimizdir.
+
+
+etik ilkelerimiz
+
+
+   -yasal mevzuata uygun işleyişi sağlamak.
+
+   -amaç ve misyona bağlı olmak.
+
+   -dürüstlük ve tarafsızlık.
+
+   -bilgi verme, saydamlık ve katılımcılık.
+
+   -müşterilere ve kamu kuruluşları çalışanlarına nezaket ve saygı
+
+   -müşteri, tedarikçi ve çalışan bilgilerinin gizliliğine önem vermek.
+
+   -yetkili makamlara gerekli olan tüm bildirimleri zamanında tarafsız ve dürüst şekilde yapmak
+
+   -çıkar çatışmasından kaçınmak.
+
+   -görev ve yetkilerin menfaat sağlamak amacıyla kullanılmaması.
+
+   -rüşvet, bahşiş ve diğer yolsuzluk türevlerine karşı olmak.
+
+
+
+   -insan haklarına saygılı ve asla çocuk işçi çalıştırılmayan bir iş ortamı sağlamak.
+
+
+
+
+                                                    5
+
+                                                    6
+
+
+sunduğumuz hizmetler
+
+üretim hizmetlerimiz
+
+                                         yüksek hızlı smt ve tht üretim hatlarımız ile tek ve çift yüzlü
+                                         pcb’ler üzerine günde yaklaşık 8 milyon elektronik
+                                         komponent işleme kapasitesine sahibiz.
+                                         üretimlerimizde dünyaca tanınan/bilinen elektronik
+                                         komponent üreticilerinin ürünlerini kullanıyoruz.
+                                         üretim ve tasarım aşamalarında en 61340-5-1 ve en
+                                         61340/5-2 esd standartlarını uygulamaktayız. üretim
+                                         alanlarında zemin ve masa kaplamaları, üretimde kullanılan
+                                         el aletleri ve makineler, üretim personelinin kullandığı
+                                         ayakkabı, eldiven, gözlük, önlük, bileklik, vb. donanımın
+                                         tamamını esd standartlarının gerekliliklerine uygun olarak
+                                         tedarik ediyor ve kullanıyoruz.
+                                         üretimimizde kullandığımız elektronik komponentlerin
+                                         tamamı esd korumalı, nemi ve sıcaklığı hassas olarak
+                                         şartlandırılmış özel depomuzda saklanıyor.
+
+
+
+
+yüksek teknolojiye sahip modern üretim hatlarımızda
+
+uygulamakta olduğumuz prosesler:
+
+- smd komponent dizgisi
+
+- tht/bacaklı aksiyel ve radyal komponent dizgisi
+
+- fine pitch komponent dizgisi
+
+- reflow ve double wave lehimleme
+
+- rohs uyumlu / pb-free proses
+
+- tam otomatik / yarı otomatik ict-in circuit test, fct-
+
+functional test ve sw-yazılım yükleme
+
+- koruyucu kaplama - conformal coating
+
+- otomatik/yarı otomatik depanelizasyon
+
+
+
+
+                                                    6
+
+                                                    7
+
+
+
+- otomatik optik muayene / aoi – automatic optical inspection
+
+- x işını muayene – x ray inspection
+
+- yanmazlık testleri - glow wire, tracking, ball pressure
+
+
+ar - ge hizmetlerimiz
+
+                                                                 ar-ge departmanımız, yaklaşık 30 yıllık
+                                                                 geçmişinin kazandırdığı bilgi birikimi ve
+                                                                 deneyimleri ile elektronik devre/ürün
+                                                                 tasarımı, prototip yapımı, üretim
+                                                                 aşamalarında        kullanılan       test
+                                                                 sistemlerinin yazılım ve donanım
+                                                                 olarak tasarımı, geliştirilmesi ve
+                                                                 üretimini elektronik laboratuvarında
+                                                                 gerçekleştirmektedir.
+                                                                 üretilebilir ürün tasarımı, uygulamada
+                                                                 kullanılacak üretim teknolojilerine
+                                                                 bağlı olarak değişiklik gösterebilir.
+tasarımı müşterilerimiz tarafından yapılmış olan ürünlerin/devrelerin üretim süreçlerini
+kolaylaştıracak, üretim maliyetlerini düşürecek, ürünün kalitesini ve performansını arttıracak
+mühendislik hizmetlerini veriyoruz.
+test edilebilirlik, devre/ürün tasarlanırken dikkate alınması gereken önemli unsurlar arasında yer alır.
+test işlemleri, üretim sırasında uzun zaman gerektirebilir ve bu nedenle ürünün üretim maliyetlerine
+büyük ölçüde etki edebilir. üretilecek ürün/devre için doğru test stratejisi geliştirerek, üretim
+maliyetlerini düşürecek, ürünün kalitesini ve performansını arttıracak mühendislik çözümleri
+sunuyoruz.
+üretim süreçlerimizde kullanılan bütün test sistemleri hızlı, yüksek hassasiyet ve doğruluğa sahip
+olacak şekilde penta elektronik ar-ge laboratuvarlarında geliştirilip üretiliyor
+
+
+
+
+                                                    7
+
+                                                  8
+
+
+hizmet verdiğimiz başlıca sektörler müşterilerimiz
+
+otomotiv
+
+                                         otomotiv sektörü için aydınlatma donanımlarının üretimini
+                                         gerçekleştiriyoruz. led’li drl gündüz farı, led’li sinyal,
+                                         pozisyon ve stop lamba sürücüleri üretimlerimiz arasında
+                                         yer alıyor. bu sektördeki en önemli müşterimiz farba ve
+                                         toyota’dır
+
+beyaz eşya
+
+beyaz eşya sektörü için buzdolabı, çamaşır makinası,
+bulaşık makinası, kurutma makinası ve kahve makinası
+elektronik kontrol kartları üretiyoruz. bu sektörde en
+önemli müşterimiz arçelik’tir. koç grubu’na ait yurt
+dışındaki beyaz eşya üreticilerinden arctic (romanya)
+ve defy (güney afrika) ile de çalışmaktayız.
+
+telekomünikasyon
+
+telekomünikasyon sektörü için dijital uydu alıcıları ve telefon makinaları üretimlerini
+gerçekleştiriyoruz. ana müşterimiz karel’dir.
+
+endüstriyel elektronik
+
+endüstriyel elektronik sektörü için uzaktan sayaç okuma (telemetri) cihazları, trafik lambaları ve
+kontrol donanımlarını üretiyoruz. başlıca müşterilerimiz alcatel-lucent/nokia ve isbak ‘dır.
+
+
+
+
+                                                  8
+
+                                                     9
+
+
+sayılarla penta
+
+firma yapısı : anonim şirket (5 ortak)
+
+toplam çalışan sayısı: 255
+
+tamamı ödenmiş sermaye: 8 m tl
+
+borç / özkaynak dengesi : 0.14 ( 1.2 m $ / 8.5 $ )
+
+üretilen ürün sayısı:
+   2013     2014     2015
+ 4.1 mpcs 4,3 mpcs 4.5 mpcs
+
+satış cirosu
+   2013         2014    2015
+  16 m€        18,2 m€ 22,4 m€
+
+
+
+üye olunan kuruluşlar
+
+tesid - türk elektronik sanayicileri derneği
+
+tet - elektronik ihracatçılar birliği
+
+iso - iistanbul sanayi odası
+
+ito - istanbul ticaret odası
+
+
+
+
+                                                     9
+
+                                                  10
+
+
+sürdürülebilirlik yönetimimiz
+
+biz penta elektronik olarak, gelecek nesillerin ihtiyaçlarından ödün vermeden günümüzün
+ihtiyaçlarını karşılayan sürdürülebilir kalkınma modelini yaratmayı ve yaşatmayı hedeflemekteyiz. bu
+hedefimize ulaşmak için sürdürülebilirlik performansımızı ölçülebilir, somut bir parametre haline
+getirmek istediğimizden, firmamız politikaları arasına sürdürülebilirlik politikamızı da ekledik. bu
+şekilde sürdürülebilirlik felsefesini kurumsal kimliğimize ve yönetim sistemlerimize entegre etmiş
+olduk. sonucunda da ilk defa, okumakta olduğunuz sürdürülebilirlik raporumuzu yayınladık.
+
+diğer politikalarımız olan kalite politikamız, çevre politikamız, insan kaynakları politikamız ve iş
+sağlığı ve güvenliği politikamız doğrultusunda süreç ve prosedürlerimizi belirleriz. bu prosedürleri
+anahtar performans parametreleri vasıtasıyla denetler, analiz eder ve performansımızı en seviyeye
+çıkaracak aksiyonlara karar veririz.
+
+bu politikaları uygularken uluslararası standartlara başvururuz. tamamı bureau veritas tarafından
+denetlenerek onaylanmış, iso 9001 kalite yönetim sistemimiz, iso 14001 çevre yönetim sistemimiz,
+iso/ohsas 18001 isg yönetim sistemimiz ve iso/ts 16949 otomotiv yönetim sistemine sahibiz. her
+bir yönetim sistemimiz dahilinde süreç sahipleri yer alır ve süreçlerin performanslarını gözetler. her
+bir yönetim sistemimizin içinde kurulan ayrı iç denetçi ekipleri ile bütün süreçler ve süreç sahipleri
+denetlenerek yılsonunda üst yönetimin de katılımıyla yıllık gözden geçirme toplantıları
+gerçekleştirilir. bu toplantılar sonunda senenin analizi yapılmış, gelecek dönem için gerekli
+aksiyonlara karar verilmiş olunur ve sonucunda firmamızın önemli unsurlarının bir kısmı belirlenmiş
+olur. daha sonra, paydaşlarımızla yıl boyu süren iletişimimiz sürecinde edindiğimiz bilgiler
+doğrultusunda, paydaşlarımızın gözünden organizasyonumuzun ve paydaşlarımızla ilişkimizin
+sürdürülebilirliği için önemli olan unsurlar hakkında da bilgi edinmiş oluyoruz. daha sonra firma içinde
+belirlenen ve paydaşlarımızdan gelen bilgileri sürdürülebilirlik ekibimizce değerlendirildikten sonra
+önemli unsurlarım son şeklini almış oluyor. sürdürülebilirlik ekibimiz, sürdürülebilirlik
+koordinatörümüz, kalite, üretim, finans ve insan kaynakları müdürümüz’den oluşmaktadır.
+paydaşlarımızla iletişim metotlarımız aşağıdaki tabloda açıklanmıştır.
+
+                    paydaş                                           iletişim metodu
+ müşterilerimiz                             *karşılıklı ziyaretler
+                                            *anket
+ çalışanlarımız                             *düzenli toplantılar
+                                            *isg kurulları
+                                            *öneri kutuları
+                                            *anket
+ tedarikçilerimiz                           *ziyaret
+ kosb organize sanayi yönetimi              *ziyaret
+                                            *yönetimin düzenli duyuruları
+ çalışan sendikası                          *ziyaret
+
+
+
+
+                                                  10
+
+                                                       11
+
+
+önemli unsurlarımız
+
+
+
+                  öncelikli unsur                                                 tanım
+                                                                kaliteli üretim, rekabetçi fiyatlandırma,
+                                                             zamanında sevkiyat ve taleplere kısa sürede
+           yüksek müşteri memnuniyeti
+                                                             cevap verebilme gibi konuların birleşiminde
+                                                            maksimum müşteri memnuniyeti sağlanması.
+                                                                üretim sonucunda ortaya çıkan atık ve
+           düşük çevresel etki ile üretim
+                                                                     emisyonların minimize edilmesi
+                                                                    üretim, ısınma, ulaşım gibi bütün
+                  enerji verimliliği                            operasyonlarımızda harcanan enerjinin
+                                                                                 verimliliği
+                                                            kendi bünyemizde ve tedarikçilerimizde insan
+ insana yaraşır çalışma koşulları ve fırsat eşitliği            hakları çerçevesinde ve fırsat eşitliğinin
+                                                             gözetildiği bir çalışma ortamının sağlanması
+                                                            çalışanlarımızın eğitimler ile sürekli gelişiminin
+    çalışanların sürekli gelişiminin sağlanması
+                                                                                sağlanması
+        güvenli ve sağlıklı çalışma ortamının                 etkili isg yönetimi ile iş kazasız, güvenli bir
+                     sağlanması                                        çalışma ortamı sağlanması.
+
+
+
+yüksek müşteri memnuniyeti
+küreselleşen dünyada ürünlerimizin dünya
+standartlarına ulaşmaları, yurtiçi ve yurtdışı
+pazarlarda satılabilmeleri, bu ürünleri müşteri
+taleplerine uygun üretmekle mümkündür.
+ürünlerimizin müşteri isteklerini tam yansıtıyor
+olması, müşterinin istek ve ihtiyaçlarının iyi
+bilinmesi ve etkin bir kalite sistemi uygulamasıyla
+mümkündür.
+
+bu bilinçle yöneticilerimiz ve çalışanlarımızla
+aşağıdaki hedefleri, kalite politikasını yaşatacak
+araçlar olarak tespit ettik:
+
+    -    ürünlerimizde müşteri isteklerini, ürünün güvenliği ve müşteri ihtiyaçlarına ait fonksiyonları
+         tam olarak karşılamak.
+    -    bu hedefe ulaşmak için, ürünlerimizi sıfır hata prensibi ile üretmek, ürün spesifikasyonu
+         değişiklikleri ve yeni ürün isteklerine anında cevap vermek.
+    -    ürünlerimizde sürekli gelişme ve ilerleme sağlamak için faaliyetlerimizi toplam kalite bilinci
+         ile yürütmek, eğitim ve grup çalışmaları yapmak.
+    -    daima daha kaliteli malzeme veren yan sanayi ile çalışmak, onlara kalite ve teknoloji alanında
+         gerekli yardımları yapmak.
+    -    kalite sistemimizi ve ürünlerimizi daha iyi seviyelere çıkarmak için devamlı geniş araştırma ve
+         geliştirme çalışmalarını sürdürmek, konumuzda lider olmak.
+    -    kalite faaliyetlerini üst yönetimin tam desteği ile yerine getirmek, kalite programlarının
+         strateji ve uygulama faaliyetlerini üst yönetimle birlikte başlatmak.
+    -    sunulan ürün ve hizmetlerle yurtiçi ve yurtdışı pazarlarda söz sahibi olmak.
+
+
+
+                                                       11
+
+                                                  12
+
+
+yıllara göre sevk ettiğimiz toplam devre sayılarındaki ppm (problem per million) hata oranlarımız
+aşağıdaki gibidir:
+
+
+
+                                       kalite performansimiz
+                                 yıl               2013        2014          2015
+
+
+                      sevk edilen devre sayısı   4.1 mpcs 4.3 mpcs 4.5 mpcs
+
+
+                               ppm                  25          23            20
+
+
+2016 yılı için hedefimiz ortalama ppm değerimizin 20’nin altına inmesidir.
+
+müşteri memnuniyetimizi gerek karşılıklı ziyaretler, gerek de her yılsonunda yaptığımız müşteri
+memnuniyet anketleri ile ölçüyoruz. bu anketler ürün kalitesinden, fiyatlandırma ve lojistik
+performansına ve değişiklik taleplerine cevap yeteneğimizin de dahil olduğu geniş kapsamda sorular
+içermektedir. son yıllardaki müşteri memnuniyet anket puanlarımız aşağıdaki gibidir:
+
+                                        2013      2014      2015
+                                       98,14%    97,95%    98,94%
+
+
+anket sonuçlarının %95’in altına inmesi bizim için başarısızlık anlamına gelmektedir, bir sonraki sene
+için hedefimiz her sene olduğu gibi %100 müşteri memnuniyetidir. üretim tesisimizi taşıdığımız sene
+içinde üretim kalitemizin ve lojistik performansımızın bundan etkilenmediğini görmek bizim için
+büyük bir memnuniyet kaynağı oldu.
+
+penta’nın büyük ciddiyetle yaklaştığı müşteri bilgi güvenliği konusunda da bugüne kadar hiçbir ihlal
+yaşanmamıştır.
+
+kalite sistemimiz için 2016 yılı hedeflerimizden biri de, bureau veritas tarafından geçireceğimizi iso
+9001 denetlemesinden 0 uygunsuzluk ile geçmektir.
+
+
+
+
+                                                  12
+
+                                                  13
+
+
+penta’da çevreye verilen değer
+
+                                 penta elektronik’in çevresel olarak en önemli unsurları olan
+                                 düşük çevresel etki ve enerji verimliliği konumlarındaki tutumunu
+                                 penta iso 14001 çevre yönetimi doğrultusunda çevre politikası
+                                 belirler:
+
+                                 penta elektronik olarak uzun dönemde yaşama kabiliyetimizi
+                                 borçlu olduğumuz çevreyi korumamızı öncelikli aktivitelerimizden
+                                 biri olarak görmekteyiz.
+
+                                 görevimiz; çalışmalarımız sırasında çevre etkilerini minimize etmek
+                                 ve çevre kirlenmesini önlemek için aşağıdaki tedbirleri almak:
+
+   -   kullanılan tüm kaynakların (su, elektrik, hava, yağ, vb.) tüketimini minimum seviyelere
+       indirmek.
+   -   tüm çevre yasa, yönetmelik ve standartlarına uymak, diğer taraftan yetkililer, müşterilerimiz,
+       üreticilerimiz ve sektördeki diğer firmalar ile çevre standartlarının geliştirilmesi için işbirliği
+       yapmak.
+   -   hava kirliliği, su kirliliği, toprak kirliliği ve atık oluşumunu azaltmak ve önlenemez atıkların
+       çevreye zarar vermeden bertaraf edilmesini sağlamak.
+   -   çevre amaç ve hedeflerini sağlamamız için mümkün olduğunca yeni teknolojiler kullanmak.
+   -   tüm çalışanların, oluşan çevre etkileri ve çevre politikası konusunda bilinçlendirilmesini
+       sağlamak.
+   -   penta elektronik çevre yönetim sistemini sürekli gelişme teknikleri kullanılarak geliştirmek ve
+       çevre performansını gözden geçirmek suretiyle izlemek.
+   -   iş plan, karar ve yan sanayicilerimizin seçiminde çevre etkilerini de göz önünde tutmak.
+
+
+
+tüm penta elektronik çalışanlarının çevre hedefi şahsen ve bağlı bulundukları müdürlük olarak çevre
+performansımızı sürekli geliştirmek, hedeflere yöneltmek, yıllık olarak raporlamaktır.
+
+şu ana kadar çevresel regülasyonlara uyumsuzluktan penta’ya herhangi bir ceza uygulanmamıştır.
+
+
+
+
+                                                  13
+
+                                                     14
+
+
+
+
+enerji verimliliği
+
+tüm süreçlerimizde enerji kaynaklarımızı en verimli biçimde kullanmaya özen gösteriyoruz.
+üretimimizde kullandığımız makineleri almadan önce mutlaka çevresel etkileri, enerji verimliliği
+konusunda araştırarak seçiyoruz. üretim parametrelerimizi hem üretim kalitesi hem de enerji
+harcaması bakımdan en verimli hale gelinceye kadar sürekli iyileştirmelere tabi tutuyoruz.
+
+yeni tesisimizde ilk senemizde ana odağımız kalite sistemimizi ve üretim tesisimizi taşımak
+olduğundan enerji verimliliği çalışmalarına yeterli zamanı harcayamadık. toplam
+
+enerji tüketim verilerimiz aşağıda yer almaktadır.
+
+                enerji kaynağı                   birim      2013       2014       2015
+                   elektrik                       gj       2491,2     2188,8      3528
+                                   mazot          gj       274,7      309,1         0
+            isınma
+                                 doğalgaz         gj          0          0       111,8
+         şirket araçları toplam yakıt             gj       527,5      543,9      762,3
+                   toplam                         gj       3293,4     3041,8     4402,1
+
+ işlenen komponent başına harcanan enerji kj/komp           7,25       7,03       7,78
+
+
+
+toplam enerji tüketimimiz artmış olsa da, işlenen komponent başına harcanan enerji miktarımızı
+ortalama değerimize yakın tutmayı başardık ve çevre yönetim sistemimizce tanımlanmış olan
+maximum değer olan 18 kj/komponent değerinin de altında kalmayı başardık.
+
+2016 yılında üretimde kullandığımız fırınların ısıl enerjilerinden kışın ısınmak için faydalanmamızı
+sağlayacak bir proje ile ısınma enerjisinden tasarruf etmeyi ve işlenen komponent başına tüketilen
+enerji seviyemizi 2013 tüketim seviyemiz olan 7,25 kj/komponent değerine getirmeyi hedefliyoruz.
+
+
+
+
+                                                     14
+
+                                                               15
+
+
+
+
+düşük çevresel etki ile üretim
+
+çevre yönetimimizdeki en önemli unsurlardan bir de zaten doğası gereği doğaya diğer sektörlere
+kıyasla çok daha az etkisi olan üretimlerimiz sonucu ortaya çıkan atık ve emisyonlarını minimumda
+tutmaktır.
+
+üretimlerimizde insan sağlığına ve çevreye zararı büyük olan kurşun tamamen kaldırılmıştır (pb-free).
+lehim potalarımızdan düzenli aralıklarda numuneler alınarak kurşun içeriği bakımından teste tabi
+tutulmaktadır. ürettiğimiz elektronik devrelerde kullanılan komponentlerin tamamı uluslararası
+zararlı maddelerle ilgili standard olan rohs (restriction of hazardous
+substances) ile uyumludur. bütün tedarikçilerimizden tedarik ettiği
+ürünlerinin rohs uyumlu olduğunu beyan etmesini bekleriz. her sene tedarik
+zincirimize yeni eklenen tedarikçilerimizin tamamından rohs uyumluluklarını
+belgelemelerini bekleriz.
+
+atıklar
+
+üretimlerimiz sonucuna oluşan ana atıklar kağıt/ambalaj atıkları, metal atıkları ve kimyasal atıklardır.
+atıklarımızın %100’ü anlaşmalı olduğumuz akredite kuruluşlarca bertaraf edilmektedir. metal,
+ambalaj ve kimyasal atıklarımız, ayrı ayrı anlaşmalı ve akredite kurumlara uygun koşullarda bertaraf
+edilmeleri için verilmektedir
+
+
+
+                                                                            2013       2014       2015
+                 atık çeşidi                                                     atık miktarı (kg)
+             bitkisel atik yağ                                              1200        720        320
+            kontamine bez atik                                                50          0         0
+              atik fluoresan                                                  50         47         0
+                hurda akü                                                    800          0         0
+                 atik boya                                                     0        163         0
+         kimyasal kontamine atik                                               0         39         0
+               organik atik                                                    0        147         0
+          atik toner kartuşlari                                                0          5         0
+                  atik akü                                                     0         62         0
+               lehim cürufu                                                    0        155         0
+          karişik metal atiklari                                               0        263         0
+ diğer motor ve şanziman yağlama yağlari                                       0        250         0
+                 kağit atik                                                    0          0      26675
+*etkili kağıt atık takip sistemimiz 2015’de kurulduğu için bu veri sadece bu sene için verilmiştir.
+
+
+
+
+                                                               15
+
+                                                                      16
+
+
+
+
+emisyonlar
+
+firmamızdaki emisyon kaynakları ve emisyon miktarları aşağıda verildiği gibidir. yeni tesisimizde artık
+doğalgaza geçildiği için ısınmadan kaynaklanan emisyonlarımızda büyük bir iyileşme sağlanmıştır. ne
+yazık ki 2015 başındaki taşınma işlemimiz sebebiyle araç yakıtlarımızdan oluşan emisyonlarda
+istenmeyen bir artış yaşanmıştır.
+
+           emisyon kaynağı                        emisyon metodu                  birim           2013           2014            2015
+
+
+
+                  elektrik                         dolaylı (scope 2)            ton co2e           318            287           455,1
+
+
+
+                                  mazot          doğrudan (scope 1) ton co2e                       18,8           21,1             0
+          isınma
+                                doğalgaz         doğrudan (scope 1) ton co2e                         0              0             5,6
+
+
+
+              nakliye yakıt                      doğrudan (scope 1) ton co2e                       36,1           37,2           52,1
+
+
+                 toplam                         doğrudan (scope 1) ton co2e                       54,8            58,3           57,7
+                 toplam                            dolaylı (scope 2)            ton co2e           318            287           455,1
+
+
+2016 yılında yapcağımız ısıl verimlilik çalışmaları ile doğalgaz emisyonlarımızdan ve taşınma
+faaliyetinin sonlanması ve rota düzenlemeleriyle araçlarımızın yakıt tüketiminin azalacak olmasından
+toplam 30 ton co2e miktarında bir emisyon azalması hedeflemekteyiz.
+*emisyon hesabında kullanılan veriler finans departmanımız tarafından aylık tutulan kayıtlardan alınmıştır.
+
+*scope 1 emisyon kaynalarının dönüşüm katsayıları ve emisyon faktörleri epa (united states environmental protection agency)
+websitesinden (https://www.epa.gov/energy/ghg-equivalencies-calculator-calculations-and-references) ve ingiltere çevre, enerji, iklim
+değikliği bakanlıkları ile ricardo-aea ve carbon smart organizasyonlarının ortaklaşa yayınladığı yıllık raporlardan alınmıştır.
+
+*scope 2 elektrik üretiminden kaynaklı emisyon üretim katsayıları ingiltere çevre, enerji, iklim değikliği bakanlıkları ile ricardo-aea ve
+carbon smart organizasyonlarının ortaklaşa yayınladığı yıllık raporlardan alınmıştır.
+
+ country               unit         year        kg co2
+ electricity: turkey   kwh          2013         0,4596
+ electricity: turkey   kwh          2014         0,472
+ electricity: turkey   kwh          2015         0,46443
+
+
+
+
+                                                                      16
+
+                                                         17
+
+
+    penta’da insana yaraşir çalişma koşullari ve firsat eşitliği
+
+
+
+
+    en önemli değerinin insan olduğuna inanan ve çalışanlarını sürekli destekleyen firmamız;
+
+     görevinin gerektirdiği bilgi ve beceriye sahip kaliteli insan gücünü bünyesine kazandırmayı,
+     çalışanlarının yaratıcılıklarını kullanabilecekleri, fikirlerini dile getirebilecekleri etkin bir iletişim ve
+      motivasyon ortamı sağlamayı,
+     çalışanlarının kişisel ve mesleki gelişimlerini ön planda tutarak, sürekli öğrenme ve gelişimi
+      desteklemeyi,
+     çalışanların performanslarını objektif kriterlerle değerlendirerek, yüksek performansı teşvik etmeyi
+      ve ödüllendirmeyi,
+     yenilikçi insan kaynakları uygulamalarını hayata geçirerek çalışanlarına daima en iyiyi sunmayı
+      politika olarak benimsemiştir.
+
+    her çalışan penta’da eşittir. penta’da kadın-erkek çalışanlar arasında ücret, eğitim gibi konularda asla
+    ayrım uygulanmaz. çalışanlarımızın ücretleri perfrormansları ve sorumlulukları doğrultusunda
+    değişiklik göstermektedir. penta’da tüm üretim çalışanlarının hakları ayrıca toplu iş sözleşmesi
+    dahilinde de korunmaktadır (bütün çalışanların %82’si).
+
+
+    tamamı istanbul bölgesinden ve t.c. vatandaşı olan penta çalışanlarının sayısal bilgileri aşağıdaki
+    gibidir. üretim personelimizin büyük çoğunluğu meslek yüksekokulu mezunu olmasına rağmen her
+    türlü eğitim düzeyinde çalışanımız mevcuttur.
+
+
+
+
+                                                         17
+
+                                      18
+
+
+                            çalişan dağilimi
+                                                 2013          2014         2015
+                erkek                            67%           72%          70%
+                kadın                            33%           28%          30%
+          30 yaş altı çalışan                    42%           55%          56%
+        30-50 yaş arası çalışan                  55%           44%          43%
+         50 yaş üstü çalışan                      3%            1%           1%
+            engelli çalışan                       3%            3%           3%
+          mavi yaka çalışan                      79%           84%          82%
+          beyaz yaka çalışan                     21%           16%          18%
+
+
+                         penta çalişan sayilari
+                                                  2013        2014        2015
+toplam çalışan sayısı                             187         245         255
+toplam erkek çalışan sayısı                       126         176         179
+toplam kadın çalışan sayısı                        61          69          78
+toplam engelli çalışan sayısı                       6           7           7
+30 yaş altı çalışan sayısı                         78         134         143
+30-50 yaş arası çalışan sayısı                    104         108         109
+50 yaş üstü çalışan sayısı                          5           3           3
+mavi yaka çalışan sayısı                          148         207         208
+beyaz yaka çalışan sayısı                          39          38          47
+
+
+                                  işe alımlar
+                                                 2013 2014        2015
+          işe girentoplam çalışan sayısı         39      123         72
+           işe giren toplam erkek sayısı         25      96          54
+           işe giren toplam kadın sayısı         14      27          18
+        işe giren 30 yaş altı çalışan sayısı     32      102         69
+      işe giren 30-50 yaş arası çalışan sayısı    7      21           3
+        işe giren 50 yaş üstü çalışan sayısı      0       0           0
+        işe giren mavi yaka çalışan sayısı       38      119         66
+        işe giren beyaz yaka çalışan sayısı       1       4           6
+
+
+
+
+                                      18
+
+                                                    19
+
+
+                                             çalışan devri
+                                                                         2013    2014       2015
+                             toplam çalışan devri                           69     65         62
+                              erkek çalışan devri                           52     53         41
+                              kadın çalışan devri                           17     20         21
+                            30 yaş altı çalışan devri                       54     42         46
+                         30-50 yaş arası çalışan devri                      15     23         16
+                           50 yaş üstü çalışan devri                        2      0          0
+                            mavi yaka çalışan devri                         64     71         54
+                           beyaz yaka çalışan devri                         5      -6         8
+
+
+                                                                    doğum izni
+                                                             2013      2014            2015
+            doğum iznine hak kazanan çalışan sayısı            6         4               7
+            doğum iznine ayrılan çalışan sayısı                6         4               7
+            doğum izninden sonra işe devam
+                                                              0             1           2
+            etmeyen çalışan sayısı
+
+
+2015’teki yeni tesisimizin açılışı ve dolayısıyla artan kapasitemizi karşılamak için 2014 sonunda işkur
+ile ortaklaşa yürüttüğümüz program doğrultusunda aramıza katılan yeni takım arkadaşlarımız ile daha
+genç ve dinamik bir kadroya sahip olduk.
+
+2014 ve 2015 yıllarındaki işten ayrılmalardaki ana etken, üretim tesisimizin çekmeköy’den tuzla
+bölgesine taşınması oldu. işe yeni aldığımız personelin tuzla bölgesinden olmasından dolayı 2016
+yılında çalışan devrinde %30 oranında bir azalma bekliyoruz.
+
+2016 yılında da 2015’deki oranla çalışan sayımızı artırmayı hedefliyoruz.
+
+insan haklarına verilen değerin tedarik zincirine yayılması
+
+penta, insan haklarına uygun çalışma ortamı sağlama ilkesini tedarik zincirine de yaymayı hedefler.
+penta bünyesinde asla çocuk işçi çalıştırılmadığı gibi, bu güne kadar hiçbir tedarikçimizde de çocuk işçi
+çalıştırıldığı tespit edilmemiştir.
+
+penta’nın tedarikçilerinden insan hakları konusunda hassasiyet beklediği diğer bir konu ise çatışmasız
+minerallerdir (conflict-free minerals). özellikle orta afrika bölgesinde insan hakları ihlalleri ile elde
+edilen tungsten, kalay, tantalyum ve altın madenlerinin penta ürünlerinde yer almamasını sağlamak
+için, penta bu madenleri içeren ürünleri tedarik ettiği tedarikçilerden, madenleri elde ettiği kaynakları
+beyan etmesini ister.
+
+
+
+
+                                                    19
+
+                                                           20
+
+
+    çalışanların sürekli gelişiminin sağlanması
+
+     insan kaynağına büyük önem veren,
+      bu anlamda sürekli eğitim ve gelişimi
+      hedefleyen penta elektronik’te,
+      çalışanların kişisel ve mesleki gelişim
+      ihtiyaçları dikkate alınarak, yıllık
+      olarak         planlanmakta          ve
+      gerçekleştirilmektedir.
+     gerçekleşen eğitimler sonunda,
+      çalışanlarımızın    eğitim   kayıtları
+      bireysel olarak takip edilmekte olup,
+      ayrıca verilen eğitimlerin kalitesi ve
+      geliştirilmesi       için       eğitim
+      değerlendirme formları dikkate alınır.
+     mavi yaka çalışanların zorunlu
+      mesleki eğitimleri ile ohsas 18001 standartlarına göre eğitim ihtiyaç analizleri insan kaynakları
+      departmanı tarafından planlanmakta ve bu kapsamda alınması gereken eğitimler akredite kurumlar
+      aracılığı ile işe başlamadan önce gerçekleştirilmektedir.
+
+
+    kadın-erkek, mavi yaka-beyaz yaka ayrımı yapılmaksızın tüm çalışanlarımıza yılda ortalama 7 saat isg,
+    sağlık, kalite ve diğer mesleki eğitimleri sağlarız.
+
+
+    2015 yılında işkur ile ortaklaşa yürütülen iş başi eğitim sertifika programi sayesinde yeni üretim
+    tesisimizde çalışmak için aramıza katılan yeni çalışma arkadaşlarımıza toplam 1 ay boyunca meslek
+    lisesi öğretmenleri ve penta bölüm yöneticileri tarafından kalite, isg ve mesleki eğitimler vererek hem
+    yeni takım arkadaşlarımızın bilgi donanımını garanti altına almış hem de hayatları boyunca
+    kullanabilecekleri bir meslek ve sertifika sahibi olmalarını sağladık.
+
+
+    2015 yılı sonunda okan üniversitesi ile karşılıklı imzaladığımız protokol sayesinde okan
+    üniversitesi’nde eğitim görmek isteyen çalışanlarımıza avantajlı koşullardan yararlanmalarını sağladık.
+    2016 yılında hedefimiz çalışanlarımıza zorunlu isg ve kalite eğitimlerinin yanı sıra, okan üniversitesi ile
+    ortaklaşa düzenleyeceğimiz eğitimlerle stres yönetimi, kişisel gelişim gibi konularda da eğitimler
+    vermeyi planlıyoruz.
+
+
+
+
+                                                           20
+
+                                                   21
+
+
+
+
+güvenli ve sağlıklı çalışma ortamının sağlanması
+
+                                                                    iş sağlığı ve iş güvenliği konularında
+                                                                    ulusal           mevzuatı          ve
+                                                                    ulusal/uluslararası standartları takip
+                                                                    etmek, uygulamak ve güncellik takibi
+                                                                    yapmak     temel    ilkelerimizdendir.
+                                                                    çalışanlarımızın huzurlu ve güvenli
+                                                                    bir ortamda sağlıklı çalışmaları ve
+                                                                    çalışanlarımıza iş kazasız bir çalışma
+                                                                    ortamını        sağlamak     öncelikli
+                                                                    hedefimizdir.        bizim        için
+                                                                    çalışanlarımızın sağlığı ve güvenliği
+                                                                    son derece önemlidir. bu nedenle iş
+ile ilgili sağlık bozulmalarının, iş kazasına bağlı yaralanma ve kayıpların önlenmesi temel ilkemizdir. bu
+ilke, tüm penta elektronik çalışanları tarafından paylaşılması ve benimsenmesi gereken önemli bir
+sorumluluktur. amacımız, iş sağlığı ve iş güvenliği (isig) uygulamalarında yasal yükümlülüklerimize
+muntazam olarak uymak, bu konularda öncü ve lider olmak, ayrıca sistemimizi sürekli olarak
+iyileştirmektir.
+
+
+penta isg yönetiminde yasal mevzuatların yanı sıra uluslararası iş ve işyeri sağlığı standardı olan iso
+ohsas 18001 yönetim sistemini de takip eder.
+
+
+penta’da hedef her zaman 0 iş kazasıdır. bu hedefe ulaşmak için düzenli olarak iş güvenliği
+uzmanlarımız da üretim sahamızı kontrol altında tutuyor, gerekli eğitimleri veriyor ve tatbikatları yerine
+getiriyoruz.
+
+
+üretim sahamızın birçok yerinde bulunan öneri ve ramak kala kutuları ile bizim gözümüzden kaçan
+riskleri ve meydana gelen ramak kala olayları hakkında kolayca çalışanlarımızdan bilgi toplayabiliyoruz.
+
+
+düzenli olarak yapılan isg kurullarında her bölümden bir temsilci katılması sağlanarak işgücünün isg
+önceliklerinin belirlenmesinde %100 temsil edilmesini sağlıyoruz.
+tesisimizdeki bütün misafirlerimiz, ister 1 gün ister 1 ay sahamızda geçici çalışma yapan taşeron firma
+çalışanları da isg sistemimizin güvencesi altındadır.
+oluşan tüm iş kazalarını takip ediyor, çalışma bakanlığı ve ohsas sistemimizde kaydını tutuyoruz. bir iş
+kazası meydana gelmesi durumunda kök sebebini inceliyor ve gerekli personele eğitimlerini baştan
+veriyoruz.
+
+
+
+                                                   21
+
+                                                     22
+
+
+2015’te faliyete geçen yeni tesisimizde şimdiye kadar hiç iş kazası olmamıştır. 2016 hedefimizde bu
+sayının 0 olarak kalmasını sağlamaktır.
+2012 yılında iş kazası kayıt sistemimiz oluşturulduğundan beri meydana gelen iş kazalarıyla ilgili bilgiler
+aşağıda yer almaktadır:
+
+
+
+
+                                              2012              2013        2014         2015
+               iş kazası adedi                  1                 0           2            0
+            iş günü kayıplı kaza                0                 0           2            0
+
+
+
+
+                                         kaza sebebi            adet
+                                         sıcak yemek
+                                                                  1
+                                          dökülmesi
+                                            düşme                 1
+                                      malzeme devrilmesi          1
+
+                                          iş günü kaybı         adet
+                                              1 gün              1
+                                              2 gün              1
+                                              2+ gün             0
+
+
+
+
+                                                     22
+
+                                                                    23
+
+
+gri içerik indeksi
+                                                        genel standard bildirimler
+
+
+
+      genel standard bildirimler                                       sayfa                                        dış denetim
+
+
+
+                                                             strateji ve analiz
+
+                g4-1                                     s.1,2 – genel müdürün mesajı                                    -
+
+
+
+                                                              kurumsal profil
+
+                g4-3                                              kapak sayfası                                          -
+
+                g4-4                                            s.6 – firma profili                                      -
+
+                g4-5                                            s.3– firma profili                                       -
+
+                g4-6                                            s.3– firma profili                                       -
+
+                g4-7                                            s.9– firma profili                                       -
+
+                g4-8                                            s.8– firma profili                                       -
+
+                g4-9               s.9- firma profili, s.18 - insana yaraşır çalışma koşulları ve fırsat eşitliği        -
+
+                g4-10                       s.18– insana yaraşır çalışma koşulları ve fırsat eşitliği                    -
+
+                g4-11                       s.18– insana yaraşır çalışma koşulları ve fırsat eşitliği                    -
+
+                g4-12                                           s.4– firma profili                                       -
+
+                g4-13                                    s.1,2 – genel müdürün mesajı                                    -
+
+                g4-14                                           s.4– firma profili                                       -
+
+
+
+                                   üye olunan kuruluşlar haricinde kuruluş dışında imzalanmış, ekonomik,
+                g4-15                                                                                                    -
+                                      çevresel ve sosyal sözleşme, ilke veya insiytafi bulunmamaktadır
+
+
+
+                g4-16                                           s.9– firma profili                                       -
+
+
+
+                                               tanımlanan öncelikli unsur ve çerçeveler
+
+                g4-17                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+                g4-18                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+                g4-19                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+                g4-20                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+                g4-21                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+                g4-22                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+                g4-23                                   s.10 – sürdürülebilirlik yönetimi                                -
+
+
+
+                                                              paydaş katılımı
+
+                g4-24                                   s.10– sürdürülebilirlik yönetimi                                 -
+
+                g4-25                                   s.10– sürdürülebilirlik yönetimi                                 -
+
+                g4-26                                   s.10– sürdürülebilirlik yönetimi                                 -
+
+                g4-27                                   s.10– sürdürülebilirlik yönetimi                                 -
+
+
+
+
+                                                                    23
+
+                                                 24
+
+
+                                            rapor profili
+
+      g4-28                                s.1 – rapor hakkında                               -
+
+      g4-29                                s.1– rapor hakkında                                -
+
+      g4-30                                s.1– rapor hakkında                                -
+
+      g4-31                                s.1– rapor hakkında                                -
+
+      g4-32                                s.1– rapor hakkında                                -
+
+
+
+                                              yönetişim
+
+      g4-34                          s.10 – sürdürülebilirlik yönetimi                        -
+
+
+
+                                          etik ve dürüstlük
+
+      g4-56                                  s.5 – firma profili                              -
+
+
+
+
+                                     özel standart bildirimler
+
+
+
+dma ve göstergeler                                  sayfa                              hariç tutulanlar
+
+
+
+                                        kategori: ekonomik
+
+                                        unsur: piyasa varlığı
+
+     g4-ec5               s.17 - insana yaraşır çalışma koşulları ve fırsat eşitliği          -
+
+     g4-ec6               s.17 - insana yaraşır çalışma koşulları ve fırsat eşitliği          -
+
+                                         kategori: çevresel
+
+                                            unsur: enerji
+
+     g4-dma                              s.13,14 - enerji verimliliği                         -
+
+     g4-en3                              s.13,14 - enerji verimliliği                         -
+
+                                         unsur: emisyonlar
+
+     g4-dma                        s.15 - düşük çevresel etki ile üretim                      -
+
+     g4-en15                       s.16 - düşük çevresel etki ile üretim                      -
+
+     g4-en16                       s.16 - düşük çevresel etki ile üretim                      -
+
+                                    unsur: atık sular ve atıklar
+
+     g4-dma                        s.15 - düşük çevresel etki ile üretim                      -
+
+     g4-en23                       s.15 - düşük çevresel etki ile üretim                      -
+
+                                            unsur: uyum
+
+     g4-dma                              s.13,14- enerji verimliliği                          -
+
+     g4-en29                             s.13,14 - enerji verimliliği                         -
+
+                                           unsur: nakliye
+
+     g4-dma                        s.15 - düşük çevresel etki ile üretim                      -
+
+     g4-en30                       s.16 - düşük çevresel etki ile üretim                      -
+
+                     unsur: tedarikçinin çevresel bakımdan değerlendirilmesi
+
+     g4-dma                        s.15 - düşük çevresel etki ile üretim                      -
+
+     g4-en32                       s.15 - düşük çevresel etki ile üretim                      -
+
+
+
+
+                                                 24
+
+                                          25
+
+
+                                   kategori: sosyal
+
+               alt kategori : işgücü uygulamaları ve insana yaraşır iş
+
+                                   unsur: istihdam
+
+g4-dma             s.18 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+g4-la1             s.18 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+g4-la3             s.18 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+                            unsur: iş sağlığı ve güvenliği
+
+g4-dma            s.21 - güvenli ve sağlıklı çalışma ortamının sağlanması       -
+
+g4-la5           s.21,22- güvenli ve sağlıklı çalışma ortamının sağlanması      -
+
+g4-la6           s.21,22- güvenli ve sağlıklı çalışma ortamının sağlanması      -
+
+                              unsur: eğitim ve öğretim
+
+g4-dma               s.20 - çalışanların sürekli gelişiminin sağlanması         -
+
+g4-la9               s.20 - çalışanların sürekli gelişiminin sağlanması         -
+
+g4-la10              s.20 - çalışanların sürekli gelişiminin sağlanması         -
+
+                           unsur: çeşitlilik ve fırsat eşitliği
+
+g4-dma             s.17 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+g4-la12            s.18 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+                       unsur: kadın ve erkekler için eşit ücret
+
+g4-dma             s.17- insana yaraşır çalışma koşulları ve fırsat eşitliği    -
+
+g4-la13            s.17 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+                              alt kategori: insan hakları
+
+                                 unsur: çocuk işçiler
+
+g4-dma             s.19 - insana yaraşır çalışma koşulları ve fırsat eşitliği   -
+
+g4-hr5             s.19- insana yaraşır çalışma koşulları ve fırsat eşitliği    -
+
+          unsur: tedarikçilerin insan hakları bakımından değerlendirilmesi
+
+g4-dma             s.19- insana yaraşır çalışma koşulları ve fırsat eşitliği    -
+
+g4-hr10            s.19- insana yaraşır çalışma koşulları ve fırsat eşitliği    -
+
+g4-hr11            s.19- insana yaraşır çalışma koşulları ve fırsat eşitliği    -
+
+                           alt kategori: ürün sorumluluğu
+
+                        unsur: ürün ve hizmet etiketlemesi
+
+g4-dma                      s.11 - yüksek müşteri memnuniyeti                   -
+
+g4-pr5                      s.12 - yüksek müşteri memnuniyeti                   -
+
+                                unsur: müşteri gizliliği
+
+g4-dma                      s.11 - yüksek müşteri memnuniyeti                   -
+
+g4-pr8                      s.12 - yüksek müşteri memnuniyeti                   -
+
+                                     unsur: uyum
+
+g4-dma                      s.11 - yüksek müşteri memnuniyeti                   -
+
+g4-pr9                      s.12 - yüksek müşteri memnuniyeti                   -
+
+
+
+
+                                          25

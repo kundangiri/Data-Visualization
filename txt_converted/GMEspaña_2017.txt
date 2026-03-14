@@ -1,0 +1,3029 @@
+declaración ambiental
+gm españa 2017
+
+departamento de medio ambiente
+
+página 3
+
+departamento de medio ambiente
+
+
+                                                  índice
+       1.    introducción                                                            7
+
+       2.    mensaje del director general                                            8
+
+       3.    mensaje del representante ambiental                                     9
+
+       4.    presentación de la organización
+               4.1     situación geográfica                                          11
+               4.2     contexto de la organización y alcance del sistema             12
+               4.3     actividad de la empresa                                       14
+               4.4     organigrama de la empresa                                     18
+               4.5     cambios producidos y nuevas tecnologías                       19
+
+       5.    sistema integrado de gestión ambiental y energética
+               5.1     política ambiental y energética                               21
+               5.2     estructura del sigae                                          22
+               5.3     iso 50001:2011. estructura del cae                            24
+
+       6.    aspectos ambientales
+               6.1     evaluación de aspectos ambientales                            26
+               6.2     resultado de la evaluación                                    28
+
+       7.      acciones para abordar riesgos y oportunidades
+               7.1     determinación del riesgo asociado con amenazas y oportunidades 32
+               7.2     resultado de la evaluación                                     33
+       8.    comportamiento ambiental
+               8.1     indicadores ambientales                                       35
+               8.2     aspectos significativos                                       37
+               8.3     otros aspectos ambientales                                    46
+               8.4     requisitos legales                                            53
+               8.5     mejoras ambientales                                           57
+
+       9.       participación
+               9.1     comunicación y formación                                      60
+               9.2     sugerencias                                                   72
+
+       10. objetivos                                                                 73
+
+       11. glosario                                                                  78
+
+       12.   certificados de aprobación                                              80
+
+
+
+
+departamento de medio ambiente
+
+1. introducción
+
+la declaración ambiental de 2017 se corresponde con         industria e innovación del gobierno de aragón.
+la verificación anual para la renovación del certificado    otorgado, entre otros, por la atención prioritaria a la
+emas iii del sistema integrado de gestión ambiental y       seguridad y el medio ambiente, la publicación de su
+energética (sigae) y su objetivo principal es informar al   primera memoria de sostenibilidad (2012, gri-
+público en general y a las partes interesadas sobre los     calificación a) y sus certificaciones en gestión
+resultados concretos de la gestión de gm españa.            medioambiental.
+desde el año 1999 la planta cuenta con los certificados       diploma de oro de la comisión europea por los 15
+iso 14001 y emas y en el año 2012 obtuvo el certificado     años de permanencia en el registro emas, entregado
+en iso 50001 (sistemas de gestión de la energía).           el 21 de enero de 2015.
+                                                              certificado de reconocimiento por parte de grupo
+esta declaración refleja los compromisos establecidos
+                                                            central a la planta de zaragoza por su alto rendimiento
+en la política ambiental y energética a través de la
+                                                            en la reducción de energía durante el cierre del verano
+evaluación de los aspectos ambientales significativos,
+                                                            de 2015.
+el cumplimiento legal, la prevención de la
+contaminación, el control del riesgo y el seguimiento de    además, gracias al compromiso ambiental y al sistema
+objetivos de mejora. los datos aquí facilitados ofrecen     integrado de gestión ambiental y energética, gm
+la garantía de haber sido validados por un verificador      españa fue pionera en el sector al ser la primera
+acreditado.                                                 empresa en españa y la primera planta del grupo
+                                                            general motors en certificarse en la nueva versión de
+el compromiso medioambiental ha estado presente en
+                                                            la iso 14.001:2015 en el mismo año de la publicación
+gm españa desde sus inicios, como así lo avalan los
+                                                            de dicho estándar.
+distintos premios tanto internos como externos que la
+compañía ha recibido:
+ mejora de la eficiencia energética 1986, 1989, 1990 y
+1994 (gm corporation).
+ premio nacional de protección medioambiental 1989
+(ministerio de industria ).
+ mejor gestión medioambiental 2000 (ministerio de
+medio ambiente ).
+ finalista en los premios europeos de medio ambiente
+en la empresa 2001-2002 (comisión europea).
+ calificación máxima de 3 estrellas en el proyecto
+empresas por la excelencia ambiental 2010 (gobierno
+de aragón y universidad de san jorge).
+ premio medio ambiente de aragón 2012 en la
+categoría de empresas. esta distinción fue otorgada
+por el departamento de agricultura, ganadería y
+                                                            visita de m. kay scott directora ejecutiva.
+medio ambiente del gobierno de aragón.                        global environmental compliance and
+ premio aragonés a la responsabilidad social
+empresarial 2013, organizado por la consejería de
+
+
+
+
+                                                                                                        página 7
+
+ 2. mensaje del director general
+
+ tras la adopción en 2015 por naciones unidas de sus       creemos que la sostenibilidad es una fuerza poderosa
+ objetivos de desarrollo sostenible, en 2016 españa        para el crecimiento y la innovación. es la guía sobre
+ ratificó el acuerdo de parís sobre el clima. esos         cómo hacer nuestros negocios e impulsa la forma en
+ movimientos están destinados a ayudarnos a proteger       que nuestros productos son diseñados, fabricados,
+ el planeta, también a ayudar a disminuir la pobreza,      utilizados y reciclados. además, nuestra apuesta por
+ aumentar el acceso a la educación, mejorar la atención    mantener nuestra fábrica como vertedero cero, la
+ a la salud y aumentar las oportunidades económicas        compra de energía renovable para fabricar el 100% de
+ para todos, ya que hoy en día los recursos mundiales      nuestros vehículos y muchas otras acciones, dirige
+ están bajo presión, el crecimiento económico sigue        nuestras operaciones hacia una economía circular
+ siendo desigual y aún existe malestar social en el        eficiente en materiales y energía. los vehículos
+ mundo.                                                    fabricados en nuestra planta en aragón incorporan
+                                                           tecnologías y materiales más respetuosas para el
+                                                           medio ambiente como las opciones lpg y eco y como
+ en 2017 hemos iniciado un proceso, aprovechando           compañía estamos apostando por la electrificación del
+ nuestra larga y orgullosa historia para convertirnos en   automóvil, como vehículo “limpio”. así lo demuestra el
+ una compañía mejor. nos hemos comprometido a              lanzamiento próximamente del opel ampera-e, un
+ seguir reinventando nuestra empresa con tecnologías y     modelo eléctrico puro con alta autonomía y emisiones
+ productos sorprendentes que hagan la vida mejor para      “cero”.
+ todos, en todas partes, y al hacerlo, ayudamos a crear
+ un mundo mejor. en gm españa creemos que nuestras
+ acciones deben abordar algunos de los mayores retos       pero creemos que podemos ir más allá. sabemos que
+ que enfrentamos como sociedad, incluyendo el cambio       no podemos hacer esto solos. la clave para crear una
+ climático y el uso de tecnologías y energías limpias.     empresa sostenible es encontrar la fórmula para
+                                                                         conseguir que todos los socios y los
+                                                                         empleados, desde los altos ejecutivos a
+                                                                         los trabajadores de la línea de montaje,
+                                                                         se involucren personalmente para
+                                                                         seguir     avanzando       de    manera
+                                                                         responsable, sostenible y exitosa. así
+                                                                         estaremos creando oportunidades
+                                                                         para todos cambiando el mundo que
+                                                                         nos rodea.
+
+
+                                                                          más detalles sobre nuestro compromiso
+                                                                          se puede encontrar en esta declaración
+                                                                          ambiental y también en nuestro
+                                                                          informe de rsc.
+                                                                          un cordial saludo,
+                                                                          antonio j. cobo
+
+
+
+
+departamento de medio ambiente
+
+3. mensaje del representante ambiental
+
+
+en 1999, general motors españa obtuvo su primer
+certificado en iso 14001 y emas y ha demostrado año a
+año, que la mejora continua en el comportamiento
+ambiental de sus empleados en todas las operaciones,
+es clave para el desempeño de sus actividades
+diarias. además, gracias al compromiso ambiental y al
+sistema integrado de gestión ambiental y energética,
+gm españa fue pionera en el sector al ser la primera
+empresa en españa y la primera planta del grupo
+general motors en certificarse en la nueva versión de la
+iso 14.001:2015.
+en 2012, la planta de opel/gm en españa, obtuvo la
+certificación en la norma iso 50001:2011 - sistemas de
+gestión energética, por la cual se certifica la existencia
+de un sistema optimizado para el correcto uso de la
+energía.
+la declaración ambiental que ahora presentamos es
+una oportunidad más de establecer un diálogo abierto
+con aquellas personas, a nivel individual o de grupo
+que comparten nuestro interés y desean colaborar en
+esta, nuestra tarea diaria.
+en los últimos años nuestra planta ha conseguido
+reconocimientos importantes, que demuestran que
+esta factoría está comprometida con el medioambien-
+te:
+      desde septiembre de 2014, somos una planta
+      ‘vertedero cero ‘, reafirmando nues-                   deben contribuir de manera decisiva a la protección
+      tro compromiso con el medioambiente a través           del medio ambiente. la sensibilización medioambien-
+      del reciclaje, reutilización o trasformación en        tal facilita la integración de la empresa en su entorno, y
+      energía de los residuos generados en nuestras          proporciona una mayor credibilidad a todas las partes
+      operaciones diarias, evitando que vayan al             interesadas. para conseguir el nivel exigido por la
+      vertedero.                                             certificación emas, es fundamental el desempeño
+                                                             ambiental en todas nuestras actividades y la
+      en el año 2015, conseguimos el diploma de oro          involucración de todas las personas que trabajan
+      de la comisión europea por los 15 años de              diariamente en la planta de figueruelas (empleados de
+      permanencia en el registro emas.                       gm y proveedores).
+nos sentimos especialmente orgullosos de que                 estamos comprometidos en proseguir por este camino
+recientemente el ministerio de agricultura y pesca,          de mejora ambiental continua, confiados en que
+alimentación y medio ambiente haya seleccionado a            nuestros clientes y conciudadanos compartan nuestra
+escala nacional a general motors españa, en la               preocupación por el medioambiente al entender las
+categoría de grandes empresas privadas, para optar a         implicaciones futuras para nuestro planeta y futuras
+los premios emas 2017 de la comisión europea, que
+                                                             generaciones.
+premian la gestión ambiental de las empresas.
+el medio ambiente es cosa de todos y es necesario que
+todo el mundo se involucre en su conservación. las           alejo catalán
+empresas como general motors españa pueden y                 director técnico de gm españa
+
+
+
+
+                                                                                                           página 9
+
+                           modelos fabricados
+                        actualmente en gm españa
+
+   opel corsa
+
+
+
+
+                                          opel mokka x
+
+
+
+
+                                            opel meriva
+
+departamento de medio ambiente
+
+4. presentación de la organización
+4.1 situación geográfica
+ la planta de gm españa en zaragoza fue construida             zona norte del país con el mediterráneo y la
+ en 1980 e inaugurada oficialmente en 1982. está               carretera de la ribera del jalón; además del acceso
+ situada en el polígono entrerríos, zona industrial, a         por ferrocarril (a 1 km aproximadamente).
+ 27 km de zaragoza. la planta se encuentra ubicada
+                                                               la planta ocupa una extensión en su anillo interior
+ entre el margen derecho del río ebro y el izquierdo
+                                                               de 3,10 km2, con un total de superficie construida de
+ del río jalón.
+                                                               535.600 m2. el resto se dedica a parking de coches
+ el acceso a la planta de figueruelas se realiza a             acabados, aparcamientos para empleados, zonas
+ través de la carretera nacional n-232, que                    verdes y viales internos de comunicación.
+ comunica la ciudad de zaragoza con logroño; la
+ autopista vasco-aragonesa ap-68, que comunica la
+
+
+
+
+                                            a-68 / n-232
+                                                                      a-23 teruel-huesca
+                                                           ap-68
+                                                                          río ebro
+
+                                                                                             ap-2
+                                                                                                          n-ii lérida
+                                                                                                          barcelona
+
+                                                  aeropuerto
+                                              a-2 madrid
+
+
+                                                                                           a-68 / n-232
+                                                                   a-23
+
+
+
+
+                                  situación geográfica de gm españa
+
+
+
+
+                                                                                                                  página 11
+
+ 4.2 contexto de la organización y alcance del sistema
+
+ la planta está localizada en la comarca de la ribera       la planta de zaragoza pertenece a la división europea
+ alta del ebro. este territorio se caracteriza por poseer   del grupo general motors, por lo que le son de
+ un clima mediterráneo continentalizado. las                aplicación todos los sistemas y políticas de la misma.
+ precipitaciones son muy escasas, ya que no llegan a los    de esta manera, el sistema estandarizado de
+ 400 mm con un período de lluvias más abundante en          manufacturas que se encuentra implantado en gm
+ primavera y otoño. el carácter continental se refleja en   españa es el gm-gms (general motors global
+ la variación de las temperaturas a lo largo del año. de    manufacturing system), el cual dota de una serie de
+ esta manera, en los meses de verano, julio y agosto        herramientas comunes a todas las plantas del grupo.
+ sobre todo, las temperaturas pueden alcanzar los 35ºc
+                                                            para mejorar el desempeño ambiental, general motors
+ mientras que en invierno pueden ser inferiores a 6ºc.
+                                                            españa establece, implementa, mantiene y mejora
+ la presencia del río ebro en la región repercute en la     continuamente el sistema de gestión ambiental y
+ fauna y la flora de este territorio. sin embargo, en       energético, incluidos los procesos necesarios y sus
+ zonas como en las que se asienta la planta de gm           interacciones. entendiendo como proceso el conjunto
+ españa, alejadas del río, se cuenta con bosques de pino    de actividades interrelacionadas o que interactúan,
+ carrasco con matorrales.                                   que transforma elementos de entrada en elementos de
+                                                            salida.
+ los terrenos donde se sitúa la instalación pertenecen a
+ un polígono industrial existente considerados como         el sistema de gestión ambiental y energética se aplica
+ suelo urbano no consolidado de uso industrial y no         a todas las actividades que se desarrollan dentro del
+ están propuestos como lugar de interés comunitario         recinto que opera la planta de gm españa en
+ (lic), no hay humedales del convenio ramsar, no            figueruelas, actividad de almacén de recambios
+ existen montes de utilidad pública, no hay espacios        incluida.
+ declarados como zonas de especial protección para las
+ aves, tampoco está en el ámbito de aplicación de
+ algún plan de ordenación de los recursos naturales, ni
+ pertenecen a ningún espacio protegido. no se afecta a
+ vías pecuarias ni a montes de utilidad pública.
+
+
+
+
+                                    vista de la planta de gm en figueruelas
+
+
+
+
+departamento de medio ambiente
+
+se definen como partes interesadas pertinentes:
+
+  parte interesada                             necesidades y expectativas
+
+                                               claridad a la hora de determinar los métodos de trabajo y
+  trabajadores
+                                               responsabilidades ambientales y energéticas de cada empleado.
+  proveedores y contratistas (fuera de
+                                               proporcionar el servicio adecuado sin incidentes ambientales
+  planta)
+                                               cumplimiento de las epc
+                                               normativa interna de gm
+                                               logro de los 9 compromisos de manufacturas para el 2020: uso de
+                                               agua y energía, reducción huella carbono y emisiones covs, uso de
+  gm corporación (gecs europe)
+                                               energía renovable, reducción de residuos, vertedero 0 y
+                                               contribución a la biodiversidad
+                                               propósito y valores: participar y ayudar a las comunidades en las
+                                               que vivimos y trabajamos
+  contratistas de presencia habitual en        conocimiento de los requerimientos ambientales y energéticos que
+  planta                                       le aplican del sigae
+                                               productos fabricados con contribución al cambio climático
+  clientes (compra de vehículos)
+                                               decreciente.
+  clientes (plantas para las que se fabrican
+                                               productos fabricados con un menor uso de energía
+  componentes)
+  concesionarios y talleres (compra de         productos suministrados de manera que se reduzca la contribución
+  piezas)                                      al cambio climático y se reduzca el residuo de embalaje
+                                               misión, consecución de los objetivos ambientales y energéticos y de
+  dirección de la empresa
+                                               negocio.
+  autoridad competente en materia              cumplimiento de la normativa ambiental.
+  ambiental                                    transparencia.
+                                               cumplimiento de la normativa ambiental y baja afectación en el
+                                               modo de vida de los habitantes (tierras de cultivo, etc). esto se
+  municipios colindantes: grisén,              traduce en: buena calidad del agua y del aire, no contaminación de
+  figueruelas, pozuelo de aragón y pedrola     acuíferos y suelo y tratamiento adecuado de los residuos generados
+                                               por la actividad.
+                                               transparencia
+                                               protección de la naturales colindante y reducción del impacto
+  ongs, asociaciones y colectivos de
+                                               negativo de la actividad industrial en la zona.
+  defensa de la naturaleza
+                                               transparencia
+
+                             tabla 1. partes interesadas, necesidades y expectativas
+
+
+
+
+                                                                                                         página 13
+
+ 4.3 actividad de la empresa
+
+ la actividad llevada a cabo en la planta está               el proceso de producción en tres turnos (dos fijos más
+ clasificada dentro del sector de fabricación de material    uno flexible) se realiza en cuatro naves:
+ de transporte. el código nacional de actividades
+                                                                   nave de prensas.
+ empresariales (nace 2009) es el 29.10, fabricación de
+                                                                   nave de carrocerías.
+ vehículos a motor y 29.32, fabricación de piezas y
+ subconjuntos.                                                     nave de pintura.
+                                                                   nave de acabado final.
+ durante el año 2016 general motors españa ha llevado
+ a cabo el lanzamiento del nuevo modelo mokka x y se
+ ha comenzado la fabricación de los dos próximos
+ lanzamientos de 2017: el nuevo modelo crossland x y el
+ nuevo modelo c3 aircross, diseñado junto al grupo
+ psa.
+ además, se fabrican piezas y subconjuntos para otras
+ plantas de gm (por ejemplo para la planta de eisenach,
+ alemania). la producción de estos tres últimos años se
+ muestra en la figura 1.
+ en 2016 se produjeron un total de 462.553 tm (vehículos
+ + componentes), por lo que el factor de conversión es
+ 1,28 tm/coche.
+
+
+                                                                           planta de prensas
+  unidades         producción anual
+400.000                     359.453        361.410
+350.000      319.586
+300.000
+250.000
+200.000
+150.000
+100.000            59.951         60.976            66.955
+ 50.000
+      0
+                2014           2015           2016
+                        coches año    componentes
+
+      fig. 1. producción anual de gm españa.
+
+
+
+
+                                                                         planta de carrocerias
+
+
+
+
+departamento de medio ambiente
+
+                                                          propósito
+                                                            y valores
+
+                                                             quiénes somos y porqué estamos aquí
+                                                             •   conseguimos clientes de por vida.
+                                                             •   nuestras marcas inspiran pasión y fidelidad.
+                                                             •   transformamos tecnología de vanguardia en vehículos y experiencias que la gente ama.
+                                                             •   participamos y ayudamos a las comunidades en las que vivimos y trabajamos a nivel mundial.
+                                                             •   construimos la empresa de automóviles más valiosa del mundo.
+
+                                                             nuestros valores fundamentales
+                                                             clientes
+                                                             nuestros clientes son el centro de todo lo que hacemos. escuchamos sus necesidades con atención.
+                                                             todas las relaciones importan. la seguridad y calidad son nuestro principal compromiso.
+                                                             relaciones
+                                                             nuestro éxito depende de las relaciones dentro y fuera de la compañía. a nivel mundial, alentamos
+                                                             diversas formas de pensar y colaborar, para crear magnificas experiencias a nuestros cliente.
+                                                             excelencia
+                                                             actuamos con integridad. nos impulsa el ingenio y la innovación. tenemos el coraje de hacer y decir
+                                                             lo que resulta difícil. tenemos la responsabilidad sobre los resultados y la tenacidad para triunfar.
+
+
+
+
+misión:                                                   propósito y valores:
+el sistema de gestión ambiental y energético es           durante el año 2016, gm ha desarrollado su razón de ser
+aplicable a la fabricación de automóviles y a todas las   y valores que giran entorno a los clientes, las relaciones
+actividades e instalaciones asociadas.                    y la excelencia. se destacan algunos de ellos:
+desde sus inicios en el año 1982 el compromiso de gm               conseguimos clientes de por vida.
+españa con la seguridad, calidad y el medio ambiente               nuestras marcas inspiran pasión y fidelidad.
+ha sido constante.                                                 transformamos tecnología de vanguardia en
+la planta de zaragoza tiene una misión: fabricamos los             vehículos y experiencias que la gente ama.
+mejores vehículos en seguridad, calidad y coste                    participamos y ayudamos a las comunidades en
+siguiendo los principios del gms donde la mejora                   las que vivimos y trabajamos a nivel mundial.
+continua ambiental colabora para cumplir con esta                  construimos la empresa de automóviles más
+misión.                                                            valiosa del mundo.
+
+
+
+
+                  planta de pintura                                           planta de acabado final
+
+
+
+
+                                                                                                                                              página 15
+
+foto del comité de medioamb iente en la sala sostenible
+
+
+   departamento de medio ambiente
+
+página 17
+
+  4.4 organigrama de la empresa
+
+ la planta se estructura en distintas áreas. para             expresa los procesos de la planta y sirve como base
+ comprender mejor su funcionamiento, el organigrama           para la definición de responsabilidades ambientales y
+ de la misma es una herramienta fundamental.                  energéticas: implantación, cumplimiento y seguimiento
+                                                              del sigae.
+ dicho organigrama se muestra en la figura 2.
+
+
+
+
+                                                 director general
+
+
+
+
+   manufacturas                  calidad           *director técnico             finanzas             personal
+
+
+
+
+ comunicación y relac. institucionales             materiales                ventas                 legal
+
+
+
+
+                        ingeniería de manufacturas                          instalaciones (global facilities)
+            * actualmente el director técnico es el representante de dirección para medio ambiente y energía
+
+                                            * rep. de dirección para medio ambiente y energía
+
+                  coordinador de medio ambiente                   gerente planta de energía y aguas
+
+
+
+                      comité de medio ambiente                       comité de ahorro de energía
+
+
+
+                                            fig. 2. organigrama de gm españa.
+
+
+
+
+departamento de medio ambiente
+
+    4.5 cambios producidos y nuevas tecnologías
+
+debido a los lanzamientos de nuevos modelos que se          en la siguiente tabla se muestran los principales
+han producido durante 2016, la planta ha                    cambios producidos y la influencia medioambiental y
+experimentado renovaciones. estos cambios se han            energética que han supuesto.
+hecho potenciando el ahorro energético y el respeto
+medioambiental por los que apuesta la empresa.
+
+  localización                       cambios                                  influencia ambiental
+
+                   modificación en la aplicación de pasta y reducción de consumo de materia prima y
+                   curado en líneas de puertas              gasto energético
+    carrocerías
+                   optimización soldadura y aplicación de pasta reducción de consumo energético y materia
+                   en línea 2 de respot                         prima
+
+                   instalación de bombas eléctricas en sala de
+                                                               reducción de consumo energético
+                   mezclas
+                   optimización de la ventilación en cabina de
+                                                               reducción de consumo energético
+                   imprimación
+     pinturas
+                                                               reducción de consumo de pintura, aire
+                   instalación de nuevos robots en imprimación comprimido, lodo de pintura y consumo
+                                                               energético.
+                                                               reducción de consumo de pintura, lodo de
+                   cambio de los robots de laca de la cabina 2
+                                                               pintura y emisiones de covs.
+                      tabla 2. principales cambios productivos con influencia ambiental en 2016.
+
+
+
+
+                                        nuevos robots en imprimación
+
+
+
+
+                                                                                                     página 19
+
+   5. sistema integrado de gestión ambiental y energética
+
+ el pilar del sistema de gestión ambiental y energético    6. seguiremos evaluando el impacto de nuestras
+ de gm españa es su política, la cual toma como base los      plantas y productos en el medio ambiente y en las
+ principios ambientales de la compañía.                       comunidades en las cuáles vivimos y operamos,
+                                                              teniendo como meta la mejora continua.
+ éstos son:
+ 1. estamos comprometidos a llevar a cabo las acciones
+    necesarias para restaurar y preservar el medio
+    ambiente.
+ 2. estamos comprometidos a reducir los residuos y los
+    elementos contaminantes, conservando los recursos
+    y reciclando los materiales en cada etapa del ciclo
+    de vida del producto.
+ 3. continuaremos participando activamente en la
+    educación del público respecto a la conservación del
+    medio ambiente.
+ 4. seguiremos persiguiendo vigorosamente el
+    desarrollo e implantación de tecnología para
+    minimizar las emisiones contaminantes.
+ 5. continuaremos trabajando con las entidades
+    gubernamentales, con el fin de desarrollar leyes y
+    reglamentos ambientales que sean técnica y
+    económicamente viables.
+
+
+
+
+                        una de las plantas solares más grandes sobre tejado
+
+
+
+
+departamento de medio ambiente
+
+5.1 política ambiental y energética
+
+
+
+
+                                      página 21
+
+   5.2 estructura del sigae
+
+ la dirección lidera el sistema, aunque el desempeño               las responsabilidades ambientales se muestran en la
+ cotidiano del medio ambiente en la planta requiere                figura 3.
+ una estructura más amplia. las responsabilidades para
+                                                                   el sistema integrado de gestión ambiental y
+ garantizar la implantación, el cumplimiento y
+                                                                   energética (sigae) es la herramienta que permite
+ seguimiento del sigae están basadas en el
+                                                                   cumplir con el compromiso de la política ambiental y
+ organigrama de responsabilidades productivas de la
+                                                                   energética de la compañía.
+ planta mostrado en la figura 2.
+
+
+
+evaluación de aspectos ambientales      responsable del funcionamiento de la planta y de rendir
+realizar auditorías internas            cuentas para que el sigae logre los resultados previstos
+                                        implantar la política ambiental y energética                definir y modificar la
+seguimiento de objetivos                establecer objetivos ambientales compatibles con la         política del sigae
+actualización de procedimientos e       dirección estratégica y el contexto de la planta
+instrucciones                           asegurar que los recursos están disponibles                 aprobar los objetivos
+evaluar los planes de formación         comunicar la importancia de una gestión ambiental eficaz    aprobar las auditorías
+                                        cumplir todos los requisitos                                aprobar los planes de
+control y registro de la                promover la mejora continua
+documentación                           iniciar las revisiones periódicas del sigae de la planta.   formación
+
+
+
+
+                                            coordinador medio ambiente:                   gerente de energía y aguas:
+
+
+                                                 coma                                               cae
+
+            informe anual de medio ambiente                                 revisión de los consumos energéticos
+          desarrollar las instrucciones de trabajo                              seguimiento de los objetivos
+     aplicación de la política ambiental y energética                      identificar ideas de ahorro de energía
+                                                                 identificar desviaciones respecto a consumos esperados
+
+                                     fig. 3. organización medio ambiente y energía
+
+
+
+
+departamento de medio ambiente
+
+la intención es ir mas allá en la mejora continua en lo   las instrucciones de trabajo describen actividades
+que a protección del medio ambiente en la planta se       ambiental y energéticamente relevantes para un
+refiere. dos objetivos fundamentales son, fomentar la     limitado rango de funciones dentro de un estrecho
+sensibilización medioambiental en todo el personal que    campo de aplicación. deben ser preparadas por las
+trabaja en la planta y asegurar que toda acción           respectivas áreas con el apoyo de sus coordinadores
+requerida en la planta está aprobada, puesta en           ambientales y de gestión de la energía, y aprobadas
+marcha y verificada de acuerdo con la política            por los gerentes de las áreas afectadas.
+ambiental y energética de la compañía.
+las siguientes partes componen el sigae:
+  manual de gestión ambiental y energético.
+  procedimientos e instrucciones.
+  disposiciones legales, evaluación de aspectos
+  ambientales y análisis de riesgos y oportunidades.
+  objetivos y planes de acción.
+en el sigae se recoge, a través del manual, de
+procedimientos y de instrucciones, la actuación a
+seguir ante cualquier situación ambiental que se
+presente en la planta.
+a su vez, el manual de gestión ambiental y energética
+se divide en:
+  información general de la planta.
+  sistema integrado de gestión ambiental             y
+  energética.
+  política ambiental y energética.
+  evaluación y registro de aspectos ambientales.
+  planificación energética.
+  objetivos ambientales y energéticos.
+  estructura organizativa.
+  procedimientos organizativos.
+  auditoría y revisión del sigae.
+  información, entrenamiento y comunicaciones.
+  referencia a otros sistemas de gestión.
+  glosario de términos.
+un procedimiento de gestión ambiental y energética
+describe de manera sistemática y comprobada el
+proceso a seguir para actividades ambiental y
+energéticamente relevantes en un área de aplicación
+determinada. todos los procedimientos, tanto los
+referentes a la gestión ambiental como a la energética,
+deben ser aprobados por el representante de la                 trabajos en la nave de prensas
+dirección.
+
+
+
+
+                                                                                                página 23
+
+   5.3 iso 50001:2011. estructura del cae
+
+ gm españa consigue superar con enorme éxito todos            mejora de su eficiencia energética y en su compromiso
+ los años el proceso de certificación en la norma iso         por la mejora continua, animando a seguir
+ 50001:2011 - sistemas de gestión energética, por la          contribuyendo con las buenas prácticas e iniciativas
+ cual se certifica la existencia de un sistema optimizado     para conseguir entre todos ser los más eficientes,
+ para el correcto uso de la energía.                          minimizando el consumo energético y reduciendo las
+                                                              emisiones.
+ esta norma tiene como fin facilitar a las organizaciones
+ una herramienta que permita la reducción de los              gm españa involucra, forma y anima a toda la planta
+ consumos de energía, los costos financieros asociados y      (trabajadores y contratistas) para mantener y seguir
+ consecuentemente las emisiones de gases de efecto            mejorando en eficiencia energética a través del comité
+ invernadero.                                                 de ahorro energético. en la figura 4 se muestra la
+                                                              organización del mismo.
+ la certificación iso 50001 reconoce los niveles de
+ excelencia alcanzados por la compañía en la constante
+
+
+
+
+                                           fig. 4. organización del cae
+
+
+
+
+departamento de medio ambiente
+
+planta de energía
+
+
+
+
+                    página 25
+
+   6. aspectos ambientales
+
+   6.1 evaluación de aspectos ambientales
+
+ según el reglamento (ce) nº 1221/2009 del parlamento      de preguntas que reciben una puntuación de 0 a 1 (ver
+ europeo y del consejo, aspecto ambiental es “un           tabla 3).
+ elemento de las actividades, productos o servicios de     el resultado obtenido para estas dos variables para
+ una organización que tiene o puede tener un impacto       cada aspecto ambiental, se representa gráficamente
+ en el medio ambiente”. si el impacto puede ser            en un eje cartesiano, siendo el eje x el impacto y el y el
+ significativo se habla entonces de aspecto ambiental      riesgo (gráfico 1).
+ significativo.
+ a la hora de determinar los aspectos ambientales, se ha   así se determina si el aspecto es:
+ considerado la perspectiva del ciclo de vida.
+                                                             no significativo (banda entre 0 y 0.25 puntos)
+ los coordinadores ambientales de cada área realizan         poco significativo (banda entre 0.25 y 0.5 puntos)
+ el registro de aspectos ambientales anualmente y
+                                                             significación media (entre 0.5 y 0.8 puntos)
+ siempre que haya habido un cambio ambientalmente
+ relevante. posteriormente, el comité de medio               significativo (banda entre 0.8 y 1 punto)
+ ambiente (coma) procede a una evaluación de los
+ mismos y determinar cuáles son significativos según el
+ procedimiento z 10 01 p de nuestro sigae.
+ los vectores más importantes a tener en cuenta de
+ cara a la evaluación de aspectos ambientales son:
+   emisiones hacia la atmósfera.
+   residuos y en particular los peligrosos.
+   utilización de recursos naturales.
+   vertidos en las aguas y alcantarillado.
+  emisión de energía térmica, ruido, polvo e impacto
+  visual.
+  repercusiones en sectores concretos               del
+  medioambiente y de los ecosistemas.
+ además de evaluar los aspectos ambientales en
+ condiciones normales y anormales de operación,
+ también hay que considerarlos en posibles situaciones
+ de emergencia.
+ en condiciones normales y anormales, la evaluación se
+ realiza considerando su riesgo (probabilidad) e           gráfico 1. representación impacto frente a riesgo
+ impacto (gravedad). para ello se responde a una serie
+
+
+
+
+departamento de medio ambiente
+
+                  determinación del impacto                                     determinación del riesgo
+                          (gravedad)                                                  (probabilidad)
+                                                               ¿existe un riesgo potencial de contaminación del medio
+       ¿afecta el aspecto a la calidad del aire?
+                                                               ambiente debido al aspecto?
+                                                               ¿existe un riesgo potencial de toxicidad sobre la salud humana
+       ¿afecta el aspecto a la calidad del agua?
+                                                               debido al aspecto?
+       ¿afecta el aspecto en el flujo de residuos?             ¿existen planes y objetivos dispuestos en el bpd?
+                                                               ¿está el aspecto controlado por la legislación española (ippc,
+       ¿afecta el aspecto a la tierra o el agua subterránea?
+                                                               rd, etc.)?
+       ¿influye el aspecto en el consumo de materias primas,   ¿existe preocupación por parte del público por el aspecto? (por
+       energía y/o recursos naturales?                         ejemplo, la actividad nuclear)
+                                                               ¿hay uso de equipos de reducción para controlar las al
+       magnitud
+                                                               aspecto? (por ejemplo, filtros)
+                                                               ¿hay un riesgo potencial de emisión incontrolada del aspecto
+       aproximación a límites                                  que podría terminar con multas o responsabilidad de uso
+                                                               anterior?
+       puntuación total: ___                                   puntuación total: ___
+
+               tabla 3. criterios de evaluación de aspectos ambientales en condiciones normales.
+
+
+
+
+con los significativos se establecen objetivos en el bpd             un aspecto ambiental es directo si la empresa tiene un
+y con los de significancia media, objetivos específicos              control directo de la gestión del mismo. si la empresa
+de área.                                                             tiene influencia pero no un control directo sobre el
+                                                                     aspecto ambiental, se trata de un aspecto ambiental
+en la tabla 3 se muestran las cuestiones a plantearse                indirecto.
+para la determinación de los valores riesgo e impacto.
+                                                                     entre las actividades generadoras de aspectos
+para la evaluación en condiciones de emergencia, el                  ambientales indirectos se han considerado:
+nivel de significancia (s) de los aspectos ambientales
+                                                                             transporte de mercancías y empleados.
+es calculado de la siguiente manera:
+                                                                             gestores finales de residuos peligrosos.
+                                                                             gestor de residuos interno.
+                       s = 2g + d + f
+                                                                             decapado de útiles de pintura.
+siendo g la gravedad, d la duración y f la frecuencia de                     lavado de ropa y trapos.
+la emergencia provocada por el aspecto ambiental.                            proveedores materias primas y auxiliares.
+                                                                             proveedores que realizan actividades en las
+en función del valor de s obtenido se define el valor de
+                                                                             instalaciones de gm españa.
+significancia:
+                                                                             transporte interno.
+           s < 6: no significativo.                                          descarga de camiones cisterna.
+
+           6 < s < 9: poco significativo.                            todas estas actividades               son     realizadas       por
+           s > 9: significativo.                                     proveedores y contratistas.
+
+
+
+
+                                                                                                                        página 27
+
+      6.2 resultado de la evaluación 2016
+ se han evaluado un total de 55 aspectos ambientales                                   de significancia media, otros 20 poco significativos y 2
+ (directos e indirectos). en la tabla 4 se muestra el                                  no significativo (tabla 5).
+ listado de los aspectos ambientales evaluados en                                      la evaluación de los aspectos indirectos da como
+ condiciones normales. de todos los aspectos                                           resultado 5 de significancia media y 3 poco
+ considerados, 14 se han considerados significativos, 29                               significativos.
+
+nº     aspecto ambiental                                nº   aspecto ambiental                          nº   aspecto ambiental
+       emisión de gases en extracción general de                                                             aspectos derivados del trabajo con contratas
+ 1                                                      20   lodos de fosfatación                       39
+       cabinas de pintura 1. edificio 41. (foco 122)                                                         presencia no habitual en planta
+
+       emisión de gases en extracción general de
+ 2                                                      21   lodos de pintura                           40   consumo de aceite de maquinaria
+       cabinas de pintura 2. edificio 41. (foco 123)
+
+       emisión de gases en extracción general de
+ 3                                                      22   lodos químicos de planta de aguas          41   consumo de disolvente
+       cabinas. edificio 31. (foco 77)
+
+       emisión de gases en extracción general de
+ 4                                                      23   residuo de aceite usado                    42   consumo de chapa laminada
+       hornos de cataforesis. edificio 44. (foco 118)
+
+       emisión de gases en hornos de imprimación.
+ 5                                                      24   disolvente a reciclar                      43   consumo de adhesivos y masillas
+       edificio 41. (focos 15 al 23)
+
+       emisión de gases en calderas y
+ 6     cogeneración. edificios 11 y 79. (focos 1, 2,    25   residuos sanitarios citostáticos           44   consumo de ceras
+       99, 100, 101, 102, 125)
+
+       emisiones de cov’s en sala de mezclas.
+ 7                                                      26   restos de adhesivos y sellantes            45   consumo de pinturas y barnices
+       edificio 41
+
+                                                                                                             consumo de reactivos químicos energía y
+ 8     emisión de cov´s                                 27   purgas de pvc (retornable)                 46
+                                                                                                             aguas
+       emisión de cov´s en la descarga de
+ 9                                                      28   tierra absorbente y trapos sucios          47   consumo de fosfatante
+       camiones cisterna
+
+ 10    emisión de gases de efecto invernadero co2       29   residuos no peligrosos                     48   consumo de aceite motor
+
+ 11    emisión de olores al exterior                    30   residuos no reciclables                    49   consumo de gas refrigerante
+
+
+ 12    emisión de ruido al exterior                     31   lodos no peligrosos                        50   consumo de gasolina
+
+
+ 13    vertido aguas químicas                           32   residuos embalajes no retornables          51   consumo de gasóleo
+ 14    vertido aguas sanitarias y aceitosas             33   chatarra                                   52   consumo de glp
+ 15    consumo de agua                                  34   envases y embalajes retornables            53   consumo de anticongelante
+                                                             residuos de envases máquinas vending y
+ 16    consumo de agua torres refrigeración             35                                              54   consumo de grasas
+                                                             comedor
+
+ 17    consumo de energía y recursos: gas natural       36   emisiones en el transporte por carretera   55   iluminación nocturna
+
+                                                             aspectos derivados del trabajo con
+ 18    consumo de energía y recursos: electricidad      37
+                                                             gestores de residuos peligrosos
+
+ 19    residuos peligrosos                              38   contratas presencia habitual en planta
+
+
+                              tabla 4. aspectos ambientales considerados en condiciones normales.
+
+
+
+
+departamento de medio ambiente
+
+                                                                                significancia        poco        sig-        no         sig-
+     tipo de aspecto              número           significativos
+                                                                                    media              nificativo              nificativo
+directos                             47                    11                        27                       8                      1
+indirectos                            8                     0                         5                       3                      0
+condiciones de emergencia            13                     3                         0                       9                      1
+total                                68                    14                        32                      20                      2
+
+
+                                tabla 5. resultado de la evaluación de aspectos ambientales.
+
+  la tabla 6 muestra los aspectos significativos, cuyo seguimiento anual se describe en el apartado 6.1.
+
+                       aspectos significativos                                                       posible impacto
+
+                         emisión de gases en extracción general cabinas           contaminación del aire por co y nox, ps, pb, zn y cd:
+                         de pintura 1 edif.41 foco 122                            acidificación, bioacumulación y calentamiento global.
+
+
+
+                       emisiones de gases en extracción general hornos            contaminación del aire: contribución al calentamiento
+                       de cataforesis edificio 44 foco 118                        global.
+    emisiones de
+    gases
+                         emisión de gases en calderas y cogeneración              contaminación del aire por co y nox: acidificación y
+    contaminantes        edificios 11 y 79 focos 1, 2, 99, 100, 101, 102, 125     calentamiento global.
+
+
+                                                                                  contribución a efectos tóxicos en la salud humana,
+                         emisión de cov´s                                         interfiere en la actividad fotosintética y el metabolismo de
+                                                                                  las plantas.
+
+                                                                                  contaminación del aire por co2: contribución al cambio
+                         emisión de gases de efecto invernadero co2
+                                                                                  climático.
+
+                         aguas químicas                                           contaminación del agua: eutrofización y disminución de la
+    vertidos
+                         aguas sanitarias y aceitosas                             biodiversidad.
+
+    consumos             agua en torres de refrigeración                          reducción de recursos naturales – estrés hídrico
+
+                         residuos peligrosos
+
+                                                                                  contaminación del suelo y las aguas subterráneas,
+   residuos              lodos químicos de depuradora                             agotamiento de recursos por sobre proceso, detrimento de
+                                                                                  la biodiversidad y bioacumulación
+
+                         restos de adhesivos y sellantes
+
+
+                   tabla 6. aspectos ambientales significativos en condiciones normales del año 2016
+
+
+
+
+                                                                                                                                     página 29
+
+    en la tabla 7 se muestran los 32 aspectos considerados de significancia media.
+                   aspecto de significación media                                            posible impacto
+                                                                           contaminación del aire por co, nox, ps, pb, zn y
+                    emisión de gases en extracción general cabinas
+                                                                           cd, acidificación, bioacumulación, calentamiento
+                    pintura 2 edificio 41 - foco 123
+                                                                           global
+  emisiones de
+                    emisiones de gases en extracción general en cabinas
+  gases             edificio 31 foco 77
+                    emisiones de gases en hornos de imprimación edificio   contaminación del aire. calentamiento global.
+  contaminantes     41 focos 15 al 23
+                    emisiones en el transporte por carretera
+                    emisión de cov’s en la descarga de camiones cisterna   contaminación del aire por covs
+                    agua
+                    gas natural
+                    electricidad
+                    disolvente
+                    chapa laminada
+                    adhesivos y masillas
+consumos            pinturas y barnices                                    reducción de recursos naturales y pérdida de
+                                                                           biodiversidad
+                    fosfatante
+                    gas refrigerante
+                    gasolina
+                    gasóleo
+                    glp
+                    anticongelante
+                    lodos de fosfatación
+                    lodos de pintura
+                    aceite usado
+                    residuos sanitarios citóstáticos
+                    tierra absorbente y trapos sucios
+                                                                           contaminación del suelo y las aguas subterráneas,
+residuos            no peligrosos
+                                                                           agotamiento de recursos por sobreproceso
+                    no reciclables
+                    lodos no peligrosos
+                    residuos de embalaje no retornable
+                    chatarra
+                    de contratas con presencia habitual en planta
+
+disolvente a reciclar (retornable)                                         agotamiento de recursos
+purgas de pvc (retornable)                                                 reducción de la generación de residuos
+                                                                           agotamiento de recursos naturales, uso materiales
+aspectos derivados del trabajo en contratas sin presencia habitual en
+                                                                           peligrosos, generación de residuos peligrosos,
+planta
+                                                                           contaminación de suelos
+
+                           tabla 7. aspectos ambientales de significancia media del año 2016
+
+
+
+
+departamento de medio ambiente
+
+trabajos de verano para el montaje de las nuevas instalacion es
+
+
+
+
+                                                     página 31
+
+   7. acciones para abordar riesgos y oportunidades
+
+   7.1 determinación del riesgo asociado con amenazas y oportunidades
+
+ el riesgo asociado con amenazas y oportunidades                       por la organización central de medio ambiente .
+ puede estar relacionado con uno o más aspectos
+                                                                       el análisis cualitativo se lleva a cabo cruzando
+ ambientales      significativos, obligaciones     de
+                                                                       debilidades y fortalezas con amenazas y
+ cumplimiento, requisitos de las partes interesadas u
+                                                                       oportunidades. dicho análisis arroja una serie de
+ otras cuestiones.
+                                                                       estrategias y líneas de acción que pueden ser
+ el método usado es el de la determinación del riesgo a                consideradas en la determinación de objetivos y
+ través de la matriz dafo (debilidades, amenazas,                      planes de acción que se plasmarán en el bpd
+ fortalezas y oportunidades).                                          (despliegue de objetivos).
+ el punto de partida para la identificación de                         el análisis cuantitativo se obtiene cruzando cada
+ debilidades y fortalezas es la evaluación de aspectos                 fortaleza y debilidad con cada amenaza y
+ ambientales y la determinación de la línea base de                    oportunidad y marcar el cruce con los siguientes
+ energía, así como el análisis de riesgo llevado a cabo                signos:
+
+
+            fortalezas (f) con oportunidades (o)                      fortalezas (f) con amenazas (a)
+            +, cuando f permite aprovechar o                          +, cuando f reduzca a
+            =, cuando f es indiferente para aprovechar o              =, cuando f es indiferente con respecto a a
+            -, cuando f impide aprovechar o                           -, cuando f aumenta a
+
+            debilidades (d) con oportunidades (o)                     debilidades (d) con amenazas (a)
+            +, cuando d permite beneficiarse de o                     +, cuando d reduzca a
+            =, cuando la relación se de indiferencia                  =, cuando sea indiferente
+            -, cuando d dificulte aprovechar o                        -, cuando d incremente a
+
+
+ sumando algebraicamente los positivos y los negativos se obtiene el signo correspondiente que se interpreta así:
+
+      balance de la fila oportunidades                               balance de la fila amenazas
+      - un balance positivo (+) significa que no existe dificultad   - un balance positivo (+) aconseja continuar actuando
+      estratégica para aprovechar la oportunidad que ofrece          como hasta el presente
+      el entorno.                                                    - un balance negativo (-) señala la existencia de un pro-
+      - un balance negativo (-) señala la existencia de un pro-      blema a resolver a corto plazo.
+      blema que reclama formular una estrategia orientada a          - el signo = indica alerta.
+      cambiar este signo.
+
+      cruces de las columnas fortalezas y debilidades
+      un balance positivo (+) recomienda continuar con la estrategia seguida hasta el momento.
+      un balance negativo (-) aconseja formular estrategias orientadas a cambiar este signo.
+      el signo = indica una situación, que no siendo peligrosa, debe tenerse en cuenta al menos a medio plazo.
+
+
+
+
+departamento de medio ambiente
+
+7.2 resultado de la evaluación
+
+los resultados de la evaluación pueden ser                        en la tabla 8 se muestran las líneas de acción para
+considerados como elementos de entrada para                       fomentar las fortalezas y las oportunidades y disminuir
+planificar acciones y para establecer objetivos                   las amenazas y las debilidades.
+ambientales en el bpd. dichas acciones pueden tener
+que ver con procedimientos e instrucciones de control
+operacional, soporte, evaluación del desempeño, e
+incluso en otros sistemas de gestión de la planta de
+figueruelas (como el de calidad o prevención).
+
+
+
+                                       fortalezas                                             debilidades
+
+  amenazas
+                 1. mantener programa de pruebas anuales de                1. distribuir y supervisar el cumplimiento del
+                 estanqueidad                                              procedimiento de prevención y control de
+                 2. proteger las zonas más expuestas a la climatología     derrames de producto químico
+                 frente a la contaminación (cerramientos, mallas,          2. insistir en la reposición de los tanques
+                 cubetos, etc)                                             enterrados
+                 3. continuar trabajo con contratistas y proveedores de    3. potenciar la formación y la competencia.
+                 servicios                                                 revisar el plan de formación anual con detalle
+                 4. preparar plan específico para la transición de         4. potenciar el comité de productos químicos y
+                 servicios estratégicos para el medio ambiente formando    los responsables de distribución de
+                 a las empresas adjudicatarias                             documentación de productos químicos
+                                                                           5. escalar el problema de instalaciones con riesgo
+                                                                           ambiental e incluir estos equipos en el reporte
+                                                                           para la corporación que incluye las reservas
+                                                                           económicas para hacer proyectos de
+                                                                           remediación o en proyectos de reposición
+                                                                           6. controles por encima de la ley (aguas etc)
+
+oportunidades
+                 1. dar un nuevo aire a los programas de comunicación y    1. potenciar las iniciativas de participación de
+                 sensibilización.                                          empleados (campaña de sugerencias, ...), near
+                 2. mantener el programa de control legislativo y          misses, detección de no conformidades, etc
+                 capacitación al coma/cae
+                 3. buscar iniciativas con entidades locales para mejora
+                 de medio ambiente circundante (whc)
+
+
+                                              tabla 8 . líneas de acción
+
+
+
+
+                                                                                                               página 33
+
+departamento de medio ambiente
+
+ 8. comportamiento ambiental
+
+ 8.1 indicadores ambientales
+
+según el reglamento (ce) nº 1221/2009 del parlamento          los indicadores informan sobre la presencia, tendencia
+europeo y del consejo, de 25 de noviembre de 2009, un         e intensidad de los aspectos ambientales, facilitando la
+indicador de comportamiento ambiental es: “una                obtención de conclusiones. todos los indicadores
+expresión específica que permite medir el                     utilizados en esta declaración están recogidos en dicho
+comportamiento       medioambiental       de     una          reglamento conocido como emas iii.
+organización”.
+
+
+
+
+              participación del director técnico en el energy efficiency forum
+
+existen 3 tipos de indicadores, los indicadores del           las tablas 9 a 10 muestran los indicadores
+comportamiento de la gestión (icg), los indicadores del       considerados en gm españa. los indicadores icg
+comportamiento operacional (ico) y por último, los            reflejan las acciones organizativas (control interno,
+indicadores del estado medioambiental (iem).                  organización e información) que la empresa está
+                                                              emprendiendo para minimizar su impacto ambiental.
+
+
+                                  área de gestión                  indicador
+
+
+                            programa de gestión ambiental        sugerencias/año
+
+
+                          tabla 9. indicadores del comportamiento de la gestión - icg
+
+
+
+
+                                                                                                         página 35
+
+   los indicadores del comportamiento ambiental, ico, se centran en la planificación, control y seguimiento del
+   impacto ambiental de la empresa.
+
+
+                         aspecto ambiental                                indicador
+
+                                                        mwh/año
+                   consumo de energía                   mwh/veh. año
+                                                        eficiencia energética
+                                                        m3/veh.
+                   consumo de agua
+                                                        m3/año
+                                                        m3/año
+                   vertido de agua
+                                                        m3/veh.
+                   emisión de cov´s                     g/m2 superficie pintada
+                   otras emisiones al aire              kg/año
+                   (nox y ps)                           kg/veh. año
+                   biodiversidad                        m2 de superficie construida
+                                                        tm/año
+                   generación de residuos
+                                                        kg residuo/veh. año
+
+                                                        tm/año
+                   consumo de materias primas           kg/veh.
+                                                        kg/(veh. + componente)
+
+                          tabla 10. indicadores del comportamiento operacional - ico.
+
+
+   por último, los indicadores iem determinan la calidad del entorno ambiental de la empresa.
+
+
+
+                          aspecto ambiental                             indicador
+
+                                                      tm co2 eq./año
+                      emisión de gei
+                                                      tm co2 eq./tm
+                      uso del suelo                   m2 superficie construida/tm producida
+
+                                                      temperatura en ºc
+                                                      alcalinidad en ph
+                      calidad agua de vertido         dqo y dbo5 en mgo2/l
+                                                      cot, zn, fe, p y fluoruros en mg/l
+                                                      aceites y sólidos en suspensión en mg/l
+
+                           tabla 11. indicadores del estado medioambiental - iem.
+
+
+
+
+departamento de medio ambiente
+
+  8.2 aspectos significativos
+
+consumo de energía                                                     varios procesos productivos de combustión directa
+para el desarrollo de su actividad productiva, la                      de la planta de pintura, principalmente hornos y
+factoría de general motors españa en figueruelas se                    cabinas de pintado
+abastece de electricidad y de gas natural. también
+dispone desde 1994 de una instalación de                            el abastecimiento de energía eléctrica de la planta se
+cogeneración de ciclo combinado con turbina de gas,                 hace por medio de conexión directa a la red de
+caldera de recuperación y turbina de vapor. esta                    transporte eléctrica (220 kv, ree). desde la puesta en
+instalación perteneció a una ute hasta 2004, momento                marcha de la cogeneración, la planta se había operado
+en que general motors españa la adquirió en                         en régimen de autoconsumo, adquiriéndose de una
+propiedad. la explotación de la misma fue realizada                 empresa comercializadora la energía eléctrica no
+siempre por gm españa.                                              cubierta por la cogeneración y vendiéndose a red los
+                                                                    excedentes de generación en tiempo no productivo.
+las instalaciones con uso significativo de gas natural
+son:                                                                desde 2010 la planta de cogeneración se opera en
+                                                                    régimen de "todo-todo", de acuerdo al real
+   la planta de cogeneración, cuyo calor residual útil se
+                                                                    decreto 413/2013, de 6 de junio; adquiriéndose de una
+   destina a cubrir la demanda térmica de la factoría
+                                                                    empresa comercializadora toda la energía eléctrica
+   que incluye la generación de agua sobrecalentada
+                                                                    demanda por la planta y siendo gestionada la energía
+   (condensadores)       y      agua       subenfriada
+                                                                    generada por los generadores eléctricos del ciclo
+   (absorbedores).
+                                                                    combinado, deducido el consumo de los servicios
+   calderas de agua sobrecalentada encargadas de                    auxiliares, como energía vendida a red.
+   cubrir el resto de la demanda térmica de la planta,
+                                                                    la tabla 12 desglosa el consumo anual de energía en
+   en caso de indisponibilidad de la cogeneración o
+                                                                    los años 2014, 2015 y 2016.
+   demandas punta de la planta.
+
+
+
+                                  límite
+      tipo de energía               aai                         uso/proceso                   2014      2015       2016
+                                (mwh/año)
+
+eléctrica comprada                295.000         instalaciones y equipos /iluminación       160.767   172.974    173.819
+
+eléctrica vendida                 140.000         venta a red                                71.465    76.385     71.382
+
+eléctrica neta consumida          155.000         instalaciones y equipos /iluminación       89.301    96.590     102.437
+                                                  cogeneración, y calderas, hornos y cabi-
+gas natural                       693.000                                                    349.471   393.633    382.919
+                                                  nas de pintura
+fuel-oil                             -            emergencias                                  0        762         0
+
+total                                                                                        438.773   490.985    485.356
+
+                                         tabla 12. consumo de energía 2014-2016.
+
+
+
+
+                                                                                                                 página 37
+
+  el consumo de energía por vehículo producido ha                        la electricidad procedente de la cogeneración,
+  sido similar al de 2015. la distribución de la                         solicitado a la comisión nacional de los mercado y la
+  producción, con producción irregular en el turno de                    competencia (cnmc), por lo que la energía eléctrica
+  noche, así como las actividades de los lanzamientos                    producida y consumida gm españa en 2016 puede
+  de crossland x y c3 aircross han sido compensados                      considerarse 100% procedente de fuentes de
+  con más acciones de ahorro energético (tabla 14).                      energía renovables, cogeneración y residuos.
+  cabe destacar un menor consumo de gas natural                          el consumo de energía por tonelada fabricada en el
+  debido a varios factores: una climatología favorable                   año 2016 ha sido de 1,05 mwh/tm.
+  en este año, el efecto de las diferentes acciones de
+  recuperación de calor implantadas y el cambio de los                             año             alcanzado     indicador
+  criterios de operación de la cogeneración en tiempo
+                                                                                   2014               1,37        mwh/veh.
+  productivo y no productivo, basado en criterios
+  técnico-económicos, hecho también reflejado en el                                2015               1,36        mwh/veh.
+  nivel de energía eléctrica exportada. además, el
+  consumo de la electricidad en la planta durante el                               2016               1,34        mwh/veh.
+  año 2016 ha sido 100% de origen renovable.
+  asimismo, se certificó como “garantías de origen”                            tabla 13. consumo de energía por vehículo.
+
+                                                                 iniciativas
+  reemplazo de alumbrado de línea por tubo led (>20.000 tubos reemplazados)..
+  reemplazo de alumbrado de techo por alumbrado de bajo consumo en el 100% de los edificios auxiliares.
+  corte automático de circuitos en la red de agua sobrecalentada
+  paros de unidades, extractores, quemadores, etc. en no producción.
+  accionamiento remoto de varias instalaciones para programar su desconexión en fines de semana.
+  paros de unidades, extractores, quemadores, etc. en no producción.
+  desconexión de alta frecuencia en acabado final
+  modernización unidades de climatización en edificios 21 y 51
+  instalación de variadores de frecuencia en sistemas de bombeo y soplantes
+                                       tabla 14. algunas de las iniciativas de ahorro energético.
+
+
+
+
+            instalaciones del nuevo refrigerante del vehículo con menor potencial de calentamiento atmosférico
+
+
+
+
+departamento de medio ambiente
+
+emisión de gases de efecto invernadero
+gm españa tiene la autorización de emisiones de gases
+de efecto invernadero del gobierno de aragón, que                                    asignado
+concede los derechos de emisión de co2. la                 año       indicador                        emitido
+                                                                                     2013 -2020
+autorización ha asignado derechos para la                  2014      tmco2/año         45.121          64.814
+cogeneración, calderas de combustión y hornos y            2015      tmco2/año         60.832          72.969
+cabinas de la factoría.                                    2016      tmco2/año         59.735          71.011
+en la tabla 15 se reflejan los datos del periodo de
+                                                        tabla 15. emisiones de co2 en el período 2014-2016.
+derechos de emisión de los años 2013-2020 .
+las toneladas asignadas son mayores, por el cambio de
+la reglas de asignación. entre las instalaciones que
+emiten co2 que se ven afectadas por el régimen de
+comercio de derechos de emisión desde 2013, están             año           emitido               indicador
+hornos y las cabinas de pintura de la factoría.
+                                                              2014           0,203                tmco2/veh.
+es destacable que a pesar de haberse dado un
+aumento de producción en el año 2016, las toneladas           2015           0,203                tmco2/veh.
+de co2 que se deben declarar sean menores que las
+                                                              2016           0,196                tmco2/veh.
+declaradas en el anterior año.
+la emisión de co2 por tonelada fabricada en el año       tabla 16. emisiones de co2 por vehículo fabricado.
+2016 ha sido 0,154 ton de co2 /tm fabricada. la tabla
+16 muestra las emisiones de co2 por vehículo.
+
+
+
+
+                                nuevo compresor en la nave de prensas
+
+
+
+
+                                                                                                     página 39
+
+  opel corsa
+
+ otros contaminantes atmosféricos
+ anualmente gm españa tiene la obligación legal de           parámetro            2014    2015          2016   indicador
+ declarar en el prtr-españa (registro estatal de
+ emisiones y fuentes contaminantes) sus emisiones         óxidos de nitrógeno
+                                                                                  1,14    1,34          1,41     kg/veh.
+                                                              (no/no2)
+ totales anuales a la atmósfera. las emisiones
+ consideradas más relevantes de nuestro proceso son        partículas sólidas     0,04    0,20          0,06     kg/veh.
+ las mostradas en las tablas 17a y 17b.                            tabla 17a. emisiones relativas de nox y ps.
+ la emisión de nox por tonelada fabricada en el año
+ 2016 ha sido 1,10 kg de nox/tm y la de partículas
+ sólidas ha sido 0,04 kg de ps/tm.
+                                                             indicador           2014            2015           2016
+ el aumento en los valores de emisiones totales y
+                                                             kg nox/año         364.589     483.435            509.396
+ absolutos se debe tanto al aumento en el número de
+ horas de trabajo en los últimos años como a un cambio        kg ps/año         11.880       72.548            20.436
+ en la sistemática de medición, ya que anteriormente no
+ se tenía en cuenta la incertidumbre en la lectura del              tabla 17b. emisiones totales de nox y ps.
+ valor.
+
+
+
+
+departamento de medio ambiente
+
+emisión de cov´s                                              el rd 117/2003 establece límite de emisión de cov´s de
+                                                              60 g/m2 en el caso de fábricas de automóviles; dicho
+en el año 2007 se instaló un sistema de eliminación de
+                                                              límite no ha sido superado en ningún caso en el período
+compuesto orgánicos volátiles para los gases de la
+                                                              2014-2016 (ver tabla 18).
+zona de base de cabinas de acabado en la planta de
+pintura. el sistema recibe el aire cargado con cov´s y lo     la disminución que se ha producido en 2016 es debido
+filtra para eliminar las partículas sólidas y así evitar el   al cambio de robots y modernización de la instalación
+deterioro de los grupos de adsorción-desorción.               en la cabina de imprimación de la planta de pintura,
+                                                              disminuyendo el consumo de disolvente y de pintura,
+los cov´s están relacionados con el smog fotoquímico
+                                                              ya que son más modernos y más eficientes en la
+dado que son precursores del ozono troposférico y
+                                                              aplicación de pintura. el 100% de la producción pasa
+además, son potencialmente cancerígenos.
+                                                              por esta instalación.
+los grupos de adsorción están formados por un
+                                                              en la planta de pintura también se han cambiado los
+compuesto sólido llamado zeolita el cual es capaz de
+                                                              robots de la zona de laca de la cabina de acabado 2,
+adsorber los cov´s en su estructura porosa.
+                                                              disminuyendo el consumo de pintura y de disolvente,
+posteriormente, los cov´s son desorbidos dejando las
+                                                              consiguiéndose una mayor eficiencia de aplicación.
+zeolitas libres para un nuevo ciclo de adsorción. en el
+proceso de desorción se crea una corriente
+concentrada de cov´s que es dirigida a un equipo de           límite
+                                                                          indicador         2014      2015     2016
+                                                                aai
+oxidación térmica donde los disolventes son
+eliminados.
+                                                               60       g/m2 sup. pintada   58,1      51,4      49,6
+el calor producido en esta etapa se aprovecha en la
+etapa de desorción de tal manera que la instalación en
+                                                                           tabla 18. emisión de cov´s
+su conjunto es auto-térmica.
+
+
+
+
+                                  instalación para eliminación de cov’s
+
+
+
+
+                                                                                                      página 41
+
+ residuos
+ uno de los objetivos de sostenibilidad de gm                             las figuras 5a y 5b muestran la generación de residuos
+ corporación es reducir los residuos y promover que sus                   peligrosos y residuos no peligrosos en el ciclo 2014 -
+ fábricas consigan ser vertedero cero*.                                   2016 por vehículo fabricado.
+ en septiembre de 2014 la planta de general motors                        el aumento de residuos peligrosos con destino a
+ españa consiguió el reto de alcanzar la categoría de                     vertedero se debe al incremento de residuos derivados
+ vertedero cero*, reafirmando su compromiso con el                        de los trabajos de demolición de para albergar los
+ medioambiente a través del reciclaje, reutilización o                    nuevos proyectos y en concreto a la a eliminación de
+ trasformación en energía de los residuos generados en                    antiguas traviesas de ferrocarril . además, con relación
+ sus operaciones diarias, evitando que vayan al                           al residuo no peligroso, en el año 2016 uno de los
+ vertedero.                                                               objetivos ha sido mejorar el nivel en la jerarquía del
+                                                                          residuo de construcción y demolición, y desde el 1 de
+ con este logro de la planta aragonesa, son ya 152 las
+                                                                          enero de 2017 todos estos residuos han dejado de ir a
+ plantas de gm que han conseguido ser vertedero cero.
+                                                                          vertedero.
+
+
+
+
+                                            zona de residuos no peligrosos
+
+       *residuos que provienen del proceso productivo. no entran dentro de la definición de vertedero cero los residuos eventuales de
+       construcción y demolición o los residuos sanitarios.
+
+
+
+
+departamento de medio ambiente
+
+          5,00
+                                                                  4,68            4,61
+          4,50
+                  4,17       4,12
+          4,00
+                                           3,46      3,44
+          3,50                                                                                     totales p
+
+          3,00
+kg/veh.
+
+
+
+
+          2,50                                                                                     rp valorizados
+
+          2,00
+
+          1,50                                                                                     rp elementos que no
+                                                                                                   entran en la
+          1,00                                                                                     definición "vertedero
+                                                                                                   cero"
+          0,50
+                                  0,04                                               0,07
+                                                           0,02
+          0,00
+                           2014                    2015                     2016
+
+
+                     fig. 5a. residuos peligrosos generados por vehículo en el período 2014-2016
+
+
+
+
+          350,0                            329,6
+
+                                                                         298,5
+          300,0    286,2
+
+                           254,05                   250,17
+          250,0                                                                  234,26
+
+
+          200,0
+kg/veh.
+
+
+
+
+                                                                                                    totales np
+
+          150,0
+                                                                                                    chatarra
+
+          100,0
+                                                                                                    rnp valorizado
+                                                      53,09
+                                                                                   44,44
+           50,0              29,15                                                                  rnp elementos que no
+                                                             26,36                         19,80    entran en la definición
+                                    2,98                                                            "vertedero cero"
+            0,0
+                           2014                     2015                         2016
+
+                  fig. 5b. residuos no peligrosos generados por vehículo en el período 2014-2016
+
+
+
+
+                                                                                                                      página 43
+
+ en gm españa desde el año 2011 se hace seguimiento        como se observa en las figuras 6a y 6b, en el año 2016
+ de la reducción de la generación de residuos totales      se ha aumentado la cantidad generada de residuos
+ por coche fabricado. este camino viene determinado        peligrosos. se debe fundamentalmente a dos hechos:
+ por la evaluación de aspectos ambientales y el
+                                                                 la instalación de un filtro prensa nuevo en la
+ compromiso de general motors corporación para
+                                                                 planta de aguas, que ha permitido dividir la
+ reducir mundialmente la generación de residuos
+                                                                 corriente de lodos industriales químicos. la
+ totales en un 40% desde el año 2010 al año 2020.
+                                                                 caracterización de esta corriente ha dado como
+ considerando residuos totales como: todos los residuos          consecuencia la generación de un nuevo residuo
+ peligrosos (definidos por la legislación de residuos) y         peligroso por la concentración de metales en
+ residuos no peligrosos (líquidos o sólidos) procedentes         dicha corriente de lodo. se ha mejorado la
+ de las operaciones de manufacturas excluyendo aguas             calidad por tanto del lodo industrial aceitoso.
+ residuales, chatarra metálica y residuo eventual
+                                                                 la generación extraordinaria de residuos:
+ (resultante de operaciones de construcción, demolición
+                                                                 plástico      contaminado procedente    del
+ y remediación).
+                                                                 enmascaramiento de los vehículos para ser
+ tras la observación de las figuras 6a y 6b, se concluye         pintados en 2 tonos y el cambio de baterías
+ que ha disminuido el peso del residuo no peligroso              derivado del mantenimiento de los vehículos
+ generado por vehículo. esto es debido a que durante el          industriales.
+ 2016, aunque ha continuado la producción del modelo
+                                                           destaca como positivo, la importante reducción de los
+ mokka, cuyo proyecto contempla el aprovisionamien-
+                                                           lodos de fosfatación y los de pintura, para el que se
+ to de piezas desde corea y el tipo de embalaje que se
+                                                           habían fijado un objetivo de reducción del 3%. dicho
+ utiliza no es retornable, sino de un solo uso (one-way
+                                                           objetivo, se ha conseguido ampliamente. además se
+ packaging); se ha tratado de localizar piezas en
+                                                           ha hecho la caracterización completa de los residuos
+ proveedores cercanos, usándose contenedores
+                                                           según el reglamento 1357/2014.
+ retornables. es destacable que a pesar de haberse
+ lanzado el mokka x y construirse nuevos edificios, el     adicionalmente, se han llevado a cabo varias
+ consiguiente impacto en el flujo de residuos no           iniciativas para la reducción de residuos. entre las más
+ peligrosos ha sido muy bajo.                              significativas, destacan el cambio de contenerización
+                                                           de los residuos no peligrosos en la nave de acabado
+                                                           final y la segregación de los residuos peligrosos de
+                                                           absorbentes dividiéndolos en dos categorías según su
+                                                           riesgo de inflamabilidad.
+                                                           la generación de residuos peligrosos por tonelada
+                                                           fabricada en el año 2016 ha sido de 0,004 tm residuos
+                                                           peligrosos/tm fabricada.
+                                                           la generación de residuos no peligrosos por tonelada
+                                                           fabricada en el año 2016 ha sido de 0,233 tm residuos
+                                                           no peligrosos/tm fabricada.
+                                                           las figuras 6a y 6b muestran la generación de residuos
+                                                           totales, residuos peligrosos y residuos no peligrosos en
+                                                           el ciclo 2014 - 2016 por vehículo fabricado.
+
+
+
+
+departamento de medio ambiente
+
+            140.000
+
+                                 119.728                     118.483
+            120.000
+                                              109.575                     107.882
+            100.000
+                         92.792                         91.460
+
+             80.000
+                                                                                                                 2014
+ tm
+
+
+
+
+                                                                                                                 2015
+             60.000
+                                                                                                                 2016
+
+             40.000
+
+
+             20.000
+                                                                                             1.245     1.692
+                                                                                    1.332
+                   0
+                                  totales                         rnp                             rp
+
+
+                          fig. 6a. residuos generados totales en el período 2014-2016
+
+
+          350,00                               333,08
+                                                                 329,62
+                                                                       303,19              298,50
+          300,00       290,35
+                                  286,18
+
+          250,00
+
+
+          200,00                                                                                         totales
+kg/veh.
+
+
+
+
+                                                                                                         no peligrosos
+          150,00
+                                                                                                         peligrosos
+          100,00
+
+
+           50,00
+                                       4,17                        3,46                    4,68
+            0,00
+                                2014                     2015                       2016
+
+                        fig. 6b. residuos generados por vehículos en el período 2014-2016
+
+
+
+
+                                                                                                                      página 45
+
+    8.3 otros aspectos ambientales
+  consumo de agua                                              torre 11-900 a 4250 micros/cm y las mejoras en
+  general motors españa tiene concedida a través de la         módulos de la torre de refrigeración de compresores.
+  autorización ambiental integrada (aai) dos puntos            se han realizado workshops de reducción de
+  de captación de agua para su proceso fabril, río ebro        consumo de agua en pintura y aguas y varias acciones
+  (102 l/s) y canal imperial de aragón (130 l/s).              de concienciación.
+  mediante los tratamientos necesarios el agua es
+  transformada en los diferentes tipos que la planta                m3 x 1.000
+  requiere: potable, industrial, desmineralizada y                    1600
+                                                                                                                    1500
+                                                                      1400
+  contra incendios.
+                                                                      1200                    1028       1024
+                                                                                   989
+  una vez es utilizada en los diferentes procesos, el                 1000
+  agua sobrante es recogida y tratada adecuadamente                    800
+  para finalizar su ciclo en la planta y ser vertida al río            600
+  jalón (emisario).                                                    400
+                                                                       200
+  si se observan las figuras 7 y 8 se puede apreciar que                  0
+  respecto a 2014 el consumo total ha aumentado, pero                             2014         2015       2016
+                                                                                  consumo agua        limite aai
+  el valor relativo en función de la producción ha                                             año
+  disminuido. la producción en 2016 ha sido mayor con
+  un menor consumo de agua por vehículo.                                     fig. 7. consumo absoluto de agua.
+
+  las plantas de aguas y pinturas continúan realizando
+  acciones de reducción de consumo de agua, entre los            m 3 / veh.
+                                                              4,0
+  que cabe destacar el incremento de conductividad en
+                                                                           3,09
+                                                                                             2,86            2,83
+                                                              3,0
+
+                                                              2,0
+
+                                                              1,0
+
+                                                              0,0
+                                                                            2014             2015           2016
+                                                                                             año
+
+
+                                                                             fig. 8. consumo relativo de agua.
+
+
+
+
+departamento de medio ambiente
+
+vertido
+el vertido de aguas realizado por gm españa se
+compone de aguas tratadas (biológicas y químicas) y
+de agua no tratada al no estar contaminada
+(pluviales y agua de torres de refrigeración). las
+aguas biológicas se componen de aguas sanitarias y
+aceitosas. el emisario se sitúa en el río jalón, estando
+el límite anual determinado por la aai.
+en la figura 9 se pueden ver los distintos vertidos
+generados entre 2014 y 2016 y los límites establecidos
+por aai.
+el vertido de agua total ha sido de 620.897 m3/año.
+por tanto el vertido por vehículo fabricado es 1,72 m3/
+veh.
+
+                                                                     mejoras en balsas de aireación/digestión
+
+
+
+
+            600                                                                                 600
+   m3 x 1000
+                                   530
+            500                                                                                 500
+
+
+            400                                                                                 400
+                     328
+                                                                                                      2014
+                           289
+            300                                                                                 300   2015
+                                 241                                              239
+                                                                                                      2016
+                                                                                          205
+            200                                  150                                            200   valor límite
+                                                                            151
+                                               131 117
+                                         109                         71,3
+            100                                                                                 100
+                                                         49     58    58
+
+               0                                                                                0
+                      biológicas           químicas          torres de        pluviales
+                                                           refrigeración
+
+
+                                   fig. 9. composición del vertido en el período 2014 - 2016
+
+
+
+
+                                                                                                             página 47
+
+ a partir de 2011 los límites de la aai se separan por       los cambios de equipos en la planta de pinturas
+ tipo de vertido como aguas biológicas (aguas                han supuesto utilizar grandes cantidades de
+ sanitarias + industriales aceitosas) y químicas.            disolventes de limpieza en las instalaciones.
+ en las tablas 19a, 19b y 19c se pueden comprobar que        el aumento de contaminantes de fósforo es
+ los parámetros de calidad están por debajo de los           debido al proceso de cambio de los productos de
+ límites establecidos en la aai.                             tratamiento utilizados en los procesos de pintura
+                                                             que se llevó a cabo a mediados de 2015.
+ los valores durante este año, aunque siguen por
+ debajo de los límites permitidos, en algunos                en general, al aumentar el espaciado de las
+ parámetros han aumentado considerablemente. esto            limpiezas, el consumo disminuye pero la
+ se debe a distintas causas:                                 concentración de los vertidos puede ser mayor.
+
+
+
+
+                                      planta de tratamiento de aguas
+
+
+
+
+departamento de medio ambiente
+
+                   límite                                                          límite
+  parámetro                 indicador   2014    2015    2016     parámetro                  indicador   2014    2015    2016
+                    (aai)                                                           (aai)
+alcalinidad         6–9        ph       7,18     7,17    7,19   alcalinidad         6–9        ph       7,08     7,25   7,23
+dqo                 80       mgo2/l     33,58   32,42   47,88   dqo                 80       mgo2/l     31,17   30,00   30,00
+cot                 45        mg/l      10,09   6,58    14,27   cot                 45        mg/l      7,32     6,69   4,78
+dbo5                25       mg/l o2    12,25   9,42    18,46   zinc                 3        mg/l      0,22     0,24   0,32
+zinc                 1        mg/l      0,33    0,25    0,37    hierro               2        mg/l      0,76     0,66   1,34
+                                                                fósforo total        5        mg/l      0,84     0,96   1,07
+hierro               1        mg/l      0,37    0,29    0,66
+fósforo total        5        mg/l      0,89    1,08    1,67    aceites y grasas    10        mg/l      1,70    1,58    1,07
+aceites y grasas    10        mg/l      1,58    1,39    1,84
+                                                                sólidos en sus-
+sólidos en sus-                                                 pensión
+                                                                                    30        mg/l      7,33    9,00    13,00
+pensión
+                    30        mg/l      8,00    7,83    18,70
+fluoruros            5        mg/l      1,94    1,99    2,11    fluoruros           20        mg/l      9,52    14,84   13,89
+
+
+
+tabla 19a. valores del análisis vertido de aguas biológicas     tabla 19b. valores del análisis vertido de aguas químicas
+
+
+
+
+                                        salida de aguas por emisario al jalón
+
+
+
+
+                                                                                                                  página 49
+
+ según la resolución de 7 de enero de 2014, la afección          -punto 1: aguas arriba u.t.m. huso 30 x: 651.914
+ térmica del vertido se deberá controlar                         y:4.622.068.
+ trimestralmente y el incremento de la temperatura
+                                                                 -punto 2: aguas abajo u.t.m. huso 30 x: 653.137
+ media en la sección fluvial del río tras la zona de
+                                                                 y:4.622.633.
+ dispersión no deberá superar 1,5 ºc.
+                                                                 los datos medidos en estos puntos y el incremento
+ para controlar esta afección térmica se mide la
+                                                                 producido en la temperatura tras el vertido para el año
+ temperatura en el río jalón en el punto de vertido y
+                                                                 2016 se recoge en tabla 20, en la que se puede
+ aguas abajo de la zona de mezcla:
+                                                                 observar que no se supera el 1.5 ºc de incremento.
+
+                      trimestre           1º               2º                     3º           4º
+                      t punto 1          11,3             18                     17,6         12,3
+                      t punto 2          11,2             17,9                   17,5         12,2
+                         δt              0,1              0,1                    0,1           0.1
+
+                                         tabla 20. temperaturas medidas
+
+ transporte
+ los componentes que no se fabrican en la planta, así            como se observa en la figura 10b, el medio de
+ como el material necesario para el proceso productivo,          transporte mayoritario es el camión, aunque el
+ llegan a fábrica a través de varios medios de                   ferrocarril tiene un porcentaje bastante elevado. este
+ transporte. como se puede observar en la figura 10a,            hecho colabora a reducir la emisión de gases de efecto
+ el transporte mayoritario para la entrada de material           invernadero, al ser el transporte por ferrocarril más
+ son los camiones, ya que se intenta que los                     eficiente. el uso de ferrocarril ha disminuido en valores
+ proveedores sean locales y estén en un radio próximo a          relativos de 2015 (47%) a 2016 (44%) debido al efecto
+ las instalaciones de gm.                                        ocasionado por la decisión del reino unido de
+ los coches fabricados, salen de la planta por dos               abandonar la unión europea y al aumento de las
+ medios de transporte: camiones y ferrocarril.                   ventas nacionales, donde no es posible llegar a todos
+                                                                 los destinos en tren.
+
+
+
+                                                                           salidas de vehículos por tipo de
+                                                                                     transporte
+
+                                                                   ferrocarril
+                                                                      44%
+
+
+                                                                                                                carretera
+                                                                                                                  56%
+
+
+
+
+     figura 10a. entrada de material según transporte               figura 10b. salidas de vehículos según transporte
+
+
+
+
+departamento de medio ambiente
+
+consumo de materias primas
+al igual que la generación de residuos y el consumo de                    aunque la preparación de nuevos lanzamientos suelen
+energía, el consumo de materias primas está                               acarrear aumento en el consumo relativo de materias
+directamente relacionado con las cifras productivas del                   primas, se puede observar una notable disminución en
+año en cuestión.                                                          el consumo de chapa laminada y disolvente. estas
+las tablas, 21a, 21b y 21c muestran los consumos                          disminuciones son debidas a las constantes mejoras en
+totales y relativos de las materias primas más                            la definición de los formatos de las piezas y la mejora
+representativas en el proceso de fabricación.                             de los equipos.
+
+como se puede observar, el consumo absoluto de
+materias primas ha aumentado, debido al aumento de
+unidades de coches fabricados en la planta.
+
+
+
+
+                 materia prima         límite (aai)          indicador                2014            2015               2016
+
+             chapa laminada              362.000                tm                   168.036         175.832            179.108
+             aceite de maquinaria             220               tm                    109              96                 87
+             pinturas y barnices          6.700                 tm                    3.854           4.266              4.152
+             disolvente                   3.500                 tm                    1.246           1.331              1.311
+             adhesivos                    1.100                 tm                    676              809               810
+             masillas                     5.400                 tm                    3.411           4.104              4.051
+             ceras                        1.600                 tm                    563              659               661
+
+                                        tabla 21a. consumo absoluto de materias primas
+
+
+  materia                                                                   materia
+                        indicador     2014          2015      2016                             indicador       2014            2015     2016
+   prima                                                                     prima
+chapa                                                                    chapa
+                     kg/(veh.+comp)   442,74        418,22   418,12                            kg mat./tm      402,05       391,64     387,22
+laminada                                                                 laminada
+aceite de                                                                aceite de
+                     kg/(veh.+comp)    0,30          0,23     0,20                             kg mat./tm       0,26           0,21     0,19
+maquinaria                                                               maquinaria
+pinturas y                                                               pinturas y
+                          kg/veh.     12,06         11,87    11,49                             kg mat./tm       9,22           9,50     8,98
+barnices                                                                 barnices
+disolvente                kg/veh.      3,90          3,70     3,63       disolvente            kg mat./tm       2,98           2,96     2,83
+
+adhesivos                 kg/veh.      2,12          2,25     2,24       adhesivos             kg mat./tm       1,62           1,80     1,75
+
+masillas                  kg/veh.     10,67         11,42    11,21       masillas              kg mat./tm       8,16           9,14     8,76
+
+ceras                     kg/veh.      1,76          1,83     1,83       ceras                 kg mat./tm       1,35           1,47     1,43
+
+  tabla 21b. consumo de materias primas por vehículo                       tabla 21c. consumo de materias primas por tonelada
+
+
+
+
+                                                                                                                                 página 51
+
+    biodiversidad
+    la preocupación gm españa por la preservación del     no obstante el indicador de biodiversidad relativo a
+    entorno natural es un hecho como se demuestra en      la ocupación del suelo, previsto en el anexo iv del
+    muchos campos a lo largo de esta declaración.         reglamento del emas, se puede considerar una
+    la biodiversidad es una cuestión compleja y           fuente de información relevante.
+    relativamente nueva entre los indicadores básicos.    este indicador muestra la ocupación del suelo
+    algunos de los factores que impulsan la pérdida de    refiriéndose a aquellas zonas asfaltadas donde el
+    biodiversidad (cambio climático, emisiones y          suelo ya no puede ejercer sus funciones naturales.
+    contaminación) están ya cubiertos en el reglamento
+    emas y en esta declaración por los aspectos           en la actualidad la planta ocupa una extensión de
+    medioambientales y los indicadores correspondien-     3,10 km2 , desde el anillo interno siendo la superficie
+    tes, como el consumo de agua y energía, las           construida de 1.235.595 m2, incluyendo no sólo la
+    emisiones, los residuos, etc.                         parte construida sino también los viales, zonas de
+                                                          aparcamiento, etc… por lo que el uso del suelo es de
+                                                          2,67 m2/tm producida.
+
+
+
+
+                                 nuevo vial en la zona norte de la planta
+
+
+
+
+departamento de medio ambiente
+
+  8.4 requisitos legales
+las organizaciones deben reseñar qué requisitos
+legales le son de aplicación y dar evidencia de cómo
+                                                                                   en las tablas 22 a 25 se resume la normativa vigente
+dan     cumplimiento de la legislación ambiental
+                                                                                   aplicable en gm españa relativa a:
+aplicable a sus actividades, productos y/o servicios.
+                                                                                           autorización ambiental integrada.
+la evaluación del cumplimiento legal es controlado a
+través de nuestro sigae mediante el procedimiento                                          materiales peligrosos.
+z 1101 p siendo esta responsabilidad del                                                   agua.
+departamento de medio ambiente.                                                            residuos.
+en la presente declaración se han ido facilitando las                                      aire.
+evidencias del cumplimiento legal de gm españa a lo                                        suelo.
+largo del capítulo 5.                                                                      responsabilidad ambiental.
+                                                                                revisiones legales industriales de instalaciones.
+                                               tabla 22. autorización ambiental integrada.
+    requisito legal                                        normativa                                                       requisitos
+
+                                resolución de 7 de enero de 2014, del instituto aragonés de
+                                gestión ambiental, por la que se actualiza la autorización ambiental
+                                integrada de la planta de fabricación de vehículos a motor, ubicada
+                                en el polígono entrerríos, en los términos municipales de figueruelas
+                                y pedrola (zaragoza), y promovida por general motors españa,
+                                s.l.u. (número expte. inaga 500301/02/2012/2990).
+
+
+
+                                resolución de 29 de septiembre de 2014, del instituto aragonés
+                                de gestión ambiental, por el que se publica la modificación de la       autorización ambiental integrada reúne en un solo
+                                resolución de 7 de enero de 2014, del instituto aragonés de gestión     permiso:
+                                ambiental, por la que se actualiza la autorización ambiental                    emisiones a las aguas y su control
+                                integrada de la planta de fabricación de vehículos a motor, ubicada
+                                en el polígono entrerríos, en los términos municipales de figueruelas           emisiones a la atmósfera y su control
+                                y pedrola (zaragoza), promovida por general motors españa, s.l.u.
+real decreto legislativo                                                                                        emisiones de ruido y su control
+                                (número expte. inaga 500301/02/2012/2990).
+1/2016, de 16 de diciembre,                                                                                     producción de residuos y su control
+por el que se aprueba el
+texto refundido de la ley de                                                                                    protección y control de los suelos y las
+                                resolución de 9 de enero de 2015, del instituto aragonés de
+prevención     y     control                                                                                    aguas subterráneas sobre los que se
+                                gestión ambiental, por la que se modifica puntualmente, por
+integrados       de        la                                                                                   desarrolla la actividad
+                                segunda vez, la resolución de 7 de enero de 2014, por la que se
+contaminación.
+                                actualiza la autorización ambiental integrada de la planta de
+                                fabricación de vehículos a motor, ubicada en el polígono entrerrios,
+                                                                                                        es necesario comunicar         las    modificaciones,
+                                en los términos municipales de figueruelas y pedrola (zaragoza),
+                                                                                                        incidentes y accidentes.
+                                promovida por general motors españa, s.l.u. (número de
+                                expediente inaga 500301/02/2014/6684).
+
+                                                                                                        notificar los datos e-prtr una vez al año.
+
+                                resolución de 28 de junio de 2016, del instituto aragonés de
+                                gestión ambiental, por la que se modifica puntualmente por tercera
+                                vez, la resolución de 7 de enero de 2014, por la que se actualiza la
+                                autorización ambiental integrada de la planta de fabricación de
+                                vehículos a motor ubicada en el polígono entrerríos, en los términos
+                                municipales de figueruelas y pedrola (zaragoza), promovida por
+                                general motors españa, s.l.u. (núm. expte. inaga
+                                500301/02/2015/00180 y núm. expte. inaga 500301/02/2015/03532).
+
+
+
+
+                                                                                                                                             página 53
+
+     además, general motors españa tiene otros                         emas anexo 1b, sección 3.
+     requerimientos corporativos. estos requerimientos
+                                                                       general motors españa está al día y cumple con
+     son denominados por la corporación como epc
+                                                                       todos los permisos, licencias y autorizaciones que
+     (environmental performance criteria).
+                                                                       afectan a sus actividades y productos, con la
+     las epc deben ser consideradas como "otros                        resolución expresa de la administración.
+     requerimientos" que la organización suscribe, tal y
+     como los define iso 14001, en su sección 4.3.2, y
+
+
+
+
+                                  curso de profundización en reglamentación industrial
+
+
+
+   aspecto
+                                    normativa                                          requisitos                       ámbito
+  ambiental
+
+                adr acuerdo europeo          sobre   transporte   de   obligación de tener consejero de seguridad.
+                                                                                                                         doue
+                mercancías peligrosas.
+   materiales
+   peligrosos                                                          normas que incluyen la legislación vigente y
+                norma nº e 085: materiales peligrosos.                                                                 gm españa
+                                                                       propias norma de prevención y seguridad
+                                                                       control del uso del agua en el territorio
+                ley de aguas.                                          español.                                           boe
+                                                                       regula el dominio público hidráulico español.
+                reglamento del dominio público hidráulico.                                                                boe
+
+     agua                                                              notificación de torres de refrigeración:
+                decreto 136/2005, de 5 de julio, del gobierno de
+                                                                       registro de sanidad de notificación de torres
+                aragón, por el que se establecen medidas especiales                                                       boa
+                                                                       de refrigeración de fecha 01/12/10. control
+                para la prevención y control de la legionelosis.
+                                                                       por empresa externa autorizada.
+                                                                       controles adicionales de agua de vertido de         gm
+                epc-003: control de la contaminación del agua.
+                                                                       gm corporation.                                 corporation
+
+
+                           tabla 23. normativa aplicable a materiales peligrosos y agua.
+
+
+
+
+departamento de medio ambiente
+
+ aspecto
+                                    normativa                                             requisitos                        ámbito
+ambiental
+
+
+              rd 117/2003, de 31 de enero, sobre limitación de
+              emisiones de compuestos orgánicos volátiles debidas         límite para gm españa de 60 g/m2 de
+                                                                                                                              boe
+              al uso de disolvente en determinadas actividades.           superficie pintada.
+              norma n º e 085. materiales peligrosos.
+
+
+              ley 1/2005, de 9 de marzo, por la que se regula el          las instalaciones afectadas son las calderas y
+              régimen del comercio de derechos de emisión de gases        la cogeneración. presentado informe anual           boe
+              de efecto invernadero.                                      de emisiones de co2 verificado.
+
+              rd 100/2011 de 28 de enero por el que se actualiza el
+                                                                          afecta a la clasificación de los focos de
+              catálogo     de      actividades     potencialmente                                                             boe
+                                                                          emisión.
+              contaminadoras de la atmósfera.
+
+              real decreto 1722/2012, de 28 de diciembre, por el que
+              se desarrollan aspectos relativos a la asignación de
+                                                                          regulación del régimen de comercio de
+              derechos de emisión en el marco de la ley 1/2005, de 9
+                                                                          derechos de emisión de gases de efecto              boe
+              de marzo, por la que se regula el régimen del comercio
+                                                                          invernadero 2013-2020.
+              de derechos de emisión de gases de efecto
+              invernadero.
+
+              reglamento (ue) nº 517/2014 del parlamento europeo
+              y del consejo de 16 de abril de 2014 sobre los gases        nuevos controles en los equipos de
+                                                                                                                             doue
+  aire        fluorados de efecto invernadero y por el que se deroga      gases fluorados de efecto invernadero.
+              el reglamento (ce) nº 842/2006
+
+              epc-010: control de la contaminación del aire en            controles adicionales de emisión al aire de          gm
+              operaciones de planta de pintura.                           gm corporation.                                  corporation
+
+              orden de 20 de mayo de 2015, del consejero de
+              agricultura, ganadería y medio ambiente, por la que
+              se establecen los requisitos de registro y control en las
+                                                                          nuevos libros de registros de los focos de
+              actividades potencialmente contaminadoras de la                                                                 boa
+                                                                          emisión (digitales).
+              atmósfera y se establecen métodos alternativos de
+              análisis    para     determinados        contaminantes
+              atmosféricos.
+              real decreto 115/2017, de 17 de febrero, por el que se
+              regula la comercialización y manipulación de gases
+              fluorados y equipos basados en los mismos, así como la
+              certificación de los profesionales que los utilizan y por
+              el que se establecen los requisitos técnicos para las       certificación de profesionales que utilizan
+                                                                                                                              boa
+              instalaciones que desarrollen actividades que emitan        gases fluorados
+              gases fluorados.
+
+
+
+
+            tabla 24. normativa aplicable a las emisiones al aire, suelo y responsabilidad ambiental.
+
+
+
+
+                                                                                                                     página 55
+
+     aspecto
+                                            normativa                                            requisitos                           ámbito
+    ambiental
+                                                                                 refuerza y define la jerarquía de residuos
+                      ley 22/2011 de 28 de julio de residuos y suelos
+                                                                                 (prevención,      reutilización, reciclado,            boe
+                      contaminados
+                                                                                 valorización y eliminación)
+                                                                                 controles adicionales de la generación de               gm
+                      epc-002: gestión de residuos.
+                                                                                 residuos de gm corporation.                         corporation
+                      real decreto 180/2015, de 13 de marzo, por el que se
+     residuos                                                                    nueva documentación de transporte de
+                      regula el traslado de residuos en el interior del                                                                 boe
+                                                                                 residuos
+                      territorio del estado.
+                      reglamento (ue) no 1357/2014 de la comisión de 18
+                      de diciembre de 2014 por el que se sustituye el anexo
+                                                                                 nueva forma de clasificar           riesgos     y
+                      iii de la directiva 2008/98/ce del parlamento europeo y                                                          doue
+                                                                                 etiquetado de los residuos
+                      del consejo, sobre los residuos y por la que se derogan
+                      determinadas directivas
+                      rd 9/2005, de 14 de enero, por el que se establece la
+                      relación      de     actividades      potencialmente       se ha presentado un estudio preliminar de
+                                                                                                                                        boe
+                      contaminantes del suelo y los criterios y estándares       suelo en la comunidad autónoma de aragón.
+                      para la declaración de suelos contaminados.
+                                                                                 remediación de suelos contaminados,                     gm
+                      epc-004: remediación de las áreas contaminadas.
+  suelos y aguas                                                                 requisitos de gm corporation.                       corporation
+   subterráneas
+                      epc-007: requisitos de contención para el suelo y la       requerimientos de protección del suelo y las            gm
+                      protección de las aguas subterráneas.                      aguas subterráneas de gm corporation.               corporation
+
+                      epc-009: requisitos para tuberías y tanques
+                                                                                 requerimientos de protección del suelo y las            gm
+                      subterráneos para la protección de la tierra y de las
+                                                                                 aguas subterráneas de gm corporation.               corporation
+                      aguas subterráneas.
+                                                                                 comunicar de forma inmediata a la
+                                                                                 autoridad competente la existencia de daños
+                      ley 26/2007, de 23 de octubre de responsabilidad
+                                                                                 medioambientales o la amenaza inminente                boe
+                      medioambiental.
+ responsabilidad                                                                 de dichos daños, que hayan ocasionado o
+    ambiental                                                                    que puedan ocasionar.
+                      rd 2090/2008, de 22 de diciembre, por el que se
+                                                                                 fijación de la cuantía de la garantía
+                      aprueba el reglamento de desarrollo parcial de la ley                                                             boe
+                                                                                 financiera obligatoria.
+                      26/2007.
+
+                                                                                 registro de establecimientos industriales o
+                      ley 21/1992, de 16 de julio, de industria.                 certificado de inscripción en el registro del          boe
+                                                                                 ministerio de industria del año 2006
+
+                      rd 1523/1999, de 1 de octubre por el que se modifica el
+                                                                                 gm españa dispone de autorización de
+                      reglamento de instalaciones petrolíferas, aprobado
+                                                                                 funcionamiento de instalaciones petrolíferas
+ revisiones legales   por el rd 2085/1994, de 20 de octubre, y las itc mi-ip03                                                          boe
+                                                                                 de uso propio o certificado de instalación
+  industriales de     aprobada por el rd 1427/1197, y mi-ip04, aprobada por
+                                                                                 autorizada por el ministerio de industria.
+   instalaciones      el rd 2201/1995.
+
+                      rd 379/2001, de 6 de abril, por el que se aprueba el
+                                                                                 gm españa está inscripta en el registro de
+                      reglamento de almacenamiento de productos
+                                                                                 establecimientos industriales o certificado
+                      químicos y sus instrucciones técnicas complementarias                                                             boe
+                                                                                 de inscripción en el registro del ministerio de
+                      mie apq-1, mie apq-2, mie apq-3, mie apq-4, mie apq
+                                                                                 industria.
+                      -5, mie apq-6 y mie apq-7.
+
+
+                      tabla 25. normativa aplicable a revisiones legales industriales de instalaciones.
+
+
+
+
+departamento de medio ambiente
+
+8.5 mejoras ambientales
+
+gm españa dispone de varias herramientas que son   durante el año 2016 las mejoras ambientales
+motor para la mejora continua del comportamiento   realizadas han venido marcadas por:
+ambiental. destacan:
+                                                        instalación de bombas en sala de mezclas de
+     comité de medio ambiente (coma).                   menor consumo energético.
+     comité de ahorro de energía (cae).
+                                                        optimización en la ventilación de cabinas.
+     plan de adhesión de gm españa a la eaccel
+     (estrategia aragonesa de cambio climático y        modificaciones en líneas de carrocerías por
+     energías limpias del gobierno de aragón ).         equipos de menor consumo energético y de
+     sistema de sugerencias.                            materias primas.
+     campañas específicas de ahorro de energía.         reemplazo de equipos en la planta de
+     auditorias en tiempo no productivo.                energía y aguas mejorando la eficiencia.
+
+
+
+
+               personal de ingeniería, mantenimiento y contratistas durante los
+                      trabajos para el cambio y mejora de instalaciones
+
+
+
+
+                                                                                        página 57
+
+foto entrega de la certificación iso 14.001:2015 en la sala sostenible de gm españa
+
+     foto de la reunión final de la auditoría de medio ambiente, y energía de 2013.
+  departamento de medio ambiente
+
+página 59
+
+  9. participación
+
+  9.1 comunicación y formación
+
+ dentro de los objetivos ambientales de la planta de     “informa-t”, los comunicados internos, la intranet
+ opel en aragón se encuentran los temas de               “socrates”, los toolbox ambientales, los informativos
+ comunicación y de formación.                            audiovisuales, las charlas o reuniones verbales, la
+                                                         revista europea opel post , etc.
+ la planta aragonesa promueve entre los empleados la
+ conciencia ambiental en su trabajo diario, con el       con estas publicaciones, ya sea en forma de artículos o
+ objetivo de minimizar los impactos ambientales y        de campañas de concienciación, se consigue una
+ reducir gastos a través de medidas de ahorro            comunicación directa con los empleados y se les
+ energético, consumo de agua y reducción de residuos.    mantiene informados o se anima a participar en temas
+ para ello utiliza sus herramientas de comunicación      medioambientales.
+ interna: la revista “rodando”, el boletín informativo
+
+
+
+
+departamento de medio ambiente
+
+a lo largo del año 2016, gm españa ha continuado con    a nivel empresarial, gm españa es miembro de:
+su adhesión a las siguientes iniciativas ambientales:      comisión de medio ambiente de anfac
+  socios del club agenda 21 por una ciudad más             (asociación española de fabricantes de
+  sostenible de la confederación de empresarios de         automóviles y camiones ).
+  zaragoza y el ayuntamiento de zaragoza.                  comisión de medio ambiente de                    crea
+  earea: estrategia aragonesa de           educación       (confederación de empresas de aragón).
+  ambiental del gobierno de aragón.                        confederación hidrográfica del ebro (che).
+  eaccel: estrategia aragonesa de cambio climático             vocal de la junta de los consejos del agua
+  y energías limpias del gobierno de aragón (nivel 2           vocal de la junta de explotación (otros usos)
+  de compromiso).
+                                                           junta de gobierno del canal imperial de aragón
+                                                           (usuarios industriales), participando como vocal de
+                                                           la misma.
+                                                           patronato de la fundación del hidrógeno de
+                                                           aragón .
+
+
+
+
+  además, gm españa colabora tanto con la eina
+  (escuela de ingeniería y arquitectura de la
+  universidad de zaragoza), el circe en su campaña
+  para el fomento de la eco-innovación empresarial
+  en aragón y la universidad de zaragoza en el grado
+  de ciencias ambientales impartido en huesca.
+
+
+
+
+                                                                                                 página 61
+
+ durante 2016, en gm españa hemos continuado con la         3.    preservación de recursos: ayudamos a preservar
+ evaluación de nuestro impacto ambiental y dando                  los recursos naturales y a mejorar los hábitats en
+ pasos para reducirlo.                                            torno a nuestras instalaciones.
+ esto se consigue a través de un compromiso con el          4.    vehículos verdes: construimos vehículos de bajo
+ medio ambiente y la sostenibilidad que aplica a cada             consumo que se ajustan a las necesidades y
+ parte del negocio – desde el diseño hasta la gestión del         estilos de vida de nuestros clientes.
+ residuo y que se explicita en 4 principios:
+ 1.    reducción de residuos: nos esforzamos por ser el
+                                                            la concienciación de sus empleados para contribuir a
+       líder de la reducción de residuos en la industria
+                                                            la sostenibilidad, preservar el medioambiente y
+       del automóvil.
+                                                            cooperar con la comunidad, con el fin de mejorar la
+ 2.    eficiencia energética: nos esforzamos por            calidad de vida del entorno, son claves. con tal
+       reducir las emisiones y la dependencia del           propósito, gm españa ha realizado diversas
+       petróleo siendo más eficientes en el uso de          actividades, entre las que destacan:
+       energía.
+
+
+
+
+                            nuevo equipo ambiental para el área de materiales
+
+
+
+
+departamento de medio ambiente
+
+día mundial del medio ambiente                          exposición sobre el dmma donde los empleados
+                                                        participaban con mensajes positivos a favor
+con motivo del día mundial del medio ambiente, y
+                                                        de la protección de la naturaleza.
+durante tres jornadas, se desarrollaron en la planta
+varias actividades:                                     emisión en las pantallas de comunicación de
+                                                        mensajes relacionados con el lema del día
+      ponencia y mesa redonda de alberto perales
+                                                        mundial del medio ambiente 2016 “ lucha por la
+      (responsable de saica natur) sobre economía
+                                                        vida salvaje”.
+      circular.
+
+
+
+
+   participantes de la mesa redonda sobre              exposición y participación en el dmma
+             economía circular
+
+
+      visita del grado de ciencias ambientales de la
+      universidad de zaragoza y del congreso de
+      ingeniería hospitalaria
+
+
+
+
+visita grado cc.ambientales de la universidad
+                  de huesca
+
+
+
+
+                                                                                          página 63
+
+ “semana europea de la prevención de residuos”
+ gm españa se unió por cuarto año consecutivo a esta
+ actividad, cuyo objetivo es impulsar acciones que
+ respeten y reflejen la importancia de las 3r: reducir,
+ reutilizar y reciclar, a través de una serie de acciones
+ concretas de prevención o reciclaje de residuos:
+   festival de cortos cinergia. proyección de vídeos
+   de concienciación en diferentes puntos de la planta.
+
+
+
+
+                                                            charla ¿entiendes tu factura eléctrica y la del gas?
+                                                            de jm yusta, profesor de la universidad de zaragoza
+                                                            para comprender las facturas eléctrica y del gas en
+            festival de cortos cinergia
+                                                            los hogares .
+                                                            charla de endesa recuperación de espacios
+   menú zero waste meal. menú especial en los               naturales: restauración de la mina as pontes.
+   comedores de la planta para concienciar de la gran
+   generación de residuos que generamos en las
+   comidas.
+
+
+
+
+                                      charla restauración mina as pontes
+
+
+
+
+departamento de medio ambiente
+
+elaboración de maceteros a partir de pallets       exposición y taller de realidad virtual de acciona fs
+reutilizados de piezas de la fábrica.              sobre medidas de ahorro energético.
+
+
+
+
+   maceteros con material reutilizado               taller realidad virtual de acciona fs
+
+
+concurso fotográfico en facebook y twitter sobre
+buenas prácticas energéticas y de disminución de
+generación de residuos en las casas.
+
+ concurso fotográfico en facebook “opel se
+                 mueve”
+
+
+
+
+                                                                                           página 65
+
+   visita de los empleados a las dos instalaciones más
+   relevantes en materia de medioambiente de la
+   planta: la planta de tratamiento de aguas y la
+   instalación fotovoltaica sobre tejado.
+   exposición de fundación endesa de piezas del
+   fondo histórico sobre la energía.
+   campaña de concienciación para reducir el consumo
+   de botellas de plástico e impresiones.
+   exposición de saica natur sobre el ciclo de la vida y
+   reciclaje de los residuos de plástico de la planta.
+
+
+                                                           visita de empleados a la planta fotovolt aica
+
+
+
+
+ mensajes reducción consumo de agua y papel                        exposición fundación endesa
+
+
+
+
+  visita de empleados a la planta de energía                          exposición saica natur
+
+
+
+
+departamento de medio ambiente
+
+“mi vida diaria y el ahorro de energía y residuos”   reparto de mensajes de sostenibilidad impresos en
+diario de 4 trabajadores explicando sus hábitos en   papel    con     semillas    a     plantar:  evitar
+casa sobre reducción de energía y residuos.          desperdicios y agradecer a todos los empleados su
+                                                     compromiso y sensibilización con el medio ambiente.
+
+
+
+
+    diarios en la publicación “rodando”                  plantación papel con semillas
+
+
+
+
+todas las acciones están registradas en la web de
+la semana europea de la prevención de residuos o
+european week for waste reduction:
+ semana europea de la prevención de residuos
+
+
+
+                                                     web “semana europea de la prevención de
+                                                                   residuos”
+
+
+
+
+                                                                                            página 67
+
+ otras iniciativas ambientales
+
+ durante el año 2016 gm desarrolló otras iniciativas
+ ambientales:
+   visita del alcalde y concejales de pozuelo de aragón
+   a la planta de aguas.
+   visita de profesores y estudiantes de postdoctorado
+   del departamento de medio ambiente-ingeniería
+   química de la universidad de zaragoza.
+   repsol renueva su flota comercial con 180 opel
+   insignia con autogas.
+   calidad pascual amplía su flota de vehículos glp         artículo de concienciación en “rodando”
+   durante 2016 superando las 400 unidades.
+   visita a planta de integrantes del grupo inditex.
+   publicación en “rodando” de un artículo de
+   concienciación sobre “cocina comprometida con el
+   clima”.
+
+
+
+
+                                                               calidad pascual amplía su flota glp
+
+                                                                                 º
+
+
+
+
+      visita alcaldía de pozuelo de aragón
+
+
+
+
+            nueva flota glp de repsol                     visita del equipo de sostenibilidad de inditex
+
+
+
+
+departamento de medio ambiente
+
+colaboración con otras entidades
+
+gm colabora de manera sistemática con varias
+asociaciones y acciones que han sido todo un éxito.
+detallamos algunas de las colaboraciones más
+relevantes de este 2016.
+
+     desde el mes de octubre de 2013, gm españa
+     participa en la campaña
+     "aropa2" para el reciclaje
+     y la reutilización de ropa
+     usada. los empleados de
+     general motors españa depositan su ropa usada
+     en unos contenedores naranjas colocados a la
+     entrada de la planta. en 2016 se han recogido
+     2.063 kg de ropa. aplicando la calculadora de
+     emisiones de co2 de la asociación española de
+     recuperadores de la economía social, la
+     colaboración de general motors españa con
+     aropa2 ha evitado la emisión de 29.831 kg de       entrega del donativo obtenido por la “venta”
+                                                              de libros a la fundación atades
+     co2 .
+
+     recogida previa y posterior “venta” de libros en
+     las instalaciones coincidiendo con la feria
+     nacional del libro. la recaudación obtenida se
+     entregó como donativo a la fundación atades.
+
+
+
+
+                                                                  gardeniers en gm esp aña
+
+
+
+         “feria del libro” en gm españa
+
+
+     colaboración con la fundación gardeniers con
+     la compra por parte de los empleados de gm de
+     flores cultivadas por la fundación.
+
+     recogida de juguetes en navidad donados a
+     oxfam intermón y fundación la caridad.
+
+
+
+
+                                                                                             página 69
+
+ por otra parte la presencia de gm en foros               participación del representante ambiental de
+ empresariales y de divulgación es una constante:         gm españa como ponente en el evento
+                                                          organizado por saica natur sobre economía
+       foro de la nueva iso 14001:2015 organizado por
+                                                          circular.
+       lrqa en madrid con la participación del director
+       técnico y representante ambiental de gm            clase impartida por el departamento de medio
+       españa como ponente.                               ambiente sobre auditorias ambientales en el
+                                                          grado de ciencias ambientales de la
+                                                          universidad de zaragoza.
+
+
+
+
+          foro iso 14001:2015 de lrqa
+
+       participación del departamento de medio
+       ambiente como ponente en foro responsabili-
+       dad y sostenibilidad en la empresa organizado       clase en universidad de zaragoza
+       por crea en la jornada de beneficios de la
+       responsabilidad social y sostenibilidad en la      emisión en tve-2 de la “sala sostenible
+       empresa .                                          zaragoza“ de gm españa. este es un espacio
+       colaboración en foro de eficiencia energética      concebido a partir de materiales reciclados del
+       organizado por ferrovial con la participación      proceso productivo: cartón madera y plástico. se
+       del representante ambiental de gm españa en        ha creado una sala de reuniones para pensar de
+       una mesa redonda.                                  forma diferente y fomentar la prevención en la
+                                                          gestión de residuos.
+
+
+
+
+        foro sobre economía circular                            sala sostenible en t ve-2
+
+
+
+
+departamento de medio ambiente
+
+en 2016 general motors españa presentó su memoria          minimizar     riesgos    potenciales    sobre    el
+de responsabilidad social corporativa. seguimos            medioambiente y las personas, con planes de
+manteniendo nuestro compromiso en materia                  emergencia revisados periódicamente y programas
+ambiental llevando a cabo un gran progreso en              específicos, proporcionando un ambiente de
+diferentes áreas. éste no es un compromiso estático,       trabajo sano y sin riesgos. la seguridad es nuestra
+sino una parte de la herencia que gm quiere dejar a las    máxima prioridad.
+futuras generaciones y que se va actualizando con          cooperar con las comunidades locales,
+nuevos objetivos, iniciativas proyectos.                   colaborando con entidades gubernamentales y
+por eso, general motors españa adquiere, entre otros,      otras organizaciones e instituciones, para mejorar
+los compromisos de:                                        la calidad de vida en nuestro entorno.
+                                                           ser transparentes en la comunicación de nuestros
+   mejorar nuestro desempeño ambiental y                   comportamientos y fomentar la participación de
+   energético, a través de la evaluación de aspectos       nuestros grupos de interés.
+   ambientales y revisión energética para reducir         esta memoria se puede consultar en la página web
+   consumos de recursos naturales, emisiones de co2       de opel www.opel.es.
+   y producción de residuos.
+
+
+
+
+                                                                                                  página 71
+
+   9.2 sugerencias
+
+ el plan de sugerencias de gm españa es una                              algunos ejemplos de las sugerencias llevadas a cabo en
+ importante vía para la mejora continua, la seguridad y                  2016 han sido:
+ la reducción de costes, fomentando nuevas ideas tanto
+                                                                              desconexión del alumbrado de las vías de
+ personales como colectivas.
+                                                                              ferrocarril durante los turnos que no hay tráfico
+ en la tabla 26 se muestra el número de sugerencias                           ferroviario. ha supuesto una disminución del
+ totales emitidas entre 2014 y 2016 mientras que en la                        consumo eléctrico con su ahorro correspondiente.
+ tabla 27 se muestran las clasificadas como medio
+                                                                              parada progresiva de los quemadores de los
+ ambiente emitidas e implantadas en 2016.
+                                                                              hornos a medida que van dejan de pasar las
+ el desglose de las sugerencias emitidas en 2016 se                           carrocerías en lugar de efectuar la parada
+ muestra en la figura 11.                                                     completa una vez quedan vacíos. esta medida ha
+                                                                              logrado una disminución del consumo de gas ya
+ el número de sugerencias respecto del año pasado ha
+                                                                              que los hornos tardan 45 minutos en vaciarse
+ disminuido ya que no ha habido campaña especial de
+                                                                              completamente. esta sugerencia ha sido
+ sugerencias ambientales, pero el porcentaje de
+                                                                              reconocida como la mejor sugerencia de
+ sugerencias medioambientales implantadas sube
+                                                                              medioambiente de 2016 de la planta.
+ considerablemente respecto a años anteriores, lo que
+ es un signo positivo de la concienciación de la planta
+ con su entorno.
+                                                                                 sugerencias            2014    2015    2016
+          sugerencias                     2014      2015        2016
+                                                                        medio ambiente emitidas         245     416      285
+                                                                        medio ambiente implantadas      101     146      140
+total emitidas                           8.813     8.897        8.240
+                                                                        porcentaje implantadas          41%     35%     49%
+
+tabla 26. total de sugerencias emitidas entre 2014-2016                    tabla 27. sugerencias de medio ambiente en 2016
+
+
+
+         tipo de sugerencias emitidas 2016
+                        total emitidas: 8.240
+                      total implantadas: 4.322
+
+            seguridad; 2.120
+                                                 resto; 5.181
+
+ medio ambiente;
+       285
+
+
+      calidad; 654
+
+
+
+
+           fig. 11 tipo de sugerencias emitidas en 2016
+                                                                             mejor sugerencia medioambiental 2016
+
+
+
+
+departamento de medio ambiente
+
+   10. objetivos
+gm cuenta como herramienta principal para la gestión                           mismos focos de atención: seguridad, calidad,
+de objetivos con el bpd (despliegue de objetivos). es                          personas, productividad, costes y medio ambiente
+un proceso estandarizado que permite a la organiza-                            (figura 18). los objetivos fijados en el bpd en 2016 y sus
+ción fijar metas e integrar planes de acción para                              resultados aparecen en la tabla 28.
+alcanzar unos objetivos globales. el propósito
+                                                                               el objetivo de reducir el uso energético se ha podido
+fundamental del bpd es involucrar a todos los
+                                                                               cumplir incluso con el impacto del calendario de eres,
+empleados para que trabajen juntos y desarrollen una
+                                                                               los turnos establecidos y los nuevos proyectos,
+cultura de mejora continua. existen 5 niveles
+                                                                               factores que impactaban directamente en el uso
+diferenciados de bpd con diferentes responsabilidades
+                                                                               energético y en el rendimiento de sus equipos
+pero todos con unos objetivos en común y con los
+                                                                               energéticos.
+
+                     objetivo específico                   indicador               objetivo 2016                resultado 2016
+
+                     reducir uso energético                   mwh/veh.                  1,281                       1,13
+
+
+
+                                                                                                  objetivo                 resultado
+                                      métodos
+                                                                                                     2016                    2016
+  revisión mensual de los consumos de energía en planta y de las acciones para
+                                                                                                       12
+  reducir éstos (cae)
+
+  realizar auditorías por planta (audits/shop)                                                         7
+
+  implementar los 20 principios de gms para medioambiente                                              20
+
+  comunicar el desempeño ambiental a todos los niveles (charlas de 5 minutos)                          10
+
+
+  comunicación ambiental regular (desde la dirección hasta el último empleado)                         2
+
+  reducir 1 corriente de residuos un 3% (kg/car): lodos de pintura                                    0,85
+
+  seleccionar 1 corriente de residuos y mejorar el nivel en la jerarquía de residuos:
+                                                                                                       1
+  residuos de construcción y demolición
+
+  desarrollar proyecto de certificación wlhc                                                           1
+
+  llevar a cabo actividades de sensibilización ambiental con la comunidad                              4
+
+  chequear los requisitos de los permisos y verificar su cumplimiento en el
+                                                                                                       12
+  calendario ambiental
+  resolver rápidamente los problemas relacionados con incumplimientos legales:
+                                                                                                       12
+  revisión mensual de las caps (plan de acción correctivas)
+
+  reducir el consumo de agua por vehículo                                                       3,15 m3/ vehículo
+
+                                               tabla 28. objetivos y resultados bpd 2016
+
+
+
+
+                                                                                                                                    página 73
+
+ general motors corporación ha establecido unos                               http://www.gmsustainability.com/
+ compromisos para todas sus plantas de manufacturas y
+                                                                              todos estos compromisos establecen como línea base
+ de no manufacturas, tal y como ha publicado en su
+                                                                              el año 2010 y deben ser alcanzados en el año 2020:
+ primer informe de sostenibilidad que está disponible
+ en:
+
+                                                       compromisos 2010-2020
+intensidad energética
+incluye el uso de energía de las todas las plantas de manufacturas y no                reducir la intensidad energética de las instalaciones en
+manufacturas, normalizado por la producción de vehículos (se correlaciona con las      un 20%.
+emisiones de co2).
+capacidad de energía renovable instalada
+                                                                                       promover el uso global de energía renovable para utilizar
+aumentar capacidad instalada de energía renovable en las plantas.                      125 mw de energía renovable.
+
+intensidad de carbono
+                                                                                       reducir la intensidad de carbono de las instalaciones en
+incluye todas las emisiones de co2, normalizadas por la producción de vehículos.       un 20%.
+
+intensidad global del agua
+                                                                                       proteger la calidad del agua y reducir la intensidad del
+incluye el uso del agua en todas las plantas de manufacturas y no manufacturas
+                                                                                       agua en un 15%.
+(municipal, superficie, también), normalizado por la producción de vehículos.
+
+residuos
+
+residuos totales se define como todos los residuos que se generan como resultado
+de las operaciones de fabricación diaria. esta definición incluye la chatarra
+                                                                                       reducir los residuos totales de las plantas en un 40%
+metálica y la arena de fundición. a los efectos totales de la recopilación de datos
+de residuos, la definición de general motors no incluye los residuos eventuales o de
+demolición/construcción.
+
+vertedero- cero
+
+todos los residuos que se generan a partir de las operaciones en curso, del día a
+                                                                                       promover que las plantas sean vertedero-cero: 100% de
+día, debe ser tomada en cuenta como parte de la definición de vertedero-cero.
+                                                                                       plantas de manufacturas y 50% de plantas que no son de
+para calificar una instalación como vertedero-cero, las instalaciones deben
+                                                                                       manufacturas
+gestionar todos los residuos mediante cualquier método que no sea la gestión en
+un vertedero.
+
+compromiso con la comunidad
+
+es el compromiso con la comunidad / público local , que incluye la conciencia
+                                                                                       promover y entablar compromiso con la comunidad en
+pública , la educación o las actividades relacionadas con el medio ambiente
+                                                                                       temas de medio ambiente y energía , realizando una
+natural, la conservación de recursos , la minimización de residuos , la prevención
+                                                                                       actividad/año
+de la contaminación , las energías renovables , el ahorro energético o la
+sostenibilidad .
+
+wildlife habitats
+                                                                                       mejorar los hábitats de vida silvestre obteniendo una
+la certificación se produce a través del consejo wildlife habitat (whc), que es una
+                                                                                       certificación en wildlife habitas (o equivalente) en cada
+organización comprometida a trabajar con las empresas, el gobierno, las
+                                                                                       planta de manufacturas de gm donde se posible para el
+organizaciones sin ánimos de lucro, y los ciudadanos privados para desarrollar
+                                                                                       año 2020
+proyectos en hábitat de vida silvestre.
+
+
+
+
+departamento de medio ambiente
+
+en concreto general motors españa ha adoptado los siguientes objetivos para el año 2017:
+
+     objetivo específico:
+     disminución uso de la energía/veh.:                                                   1,220 (mwh/coche)
+
+
+
+    métodos:                                                                                         objetivos (anual)
+    revisión mensual de los consumos de energía en planta y de las acciones para reducir éstos
+                                                                                                                12
+    (cae)
+
+    realizar auditorías por planta (audits/shop)                                                                7
+
+    aumentar la conciencia energética mejorando la comunicación de las mejores prácticas y
+                                                                                                                1
+    ejecución de eventos especiales
+
+    comunicar el desempeño ambiental a todos los niveles (charlas de 5 minutos)                                 10
+
+
+    comunicación ambiental regular (desde la dirección hasta el último empleado)                                2
+
+    reducir 1 corriente de residuos un 3% (kg/car): trapos y absorbentes peligrosos                            0,087
+
+    seleccionar 1 corriente de residuos y mejorar el nivel en la jerarquía de residuos: aceite de
+                                                                                                                1
+    cocina
+
+    llevar a cabo actividades de sensibilización ambiental con la comunidad                                     4
+
+    participar activamente en el día mundial del medio ambiente                                                 1
+
+
+    lanzamiento de gm eco-green                                                                                 1
+
+
+    certificarse por proyecto de wlhc                                                                           1
+    informar sobre el estado de cumplimiento ambiental y desviaciones de auditorías
+                                                                                                                12
+    ambientales,
+    resolver rápidamente los problemas relacionados con incumplimientos legales: revisión
+                                                                                                                12
+    mensual de las caps (plan de acción correctivo)
+
+
+                                  bpd nivel 1                         director general
+
+                                  bpd nivel 2                         director de área
+
+                                  bpd nivel 3                               gerente
+
+                                  bpd nivel 4                            supervisores
+
+                                  bpd nivel 5                               equipos
+
+                                                     fig. 18. estructura del bpd.
+
+
+
+
+                                                                                                                       página 75
+
+departamento de medio ambiente
+
+lanzamiento del opel mokka x
+
+
+
+
+           página 77
+
+        11. glosario
+
+ aai:    autorización ambiental integrada.                   gms:    global manufacturing system
+ adr:    european      agreement     concerning   the        grupo psa: empresa formada por la fusión de dos
+         international carriage of dangerous goods by               empresas francesas: peugeot y citroën.
+         road. (acuerdo europeo sobre transporte de
+                                                             ippc:   integrated pollution prevention control
+         mercancías peligrosas.)
+                                                                     (prevención y control integrados de la
+ apq:    almacenamiento de productos químicos.                       contaminación)
+
+ bpd:    business plan deployment. despliegue de             itc:    instrucción técnica complementaria.
+         objetivos.                                          itc mi-ip03: reglamento de almacenamiento de
+ boa:    boletín oficial de aragón.                                 combustibles líquidos para usos propios.
+                                                             itc mi-ip04: reglamento de almacenamiento de
+ boe:    boletín oficial del estado.
+                                                                    combustibles líquidos en estaciones de
+ nace: código      nacional            de      actividades          servicio.
+       empresariales.                                        mie apq1-7: instrucción técnica complementaria para
+ cc ambientales: ciencias ambientales                               almacenamiento de productos químicos.
+ co:     monóxido de carbono.                                mwh:    megavatio hora.
+ co2:    dióxido de carbono.                                 nox:    óxidos de nitrógeno.
+ comp.: componentes, partes de vehículos que se              ppm:    partes por millón.
+        envían a otras plantas.                              prtr-españa: registro estatal de emisiones y fuentes
+ cot:    carbono orgánico total.                                    contaminantes .
+ cov´s: compuestos orgánicos volátiles.                      rd:     real decreto.
+ dafo:    debilidades, amenazas,            fortalezas   y   ree:    red eléctrica de españa
+         oportunidades                                       rsc:    responsabilidad social corporativa
+ dbo5: demanda bioquímica de oxigeno                         sigae: sistema integrado de gestión ambiental y
+ dmma: día mundial del medio ambiente                               energética.
+ doue: diario oficial de la unión europea                    tm:     tonelada métrica.
+ dqo:    demanda química de oxígeno.                         ute:    unión temporal de empresas
+ emas: eco-managment audit scheme.                           u.t.m.: universal transverse mercator (sistema de
+                                                                     coordenadas universales transversal de
+         sistema de gestión ambiental.
+                                                                     mercator)
+ epc:    environmental performance criteria.
+                                                             uz:     universidad de zaragoza
+ gei:    gases de efecto invernadero.
+                                                             veh.:   vehículo.
+ glp:    gas licuado de petróleo
+                                                             whc:    wildlife habitat council
+
+
+
+
+departamento de medio ambiente
+
+opel mokka x
+
+
+
+          página 79
+
+      12. certificados de aprobación
+
+ la auditoría de verificación y validación fue realizada   departamento de comunicación
+ por lloyd’s register quality assurance (nº es-v-0015)
+ siendo iñigo arechabala quien verificó la presente                   edificio 40
+ declaración ambiental.                                        general motors españa
+ la declaración medio ambiental se encuentra
+                                                           polígono entrerríos figueruelas
+ disponible en la página web de opel www.opel.es.
+ esta información se actualizará anualmente en
+                                                                   50080 zaragoza
+ sucesivas declaraciones que serán verificadas por un           teléfono 976 65 83 96
+ organismo acreditado y se enviarán al departamento
+ de medio ambiente del gobierno de aragón.                 mail: medio.ambiente@gm.com
+ posteriormente, se pondrán a disposición del público.
+ la próxima declaración ambiental será presentada un
+ año después de la fecha de verificación de la presente        www.facebook.com/opelspain
+ declaración.
+                                                                 twitter.com/opel_spain
+ más información puede solicitarse en:
+
+
+
+
+                   entrega del premio al ganador del concurso de fotos de facebook
+
+
+
+
+departamento de medio ambiente
+
+página 81
+
+departamento de medio ambiente
+
+página 83
+
+departamento de medio ambiente
+
+página 85
+
+departamento de medio ambiente
+
+página 87
+
+                                                             general motors españa
+                   polígono entrerríos, n-232 km. 29 — figueruelas 50639 zaragoza
+departamento de medio ambiente
+                                           teléfono: 976 658 396 — fax: 976 659 066
+                                                                      www.opel.es

@@ -1,0 +1,764 @@
+leben im bad
+living bathrooms
+
+
+
+
+nachhaltigkeitsbericht
+  version 2.0
+  sustainability performance report
+  gri g-4
+  berichtszeitraum 2011 – 2013
+
+          inhaltsverzeichnis / gri index                                                                                                                       inhaltsverzeichnis / gri index
+
+          allgemeine standardangaben                                             unternehmensführung                                                           soziales
+                                                                                 g4-34    führungsstruktur der duravit ag einschließlich
+          strategie und analyse                                                          kontrollorgan                                                   8   arbeitspraktiken und
+      g4-1       statement des vorstandsvorsitzenden                        5                                                                                 menschenwürdige beschäftigung
+                                                                                 ethik und integrität                                                          g4-dma soziales: soziale verantwortung                             12
+          organisationsprofil                                                    g4-56    werte, prinzipien, standards und verhaltensnormen                    g4-la1   mitarbeiterzahl, fluktuationsquote und
+      g4-3       name der organisation                                      6            der duravit ag                                                  8            wanderungssaldo                                           12
+      g4-4       wichtigste marken und produkte                             6                                                                                 g4-la4   mindestmitteilungsfristen bzgl. betrieblicher
+      g4-5       hauptsitz der duravit ag                                   6   spezifische standardangaben                                                            veränderungen, einschließlich der angabe, ob diese in
+      g4-6       anzahl und name der länder                                 6                                                                                          kollektivvereinbarungen dargelegt sind                    12
+      g4-7       eigentumsverhältnisse und rechtsform                       6   ökonomie                                                                      g4-la6   arbeitsunfälle und krankenquote                           12
+      g4-8       geographische aufschlüsselung der märkte                   6   g4-dma ökonomie                                                          8   g4-la9   durchschnittliche jährliche stundenzahl für aus- und
+      g4-9       größe des unternehmens                                     6   g4-ec1   direkt erwirtschafteter und verteilter wirtschaftlicher wert    8            weiterbildung                                             12
+      g4-10      beschäftigungsprofil                                       6   g4-ec3   deckung der verpflichtung aus dem leistungsorientierten              g4-la11 prozentsatz der mitarbeiter, mit denen
+      g4-11      anteil der von kollektivvereinbarungen                                   pensionsplan                                                    8   		regelmäßig ein mitarbeitergespräch geführt wird                  12
+                 betroffenen mitarbeiter                                    6   g4-ec7   entwicklung und auswirkung von infrastrukturdienst­-                 g4-la12 zusammensetzung der kontrollorgane und aufteilung der
+      g4-12      beschreibung der lieferkette hinsichtlich                                leistungen und geförderten dienstleistungen                     9            mitarbeiter nach mitarbeiterkategorie in bezug auf
+                 der hauptprodukte                                          7   g4-ec9   anteil an ausgaben für lokale lieferanten an                                  geschlecht, altersgruppe, minderheitszugehörigkeit und
+      g4-13      wichtige veränderungen bezüglich größe,                                  hauptgeschäftsorten                                             9            anderen diversitätsindikatoren                            12
+                 struktur und eigentumsverhältnisse                         7                                                                                 g4-la16 anzahl der beschwerden in bezug auf arbeitspraktiken,
+      g4-14      vorsorgeansatz und vorsorgeprinzip                         7   ökologie                                                                               die über formelle beschwerdeverfahren eingereicht,
+      g4-15      unterstützung externer initiativen                         7   g4-dma ökologie                                                          9            bearbeitet und gelöst wurden                              13
+      g4-16      mitgliedschaft in verbänden                                7   g4-en1 eingesetzte materialien nach gewicht oder volumen                 9
+                                                                                 g4-en3 energieverbrauch innerhalb der organisation                       9   menschenrechte
+          wesentliche aspekte und grenzen                                       g4-en4 energieverbrauch außerhalb der organisation                      10   g4-hr4 ermittelte geschäftsstandorte und lieferanten, bei denen
+      g4-17      liste aller unternehmen, die im konsolidierten                  g4-en5 energieintensität                                                10            das recht der beschäftigten auf vereinigungsfreiheit und
+                 jahresabschluss aufgeführt sind                            7   g4-en7 senkung des energiebedarfs für produkte und                                     kollektivverhandlungen verletzt wird oder erheblich
+      g4-18      verfahren zur festlegung der berichtsinhalte               7            dienstleistungen                                               10            gefährdet sein könnte, und ergriffene maßnahmen zum
+      g4-19      liste der im bericht enthaltenen aspekte                   7   g4-en8 gesamtwasserentnahme nach quelle                                 10            schutz dieser rechte                                      13
+      g4-20      aspekte, die nur intern wesentlich sind                    7   g4-en10 prozentsatz und gesamtvolumen wiederverwendeten
+      g4-21      aspekte, die nur extern wesentlich sind                    7            wassers                                                              gesellschaft
+      g4-22      neuformulierung gegenüber früheren berichten               7   g4-en15 direkte thg-emissionen (scope1)                                 10   g4- so1 prozentsatz der geschäftsstandorte bei denen maßnahmen
+      g4-23      nennung von änderungen der aspekte gegenüber                    g4-en16 direkte thg-emissionen (scope2)                                 10            zur einbindung lokaler gesellschaften, folgenabschätzung
+                 früheren berichten                                         7   g4-en21 nox, sox und andere signifikante luftemissionen                 10            und förderprogramme umgesetzt wurden                      13
+                                                                                 g4-en22 gesamtvolumen der abwassereinleitung nach qualität und
+          einbindung von stakeholdern                                                    einleitungsort                                                 10   produktverantwortung
+      g4-24      liste der eingebundenen stakeholder                        8   g4-en23 gesamtgewicht des abfalls nach art und                                g4- pr1 prozentsatz maßgeblicher produkt- und dienstleistungs-
+      g4-25      grundlage für die ermittlung und auswahl der stakeholder   8            entsorgungsmethode                                             11            kategorien, deren auswirkungen und verbesserungs-
+      g4-26      nennung des ansatzes zur einbindung der stakeholder        8   g4-en25 gewicht des als gefährlich eingestuften abfalls                 11            potentiale auf gesundheit und sicherheit geprüft werden   13
+      g4-27      nennung der wichtigsten themen durch die rückkopplung           g4-en27 umfang der maßnahmen zur verbesserung ökologischer                    g4- pr3 art der erforderlichen produkt- und dienstleistungs-
+                 der stakeholder                                            8            auswirkungen                                                   11            informationen sowie prozentsatz der diesen verpflichtend
+                                                                                g4-en28 prozentsatz zurückgenommener verkaufter produkte                               unterliegenden produkt- und dienstleistungskategorien     13
+          berichtsprofil                                                                 inkl. verpackung                                               11   g4- pr8 anzahl der beschwerden in bezug auf die privatsphäre
+      g4-28      berichtszeitraum                                           8   g4-en31 die gesamten aufwendungen und investitionen für                                des kunden und der verletzung des datenschutzes           13
+      g4-29      datum des vorhergehenden berichtes                         8            umweltschutz nach art                                          11
+      g4-30      frequenz des berichtszyklus                                8   g4-en34 anzahl der beschwerden in bezug auf ökologische
+      g4-31      nennung der anlaufstelle für fragen bzgl. des                            auswirkungen                                                   12
+                 nachhaltigkeitsberichtes                                   8
+      g4-32      „umfassend-“ oder „kern“-option                            8
+      g4-33      externe prüfung                                            8
+
+
+                                                                                                                                  version 2.0_2011 – 2013      version 2.0_2011 – 2013
+
+2 nachhaltigkeitsbericht                                                                                                                                                                                                                nachhaltigkeitsbericht   3
+
+                                                                                                                                                                                strategie und analyse
+
+                                                                                                                                                                                g4-1 statement des vorstandsvorsitzenden
+
+                                                                                                                                                                                die sanitärindustrie ist eine kernbranche für das         bis zum jahr 2020 auf basis der energiemanagement-
+                                                                                                                                                                                element wasser und zählt zu einer der energieinten-       norm 50001 konkrete maßnahmen festgeschrieben
+                                                                                                                                                                                sivsten industriezweige in der eu. durch das steigende    sind. um den erfolg messen zu können, wurden kenn-
+                                                                                                                                                                                bewusstsein für einen verantwortungsvolleren umgang       zahlen festgelegt, die in einem deﬁnierten zeitrahmen
+                                                                                                                                                                                mit ressourcen sind die erwartungen an die sanitär-       erreicht werden müssen. anhand von input-output-
+                           hiermit wird bescheinigt, dass die                                                                                                                   branche im hinblick auf nachhaltigkeit in den letzten     diagrammen wird die entwicklung für jedes werk
+                                                                                                                                                                                jahren enorm gestiegen. ein weiterer aspekt ist, dass     detailliert verfolgt.
+                           duravit ag                                                                                                                                           badprodukte immer bestandteil von gebäuden sind,          zur erreichung ökonomischer ziele gilt das größte
+                           die anforderungen einer neutralen plausibilitätsprüfung zur erstellung                                                                               für die strenger werdende anforderungen im hinblick       augenmerk auch in zukunft forschung und entwick-
+                           eines nachhaltigkeitsberichtes entsprechend den kriterien der gri und
+                           sgs -tüv saar datenerfassung                                                                                                                         auf eine nachhaltige ausrichtung der architektur gel-     lung. dabei geht es generell um neue fertigungstech-
+                           greenorganisation                                                                                                                                    ten. als wichtiges argument für keramikprodukte zählt     nologien aber auch um neue produkttechnologien
+                           erfüllt.                                                                                                                                             in diesem zusammenhang die lange lebensdauer des          oder materialien, die im bad der zukunft zur anwen-
+                           folgende ausserordentliche ergebnisse nachhaltiger bemühungen                                                                                        materials.                                                dung kommen können. alle produktentwicklungs-
+                           sind exklusiv hervorzuheben. weiter daten sind den datenblättern zu
+                           entnehmen.                                                                                                                                           das bewusstsein für nachhaltiges denken und han-          teams arbeiten permanent daran, bei bestehenden
+                           ökonomie ag: l erwirtschafteter wert pro to ware
+                                        l einsparungen durch nachhaltigkeitsmassnahmen
+                                                                                                                             steigerung um
+                                                                                                                               senkung um
+                                                                                                                                             23,64%
+                                                                                                                                              6,78%                             deln prägt die firmengeschichte von duravit seit          produkten einsparpotentiale auszuschöpfen, um den
+                           ökologie ag: l
+                                        l
+                                                rohstoffeinsatz
+                                                erneuerbare energien
+                                                                                                                               senkung um
+                                                                                                                             steigerung um
+                                                                                                                                           9,88%
+                                                                                                                                           2,43%                                jahrzehnten. alle standorte unterliegen einem syste-      ressourcenverbrauch zu reduzieren. eine wichtige
+                                        l       frischwasserindex                                                              senkung um  5,04%
+                                        l
+                                        l
+                                                recyclewasser
+                                                treibhausgasemissionen in co2-äquivalenten
+                                                                                                                             steigerung um
+                                                                                                                               senkung um
+                                                                                                                                          44,94%
+                                                                                                                                           4,64%
+                                                                                                                                                                                matischen umwelt- und energiemanagement und               zielsetzung besteht darin, bei rohstoffen und materi-
+                                                abfall                                                                                    19,19%
+                                                                                                                                                                                sind gemäß iso 14001, iso 50001 sowie iso 9001            alien höchste maßstäbe in sachen qualität und wirt-
+                                        l                                                                                      senkung um
+                                        l       durchschnittlicher prozentsatz des verwerteten abfalls                            hornberg77,50%
+                                                                                                                              schenkenzell  100%
+                           soziales ag:     l personelle veränderung                                                          veränderung  0,13%                                zertiﬁziert.                                              schaftlichkeit zu erreichen. mit den leitlinien „green
+                           periode: 01.01.2011-31.12.2013
+                           datum des audits: 25./26.september 2014, hornberg/schenkenzell                                                                                       das thema nachhaltigkeit liegt in der verantwortung       purchasing“ wurden für alle standorte verbindliche
+                           das auf die gri-nachhaltigkeitsberichterstattung adaptierte audierungs-                                                                              des gesamtvorstands. damit ist gewährleistet, dass        vorgaben für die beschaffung festgelegt.
+                           und zertifizierungsprogramm greenorganisation überprüft stringent die
+                           nachhaltige entwicklung ausschliesslich anhand belegbarer zahlen.                                                                                    csr im unternehmen ernsthaft und glaubwürdig              die soziale verantwortung stellt bei duravit den
+                                                                                                                                                                                von „oben nach unten“ umgesetzt wird. es wurde ein        mensch erklärtermaßen in den mittelpunkt. durch
+                           zertifikatsnummer:       sgs-go03- 1216 -17
+                           laufzeit bis       30.12.2016                                                                                                                        monitoring-system nach gri eingeführt, das der über-      verschiedenste maßnahmen sollen langfristige
+                           ludwigshafen, den 01.12.2014                                                                                                                         prüfung durch eine unabhängige externe gesellschaft       bindungen zu mitarbeitern aufgebaut und erhalten
+                           dieses dokument wurde von der gesellschaft im rahmen ihrer allgemeinen geschäftsbedingungen für dienst­                                              unterliegt.                                               werden. auch für das employer branding erachten
+                           leistungen erstellt, die auf anfrage erhältlich sind. es wird ausdrücklich auf die darin enthaltenen regelungen zur
+                           haftungsbeschränkung, freistellung und zum gerichtsstand hingewiesen.                                                                                generell lautet das ziel für die nächsten jahre, sowohl   wir den nachhaltigkeitsbericht als einen wichtigen
+                           jeder besitzer dieses dokuments wird darauf hingewiesen, dass die darin enthaltenen angaben ausschließlich die
+                           im zeitpunkt der dienstleistung von der gesellschaft festgestellten tatsachen im rahmen der vorgaben des kunden,
+                           sofern überhaupt vorhanden, wiedergeben. die gesellschaft ist allein dem kunden gegenüber verantwortlich. dieses
+                                                                                                                                                                                den energie- und rohstoffverbrauch als auch emis-         baustein. die wichtigsten themen: aus- und weiter-
+                           dokument entbindet die parteien von rechtsgeschäften nicht von ihren insoweit bestehenden rechten und pflichten.
+                           jede nicht genehmigte änderung, fälschung oder verzerrung des inhalts oder des äußeren erscheinungsbildes dieses
+                           dokuments ist rechtswidrig. ein verstoß kann rechtlich geahndet werden.
+                                                                                                                                                                                sionen so gering wie möglich zu halten und die werte      bildung, arbeitssicherheit, gesundheitsvorsorge und
+                                                                                                                                                                                permanent weiter zu senken. mit blick auf die drei        soziale absicherung.
+                                                                                                                                                                                säulen der nachhaltigkeit, haben wir uns in allen
+                           ppa. stefan kempf                          ppa. bernd eckhard                         i. a. gunther schmid                                           bereichen für die nächsten jahre ehrgeizige ziele
+                           mitglied der geschäftsleitung              mitglied der geschäftsleitung              project manager / auditor
+                           stellvertretender director                 industrial services                        green -technologies
+                                                                                                                                                                                gesetzt:
+                           environmental services                     sgs -tüv saar gmbh                         industrial services                                            die ökologischen ziele stehen unter der prämisse, die
+                           sgs -tüv saar gmbh                                                                    sgs -tüv saar gmbh
+                                                                                                                                                                                ressourcenschonung weiter voranzutreiben. 2012 hat                  prof. dr. frank richter
+                                                                                                                                                                                duravit eine „roadmap“ als leitlinie formuliert, in der             vorstandsvorsitzender duravit ag
+                           sgs -tüv saar gmbh
+                           rheinpromenade 12
+                           d - 67061 ludwigshafen
+                           www.sgs - tuev - saar.com
+
+                           der sgs -tüv saar als joint venture von sgs und tüv saarland e. v. sichert
+                           zuverlässigkeit und qualität von prozessen, produkten und technischen
+                           dienstleistungen.
+
+
+
+
+      berichterstattung gemäß gri g-4
+      im jahr 2014 hat die duravit ag erstmals einen nachhaltigkeitsbericht erstellt, der den leitlinien zur nachhaltigkeitsberichterstattung der global
+      reporting initiative g4 entspricht.
+      die prüfung dieses berichts wurde durch eine unabhängige prüfgesellschaft durchgeführt.
+
+
+
+
+                                                                                                                                                      version 2.0_2011 – 2013   version 2.0_2011 – 2013
+
+4 nachhaltigkeitsbericht                                                                                                                                                                                                                                                           nachhaltigkeitsbericht   5
+
+      standardangaben                                                                                                                                           standardangaben
+
+      organisationsprofil                                                                                                      2011         2012       2013     g4-11 anteil der von kollektivvereinbarungen betroffenen mitarbeiter         ziele duravit ag
+
+      g4-3 name der organisation                                                 beschäftigungsindex               m*/t         0,10         0,11       0,11                                                2011        2012        2013
+                                                                                                                                                                                                                                                                                                          produktqualität
+      systemgrenze ist die duravit ag mit den standorten hornberg und            umsatzerlösindex                  eur/t      29.818      32.241     32.201     anteil in %                                  90,0        89,6       89,2
+                                                                                                                                                                                                                                                                                                     entwicklung
+      schenkenzell von gate to gate.                                             ertragsindex gesamt               eur/t      32.058      35.401     36.006                                                                                                                                          innovativer produkte
+                                                                                 herstellungskostenindex           eur/t      18.131      19.531     20.197     g4-12 beschreibung der lieferkette hinsichtlich der hauptprodukte
+
+
+
+
+                                                                                                                                                                                                                                            sehr wichtig
+                                                                                                                                                                                                                                                                                                   arbeitssicherheit /
+      g4-4 wichtigste marken und produkte                                                                                                                       anzahl und art der lieferanten: 5465; davon 38 berater, 596 erzeuger,
+                                                                                 kostenindex gesamt                eur/t      29.548      32.213     33.432                                                                                                                                        gesundheitsvorsorge
+      der unternehmensgegenstand der duravit ag ist die entwicklung,                                                                                            819 händler, rest sonstige                                                                                              ressourcen-
+                                                                                 produktivitätsindex               t/m*        10,36         9,31       9,28                                                                                                         abfall-
+      herstellung und der vertrieb von sanitärerzeugnissen aller art aus                                                                                                                                                                                             vermeidung         schonung
+                                                                                                                   prod./m*     433          421         397                                                2011        2012        2013
+      keramischen oder sonstigen werkstoffen wie acryl sowie von neben-                                                                                                                                                                                                                 compliance
+      produkten. alle produkte tragen ausnahmslos den markennamen duravit.                                                                                      geldwert der zahlungen
+                                                                                 * mitarbeiter                                                                                                  teur      50.886      48.636      47.736
+                                                                                                                                                                an lieferanten                                                                                         unterstützung
+      hierzu zählen:
+                                                                                                                                                                                                                                                                       sozialer projekte
+      • keramische produkte incl. küchenspülen                                  g4-10 beschäftigungsprofil
+      • badmöbel                                                                gesamtzahl der beschäftigten der duravit ag zum jahresende in köpfen
+                                                                                                                                                                g4-13 wichtige veränderungen während des berichtszeitraumes
+      • badzubehör                                                              (ohne vorstände, auszubildende, dh-studenten, praktikanten,
+                                                                                                                                                                bezüglich größe, struktur und eigentumsverhältnisse der organisation
+      • wannen und wellnessprodukte                                             repräsentanten)
+
+
+
+
+                                                                                                                                                                                                                                            wichtig
+                                                                                                                                                                oder ihrer lieferkette
+      • dusch-wcs und dusch-wc-sitze                                                                                                                                                                                                                                einbindung
+                                                                                                                               2011         2012       2013     im berichtszeitraum erfolgten keine nennenswerten veränderungen.
+                                                                                                                                                                                                                                                                     von stakeholdern
+                                                                                 gesamtzahl der beschäftigten                   790          789         789
+      g4-5 hauptsitz der duravit ag
+                                                                                 beschäftigte vollzeit                                                   706    g4-14 vorsorgeansatz und vorsorgeprinzip
+      hornberg (deutschland)
+                                                                                 beschäftigte teilzeit                                                    83    die duravit ag mit den standorten hornberg und schenkenzell legt als
+                                                                                                                                                                produzierendes unternehmen großen wert auf den schutz ihrer mitar-
+      g4-6 anzahl und name der länder
+
+
+
+
+                                                                                                                                                                                                                                            neutral
+                                                                                 beschäftigte standort hornberg                                          630
+                                                                                                                                                                beiter und den der umwelt. aus diesem grund stellt das vorsorgeprinzip
+      deutschland, entsprechend der systemgrenze, siehe g4-3                     beschäftigte standort schenkenzell                                      159    eine zentrale rolle in der unternehmenspolitik dar. dies zeigt sich auch
+                                                                                 beschäftigte männlich                                                   563    durch die zertifizierungen unserer managementsysteme wie qualitäts-
+      g4-7 eigentumsverhältnisse und rechtsform:
+                                                                                 beschäftigte weiblich                                                   226    management nach iso 9001, umweltmanagement nach iso 14001 und
+      1988 wurde das unternehmen in eine aktiengesellschaft, die duravit ag,                                                                                                                                                                               neutral     wichtig                   sehr wichtig
+                                                                                 beschäftigte staatsangehörigkeit                                               energiemanagement nach iso 50001. unserem umwelt​management-
+      umgewandelt und weist folgende besitzverhältnisse auf:                                                                                             692
+                                                                                 deutsch                                                                        system entsprechend wurde ein verfahren zur notfallvorsorge und                                       anforderungen stakeholder
+      75% -1 aktie befinden sich im familienbesitz
+                                                                                                                                                                gefahrenabwehr entwickelt und etabliert. es beinhaltet neben der not-
+      25% +1 aktie sind im besitz der keramik holding laufen, schweiz            beschäftigte staatsangehörigkeit
+                                                                                                                                                          97    fallplanung auch die aufrechterhaltung der werkseigenen feuerwehr.           g4-19 liste der im bericht enthaltenen aspekte
+                                                                                 ausländisch
+      g4-8 geographische aufschlüsselung der märkte                                                                                                                                                                                          die im bericht enthaltenen aspekte leiten sich aus den in der matrix
+                                                                                 beschäftigte unter 30 jahren                                            117
+                                                                                                                                                                g4-15 unterstützung externer initiativen                                     g4-18 dargestellten überbegriffen ab. aspekte und die entsprechenden
+      duravit liefert ausschließlich über den fachgroßhandel an den fachhand-    beschäftigte zwischen
+                                                                                                                                                         415    die duravit ag unterstüzt seit vielen jahren eine reihe von externen         indikatoren sind aus dem inhaltsverzeichnis ersichtlich.
+      werker, der die produkte beim endverbraucher oder in bauprojekten          30 und 50 jahren                                                               initiativen in der region. dazu zählen die ihk (industrie- und handels-      ökonomie: wirtschaftliche leistung, indirekte wirtschaftliche aspekte,
+      installiert.
+                                                                                 beschäftigte über 50 jahre                                              257    kammer) freiburg als bindende sowie wvib (wirtschaftsverband in              beschaffung
+      architekten und planer arbeiten für investoren oder bauträger und
+                                                                                 beschäftigte bereich logistik                                             3    baden), wro (wirtschaftsregion ortenau), naturpark schwarzwald mitte /       ökologie: materialien, energie, wasser, emissionen, abwasser und abfall,
+      spielen im entscheidungsprozess eine maßgebliche rolle.
+                                                                                 beschäftigte bereich technik                                            437    nord e.v. und hochschwarzwald tourismus gmbh als freiwillige initiativen.    produkte und dienstleistungen, transport, beschwerdeverfahren hin-
+      ein team von außendienstmitarbeitern betreut flächendeckend fach-
+      großhandel und fachhandwerk, ergänzend berät und unterstützt das           beschäftigte bereich vertrieb /                                                                                                                             sichtlich ökologischer aspekte
+                                                                                                                                                         293    g4-16 mitgliedschaft in verbänden                                            soziales: beschäftigung, arbeitnehmer-arbeitgeber-verhältnis,
+      objektfachberater-team architekten und planer.                             marketing
+                                                                                                                                                                seit vielen jahren ist duravit in führender position in den zwei bedeu-      arbeitssicherheit und gesundheitsvorsorge, aus- und weiterbildung,
+                                                                                 beschäftigte bereich finanzen /
+                                                                                                                                                          56    tendsten keramischen verbänden dkg (deutsche keramische gesell-              vielfalt und chancengleichheit, bewertung der lieferanten hinsichtlich
+      g4-9 größe des unternehmens                                                verwaltung
+                                                                                                                                                                schaft e.v.) und fski (fachverband sanitärkeramische industrie e.v.)         arbeitspraktiken, beschwerdeverfahren hinsichtlich arbeitspraktiken,
+      die geschäftsstandorte der duravit ag sind hornberg und schenkenzell.      auszubildende / dh-studenten                                             39    vertreten. hauptaugenmerk liegt auf der gemeinsamen vorbereitung von         vereinigungsfreiheit, lokale gemeinschaft, kundengesundheit und
+      an diesen standorten wurden folgende zahlen ermittelt:
+                                                                                 mitarbeiter in ausländischen                                                   stellungnahmen zu neuen gesetzgebungen. die ebenfalls langjährige            -sicherheit, kennzeichnung von produkten und dienstleistungen, schutz
+                                                 2011       2012         2013                                                                              5
+                                                                                 repräsentanzen der duravit ag                                                  mitgliedschaft im präsidium der vbu (vereinigung badischer unter-            der privatsphäre des kunden
+      gesamtzahl der beschäftigten                790         789         789    fremdkräfte (leiharbeiter)                                                0    nehmerverbände e.v.) dient der stärkung des südbadischen wirtschafts-
+      umsatzerlöse (netto)            teur    243.934    236.856    235.692      beschäftigte mit status selbstständig                                     2    raumes einschließlich aller notwendigen infrastrukturen.                     g4-20 aspekte, die nur intern wesentlich sind
+      sonstige erträge                teur     18.331     23.216        27.848                                                                                                                                                               g4-21 aspekte, die nur extern wesentlich sind
+                                                                                 wanderungssaldo
+                                                                                                                                                           0    wesentliche aspekte und grenzen                                              es findet generell keine unterscheidung zwischen internen und externen
+      erträge gesamt                  teur    262.265    260.072    263.540      (zugänge / abgänge)
+                                                                                                                                                                                                                                             aspekten bezüglich der wesentlichkeit statt. wir sehen die auswirkungen
+      herstellungskosten              teur    148.323    143.482    147.831                                                                                     g4-17 liste aller unternehmen, die im konsolidierten                         unserer unternehmerischen tätigkeit stets auch als eine beeinträchti-
+      vertriebskosten                 teur     66.945     65.713        69.275                                                                                  jahresabschluss aufgeführt sind                                              gung unserer umwelt und versuchen daher, diesen einfluss zu mini​mieren.
+                                                                                 mitarbeiter nach kategorie (mit auszubildenden und studenten)
+      verwaltungskosten               teur     12.683     12.257        12.745                                                                                  duravit ag                                                                   eine wichtige voraussetzung hierfür ist der hohe qualitätsanspruch, den
+                                                                                                                   3
+      sonstige kosten                 teur     13.775     15.202        14.847                                                                                  im nachhaltigkeitsbericht jedoch nicht genannt sind:                         duravit an sämtliche produkte wie auch alle unternehmensinternen pro-
+                                                                                                                   39                                           duravit ag ukrainian office, kiew / ukraine und duravit ag sucursal /        zesse stellt. dies wurde auch durch die stakeholder bestätigt.
+      kosten gesamt                   teur    241.726    236.655    244.698
+                                                                                                              56                                                argentina, buenos aires / argentinien                                        der aspekt compliance – die einhaltung von gesetzen und richtlinien –
+      gesamtaktiva                    teur    211.475    220.096    219.953
+                                                                                                                                                                                                                                             hat für die stakeholder eine deutlich geringere bedeutung als für duravit
+      verbindlichkeiten               teur     91.443     82.560        67.212                                                                                  g4-18 verfahren zur festlegung der berichtsinhalte                           und ist daher nur intern von wesentlichem interesse.
+      eigenkapital                    teur    120.032    137.536    152.741                                                                                     aus den internen zielsetzungen der duravit ag wurden zunächst die
+      menge gelieferter produkte:                                                                                             437                               als wesentlich erachteten aspekte ausgewählt. die für stakeholder rele-      g4-22 neuformulierung gegenüber früheren berichten
+      großteile sanitärkeramik        stk.    285.303    274.094    273.379                                239                                                  vanten aspekte wurden anhand eines fragebogens ermittelt. duravit            nicht relevant
+      großteile badmöbel              stk.     57.092     57.943        39.550                                                                                  konzentriert sich in diesem nachhaltigkeitsbericht auf die hand-
+                                                                                                                                                                lungsfelder, die sowohl für das unternehmen als auch für ihre stake-         g4-23 nennung von änderungen der aspekte hinsichtlich umfang
+      gesamt                          stk.    342.395    332.037    312.929
+                                                                                                                                                                holdergruppen relevant sind. in der untenstehenden matrix sind die           und abgrenzung gegenüber früheren berichten
+                                                                                                                                                                wesentlichen themen sowie deren gewichtung dargestellt. die umset-           nicht relevant
+                                                                                                                                                                zung erfolgte über die verfahrensschritte ermittlung, priorisierung.
+                                                                                      beschäftigte bereich logistik
+                                                                                                                                                                liste der prozentualen anteile befragter stakeholdergruppen:
+                                                                                      beschäftigte bereich finanzen / verwaltung                                intern: eigentümer und mitarbeiter 22%
+                                                                                      beschäftigte bereich vertrieb / marketing                                 extern: installateure, handwerk 29%, großhandel 17%,
+                                                                                                                                                                planer, architekten, ingenieurbüros 14%
+                                                                                      beschäftigte bereich technik / produktion
+                                                                                                                                                                lieferanten 6%, endverbraucher 6%, sonstige 6%
+                                                                                      auszubildende / dh studenten
+
+                                                                                                                                      version 2.0_2011 – 2013   version 2.0_2011 – 2013
+
+6 nachhaltigkeitsbericht                                                                                                                                                                                                                                                                                nachhaltigkeitsbericht   7
+
+      ökonomie                                                                                                                                               ökonomie / ökologie
+
+      einbindung von stakeholdern                                                 unternehmensführung                                                        g4-ec3 deckung der verpflichtung aus dem leistungsorientierten              ökologie
+                                                                                                                                                             pensionsplan
+      g4-24 liste der eingebundenen stakeholder                                   g4-34 führungsstruktur der duravit ag einschließlich kontrollorgan
+                                                                                                                                                             leistungsorientierte betriebsrente         2011         2012        2013    g4-dma ökologie
+      intern: mitarbeiter, eigentümer                                             duravit wird zentral vom unternehmensstammsitz in hornberg gesteuert:
+                                                                                                                                                             verbindlichkeiten aus                                                       alle in diesem kontext verfolgten ziele stehen unter der prämisse, die
+      extern: lieferanten, kunden, absatzmittler, banken, kommunen,               verantwortlich für strategie, ausrichtung und kontrolle ist der dreiköp-                                 teur       14.863       14.977    16.123
+                                                                                                                                                             betrieblichen ressourcen                                                    ressourcenschonung weiter voranzutreiben. bereits 2012 hat duravit
+      naturschutzorganisation                                                     fige vorstand, der von etwa 25 führungskräften unterstützt wird. deren
+                                                                                                                                                                                                                                         eine „roadmap“ als leitlinie formuliert, in der bis zum jahr 2020 auf
+      die befragung wurde anonymisiert. eingebundene stakeholderkategorien        aufgaben sind überwiegend funktional gegliedert. das führungsprinzip       teilnehmende arbeitnehmer     %            98,9          99,9        99,6
+                                                                                                                                                                                                                                         basis der energiemanagement-norm 50001 konkrete maßnahmen
+      siehe g4-18.                                                                von duravit gewährt jedem mitarbeiter ein hohes maß an eigenver-
+                                                                                                                                                                                                                                         festgeschrieben sind. um den erfolg messen zu können, wurden zudem
+                                                                                  antwortung und handlungsspielraum. der führungsstil ist kooperativ,        beitragsorientierte betriebsrente          2011         2012        2013    kennzahlen festgelegt, die in einem definierten zeitrahmen erreicht wer-
+      g4-25 grundlage für die ermittlung und auswahl der stakeholder              kollegial und unbürokratisch. zielorientierung und verantwortungs-
+                                                                                                                                                             verbindlichkeiten aus                                                       den müssen. anhand von input-output-diagrammen, die für jedes werk
+      als stakeholder werden alle gruppen betrachtet, die von unserer             übertragung halten duravit flexibel und entscheidungsfreudig. oberstes                                   teur          190          232         255
+                                                                                                                                                             betrieblichen ressourcen                                                    erstellt werden, kann die entwicklung detailliert verfolgt werden.
+      wirtschaftlichen tätigkeit betroffen sind. um eine geeignete auswahl        kontrollorgan ist der 6-köpfige aufsichtsrat der duravit ag, bestehend
+                                                                                                                                                             teilnehmende arbeitnehmer * %              67,1          74,6        79,9   weiterhin hat sich duravit zum ziel gesetzt, für sanitärkeramische
+      eingebundener stakeholder zu treffen, orientieren wir uns vor allem an      aus eigentümern und arbeitnehmervertretern.
+                                                                                                                                                                                                                                         produkte sowie sanitäracrylprodukte eine epd (environmental product
+      deren nähe zur herstellungs- und wertschöpfungskette der duravit ag.                                                                                   * gesamtzahl der beschäftigten zum jahresende in köpfen
+                                                                                                                                                                                                                                         declaration) zu erstellen. eine epd beruht auf unabhängig überprüften
+      wir stehen aber auch in engem kontakt mit unseren stakeholdern, die         ethik und integrität                                                       (inkl. vorstände, auszubildende / dh-studenten) ohne praktikanten
+                                                                                                                                                                                                                                         daten aus ökobilanzen, sachbilanzen oder informationsmodulen.
+      nur indirekt zum erfolg unseres unternehmens beitragen.                                                                                                und repräsentanten)
+                                                                                                                                                                                                                                         im badmöbelbereich lautet das ziel, innerhalb der gesamten lieferkette
+                                                                                  g4-56 werte, prinzipien, standards und verhaltensnormen
+                                                                                                                                                                                                                                         ein management-system nach pefc (programme for the endorsement
+                                                                                  der duravit ag
+      g4-26 nennung des ansatzes zur einbindung der stakeholder                                                                                              indirekte wirtschaftliche aspekte                                           of forest certification schemes) umzusetzen. das bedeutet, dass alle ein-
+      die umsetzung erfolgt über die verfahrensschritte ermittlung, priorisie-    der vorstand der duravit ag hat bereits vor jahren gemeinsam mit vielen
+                                                                                                                                                                                                                                         gesetzten hölzer ausschließlich aus wäldern stammen, in denen aktive
+      rung, validierung und überprüfung. die einbindung unserer stakeholder       mitarbeitern ein firmeninternes leitbild entwickelt, das als gedruckte     g4-ec7 entwicklung und auswirkung von infrastrukturdienstleistungen
+                                                                                                                                                                                                                                         und nachhaltige bestandspflege betrieben wird.
+      erfolgt mit hilfe eines speziell entwickelten fragebogens, der an die       broschüre jedem beschäftigten vorliegt und jedem neuen mitarbeiter         und geförderten dienstleistungen
+                                                                                                                                                                                                                                         die bereits 2012 erfolgte zertifizierung der duravit ag nach iso 14001
+      stakeholder verteilt wird. im berichtszyklus werden die stakeholder der     persönlich übergeben wird. alle sollen mit der unternehmenskultur und      duravit fördert regelmäßig sieben schulen und hochschulen in der
+                                                                                                                                                                                                                                         und iso 50001 beinhaltet die verpflichtung zur rechtskonformität
+      duravit ag zu den wesentlichen aspekten der nachhaltigkeit jeweils neu      den zielen von duravit eng vertraut sein und diese mit überzeugung ver-    region, um den bildungsstandard und damit die chancen junger men-
+                                                                                                                                                                                                                                         (compliance) für alle ökologischen aspekte. dem trägt duravit in sämt-
+      befragt.                                                                    treten. das firmenleitbild umfasst unter anderem themen wie marken-        schen zu fördern. darüber hinaus werden etwa fünfzig sportvereine im
+                                                                                                                                                                                                                                         lichen prozessen rechnung. die gesetze und richtlinien werden teilweise
+                                                                                  auftritt, markeninhalt und markenverständnis, die kraft zur innovation,    näheren umkreis der standorte hornberg und schenkenzell mit regel-
+                                                                                                                                                                                                                                         sogar übererfüllt.
+      g4-27 nennung der wichtigsten themen durch die rückkopplung                 märkte und internationalisierungsstrategie, vertriebswege und kunden-      mäßigen zuwendungen bedacht. gerade im ländlichen raum erfüllen
+      der stakeholder                                                             beziehungen, ein partnerschaftliches lieferantenverhältnis, beziehungen    sie im hinblick auf die sozialen kontakte von kindern und jugendlichen
+      die wichtigsten themen aus sicht der stakeholder lassen sich aus der        zu wettbewerbern, organisation und führung, das vertrauensvolle            wichtige aufgaben.                                                          materialien
+      grafik in g4-18 ableiten: produktqualität, entwicklung neuer produkte,      verhältnis zu mitarbeitern, gesellschaftliche verantwortung, wachstum
+                                                                                                                                                                                                                                         g4-en1 eingesetzte materialien nach gewicht oder volumen
+      arbeitssicherheit und gesundheitsvorsorge, abfallvermeidung und             und gewinn sowie die beziehung zwischen unternehmensleitung und            beschaffung
+      ressourcenschonung.                                                         aktionären.
+                                                                                                                                                             g4-ec9 anteil an ausgaben für lokale lieferanten                            standort hornberg                             2011      2012        2013
+                                                                                                                                                             an hauptgeschäftsorten                                                      rohstoff 1: tone                  t          2.672      2.130       2.000
+      berichtsprofil
+                                                                                  ökonomie                                                                                                              2011         2012        2013    rohstoff 2: kaoline               t          1.926      1.529       1.492
+      g4-28                                                                                                                                                  anteil lokaler lieferanten                                                  rohstoff 3: hartstoffe
+      berichtszeitraum: 2011 – 2013, nächste berichtsperiode: 2014 – 2016                                                                                                                  %            39,5          37,1        19,9
+                                                                                  g4-dma ökonomie                                                            am einkaufsbudget                                                           (z.b. quarz, schamotte,           t          3.864      3.454       3.350
+                                                                                  forschung und entwicklung gilt bei duravit größtes augenmerk, genauso                                                                                  feldspat)
+      g4-29                                                                       wie der verringerung von rohstoff- und energieeinsatz sowie emissi-        ökonomische indizes                        2011         2012        2013    rohstoff 4: fritten               t             35         39          31
+      die nachhaltigkeitsberichterstattung der duravit ag erfolgt seit 2010.      onen. zum einen geht es dabei generell um neue fertigungstechnologien      erwirtschafteter wert                                                       rohstoff 5: farbkörper            t           3,20       4,21        5,12
+      ab 2011 wird diese auf gri format umgestellt.                               aber auch um neue produkttechnologien oder materialien, die im bad der                                   eur/t      12.548       14.656    15.514
+                                                                                                                                                             pro tonne ware                                                              hilfs- & betriebsstoff
+                                                                                  zukunft zur anwendung kommen. ein ehrgeiziges ziel lautet, die scher-                                                                                                                    t            116        124          81
+      g4-30                                                                                                                                                                            eur/                                              produktion
+                                                                                  ben​stärke von keramikteilen unter einhaltung aller physikalischen para-   deckung pensionsansprüche                18.816       19.035    20.891
+      frequenz des berichtszyklus dreijährlich, nächster bericht erscheint 2017                                                                                                        mitarb.                                           betriebsstoff: formengips         t            447        425         371
+                                                                                  meter um 10% zu reduzieren. außerdem soll der anfallende schleifstaub
+                                                                                  künftig einer stofflichen verwertung zugeführt werden. permanent arbei-    soziale investitionen                                                       betriebsstoff:
+                                                                                                                                                                                           %              0,2          0,2         0,2                                     t             35         35          44
+      g4-31 nennung der anlaufstelle für fragen bzgl. des                         ten alle produktentwicklungsteams daran, bei bestehenden produkten         pro erwirtschaftetem wert                                                   kunstharze formenbau
+      nachhaltigkeitsberichtes                                                    einsparpotentiale auszuschöpfen, um den ressourcen​verbrauch zu redu-                                                                                  betriebsstoff: schwindplatten     t            698        815         639
+      im falle von fragen zur nachhaltigkeit bei duravit wenden sie sich bitte    zieren. eine wichtige zielsetzung besteht außerdem darin, bei rohstoffen   einsparungen aus                                                            betriebsstoff: abwasserchemie t                 29         26          30
+      an: duravit ag, public relations, werderstr. 36, 78132 hornberg,            und materialien höchste maßstäbe in sachen qualität und wirtschaftlich-    nachhaltigkeits-maßnahmen              kosten      einsparung          %
+      telefon +49 7833 70-0, fax +49 7833 8585, sustainabilty@duravit.de,                                                                                                                                                                halbzeuge und teile:
+                                                                                  keit zu erreichen. mit den leitlinien „green purchasing“ wurden für alle   rohstoffe / material gesamt   eur/t   15.723,27     1.088,04         6,92                                     t
+      www.duravit.de/green                                                                                                                                                                                                               montagezubehör
+                                                                                  standorte verbindliche vorgaben für die beschaffung festgelegt.            strom hornberg mix            eur/t      191,10          5,24        2,74   verpackung 1: kartonagen          t            150        147         144
+                                                                                  (siehe auch g4-1, 18, 19 und 27)
+      g4-32 „umfassend-“ oder „kern“-option                                                                                                                  strom schenkenzell mix        eur/t      121,99                             verpackung 2: stretchfolien &
+                                                                                                                                                                                                                                                                           t           6,27       6,06        6,77
+      dieser bericht wurde in übereinstimmung mit den leitlinien der gri auf                                                                                 strom schenkenzell                                                          schrumpfhauben
+      ebene der „kern“- indikatoren verfasst.
+                                                                                  wirtschaftliche leistung                                                   wasserkraft
+                                                                                                                                                                                           eur/t        6,10
+
+                                                                                  g4-ec1 direkt erwirtschafteter und verteilter wirtschaftlicher wert        strom schenkenzell gesamt     eur/t      128,10          0,20        0,15   standort schenkenzell                         2011      2012        2013
+      gri-index s. s. 2ff.                                                                                                                                                                                                               rohstoff 1: spanplatte /
+                                                                                                                             2011        2012       2013     primärenergie schenkenzell    eur/t        2,67          0,11        4,20
+                                                                                                                                                                                                                                                                           t          2.171      1.864       1.865
+                                                                                  einnahmen waren und dienstl. eur        243.934    236.856     235.692     reststoffverbrennung                                                        mdf /schichtstoffe
+      g4-33 wird von sgs geliefert                                                                                                                                                         eur/t        0,79          0,79   100,00
+                                                                                  sonstige einnahmen             eur       18.331      23.216     27.848     schenkenzell                                                                rohstoff 2:
+      die externe prüfung des berichtes auf konformität und die richtigkeit                                                                                                                                                                                                t            368        255         184
+                                                                                                                                                             abfall hornberg               eur/t       13,35          2,59       19,40   kunststoff / acryl / pur
+      der datensätze wurden durch die sgs tüv saar gmbh geprüft.                  einnahmen gesamt               eur      262.265    260.073     236.540
+      grundlage sind die vorgaben der gri zu den gesetzten aspekten und indi-                                                                                abfall schenkenzell           eur/t        3,80          0,87       22,89   rohstoff 3: kantenmaterial        t             77         60          24
+                                                                                  betriebskosten material        eur      122.310    118.021     118.899
+      katoren sowie das auf die gri inhalte abgestimmte datenerfasssungstool                                                                                 einsparungen gesamt           eur/t   16.191,35     1.097,84         6,78   rohstoff 4: sperrholz             t             65         54          73
+                                                                                  sonstige betriebskosten        eur         4.987      4.012       3.271
+      greenorganisation der sgs tüv saar gmbh. das prüfverfahren basiert                                                                                                                                                                 hilfs- & betriebsstoff 1: lacke   t          19,12      15,61       18,18
+                                                                                  betriebskosten gesamt          eur      127.297    122.032     122.170
+      auf einer standardisierten und jeweils dokumentierten systematik.                                                                                                                                                                  hilfs- & betriebsstoff 2:
+      umrechnungsfaktoren für co2-äquivalente stammen aus gemis 4.8 und           löhne und sonstige                                                                                                                                                                       t           5,99       4,87        5,43
+                                                                                                                 eur       24.668      23.870     24.132                                                                                 klebstoffe und leime
+      der ökobau.dat. angaben der energieversorger wurden mit dem faktor          betriebliche leistungen
+                                                                                                                                                                                                                                         halbzeuge und teile:
+      1,1 multipliziert, um ebenfalls die vorstufen zu erfassen. es besteht       zahlungen an kapitalgeber      eur         1.973      1.762       1.294                                                                                                                  t             45         39          31
+                                                                                                                                                                                                                                         alustrangprofil
+      keinerlei rechtliche verbindung zwischen der prüfgesellschaft und der       zahlungen an den staat         eur         5.669      4.736       2.389
+                                                                                                                                                                                                                                         halbzeuge und teile:
+      duravit ag. die verantwortlichkeit für die externe prüfung liegt beim       spenden                        eur            26         76           37                                                                                                                 t            490        560         507
+                                                                                                                                                                                                                                         beschläge / zubehör
+      gesamtvorstand der duravit ag.
+
+
+
+                                                                                                                                  version 2.0_2011 – 2013    version 2.0_2011 – 2013
+
+8 nachhaltigkeitsbericht                                                                                                                                                                                                                                                                         nachhaltigkeitsbericht   9
+
+      ökologie                                                                                                                                              ökologie
+
+      halbzeuge und teile:                                                       energieindizes gesamt                         2011      2012      2013     emissionen gesamt                                                       g4-en23 gesamtgewicht des abfalls nach art und entsorgungsmethode
+                                      t              312        272        348
+      glas / spiegel                                                             strom fremdbezug                 mwh / t *     1,22      1,25      1,19    g4-en15 direkte thg-emissionen (scope1)                                 verwertungsquoten standort hornberg
+      verpackung 1: kartonagen /                                                 primärenergie                    mwh / t *     3,71      4,05      3,96
+                                                                                                                                                                                                          2011     2012     2013
+      verpackungen / papier /         t              450        431        415   sonstige energiequellen          mwh / t *     0,20      0,23      0,24
+
+
+
+
+                                                                                                                                                                                                                                                                                            (energetische und verfüllung)
+      etiketten                                                                                                                                             primärenergie                 t co2-äquiv.    8.058    7.940    7.767
+                                                                                 energieindex innerhalb
+      verpackung 2: ew-paletten       t              223        209        192                                    mwh / t *     5,14      5,54      5,40
+                                                                                 der organsiation gesamt
+                                                                                                                                                            g4-en16 indirekte thg-emissionen (scope2)
+
+
+
+
+                                                                                                                                                                                                                                                                    stoffliche verwertung
+                                                                                                                                                                                                                                                                                            sonstige verwertung
+                                                                                 geschäftsreisen                  mwh / t *     0,17      0,19      0,19
+      materialindizes gesamt                        2011      2012       2013                                                                                                                             2011     2012     2013
+                                                                                 nachgelagerter transport lkw mwh / t *         0,03      0,03      0,03
+      rohstoffindex                   t/t prod.     1,38       1,30       1,25                                                                              strom                         t co2-äquiv.    4.476    3.953    2.915
+                                                                                 energieindex außerhalb                                   0,22      0,22
+      betriebsstoffindex              t/t prod.     0,15       0,18       0,15                                    mwh / t *     0,20
+                                                                                 der organsiation gesamt
+
+
+
+
+                                                                                                                                                                                                                                                                                                                            deponie
+      halbzeuge und teile             t/t prod.     0,10       0,12       0,12   energieindex gesamt              mwh / t *     5,34      5,76      5,62    emissionsindex                                2011     2012     2013
+      verpackungsindex                t/t prod.     0,10       0,11       0,10   erneuerbare energien             %            11,70    11,84      14,13    emissionsindex thg               t/t
+                                                                                                                                                                                                           1,53     1,62     1,46                                                                                                     2011    2012      2013
+      materialindex gesamt            t/t prod.      1,74       1,70      1,62                                                                              innerhalb der organisation       produkt
+                                                                                 * produkt                                                                                                                                          gipsformenbruch             t                                                             x        674     574        596
+      erneuerbare materialien         %            21,53      21,64      22,69                                                                              emissionsindex thg
+                                                                                                                                                                                                                                    filterkalk                  t                                      x                                22       24        30
+                                                                                 g4-en7 senkung des energiebedarfs für produkte und dienstleistungen        außerhalb der organisation       t/t
+                                                                                                                                                                                                          0,054    0,053    0,053   glattbruch, farbig          t                                      x                                  –      46        20
+                                                                                 überall dort wo es ökologisch sinnvoll scheint, setzt duravit schon seit   vertrieb und nachgelagerter      produkt
+      energie                                                                                                                                               transport                                                               glattbruch und
+                                                                                 jahren ressourcenschonende leds ein, zum beispiel für licht- und farb-                                                                                                         t         x                                                            855     736        615
+                                                                                 lichtprogramme von badewannen, whirlwannen, pools und saunen sowie                                          t/t                                    schwindplatten
+      g4-en3 energieverbrauch innerhalb der organisation                                                                                                    emissionsindex gesamt                          1,59     1,67     1,51
+                                                                                 für die bedienelemente bei wannen oder bei spiegeln mit integriertem                                        produkt                                filterkuchen                t         x                            x                              1189     746        566
+      standort hornberg                             2011      2012       2013
+                                                                                 licht.                                                                                                                                             brennhilfsmittel            t        x                                                              12        6          5
+      strom fremdbezug gesamt         mwh/a        7.391      6.722      6.366
+                                                                                 für die beleuchtung von badmöbeln werden überwiegend leds verwen-                                                                                  altholz                     t                                      x                                45       64        51
+      prozentsatz strom aus                                                      det. alle badmöbel mit beleuchtung sind mit einem energieverbrauchs-       g4-en21 nox, sox und andere signifikante luftemissionen
+                                      %             34,9         36       46,4                                                                                                                                                      kartonagen, papier          t        x                                                             112       91        73
+      erneuerbaren energien                                                      label gekennzeichnet.                                                      standort hornberg                                               2013
+      primärenergie heizöl, diesel    mwh/a        41,48      33,46      42,63                                                                                                                                                      folien                      t        x                                                               4        6          4
+                                                                                 bei whirlsystemen für whirlwannen und pools konnte mit hilfe eines neu     stickoxide                       t                               3,56
+      primärenergie erdgas            mwh/a       30.218    29.673     28.861    entwickelten gebläses die whirllautstärke um 9db gesenkt werden – dies                                                                             pvc                         t                                      x                                 3        2          2
+                                                                                                                                                            schwefeloxide                    t                               1,59
+                                                                                 entspricht einer geräuschreduzierung von fast 50% bei einer gleichzei-                                                                             diverse kunststoffabfälle   t                                      x                                31       33        32
+                                                                                                                                                            feststoffe (staub)               t                               0,08
+      standort schenkenzell                         2011      2012       2013    tigen energieersparnis von bis zu 40%.                                                                                                             restmüll, siedlungsabfall t                                        x                                91       42        95
+                                                                                 das dusch-wc sensowash® e verfügt über funktionen zum intelligenten        fluorwasserstoff                 t                               0,05
+      strom fremdbezug: mix           mwh/a        2.607      2.358      1.943                                                                                                                                                      rohmischungen
+                                                                                 und sparsamen umgang mit ressourcen wie die aufbereitung von warm-         benzol                           t                               0,03                               t                                      x                               203     194        255
+      strom fremdbezug:                                                                                                                                                                                                             vor dem brennen
+                                      mwh/a                      99        429   wasser nach bedarf und einen energiesparmodus.                             * messung erfolgt im 3-jahres-rhythmus                                  altöl / ölschlamm           t        x                                                               2        3          4
+      wasserkraft
+      strom aus                                                                                                                                                                                                                     diverse gefährliche abfälle t        x                             x                                21        6          4
+      erneuerbaren energien
+                                      %                 0      4,20      22,08   wasser                                                                     standort schenkenzell                         2011     2012     2013    schrott                     t        x                                                              36       21        40
+      heizöl                          mwh/a        30,66      20,37      25,17   g4-en8 gesamtwasserentnahme nach quelle                                    flüchtige organische                                                    verwertungsquote            %                                                                     79,58   77,87    75,08
+                                                                                                                                                                                             t             5,23     2,27     4,37
+      erdgas                          mwh/a        62,97      58,54      56,66   g4-en10 prozentsatz und gesamtvolumen wiederverwendeten wassers            verbindungen: voc
+                                                                                                                                                                                                                                    quelle: ökobilanzen, monatsberichte
+      flüssiggas                      mwh/a         0,11       0,11       0,10                                                                              feinpartikel (staub)             t             1,13     1,06     1,11
+      spanplatten beschichtet         mwh/a        1.662      1.724      1.782   standort hornberg                             2011      2012      2013                                                                             verwertungsquoten standort schenkenzell
+      erneuerbare energien            %            53,55      56,29      66,79   wasserentnahme gesamt       m3               36.427   34.143    30.476                                                   2011     2012     2013
+
+
+
+
+                                                                                                                                                                                                                                                                                            (energetische und verfüllung)
+                                                                                 wasserentnahme aus                                                         emmissionsindex sonstiger        t/t
+                                                                                                             m3                         1.242      2.230                                                                   0,0015
+                                                                                 eigener quelle                                                             luftemissionen gesamt            produkt
+      g4-en4 energieverbrauch außerhalb der organisation
+      für den berichtszeitraum sind verlässliche daten lediglich für den nach-   index: wasserentnahme je
+
+
+
+
+                                                                                                                                                                                                                                                                    stoffliche verwertung
+                                                                                                             m3/t               6,89     7,34       6,51
+
+
+
+
+                                                                                                                                                                                                                                                                                            sonstige verwertung
+      gelagerten transport von hornberg bzw. schenkenzell in das zentral-        tonne produzierte ware 1a
+      lager nach achern möglich. hierfür wurde folgender wert ermittelt:         wiederverwendetes wasser m3                  44.882   48.915    58.202
+                                                                                                                                                            abwasser und abfall
+                                                                                 wiederverwendetes wasser %                     123       143        191
+      außerhalb der organisation gesamt             2011      2012       2013    index: wiederverwendetes                                                   g4-en22 gesamtvolumen der indirekten abwassereinleitung
+
+
+
+
+                                                                                                                                                                                                                                                                                                                            deponie
+      geschäftsreisen                 mwh/a        1.376      1.376      1.376   wasser je tonne             m3/t               8,48    10,52      12,42    nach qualität und einleitungsort
+      nachgelagerter transport lkw mwh/a             267        239        238   produzierte ware 1a                                                                                                      2011     2012     2013                                                                                                      2011    2012      2013
+                                                                                                                                                            hornberg                         m3          21.801   25.988   24.949   holz / -späne               t                                      x                               369     363        231
+                                                                                 standort schenkenzell                         2011      2012      2013     schenkenzell                     m3            952     1.044    1.280
+      g4-en5 energieintensität                                                                                                                                                                                                      kartonagen, papier          t         x                                                             59       66        54
+                                                                                 wasserentnahme              m3                 952     1.044      1.280
+      standort hornberg                             2011      2012       2013                                                                                                                                                       folien                      t         x                                                              2        2          2
+                                                                                 index: wasserentnahme je    cbm/t                                                                                        2011     2012     2013
+      strom                           mwh / t *     1,40       1,45       1,36                                                  0,33     0,39       0,49                                                                            schrott                     t         x                                                             27       28        15
+                                                                                 tonne produzierte ware      möbel
+      erdgas                          mwh / t *     5,71       6,38       6,16                                                                                                               cbm/t                                  div. kunststoffabfälle      t                                      x                                56       51        49
+                                                                                                                                                            abwasserindex gesamt                           2,78     3,82     3,58
+                                                                                                                                                                                             produkt                                restmüll, siedlungsabfälle t                                       x                                39       38        40
+      * verkaufsfähiger keramik
+                                                                                 wasserindizes gesamt                          2011      2012      2013                                                                             biomüll                     t                                      x                                 2        1          1
+                                                                                 frischwasserindex           cbm/t prod.        4,57     4,79       4,34                                                                            druckgasverpackungen        t                                      x                                 0        0          0
+      standort schenkenzell                         2011      2012       2013
+                                                                                 recyclewasserindex          cbm/t prod.        5,49     6,66       7,95                                                                            kunstharz, lackabfälle      t                                      x                                 4        4          4
+      strom                           mwh / t *       0,9        0,9       0,9
+                                                                                 wasserindex gesamt          cbm/t prod.       10,06    11,45      12,29                                                                            div. gefährliche abfälle    t        x                             x                                <1        1          2
+      erdgas                          mwh / t *     0,02       0,02       0,02
+      heizöl                          mwh / t *     0,01       0,01       0,01                                                                                                                                                      verwertungsquote            %                                                                      100     100        100
+      thermische verwertung                                                                                                                                                                                                         quelle: ökobilanzen, monatsberichte
+                                      mwh / t *      0,57      0,64       0,68
+      spanplatten
+      * verkaufsfähiger badmöbel
+
+
+
+
+                                                                                                                                  version 2.0_2011 – 2013   version 2.0_2011 – 2013
+
+10 nachhaltigkeitsbericht                                                                                                                                                                                                                                                                                                                 nachhaltigkeitsbericht   11
+
+      ökologie / soziales                                                                                                                                        soziales
+
+      g4-en25 gewicht des als gefährlich eingestuften abfalls                      schenkenzell                                   2011       2012       2013     arbeitnehmer-arbeitgeber-verhältnis                                          fachkraft. im umweltbereich an den werksleiter. es sind keine formellen
+      hornberg                                      2011       2012       2013                                                                                                                                                                beschwerden hinsichtlich der arbeitspraktiken eingegangen. sollte der
+                                                                                   kosten für abfallentsorgung,
+                                                                                                                      eur        9.537     10.096     11.552     g4-la4 mindestmitteilungsfristen bzgl. betrieblicher veränderungen,          fall eintreten, ist klar festgelegt, dass sowohl der zuständige werksleiter
+      gewicht                         t             23,5*        9,4          8    emissionsbehandlung
+                                                                                                                                                                 einschließlich der angabe, ob diese in kollektivvereinbarungen dar-          als auch der vorstand umgehend informiert werden und in gegenseitiger
+      anteil an gesamtabfall          %              0,71       0,36       0,33    kosten für prävention              eur        2.350      3.880        850     gelegt sind.                                                                 absprache die bearbeitung übernehmen.
+      * inkl. bodenentsorgung altlasten                                                                                                                          zwei betriebsratsmitglieder sind im aufsichtsrat vertreten und somit
+                                                                                   beschwerdeverfahren hins. ökologischer aspekte                                von anfang an informiert wenn signifikante betriebliche veränderungen        menschenrechte
+      schenkenzell                                  2011       2012       2013                                                                                   anstehen. des weiteren ist dieses thema in den §§ 90, 92, 111 betrvg
+                                                                                   g4-en34 anzahl der beschwerden in bezug auf ökologische                       geregelt. der tarifvertrag verweist auf das betrvg.                          vereinigungsfreiheit
+      gewicht                         t                 4          5          6    auswirkungen
+      anteil an gesamtabfall          %              0,72       0,91       1,51    es erfolgten im berichtszeitraum am standort hornberg keine beschwer-         arbeitssicherheit und gesundheitsschutz                                      g4-hr4 ermittelte geschäftsstandorte und lieferanten, bei denen das
+                                                                                   den in bezug auf ökologische auswirkungen. am standort schenken-                                                                                           recht der beschäftigten auf vereinigungsfreiheit und kollektivver-
+                                                    2011       2012       2013     zell erreichte uns eine beschwerde, die bearbeitet und gelöst wurde.          g4-la6 arbeitsunfälle und krankenquote                                       handlungen verletzt wird oder erheblich gefährdet sein könnte, und
+                                                                                   eingehende beschwerden werden entsprechend unserem verfahren aus                                                                                           ergriffene maßnahmen zum schutz dieser rechte
+                                      t/t                                                                                                                                                                   2011       2012        2013
+      abfallindex gesamt                             0,47       0,43       0,38    dem umweltmanagement iso 14001 schriftlich erfasst und dokumen-                                                                                            das recht auf vereinigungsfreiheit und kollektivvereinbarungen gilt in
+                                      produkt                                                                                                                    arbeitsunfälle          1000-mann-quote      8,7        7,4        10,1
+                                                                                   tiert. externe mitteilungen, ob telefonisch, schriftlich (brief oder email)                                                                                jedem werk der duravit ag. darüber hinaus müssen unsere lieferanten
+                                                                                   oder aus diskussionen heraus werden von der eingangsstelle zum                krankenquote                    %            4,1        3,8         4,4      sich mit der unterzeichnung unseres code of conduct dazu verpflichten,
+      produkte und dienstleistungen                                                jeweiligen werksleiter und dem umwelt- bzw. energiemanagement-                                                                                             ebenfalls die vereinigungsfreiheit anzuerkennen und nationale gesetze
+                                                                                   beauftragten weitergeleitet. anfragen werden innerhalb von 2 tagen            aus- und weiterbildung                                                       zu arbeitspraktiken zu achten. im übrigen gelten die bestehenden
+      g4-en27 umfang der maßnahmen zur verbesserung ökologischer
+                                                                                   bearbeitet. beschwerden werden innerhalb eines tages bearbeitet.                                                                                           gesetzlichen regelungen in vollem umfang.
+      auswirkungen
+                                                                                   sofern weiter​gehende erhebungen erforderlich sind, ist der beschwer-         g4-la9 durchschnittliche jährliche stundenzahl für
+      beim thema wasserverbrauch hat duravit als vorreiter in den 1980ern
+                                                                                   deführer darüber zu informieren. notwendige maßnahmen zur behebung
+      die spülmenge bei wcs auf 6 liter und bei einigen modellen weiter auf
+                                                                                                                                                                 aus- und weiterbildung                                                       gesellschaft
+                                                                                   des beschwerdegrunds werden umgehend eingeleitet. die aufbewah-
+      4,5 liter reduziert. mit der dual-flush-technik können in einem 4-per-                                                                                                                                2011       2012        2013
+                                                                                   rungsdauer von eingegangenen mitteilungen (gesprächsprotokolle bzw.                                                                                        lokale gemeinschaft
+      sonen-haushalt jährlich zusätzlich etwa 17.000 liter gespart werden.                                                                                       durchschnittliche gesamtzahl
+                                                                                   beschwerdeschreiben) beträgt 3 jahre. die dokumente werden beim                                                         750,8       753,7      747,8
+      nach drücken der spar-taste wird mit der halben menge gespült und                                                                                          aktiver mitarbeiter in köpfen
+                                                                                   technischen leiter bzw. umweltbeauftragten aufbewahrt.                                                                                                     g4- so1 prozentsatz der geschäftsstandorte bei denen maßnahmen
+      das „kleine geschäft“ sauber und hygienisch entsorgt. für die komplette                                                                                    gesamt-tage für awb /           ø tage
+                                                                                                                                                                                                              1,7        1,7         1,7      zur einbindung lokaler gesellschaften, folgenabschätzung und förder-
+      wassermenge wird die große taste betätigt. zusätzlich dazu lässt sich der                                                                                  gesamtzahl der mitarbeiter      für awb                                      programme umgesetzt wurden
+      spülvorgang durch die stop+go-taste unterbrechen.                            soziales                                                                      * ohne vorstand, auszubildende / dh-studenten, praktikanten,                 an allen geschäftsstandorten werden lokale vereine seit jahrzehnten mit
+      bei urinalen mit intelligenter elektronischer steuerung genügt eine spül-
+                                                                                                                                                                 fremdkräfte                                                                  einem jährlichen förderbetrag unterstützt. darüber hinaus besteht mit
+      menge von 0,5 bis 2,1 liter. mit den wasserlosen urinalen leistet duravit    g4-dma soziales: soziale verantwortung                                                                                                                     der örtlichen freiwilligen feuerwehr hornberg eine vereinbarung, dass
+      einen wichtigen beitrag: gespart wird nicht nur spülwasser, es werden        bei duravit steht der mensch erklärtermaßen im mittelpunkt. das ziel
+                                                                                                                                                                 g4-la11 prozentsatz der mitarbeiter, mit denen regelmäßig ein                sie bei einsätzen von der duravit werksfeuerwehr unterstützt wird.
+      zudem auch keinerlei wasserzuleitungen oder armaturen benötigt.              lautet, durch verschiedenste maßnahmen langfristige bindungen zu
+                                                                                                                                                                 mitarbeitergespräch geführt wird
+      eine ganze reihe von badewannen verfügt durch intelligente raumaus-          mitarbeitern aufzubauen, um die fluktuation gering zu halten. diese zah-
+      nutzung über vergleichsweise geringe füllvolumina.                           len werden fortlaufend dokumentiert und analysiert. durch die weitere
+                                                                                                                                                                 im jahr 2013 wurden mit 89,90% der aktiven belegschaft mitarbeiter-          produktverantwortung
+                                                                                                                                                                 gespräche geführt.
+      mit ausnahme der decklacke sind alle im duravit badmöbelwerk ver-            stärkung von reputation und vertrauen möchte sich duravit im heute so                                                                                      kundengesundheit und -sicherheit
+      wendeten lacke, füller und grundierungen wasserlöslich. außerdem             wichtigen „employer branding“ als attraktiver und ehrlicher arbeitgeber
+                                                                                                                                                                 vielfalt und chancengleichheit
+      setzt duravit überall dort, wo es ökologisch sinnvoll scheint, ressourcen-   positionieren. auch aus- und weiterbildung, arbeitssicherheit, gesund-                                                                                     g4- pr1 prozentsatz maßgeblicher produkt- und dienstleistungskate-
+      schonende leds als leuchtmittel ein, zum beispiel für licht- und             heitsvorsorge, soziale absicherung, diverse sport- oder fitnessaktivitäten                                                                                 gorien, deren auswirkungen und verbesserungspotentiale auf gesund-
+                                                                                                                                                                 g4-la12 zusammensetzung der kontrollorgane und aufteilung der
+      farblichtprogramme bei whirlwannen und pools oder der beleuchtung            und veranstaltungen erhöhen die attraktivität von duravit als arbeitgeber.                                                                                 heit und sicherheit geprüft werden
+                                                                                                                                                                 mitarbeiter nach mitarbeiterkategorie in bezug auf geschlecht, alters-
+      von badmöbeln.                                                               zudem wird das thema demografie stärker in den fokus rücken. eine                                                                                          die prüfungen entsprechen den anforderungen der iso 9001.
+                                                                                                                                                                 gruppe, minderheitszugehörigkeit und anderen diversitätsindikatoren
+                                                                                   analyse der personalstruktur soll bei der erarbeitung von handlungs-
+                                                                                                                                                                                                                                                                                           2011        2012         2013
+      g4-en28 prozentsatz zurückgenommener verkaufter produkte                     empfehlungen helfen. als weiteres ziel steht die erarbeitung eines lauf-
+      inkl. verpackung                                                                                                                                           kontrollorgan 1: aufsichtsrat              2011       2012        2013       geprüfte keramik                %            12,38       12,60       12,25
+                                                                                   bahnkonzepts und dessen umsetzung im unternehmen auf der agenda.
+      alles nach kräften wieder in den kreislauf zu bringen, ist erklärtes ziel    auch von unseren geschäftspartnern erwarten wir eine nachhaltige,             anzahl der mitglieder                          6          6              6   geprüfte badmöbel               %             8,66       12,40       12,29
+      bei duravit. sämtliche bei duravit eingesetzten werkstoffe sind recycling-   insbesondere sozialverträgliche arbeitsweise. aus diesem grund müssen         männliche personen                  %       83,3       83,3        83,3
+      fähig: sanitärkeramik wird aufgemahlen und zu 100% einer stofflichen         alle nationalen lieferanten den „code of conduct für duravit-lieferanten“     weibliche personen                  %       16,7       16,7        16,7      kennzeichnung von produkten und dienstleistungen
+      verwertung zugeführt. bei den badmöbeln werden generell recycelbare          unterzeichnen, in dem sie sich zur einhaltung der grundsätze der sozi-
+                                                                                                                                                                 personen unter 30 jahren            %        0,0        0,0         0,0
+      rohstoffe wie abs-kunststoffe, plattenwerkstoffe, beschläge oder glas        alen verantwortung bekennen. für den nächsten nachhaltigkeitsbericht
+      eingesetzt. weil gut demontierbar, können die möbel den rohstoffen           setzen wir uns als ziel, dass sich möglichst alle lieferanten weltweit        personen zwischen                                                            g4- pr3 art der erforderlichen produkt- und dienstleistungsinfor-
+                                                                                                                                                                                                     %       33,3       50,0        50,0
+      entsprechend verwertet werden. bislang werden duravit-produkte nach          unserem code of conduct anschließen.                                          30 und 50 jahren                                                             mationen sowie prozentsatz der diesen verpflichtend unterliegenden
+      ihrem lebenszyklus von den endverbrauchern oder handwerksfirmen              an seinen verschiedenen standorten fördert duravit überdies vereine,          personen über 50 jahren             %       66,7       50,0        50,0      produkt- und dienstleistungskategorien
+      fachgerecht einer verwertung zugeführt und nicht an den hersteller           bildung, soziales, kunst und kultur.                                                                                                                       alle duravit-produkte (100%) verfügen uneingeschränkt über eine
+      zurückgegeben.                                                                                                                                                                                                                          ce-kennzeichnung. damit wird dokumentiert, dass das produkt allen im
+                                                                                                                                                                 kontrollorgan 2: betriebsrat               2011       2012        2013
+      bei der entwicklung der verpackungen wird durch intelligente anordnung                                                                                                                                                                  europäischen rechtsraum gültigen normen und vorschriften entspricht.
+                                                                                                                                                                 anzahl der mitglieder                         13         13         13
+      der zuschnitte und einleger unnötiges auspolsterungsmaterial wie z.b.        arbeitspraktiken und menschenwürdige beschäftigung                                                                                                         darunter fällt auch die emv-richtlinie, die die elektromagnetische
+                                                                                                                                                                 männliche personen                  %       76,9       76,9        76,9      verträglichkeit von produkten sicherstellt sowie die ip44 prüfung
+      schaumstoff oder styropor weitestgehend vermieden, und das produkt
+                                                                                   beschäftigung                                                                 weibliche personen                  %       23,1       23,1        23,1      (spritzwasserschutz), der alle stromführenden duravit-produkte aus-
+      ist dennoch bestens geschützt. in deutschland nimmt duravit zudem am
+      recyclingprogramm interseroh teil.                                                                                                                         personen unter 30 jahren            %        0,0        0,0         0,0      nahmslos entsprechen. zudem tragen alle elektrischen produkte
+                                                                                   g4-la1 mitarbeiterzahl, fluktuationsquote und wanderungssaldo                                                                                              aus dem geschäftsbereich wellness-technologien das tüv-prüfzeichen.
+                                                                                                                                                                 personen zwischen
+                                                                                                                                2011        2012        2013                                         %       53,8       46,2        46,2
+                                                                                                                                                                 30 und 50 jahren
+      insgesamt                                                                    gesamtzahl                                                                                                                                                 schutz der privatsphäre des kunden
+                                                                                                                  anzahl         790         789         789     personen über 50 jahren             %       46,2       53,8        53,8
+                                                                                   der beschäftigten
+      g4-en31 die gesamten aufwendungen und investitionen
+                                                                                   fluktuationsquote              %              4,40        2,50        2,40                                                                                 g4- pr8 anzahl der beschwerden in bezug auf die privatsphäre des
+      für umweltschutz nach art                                                                                                                                  beschwerdeverfahren hinsichtlich arbeitspraktiken                            kunden und der verletzung des datenschutzes
+      hornberg                                      2011       2012       2013     wanderungssaldo                anzahl
+                                                                                                                                   -6          -1           0                                                                                 im berichtszeitraum wurden keine begründeten beschwerden in bezug
+                                                                                                                  saldiert                                       g4-la16 anzahl der beschwerden in bezug auf arbeitspraktiken, die
+      kosten für abfallentsorgung,                                                                                                                                                                                                            auf die privatsphäre unserer kunden eingereicht. es sind keine daten-
+                                      eur        113.522     96.227 108.416                                                                                      über formelle beschwerdeverfahren eingereicht, bearbeitet und gelöst
+      emissionsbehandlung                                                                                                                                                                                                                     lecks aufgetreten.
+                                                                                                                                                                 wurden
+      kosten für prävention           eur        259.300       9.557      7.750
+                                                                                                                                                                 beschwerden erfolgen mündlich an den betriebsrat oder die sicherheits-
+
+
+
+
+                                                                                                                                     version 2.0_2011 – 2013     version 2.0_2011 – 2013
+
+12 nachhaltigkeitsbericht                                                                                                                                                                                                                                                                             nachhaltigkeitsbericht   13
+
+duravit ag
+werderstr. 36
+78132 hornberg
+telefon +49 7833 70 0
+telefax +49 7833 70 289
+info@duravit.de
+www.duravit.de
+
+
+
+
+                          dgnb
+                          duravit ist mitglied der deutschen gesellschaft für nachhaltiges bauen, dgnb. das dgnb system dient der
+                          objektiven beschreibung und bewertung der nachhaltigkeit von gebäuden und quartieren. bewertet wird die qualität
+                          im umfassenden sinne, über den kompletten gebäudelebenszyklus hinweg.
+
+
+
+
+                          usgbc / leed
+                          duravit ist mitglied bei usgbc (u.s. green building council), einem gremium, das sich mit efﬁzienten und energie-
+                          sparenden gebäuden für eine nachhaltige zukunft einsetzt. eine maßnahme ist das leed programm für grünes bauen.
+                          leed zertiﬁzierte bauten sind sparsam, wirken sich positiv auf die gesundheit der bewohner aus und fördern erneuer-
+                          bare energien.
+
+
+
+                          ibu
+                          duravit ist mitglied des institut bauen und umwelt (ibu), einer initiative von bauproduktherstellern, die der
+                          forderung nach mehr nachhaltigkeit im bauwesen gemeinsam begegnen. ibu bietet eine geschlossene außendar-
+                          stellung von umwelt-produktdeklarationen (epds) vom ökolabel typ iii gemäß iso- und cen-normung.
+
+
+
+
+                          epd
+                          duravit wurde vom ibu mit den umwelt-produktdeklarationen (environmental product declaration, epd) für die
+                          produktgruppen sanitärkeramik sowie sanitäracryl ausgezeichnet. eine epd zeigt die umwelteigenschaften eines
+                          produktes sowie das verantwortungsbewusstsein des unternehmens im hinblick auf das nachhaltige bauen.
+
+
+
+
+                          european water label
+                          das european water label ist ein freiwilliges system europäischer badhersteller, an dem sich duravit zusammen mit
+ water                    75 weiteren großen marken beteiligt. die online-datenbank des european water label sowie produktbegleitende
+ label                    etiketten schaffen transparenz, indem sie wasserverbrauchskennwerte von badprodukten übersichtlich darstellen.
+
+
+
+
+                          water sense
+                          duravit ist mitglied bei watersense, einem partnerschaftsprogramm der u.s. environmental protection agency (epa).
+                          es richtet sich in erster linie an verbraucher, die ihren wasserverbrauch reduzieren möchten. mit dem label aus-
+                          gezeichnete produkte und dienstleistungen sparen mindestens 20 %, ohne funktion und leistung zu beeinträchtigen.
+
+
+
+
+                          pefc
+                          die duravit badmöbelproduktion trägt das pefc-gütesiegel. pefc ist die größte institution zur sicherstellung nachhal-
+                          tiger waldbewirtschaftung durch ein unabhängiges zertiﬁzierungssystem. holz und holzprodukte mit dem pefc-siegel
+                          stammen nachweislich aus ökologisch, ökonomisch und sozial nachhaltiger forstwirtschaft.

@@ -1,0 +1,2498 @@
+sus-
+tain-
+ability
+sustainability performance report
+sustainability reporting
+on the financial year 2013
+
+sustainability
+sustainability performance report
+
+
+
+
+gri reporting
+
+in the 2013 financial year, geberit’s sustainability reporting is fully integrated in the online annual report for the third year running. the company’s
+systematic and transparent communication on the subject of sustainability is addressed to a range of target groups, including customers and
+partners, investors, the general public and company employees. to this end, information is therefore made available at different levels:
+
+  → ceo statement on sustainability
+  current → highlights and → highlights 2012 on the theme of sustainability
+  business and financial review, as part of the annual report integrated into the chapters → employees, → customers, → innovation, → logistics
+  and procurement, → sustainability, → compliance and → social engagement
+  → sustainability strategy with objectives and measures
+  → key figures sustainability
+  → communication on progress un global compact
+
+the sustainability performance report brings together all the information and indicators in a systematic overview (gri index) in accordance with
+the guidelines of the global reporting initiative (gri). for more detailed information on individual aspects, reference is made in the report to the
+above-mentioned elements. the report is available in german and english. the german version is binding.
+
+geberit’s sustainability reporting has been assessed with the gri application level “a level: gri checked” since the 2007 report. the information
+disclosed within the scope of this report fulfills this maximum transparency grade set out in the gri g3 guidelines, as has been verified and
+confirmed by gri, see → gri statement.
+
+as part of sustainability reporting for 2012, geberit for the first time initiated and consulted a panel of external stakeholders. its mandate
+consisted of providing feedback on the company’s sustainability strategy and reporting, as well as reviewing whether the key topics were included
+in the sustainability reporting and whether the needs of the stakeholder groups were taken into consideration. the results also served as a basis
+for the further development of the sustainability strategy and reporting for 2013 and are summarized here:
+
+  → introduction to the stakeholder panel
+  → members of the stakeholder panel
+  → panel statement
+  → response from geberit to the panel statement
+
+the next stakeholder panel consultation is due to be carried out in 2014 and is intended to support geberit in identifying key sustainability topics
+for its reporting. this forms an essential part of the transition process for implementation of the new gri g4 guidelines published in summer 2013.
+
+
+
+
+geberit annual report 2013
+
+
+sustainability
+sustainability performance report
+
+
+
+
+table of contents
+
+1. strategy and analysis                                                                                        1
+   1.1         ceo statement                                                                                    1
+   1.2         key impacts, risks and opportunities with regard to sustainability                               1
+2. organizational profile                                                                                       2
+   2.1         name of the organization                                                                         2
+   2.2         brands, products and/or services                                                                 9
+   2.3         organizational structure                                                                         2
+   2.4         headquarters location                                                                            2
+   2.5         countries with business operations                                                               2
+   2.6         ownership and legal form                                                                         2
+   2.7         markets served                                                                                   2
+   2.8         scale of the reporting organization                                                              2
+   2.9         significant changes regarding size, structure or ownership                                       3
+   2.10        awards received                                                                                  3
+3. report parameters                                                                                            4
+   3.1         reporting period                                                                                 4
+   3.2         date of most recent previous report                                                              4
+   3.3         reporting cycles                                                                                 4
+   3.4         contact point for questions regarding the report or its contents                                 4
+   3.5         process for defining report content                                                              4
+   3.6         boundary of the report                                                                           4
+   3.7         specific limitations                                                                             4
+   3.8         joint ventures, subsidiaries, outsourced operations, etc.                                        4
+   3.9         data measurement techniques and bases for calculations                                           5
+   3.10        effects of any restatements of information provided in earlier reports                           5
+   3.11        changes from previous reporting periods in scope, boundary or measurement methods                5
+   3.12        gri content index                                                                                5
+   3.13        external assurance for the report                                                                5
+4. governance, commitments, and engagement                                                                      7
+   4.1         governance structure, committees under the board of directors                                     7
+   4.2         separation of chair of board of directors and executive management                                7
+   4.3         independent members of the board of directors                                                     7
+   4.4         mechanisms for shareholders and employees to address recommendations to the board of directors    7
+   4.5         linkage between compensation for the highest bodies and the organization’s performance            7
+   4.6         processes in place for the board of directors to avoid conflicts of interest                      7
+   4.7         determining the qualifications of the board of directors with regard to sustainability issues     7
+   4.8         general principles and codes of conduct                                                           7
+   4.9         procedures of the board of directors for overseeing sustainability performance                    7
+   4.10        processes for evaluation of the sustainability performance of the board of directors              8
+   4.11        precautionary approach                                                                            8
+   4.12        external agreements and initiatives                                                               8
+   4.13        membership in associations and organizations                                                      8
+   4.14        relevant stakeholder groups                                                                       8
+   4.15        basis for selection of stakeholders                                                               8
+   4.16        approaches to stakeholder engagement                                                              8
+   4.17        response to and dealing with key topics and concerns of stakeholders                             10
+5. economy (ec)
+   dma-ec management approach economy                                                                           11
+   ec1      economic performance                                                                                11
+   ec2      financial implications of climate change                                                            11
+   ec3      scope of the organization’s defined benefit plan obligations                                        12
+   ec4      significant financial assistance received from government                                           12
+   ec5      ratio of standard entry-level wage compared to local minimum wage                                   12
+   ec6      selection of locally-based suppliers                                                                12
+   ec7      procedures for local hiring                                                                         12
+   ec8      investments in infrastructure and services primarily for public benefit                             12
+   ec9      indirect economic impacts                                                                           12
+6. ecology (en)                                                                                                 14
+   dma-en management approach ecology                                                                           14
+   en1       materials used                                                                                     14
+   en2       percentage of recycled material                                                                    14
+   en3       direct energy consumption                                                                          15
+   en4       indirect energy consumption                                                                        15
+   en5       energy saved                                                                                       15
+   en6       energy-efficient products                                                                          16
+
+
+
+
+geberit annual report 2013
+
+sustainability
+sustainability performance report
+
+   en7          reduction of indirect energy consumption                                  16
+   en8          water consumption                                                         16
+   en9          water sources significantly affected by withdrawal of water               16
+   en10         water recycling                                                           17
+   en11         parcels in biodiversity reserves                                          17
+   en12         impacts on biodiversity in protected areas                                17
+   en13         protected or restored natural habitats                                    17
+   en14         management of impact on biodiversity                                      17
+   en15         influence on iucn red list species                                        17
+   en16         direct and indirect greenhouse gas emissions                              17
+   en17         other relevant greenhouse gas emissions                                   17
+   en18         initiatives to reduce greenhouse gas emissions                            18
+   en19         ozone-depleting substances                                                18
+   en20         nox, sox and other air emissions                                          18
+   en21         total water discharge                                                     18
+   en22         waste                                                                     18
+   en23         significant spills of chemicals                                           19
+   en24         transport of hazardous waste                                              19
+   en25         effects of water discharges on bodies of water                            19
+   en26         mitigation of environmental impact of products                            19
+   en27         reclaimed packaging material                                              19
+   en28         sanctions due to non-compliance with environmental laws and regulations   20
+   en29         environmental impacts of transport                                        20
+   en30         costs of environmental protection                                         20
+7. employer responsibility (la)                                                           21
+   dma-la management approach to employer responsibility                                  21
+   la1       total workforce by employment type, employment contract, and region          21
+   la2       employee fluctuation                                                         21
+   la3       benefits                                                                     22
+   la4       employees covered by collective bargaining agreements                        22
+   la5       notice periods regarding operational changes                                 22
+   la6       percentage of total workforce represented in health and safety committees    22
+   la7       accidents, occupational illness and lost time                                22
+   la8       assistance regarding serious illnesses                                       22
+   la9       health and safety topics covered in agreements with trade unions             22
+   la10      employee education and further training                                      23
+   la11      programs for skills management and lifelong learning                         23
+   la12      performance and career development of employees                              23
+   la13      workforce diversity                                                          23
+   la14      gender-based differences in salaries                                         23
+8. human rights (hr)                                                                      24
+   dma-hr management approach human rights                                                24
+   hr1      human rights aspects in investment agreements                                 24
+   hr2      screening of suppliers with regard to human rights aspects                    24
+   hr3      human rights training for employees                                           24
+   hr4      cases of discrimination                                                       25
+   hr5      guarantee of freedom of association and collective bargaining                 25
+   hr6      risk of and precautionary measures against child labor                        25
+   hr7      risk of and precautionary measures against forced labor                       25
+   hr8      human rights training for security personnel                                  25
+   hr9          violation of rights of indigenous peoples                                 25
+9. community (so)                                                                         26
+   dma-so management approach society                                                     26
+   so1      impact on the community and public interests                                  26
+   so2      analysis of business units for risks of corruption                            26
+   so3      training on anti-corruption policies                                          26
+   so4      actions taken in response to incidents of corruption                          26
+   so5      political positions and exercise of influence                                 26
+   so6      political contributions                                                       27
+   so7      anti-competitive behavior                                                     27
+   so8          sanctions due to non-compliance with regulations                          27
+10. product responsibility (pr)
+   dma-pr management approach to product responsibility                                   28
+   pr1      health and safety impact along the product life cycle                         28
+   pr2      non-compliance with health and safety regulations                             28
+   pr3      product labeling                                                              28
+   pr4      non-compliance with labeling requirements                                     28
+   pr5      customer satisfaction                                                         29
+   pr6      compliance with laws and standards with regard to marketing communications    29
+   pr7      non-compliance with communications requirements                               29
+   pr8      complaints regarding customer privacy                                         29
+   pr9          sanctions due to non-compliance with product liability regulations        29
+key figures environment                                                                   30
+key figures employees and society                                                         33
+
+
+
+
+geberit annual report 2013
+
+sustainability
+sustainability performance report
+
+
+
+
+1. strategy and analysis
+
+1.1 ceo statement
+
+for the statement of albert m. baehny, chairman and ceo, see → www.geberit.com > sustainability > ceo statement
+
+
+1.2 key impacts, risks and opportunities with regard to sustainability
+
+a sustainable corporate culture makes it possible to increase the value of the company over the long term and minimize risks for its future
+development. geberit aims to be a role model and to set standards for customers, suppliers and other partners. this applies to water-saving,
+sustainable products; environmentally friendly and resource-efficient production; procurement and logistics with high environmental and ethical
+standards; and good, safe working conditions for the more than 6,200 committed and qualified employees worldwide. the corporate social
+responsibility is realized among other things within the scope of global social projects relating to the core competence of water and is intensified
+through partnerships such as that with swiss waterkiosk aimed at cleaning polluted drinking water in bangladesh. there is also a long-term
+→ partnership with the swiss development organization helvetas.
+
+the → 50th anniversary of the geberit concealed cistern is a perfect example of how long-term business success is compatible with
+environmentally friendly action. this highly successful product, which has been sold over 60 million times, was a far-sighted strategic step on the
+journey from a sanitary unit to the bathroom of today in its modern form. water saving through reduced flush volumes, reliable quality and comfort
+for end users as well as the 25-year guaranteed spare parts availability for plumbers are all convincing aspects of a sustainable product.
+
+sustainability means satisfying the needs of today’s generation in a manner that will ensure a solid basis for the livelihoods of future generations.
+with its millennium development goals from the year 2000, the united nations aims to halve the number of people without access to clean drinking
+water and sanitary facilities by 2015. this demonstrates the great importance of the topic of water for world health, world nutrition and
+peacekeeping. the increase in the world’s population, migration, urbanization, climate change and natural disasters can lead to regions that are
+currently well supplied with water becoming problem regions in the future. these global trends will have a significant impact on future sanitary
+technology: water-saving, resource-efficient products are becoming even more important. the study published in 2013 by the european
+commission on the criteria for an ecolabel aimed at reducing water consumption in european toilets was therefore broadly received and discussed.
+the eu is increasingly putting water conservation on its political agenda and is developing ecolabels for efficient toilets, urinals, washbasins and
+showers. as an industry leader in the area of sustainability, geberit imposes stricter standards on its products than those prescribed by the
+european ecolabels. leading geberit wc flushing systems therefore already meet the requirements for this ecolabel. according to the product
+classification system well (water efficiency label) for water-saving and resource-saving products introduced by the industry back in 2011, seven
+out of eight certified geberit product groups are represented in the highest classification class a. the analysis of the entire value chain in the form
+of a → water footprint shows that nearly 100% of the water consumption is attributable to the product usage phase. the water savings are
+impressive: according to one model calculation, the entire dual-flush and flush-stop “fleet of cisterns” produced since 1998 has so far saved
+around 15,800 million cubic meters of water in comparison with traditional flushing systems. in 2013 alone, the water saved amounted to
+1,980 million cubic meters. this is more than half of the annual consumption of all german households.
+
+however, the continuous reduction of the ecological footprint of geberit products goes beyond water saving. since 2007, geberit has been
+implementing the → eco-design approach. this means that concepts are tested in their entirety during a product’s early development phase in
+order to examine how water, energy and material consumption in the product and value chain can be optimized. at the same time, production
+processes can often also be simplified and cost savings made. thanks to its pioneering work on the topic of eco-design, geberit is well equipped in
+terms of possible requirements as envisaged as part of an eu ecodesign directive.
+
+→ green building has long been more than just a trend. european standards in this area are becoming more and more important and new
+standards are setting out the basic rules for environmental declarations for individual products and systems in buildings. geberit published the first
+environmental product declaration for lavatory taps in 2012 and a pilot project for the systematic and simpler development of environmental
+declarations and ecological product information was launched in 2013. at the same time, more and more buildings are being constructed in
+accordance with voluntary sustainability standards such as dgnb, minergie, breeam and leed. investors, project developers, owners and tenants
+are looking for system providers with holistic expertise regarding green building that can contribute to the respective desired standards being
+fulfilled in a targeted manner. this is opening up a future market with major potential in which geberit is present with water-saving, energy-saving,
+low-noise and durable products. the group is well positioned as a leading system provider of sanitary solutions in green building and plays an
+active role in the relevant associations. the importance of the topic is also reflected in the increasing number of green building reference projects in
+which geberit products are installed.
+
+for further information on key sustainability topics and objectives for the long-term development of geberit, see → www.geberit.com >
+sustainability > sustainability strategy
+
+
+
+
+geberit annual report 2013                                                                                                                             1
+
+sustainability
+sustainability performance report
+
+
+
+
+2. organizational profile
+
+2.1 name of the organization
+
+geberit group.
+
+
+2.2 brands, products and/or services
+
+geberit offers customers high-quality system solutions for applications in private residential construction and public buildings. the systems are
+used in both renovation projects and new buildings. a broad range of products is offered within the two product areas of sanitary systems and
+piping systems. this ranges from installation systems, cisterns and mechanisms, taps, flushing systems, waste fittings and traps to supply and
+building drainage systems.
+
+for further information on the product range, see → www.geberit.com > products > product range.
+
+for 2013 sales by product areas and product lines, see → business report > business and financial review > sales.
+
+
+2.3 organizational structure
+
+the operational management structure of geberit is divided into the group divisions:
+
+  ceo
+  sales europe
+  sales international
+  products
+  finance
+
+the assignment of clearly distinguished responsibilities minimizes the number of interfaces. the structure takes into account the increasing
+globalization and is designed to enhance further the effectiveness of the geberit group in a changed environment. for more details about the
+organizational structure, see → business report > management structure.
+
+
+2.4 headquarters location
+
+the geberit group has its headquarters in rapperswil-jona (ch).
+
+
+2.5 countries with business operations
+
+geberit has its own representatives in 41 countries. the products are sold in over 100 countries throughout the world. the company has
+17 specialized production companies in eight different countries close to the most important sales markets and a central logistics center in
+pfullendorf (de).
+
+for a list of the countries in which geberit operates, see → financial report > consolidated financial statements geberit group > notes > note
+33.
+
+
+2.6 ownership and legal form
+
+geberit ag, the parent company of the geberit group, is a stock corporation (ag) under swiss law.
+
+
+2.7 markets served
+
+in terms of market cultivation, geberit relies on a three-stage distribution channel. the products are distributed via the wholesale trade.
+dealerships then sell them to plumbers and present them at exhibitions and other venues where end customers can gain information. at the same
+time, geberit provides plumbers and sanitary engineers with intensive support through training and advice, which in turn leads to increased
+demand for geberit products from wholesalers. since 2012, there has been a → web shop for the direct procurement of geberit aquaclean and
+geberit duofresh consumables.
+
+for sales by markets and regions as well as by product areas and product lines, see → business report > business and financial review > sales.
+
+
+2.8 scale of the reporting organization
+
+the geberit group’s market capitalization reached chf 10,224 million as of the end of 2013 (previous year chf 7,819 million). the 2013 sales of
+chf 2,292 million (previous year chf 2,188 million) were achieved with products in the two product areas sanitary systems and piping systems. at
+the end of 2013, the group had 6,226 employees (previous year 6,134 employees). for the consolidated balance sheet with details of current
+assets, non-current assets, equity and liabilities, see → financial report > consolidated financial statements geberit group.
+
+
+
+
+geberit annual report 2013                                                                                                                          2
+
+sustainability
+sustainability performance report
+
+
+
+2.9 significant changes regarding size, structure or ownership
+
+there were no significant changes to the group structure in 2013 (see also → 3.8). in the second half of 2013, the → 17th production site in pune
+(india) commenced operations.
+
+for further information, see → financial report > consolidated financial statements geberit group > notes > note 2.
+
+
+2.10 awards received
+
+in 2013, geberit was once again awarded numerous prizes. for a list of important prizes, see → www.geberit.com > sustainability > awards.
+
+
+
+
+geberit annual report 2013                                                                                                                          3
+
+sustainability
+sustainability performance report
+
+
+
+
+3. report parameters
+
+3.1 reporting period
+
+2013 reporting period; comparative figures from the previous year are generally shown.
+
+
+3.2 date of most recent previous report
+
+sustainability reporting for 2013 is fully integrated in the online annual report. geberit published extensive magazine-like sustainability reports in
+2004, 2007 and 2010. gri reporting regarding all gri g3 guideline requirements at the level a application stage has been published annually since
+2007. the → last report is available online; for reports from previous years, see → www.geberit.com > infocenter > publications.
+
+
+3.3 reporting cycles
+
+annually as part of the integrated online reporting for a given financial year.
+
+
+3.4 contact point for questions regarding the report or its contents
+
+should you have any questions concerning sustainability at geberit, please contact:
+
+roland högger
+head of environment and sustainability
+geberit international ag
+schachenstrasse 77, ch-8645 jona
+tel: +41 55 221 63 56, fax: +41 55 221 67 47
+→ sustainability@geberit.com
+
+
+3.5 process for defining report content
+
+the gri g3 guidelines serve as the basis for this report. an expansion of the materiality analysis for defining report content is planned for 2014 as
+part of the switch to the gri g4 guidelines.
+
+the “gri guidance for defining report content” and related principles have been implemented as extensively as possible. the basis for
+sustainability reporting is a materiality analysis for the identification of those aspects that are of significance for geberit and its stakeholders. the
+concerns of the stakeholders are addressed in the interactions and dialogs named under → 4.16.
+
+all topics classed as significant and related measures are presented in compact form primarily within the → sustainability strategy. the aspects of
+the 10 principles of the un global compact which geberit has committed itself to uphold and which are presented in the → communication on
+progress un global compact are also material. in terms of completeness, all of the company’s economic, environmental or social effects that
+appear to be of relevance have been included in the reporting based on the gri g3 guidelines, insofar as corresponding information was available.
+
+as part of sustainability reporting on the 2012 financial year, geberit for the first time initiated and consulted a panel of external stakeholders. the
+objective of the work performed by the external stakeholder panel was to review geberit’s sustainability strategy and reporting and support
+further development. this involved analyzing whether the most important topics were included in sustainability reporting and whether the concerns
+of the stakeholders were taken into consideration. in particular, the panel examined the extent to which the principles of “inclusivity” (participation
+of stakeholders), “materiality” (relevance and significance to stakeholders) and “responsiveness” (response to stakeholder issues) were considered
+in the reporting. the results of the stakeholder panel are presented in the → panel statement. some recommendations of the panel were already
+included in the sustainability reporting for 2012. please also refer to the → response from geberit to the panel statement. they also served as a
+basis for the further development of the sustainability strategy and reporting for 2013.
+
+
+3.6 boundary of the report
+
+the report covers the entire geberit group (see → 2.3, → 2.4, → 2.5 and → 2.6 ). if only part of the company is meant as an example or due to the
+availability of data, this is clearly indicated.
+
+
+3.7 special limitations
+
+there are no special limitations.
+
+
+3.8 joint ventures, subsidiaries, outsourced operations, etc.
+
+there were no material changes in the group structure during the period under review which significantly influence reporting.
+
+
+
+
+geberit annual report 2013                                                                                                                                  4
+
+sustainability
+sustainability performance report
+
+
+3.9 data measurement techniques and bases for calculations
+
+the guidelines and assessment rules of the gri g3 standard were applied wherever the data situation permitted.
+
+environmental area:
+
+  all relevant environmental and occupational safety data is recorded in a group-wide software program newly implemented in 2012 and analyzed
+  within the scope of the corporate eco-balance, energy master plan and geberit safety system (gss).
+  the swiss ecological scarcity method (2006 version) is used as the assessment method for analyzing the environmental impact (see → dma-en).
+  there are plans in 2014 to switch to the new 2013 version and the most recent data from the ecoinvent database (version 3.0).
+  the calculation of the relative environmental impact and relative co2 emissions is based on currency-adjusted sales.
+  the calculation of energy (see → en3 and → en4) and greenhouse gas data (see → en16) is based on the internationally recognized ecoinvent
+  database (version 2.0) and the continental electricity mix for europe, the us and china. the data covers scope 1 and 2 as well as scope 3 to a
+  certain extent as per the ghg protocol (see the greenhouse gas protocol (ghg) initiative – a corporate accounting and reporting standard
+  (revised edition, 2004) of the world resources institute (wri) and the world business council for sustainable development (wbcsd)). a separate
+  life cycle assessment (lca) was drawn up for the production and use of biogas in pfullendorf (de). there are plans in 2014 to switch to the most
+  recent version of the ecoinvent database (version 3.0) and the national electricity mix.
+  the calculation of other air emissions (see → en19 and → en20) is based on the ecoinvent database (version 2.2), the continental electricity mix
+  for europe, the us and china and also takes into account specific emission factors for diesel vehicles with particle filters. “direct emissions”
+  comprise emissions from the burning of combustibles and fuels as well as the consumption of solvents. “indirect emissions” comprise emissions
+  from the production of electricity. there are plans in 2014 to switch to the most recent version of the ecoinvent database (version 3.0) and the
+  national electricity mix.
+  since 2010, data on the transport services (intercompany and distribution) of the most important transport service providers has been recorded
+  by the new logistics center in pfullendorf (de), and the environmental impact calculated along the same lines as the corporate eco-balance. in
+  addition to direct emissions (emissions at the tail pipe), the assessment also includes the provision of fuel, vehicles and infrastructure. the
+  ecoinvent database (version 2.1) is used as the basis for the data. the system scope has been retained for the 2013 data (see → en29).
+  business flights have been recorded and included in the assessment since 2012. the flight distances are calculated according to the respective
+  departure and arrival airports. the co2 emissions comprise direct and indirect emissions and are based on the ecoinvent database (version 2.2).
+  the water footprint calculated since 2012 that covers the entire value chain is a simplified balance sheet based on the ecoinvent database
+  (version 2.1). all water flows contained in ecoinvent except for turbine water were taken into account. the calculation includes water consumption
+  for the provision of raw materials, production at geberit, use of the manufactured products (wc cisterns, urinal flush controls and lavatory taps)
+  during their entire service life, and disposal.
+  the co2 footprint calculated since 2012 is based on the same assumptions as the water footprint. emissions from logistics were additionally
+  taken into consideration. in the usage phase, both water consumption (energy for water supply and the disposal of non-polluted waste water) and
+  energy for the provision of hot water (lavatory taps) were taken into account.
+
+employees area:
+quantitative data on employees (see → employer responsibility (la)) is collected using a central management information system, with the
+indicators calculated in accordance with gri standards. data collection on occupational accidents and monitoring of the long-term objectives
+regarding occupational safety is carried out since 2012 using a group-wide software program as part of the geberit safety system.
+
+additional qualitative data on the topics of “attractive employer”, “conduct with integrity”, “fair business partner”, “environmental protection” and
+“product liability” are collected in accordance with gri standards by means of an annual binding survey at all geberit group companies.
+
+
+3.10 effects of any restatements of information provided in earlier reports
+
+the annual sustainability reporting for the 2006 to 2013 financial years is based on the gri g3 guidelines in force since october 2006. in this way,
+geberit has developed a consistent reporting system in which individual indicators are further developed each year. if, in individual cases, a new
+form of presentation, calculation method or optimized data collection has led to other results for the previous years, then this is noted as a
+restatement under the respective indicator.
+
+
+3.11 changes from previous reporting periods in scope, boundary or measurement methods
+
+there were no significant changes during the reporting period with regard to scope, reporting limits or measuring methods. if, in individual cases, a
+new measuring method is used, then this is noted under the respective indicator or under → 3.9.
+
+
+3.12 gri content index
+
+this extensive sustainability performance report is classified in accordance with the requirements of the gri g3 guidelines and therefore serves
+simultaneously as a gri content index.
+
+
+
+
+geberit annual report 2013                                                                                                                              5
+
+sustainability
+sustainability performance report
+
+
+3.13 external assurance for the report
+
+geberit did not initiate and consult a panel of external stakeholders in order to review the sustainability strategy and reporting as part of
+sustainability reporting on the 2013 financial year. annual consultation is not considered necessary. the next stakeholder panel consultation is due
+to be carried out in 2014 and is intended to support geberit in identifying key sustainability topics for its reporting. this forms an essential part of
+the transition process for implementation of the new gri g4 guidelines. the results of the 2012 stakeholder panel consultation are presented in the
+→ panel statement. in the → response from geberit to the panel statement, geberit deals in detail with the external assessment and the
+recommendations contained therein.
+
+
+
+
+geberit annual report 2013                                                                                                                             6
+
+sustainability
+sustainability performance report
+
+
+
+
+4. governance, commitments and
+engagement
+
+4.1 governance structure, committees under the board of directors
+
+for details about the internal organization of the board of directors and its committees, see → business report > corporate governance > board
+of directors > internal organizational structure.
+
+
+4.2 separation of chair of board of directors and executive management
+
+the chief executive officer (ceo), albert m. baehny, has also been chairman of the board of directors since 2011. for further information, see
+→ business report > corporate governance > board of directors.
+
+
+4.3 independent members of the board of directors
+
+the board of directors consisted of six members in 2013, of whom only the chairman, albert m. baehny, is simultaneously involved in operative
+management in his capacity as ceo. all of the committees formed by the board of directors are comprised exclusively of independent members.
+for further information, see → business report > corporate governance > board of directors.
+
+
+4.4 mechanisms for shareholders and employees to address recommendations to the board of directors
+
+for the participatory rights of the shareholders, see → business report > corporate governance > participatory rights of shareholders. there is
+no employee representative on the board of directors. the employee representatives of the european sites meet regularly within the context of the
+geberit europe forum with a member of the group executive board and the head corporate human resources. selected concerns can be
+addressed to the board of directors through this channel.
+
+
+4.5 linkage between compensation for the highest bodies and the organization's performance
+
+for information about the remuneration of the management bodies, see → business report > corporate governance > compensations,
+shareholdings and loans.
+
+
+4.6 processes in place for the board of directors to avoid conflicts of interest
+
+the articles of incorporation and organizational regulations of the board of directors stipulate how conflicts of interest of members of the board
+of directors are avoided; see → business report > corporate governance > board of directors > definition of areas of responsibility.
+
+
+4.7 determining the qualifications of the board of directors with regard to sustainability issues
+
+there are no formal procedures for determining the qualifications of members of the board of directors in environmental and social matters. for
+further information, see → business report > corporate governance > board of directors > elections and terms of office.
+
+
+4.8 general principles and codes of conduct
+
+among the most important mission statements and principles are the following:
+
+  geberit compass with the central ideals, see → www.geberit.com > company > vision and strategy.
+  geberit code of conduct for employees, see → www.geberit.com > company > vision and strategy.
+  → geberit safety policy and principles.
+  geberit code of conduct for suppliers, see → www.geberit.com > company > sustainability > purchasing and logistics.
+  sqs and iqnet certificate iso 9001/14001 (including appendix), see → www.geberit.com > company > sustainability > production.
+  un global compact, see → www.geberit.com > company > sustainability > un global compact and memberships.
+
+
+
+4.9 procedures of the board of directors for overseeing sustainability performance
+
+geberit’s longstanding success is based on the fact that, together with the board of directors, the group executive board pursues a long-term
+perspective, thus enabling the company to demonstrate its performance clearly in areas also including environmental protection and sustainability.
+the → sustainability strategy is examined and approved by the group executive board and the board of directors. results and the achievement of
+objectives are submitted to the group executive board and board of directors for verification at least once annually. this also comprises the
+→ communication on progress un global compact and the geberit compliance report, including the audit results with respect to the code of
+conduct.
+
+
+
+
+geberit annual report 2013                                                                                                                           7
+
+sustainability
+sustainability performance report
+
+
+the way in which the topic of sustainability is approached has been regularly reviewed within the company. for around 20 years, geberit has had an
+environment/sustainability department, which has been reporting directly to the ceo for the past nine years. in recent years, this department has
+coordinated the further development of the sustainability strategy and related activities, although the responsibility for planning and
+implementation lies with the individual areas themselves.
+
+
+4.10 processes for evaluation of the sustainability performance of the board of directors
+
+there is no formal procedure for assessing the performance of the board of directors from an integrated sustainability perspective.
+
+for information about the remuneration of the management bodies, see → business report > corporate governance > compensations,
+shareholdings and loans.
+
+
+4.11 precautionary approach
+
+the precautionary principle plays an important role for geberit as a production company. this is defined in the → geberit code of conduct and
+reflected in the integrated geberit management system (quality, environment, safety). in operations it is implemented by means of preventive
+approaches for environmental protection, occupational safety and quality assurance, see → combined group certificate for quality and
+environment in accordance with iso 9001 and iso 14001. in line with the “best-in-class” approach, ambitious long-term goals were drawn up at
+the end of 2012. for example, by the year 2020 the aim is to reduce absolute co2 emissions by 20% compared with the base year 2000 (based on
+organic growth) and to halve accident rates compared with 2010.
+
+an extensive system for the control and management of all risks involved in business activities is in place throughout the group. for further
+information, see → business report > corporate governance > board of directors > information and control instruments vis-à-vis the group
+executive board.
+
+
+4.12 external agreements and initiatives
+
+geberit has been a formal member of the un global compact since october 2008 and was a founding member of the local swiss network in 2011.
+the company has been a member of the transparency international organization since june 2000 and supports its objectives for combating
+corruption. through the voluntary application, introduced in 2007, of the g3 guidelines of the global reporting initiative (gri) in the sustainability
+report and gri report, geberit makes an active contribution towards ensuring transparency and comparability in sustainability reporting.
+furthermore, the company became a member of the non-profit organization “swiss water partnership” in 2012. the goal of this platform is to bring
+together all those involved in the topic of water supply (from the academic, business, public and private spheres) in order to address future
+challenges in this area jointly. this partnership also aims to promote international dialog on water.
+
+
+4.13 membership in associations and organizations
+
+geberit is involved in various associations and organizations that make a contribution toward sustainability. in addition, various geberit companies
+are members of national associations on topics such as environmentally friendly production, energy, waste management and employee protection.
+for major commitments, see → www.geberit.com > company > sustainability > un global compact and memberships.
+
+
+4.14 relevant stakeholder groups
+
+significant stakeholder groups for geberit are customers, shareholders and analysts, banks, the media, employees, trade unions, neighbors and
+municipalities, suppliers, transport companies, competitors, associations, non-government organizations and the general public, governments and
+regulators, and research institutes. details on stakeholder engagement can be found under → 4.16.
+
+
+4.15 basis for selection of stakeholders
+
+systematic dialog with stakeholders helps geberit to identify possible conflict issues and opportunities for further development and to respond to
+these in good time. at the national and international levels, the geberit group and the group companies maintain relations with organizations and
+institutions in the respective countries that direct requests and suggestions to the company. the stakeholders listed under → 4.14 have been
+identified as important for systematic stakeholder dialog as they fulfill one of two criteria: either the stakeholder group exerts a strong influence on
+the economic, environmental or social performance of geberit and/or the stakeholder group is strongly affected by the economic, environmental or
+social performance of geberit.
+
+
+4.16 approaches to stakeholder engagement
+
+as part of sustainability reporting on the 2012 financial year, geberit for the first time initiated and consulted a panel of external stakeholders. the
+objective of the work performed by the external stakeholder panel was to review geberit’s sustainability strategy and sustainability reporting. this
+involved analyzing whether the most important topics were included in sustainability reporting and whether the concerns of the stakeholders were
+taken into consideration. the results of the stakeholder panel are presented in the → panel statement. in the → response from geberit to the
+panel statement, geberit deals in detail with the external statement and the recommendations contained therein. the next stakeholder panel
+consultation is due to be carried out in 2014 and is intended to support geberit in identifying key sustainability topics for its reporting in
+accordance with gri g4.
+
+a stakeholder analysis is performed at all production plants as part of environmental management in accordance with iso 14001. requirements
+are recorded situationally in stakeholder dialogs. based on this information, geberit identifies potential for conflict or opportunities and essentially
+pursues a cooperative approach in order to discuss and further develop possible measures with the stakeholders concerned.
+
+
+
+
+geberit annual report 2013                                                                                                                             8
+
+sustainability
+sustainability performance report
+
+
+engagement of stakeholders according to stakeholder group and type:
+
+customers:
+ customer contacts: around 500 technical advisors working in the field are in daily contact with plumbers, planners and architects in particular.
+  training: during the reporting year, around 30,000 customers were provided with basic and further training in geberit systems and software
+  tools at the 25 information centers in europe and overseas.
+  → ”geberit on tour”: mobile exhibition that presented the advantages of geberit products at more than 1,150 events throughout europe in
+  2013. around 34,000 visitors were registered at the events in total.
+  → ”geberit challenge”: the competition took place in switzerland, finland and twice in the united kingdom in the reporting year. garnering much
+  media attention, the best team of plumbers in each of these countries was chosen by geberit.
+  trade fairs and customer surveys: see → business report > business and financial review > customers.
+  a trend study entitled “changes in body awareness and hygiene” was carried out by zukunftsinstitut gmbh in frankfurt (de).
+
+shareholders, analysts:
+  participatory rights of shareholders, see → business report > corporate governance > participatory rights of shareholders
+  regular conference calls, bilateral meetings, conferences and roadshows by the ceo, cfo and head corporate communications & investor
+  relations
+
+media:
+ regular conference calls, bilateral meetings/interviews with the relevant media for geberit
+  sustainability issues and in particular the proof of performance and role model status of geberit in this area are playing an increasingly important
+  role in geberit's media relations
+
+employees:
+ geberit europe forum: regular meetings of the employee representatives of the european sites with a member of the group executive board and
+ the head corporate human resources
+  training and feedback opportunities on topics regarding the code of conduct, see → so3
+  introduction of group-wide → “geberit integrity line” from january 2013 enabling all employees worldwide to report internal irregularities
+  anonymously
+  employee survey every four years
+
+neighbors, municipalities:
+ consultation with and inclusion of the neighbors of production plants in larger construction projects
+  open days at various production sites
+
+research and universities:
+  financial support of the eth zurich foundation with its key strategic area entitled “sustainable construction”
+  cooperation with tongji university (cn) on technological trends and developments directly related to sanitary technology
+  cooperation with the university of applied sciences rapperswil (ch) on the efficiency of production machines
+
+suppliers:
+  initial contact within the scope of the assessment procedure and implementation of the code of conduct for suppliers
+  regular discussions between buyers and suppliers on site
+  on-site audits (quality, environment, safety) carried out by geberit and since 2012 by certified third-party specialists
+  cooperation with manufacturers of infrastructure facilities, e.g. pilot project for the use of waste heat for the preheating of granulate in pfullendorf
+  (de), see → en5
+
+for further information, see → hr2
+
+transport companies:
+  discussions with transport service providers concerning the implementation of environmental monitoring, see → en29
+  joint planning and implementation of a → pilot project for a natural gas truck with a vehicle manufacturer and transport service provider
+
+associations:
+ involvement in the associations listed under → 4.13 with participation in corresponding management bodies and programs at least once a year,
+ generally more frequently
+
+non-government organizations, general public:
+ partnership with the swiss waterkiosk foundation
+  partnership with the → swiss development organization helvetas
+
+feedback from stakeholder dialogs is incorporated into the → sustainability strategy and associated measures.
+
+
+
+
+geberit annual report 2013                                                                                                                              9
+
+sustainability
+sustainability performance report
+
+
+4.17 response to and dealing with key topics and concerns of stakeholders
+
+the topics introduced by the external → stakeholder panel have been integrated into the updated sustainability strategy and reporting by
+geberit; see → panel statement and the → response from geberit to the panel statement.
+
+examples of important topics that were introduced by stakeholders and have been implemented by geberit include:
+
+  expansion of the portfolio of water-saving products: see → en26.
+  → water footprint, which covers geberit’s entire value chain.
+  transparency with “well” in the selection of water-saving products: see → business report > business and financial review > sustainability.
+  customer training: see → business report > business and financial review > customers.
+  content-related adjustments to the remuneration system: see → business report > corporate governance > compensations, shareholdings
+  and loans.
+  long-term co2 strategy: see → sustainability strategy.
+  transparency in the eco-balance results of logistics services: see → business report > business and financial review > logistics and
+  procurement.
+  “best-in-class” approach to occupational safety: see → business report > business and financial review > employees.
+  implementation of social projects: see → business report > business and financial review > social engagement.
+
+
+
+
+geberit annual report 2013                                                                                                                      10
+
+sustainability
+sustainability performance report
+
+
+
+
+5. economy (ec)
+
+dma-ec management approach economy
+
+as a key objective of the company, the economic performance of the geberit group is under the strategic control of the board of directors and the
+operational management of the group executive board (aspects economic performance, market presence, indirect economic effects).
+
+a clear business strategy and its consistent implementation are crucial for sustainable success. the focused, tried-and-tested strategy rests on
+four strategic pillars:
+
+1.   focus on sanitary technology
+2.   commitment to innovation
+3.   selective geographic expansion
+4.   continuous optimization of business processes
+
+for detailed explanations of the four strategic pillars, see → www.geberit.com > company > vision and strategy.
+
+for a discussion of the economic position of the geberit group, see → business report > business and financial review.
+
+
+ec1 economic performance
+
+significant indicators for the generation and distribution of value in accordance with the gri requirements can be found in the financial report:
+
+direct economic value added
+sales and operating profit, see → financial report > consolidated financial statements geberit group > income statements.
+
+
+economic values passed on
+  operating expenses excl. personnel expenses, see → financial report > consolidated financial statements geberit group > income
+  statements.
+  personnel expenses, see → key figures sustainability > employees and society.
+  payments to providers of capital, see → financial report > consolidated financial statements geberit group > statements of cashflows.
+  social commitment, see → ec8.
+
+retained economic values
+  investments in and divestments of property, plant and equipment, see → financial report > consolidated financial statements geberit group >
+  statements of cashflows.
+  share buyback, see → financial report > consolidated financial statements geberit group > notes > note 22.
+
+
+
+ec2 financial implications of climate change
+
+climate change is influencing the availability of water resources throughout the world. in 2010, the world bank forecast that the adjustment to an
+increase in temperature of the global climate of two degrees celsius between 2020 and 2050 would cost between usd 70 and 100 billion per year.
+20 percent of this is attributable to water supply and flood protection measures. the fourth un world water development report published in
+2012 underlines the necessity to integrate the topic of water more prominently into global governance in view of the global trends. sustainable
+water use is essential for ensuring viable social and economic development around the world. water is of central importance for nutrition, health,
+the environment, the economy and energy production. sensible water management therefore calls for cross-sector solutions.
+
+these trends will determine the sanitary technologies of the future. water-saving, resource-efficient products will become increasingly important.
+geberit is taking advantage of the opportunity to meet the growing worldwide demand for water-saving products and to contribute towards the
+diligent handling of water, thus making a name for itself as a leader in sustainability. products classified as special water-saving products already
+make a substantial contribution to group sales → business report > business and financial review > sustainability
+
+compared to this relatively big opportunity, geberit is exposed to an average risk of natural disasters triggered by climate change which can
+fundamentally affect production areas or transport areas. none of the production sites is particularly at risk in this respect. as geberit does not
+operate in the classically energy-intensive industries, there are currently no special co2 regulations such as statutory emission limitations, etc. on
+the other hand, geberit is indirectly affected by higher energy or raw materials prices and by generally increasing requirements in terms of energy
+management. with its internal energy master plan and the measures related to its co2 strategy (see → en18), geberit is reacting proactively and is
+working continuously on saving energy, improving its energy efficiency and reducing its co2 emissions. in this way, the company is saving on
+energy costs and reducing the risks associated with co2 emissions.
+
+as far as corporate risks are concerned, the audit committee of the board of directors introduced a comprehensive system for the monitoring and
+management of the risks associated with the company's business activities, including the risk category co2 emissions, see → financial report >
+consolidated financial statements geberit group > notes > note 4.
+
+there is no systematic, data-supported analysis of the financial consequences of climate change for geberit.
+
+
+
+
+geberit annual report 2013                                                                                                                          11
+
+sustainability
+sustainability performance report
+
+
+
+ec3 scope of the organization’s defined benefit plan obligations
+
+the geberit group sponsors defined benefit plans for its employees in switzerland, germany, austria and the us.
+
+for more information, see
+→ financial report > consolidated financial statements geberit group > notes > note 3 > retirement benefit plans.
+→ financial report > consolidated financial statements geberit group > notes > note 17.
+
+
+ec4 significant financial assistance received from government
+
+significant assistance received from the public sector includes:
+
+  for information on income taxes, see → financial report > consolidated financial statements geberit group > notes > note 26.
+  because of new investments to promote the respective business location and secure jobs, geberit received government investment subsidies
+  totaling approximately chf 2.15 million in the reporting year (switzerland: chf 0.65 million, germany: chf 1.5 million).
+  contributions received to support training and part-time employment prior to retirement amounted to chf 0.34 million (germany:
+  chf 0.07 million, austria: chf 0.2 million, us: chf 0.07 million).
+
+the public sector is not represented on the board of directors of the geberit group.
+
+
+ec5 ratio of standard entry-level wage compared to local minimum wage
+
+geberit pays market-rate wages, taking into account local circumstances and laws. when selecting employees and determining their assignment in
+the company, geberit attaches great importance to qualifications appropriate to the task description. applicable local minimum wages are well
+met.
+
+this information partially covers the requirements of the gri indicator.
+
+
+ec6 selection of locally based suppliers
+
+geberit pursues a procurement policy that focuses on low costs, safety and independence. before a collaboration agreement can be concluded, a
+multiple-stage risk analysis and assessment including environmental and social risks is carried out for every new supplier (see also → hr2). taking
+account of all aspects relevant to purchasing (guidelines in the geberit group's purchasing manual), there are no directives concerning preferential
+treatment of local suppliers, especially from certain countries. however, geberit supports regional organizations for disabled persons and the
+long-term unemployed (see → ec8).
+
+
+ec7 procedures for local hiring
+
+geberit has no personnel policy or employment practices providing for the preferential treatment of persons from local vicinities in connection with
+the hiring of members of management boards for the respective country organizations.
+
+
+ec8 investments in infrastructure and services primarily for public benefit
+
+donations and financial contributions, including product donations, totaling chf 3.1 million (previous year chf 2.7 million) were made during the
+reporting year. in addition, geberit employees contributed 1,340 hours of charitable work as part of social projects (previous year 2,335 hours).
+geberit also supports facilities for disabled persons and long-term unemployed, where simple assembly and packaging work in the amount of
+around chf 4.4 million was carried out in 2013 (previous year chf 4.8 million). see also → key figures sustainability > employees and society.
+
+geberit aims to achieve sustained improvement in the quality of people’s lives through innovative solutions in sanitary technology. to this end,
+various social projects are supported on site with products, know-how and financial contributions. care is taken to ensure that the topic of water
+plays a central role and that the projects exhibit a substantial relationship to geberit’s core competencies and corporate culture. the focus was on
+the following projects and partnerships in 2013:
+
+  execution of a → social project in bucharest in romania: installation of sanitary facilities in a hospice for seriously ill adults and children, plus the
+  voluntary care of patients (social work).
+  continuation of → the partnership with helvetas (renewal of contract for three years) on the topic of clean drinking water and sanitary facilities.
+  continuation of the partnership with the swiss waterkiosk foundation to clean polluted drinking water using a solar pasteurization process.
+  support with products and know-how in rebuilding a sports facility for the rugby team in villa sant’angelo (it) destroyed by the earthquake in
+  2009.
+
+for more information, see → business report > business and financial review > social engagement.
+
+
+ec9 indirect economic impacts
+
+there is no systematic, data-supported analysis concerning indirect economic impacts. geberit nevertheless pursues a long-term approach in
+dealings with its customers and stakeholders, thereby making a significant contribution to their economic development.
+
+
+
+
+geberit annual report 2013                                                                                                                                12
+
+sustainability
+sustainability performance report
+
+geberit sets important trends for the sanitary industry: with innovation and new products that are sold and implemented worldwide by
+wholesalers, plumbers and planners and make a contribution to economic development. this is supplemented by providing training, advice and
+intensive support to plumbers and planners, see → business report > business and financial review > customers. for example, this includes the
+training of over 3,000 planners and plumbers in 2013 on the implementation of new drinking water directives in switzerland. furthermore, the
+education of students and research on sanitary technology and sustainable construction are supported by cooperation with institutions such as
+the swiss federal institute of technology (eth) in zurich (ch), the university of applied sciences rapperswil (ch) and tongji university (cn).
+
+geberit uses its know-how to set industry-wide standards for water conservation and the relief of water and waste water systems. for example,
+geberit actively worked on adapting the applicable standard for the dimensioning of waste water piping to smaller diameters. this is important so
+that the full functionality of the piping system is ensured even with lower quantities of waste water. geberit also supported the launch of well
+(water efficiency label), a product classification system for water-saving and resource-efficient sanitary products that was introduced in 2011.
+
+also to be emphasized are the economic impacts on suppliers, transport companies and the local economic regions of the production sites. the
+group’s cost of materials in 2013 was chf 597.2 million (previous year chf 590.7 million). geberit has relations with a total of more than 1,200
+suppliers. the company does not have its own transport fleet and contracts external transport companies for logistics services. geberit places its
+faith in its 17 production plants in europe, china, india and the us as well as in its logistics center in pfullendorf (de), in which it continuously
+invests.
+
+this information partially covers the requirements of the gri indicator.
+
+
+
+
+geberit annual report 2013                                                                                                                         13
+
+sustainability
+sustainability performance report
+
+
+
+
+6. ecology (en)
+
+dma-en management approach ecology
+
+geberit has long stood for a high level of environmental awareness and been committed to environmentally friendly, resource-efficient production
+as well as the development of water-saving and sustainable products. environmental criteria are considered in all decision-making processes. in
+addition, processes are continuously being optimized so that a proven high standard is achieved which often greatly exceeds legal requirements.
+geberit's environmental principles are defined in the → code of conduct.
+
+systematic, group-wide environmental management takes center stage. this is the remit of the central environment and sustainability department
+that reports directly to the ceo. guidelines and measures pertaining to all aspects of the gri environmental guidelines are coordinated here. since
+1992, a network of environmental managers has been practicing active environmental protection at the production plants, thus ensuring that the
+measures are implemented worldwide. for objectives and measures for production, see → www.geberit.com > sustainability > sustainability
+strategy.
+
+since the beginning of 2007, geberit has had a → combined group certificate for quality and environment in accordance with iso 9001 and iso
+14001, which by now covers all production locations (with the exception of the site in india) and logistics services. this certificate is valid until
+2015. the persons in charge at all locations meet at least once every year to exchange experiences and share best practice. the most recent
+meeting took place in september 2013.
+
+the preparation of an annual corporate eco-balance has been an integral part of geberit’s environmental strategy since 1991. the corporate eco-
+balance covers 16 production plants worldwide, the logistics center in pfullendorf (de) and the eight largest sales companies. the → production
+plant in pune (india), which commenced operations in the second half of 2013 and represents geberit’s 17th production site across the globe, will
+be included in the assessment as of 2014. the corporate eco-balance enables an overall assessment of the environmental impact and its largest
+contributing factors. this makes it possible to calculate the total environmental impact of the geberit group in terms of eco-points and monitor the
+implementation of the environmental targets. key figures for environmental impact, energy consumption and the co2 emissions triggered by the
+transport of geberit products are reported separately. the co2 emissions generated by air travel have also been recorded since 2012. in 2013, the
+roll-out of the integrated management system for quality, environment, energy and safety was continued at all plants. this includes the further
+implementation of the software program launched in 2012 for the group-wide monitoring of the corporate eco-balance, the energy master plan and
+occupational safety. among other things, this enables energy consumption to be monitored on a monthly basis.
+
+the absolute environmental impact for the group declined by 2.1% in the reporting year (previous year decrease of 5.1%). this is explained by
+improved electricity efficiency, an increase in the share of green electricity and the use of biogas to replace natural gas. sales after currency
+adjustment grew by 3.6% in the same period. the relative environmental impact with respect to sales (currency-adjusted) improved by 5.5% and
+exceeded the target figure of 5%.
+
+detailed key figures on the environmental impact are provided at → key figures sustainability > environment. longer time series are now also
+provided for individual key figures.
+
+
+en1 materials used
+
+the most important materials for production are plastics, metals, semi-finished and finished products. a total of 184,216 metric tons of materials
+were used in 2013 (previous year 177,762 metric tons). detailed key figures on the use of materials can be found at → key figures sustainability >
+environment.
+
+for packaging materials used, see → en27.
+
+
+en2 percentage of recycled material
+
+when estimating the share of recycled material in production, a distinction is made between external and internal sources of raw materials for
+reasons of expediency.
+
+external sources:
+the share of recycled material in purchased metals is relatively high. the data is based on geberit’s product life cycle assessments for supply pipes
+for buildings (2009). extrapolated, the raw material metal purchased contains around 54% or 26,000 metric tons of recycled material.
+
+with plastics, virgin material is primarily used. the search for suitable, high-quality regranulate from external plastic waste is an integral part of
+geberit’s procurement strategy. in terms of the material abs, a suitable alternative made of 100% recycled material was found. this alternative is
+based on high-quality plastic waste from the electronics industry (e.g. used computer cases). according to the supplier, the manufacture of this
+regranulate consumes over 80% less energy compared to the manufacture of a metric ton of new petrochemical-based plastic. furthermore,
+between one to three metric tons less co2 are released into the atmosphere, depending on the material. in 2013, over 350 metric tons of abs
+regranulate were used for the mounting frames for concealed cisterns. the use of plastic regranulate is to be increased further and applied to other
+product areas.
+
+internal sources:
+in terms of the raw material plastic, recycled material is primarily generated internally and is ground on site or via a decentralized mill and fed back
+into the process. the proportion fluctuates depending on the manufacturing process. for blow molding it is around 35%, for injection molding
+around 15%, depending on product class, and for pipe extrusion around 3%. this corresponds to a total of around 7,700 metric tons.
+
+
+
+
+geberit annual report 2013                                                                                                                             14
+
+sustainability
+sustainability performance report
+
+
+
+en3 direct energy consumption
+
+geberit generally uses energy purchased externally. the direct energy carriers (scope 1) include heating oil extra light, natural gas and the fuels
+diesel and gasoline. consumption of natural gas was increased by 4.8% (previous year reduction of 11.1%) and heating oil consumption was
+reduced by 31.0% (previous year reduction of 39.9%). fuel consumption increased slightly by 1.6% (previous year increase of 3.8%).
+
+since 2012, a → block heating station has been in use in pfullendorf (de). this plant was fed by 10.6 gwh of regionally produced biogas in 2013.
+the electricity generated by the plant (3.9 gwh) is fed into the transmission grid and the resulting heat (4.9 gwh) can be used in production, thereby
+substantially reducing the use of natural gas. the efficiency of the plant is 82%.
+
+for detailed key figures on energy consumption, see → key figures sustainability > environment.
+
+
+en4 indirect energy consumption
+
+at geberit, only electricity consumption is significant for indirect energy consumption (scope 2), and it simultaneously represents the greatest
+environmental impact. in terms of end energy, electricity consumption declined by 1.5% in spite of higher production (previous year decrease of
+0.7%). the share of purchased green electricity was increased by 1 gwh to 21 gwh in 2013 and now accounts for 19% of total electricity
+consumption.
+
+since 2012, the group has also been generating electricity in a → block heating station powered by regional biogas in pfullendorf (de). this
+electricity is fed into the transmission grid, with this figure amounting to 3.9 gwh in 2013. furthermore, the roof area at the plant in givisiez (ch)
+was made available to an energy services provider in 2013 for the construction of a 3,050 m2 photovoltaic system with projected annual electricity
+production of 0.5 gwh. however, this contribution is not included in the energy balance as the energy produced is managed by the regional energy
+supplier.
+
+for detailed key figures on electricity consumption and the electricity mix, see → key figures sustainability > environment.
+
+
+en5 energy saved
+
+important energy-saving measures in production include:
+
+  the insulation of buildings
+  the continuous modernization of the machine fleet
+  increasing the efficiency of production installations
+  the optimization of cooling systems through the use of natural ambient cold (free cooling)
+  the improved use of waste heat (heat recovery)
+  the careful use of compressed air
+
+concrete examples show the clear efficiency gains that the reduction in relative energy consumption has been contributing to for years:
+
+  the number of injection molding machines retrofitted or purchased new with energy-efficient drive technology was increased from 74 to 96 in
+  2013, with the two chinese plants in shanghai and daishan benefiting particularly from this development. the analysis on site showed that a
+  modified machine consumed an average of over 40% less energy. this measure enables the chinese plants to save approximately 2 gwh of
+  electricity per year.
+  replacing an old blow molding machine in pfullendorf (de) with the latest machine technology contributes to a reduction in energy consumption of
+  around 0.6 gwh per year.
+  a pilot project for the preheating and drying of plastic granulate was started at the same site. using the waste heat from the block heating
+  station as opposed to additional heating energy enables the plant to save around a further 0.6 gwh per year.
+  by carefully planning new buildings, the company is also investing in the energy-efficient infrastructure of the future. the completely → new,
+  state-of-the-art factory premises currently being built in ruše (sl) are already serving as a role model in all of slovenia in the area of green
+  building and production. the site’s sophisticated holistic energy concept includes the use of all waste heat from industrial processes as well as
+  the complete absence of fossil fuels. the available ground water is used for cooling, while rainwater is collected and used both as fire fighting
+  water and for watering the surrounding area.
+
+although no quantitative summarized breakdown of energy savings according to the measure implemented is available, systematic energy
+management has been expanded further. in 2013, work commenced on the development of a systematic energy management system at the three
+sites in pfullendorf, lichtenstein and langenfeld (de) and pre-audits have already been conducted by sqs. the certification of these production
+plants according to iso 50001 (energy management) is planned for 2014 within the scope of the existing integrated management system
+according to iso 9001, iso 14001 and ohsas 18001.
+
+this information partially covers the requirements of the gri indicator.
+
+
+
+
+geberit annual report 2013                                                                                                                            15
+
+sustainability
+sustainability performance report
+
+
+en6 energy-efficient products
+
+the biggest environmental contribution by the geberit products lies in the conservation of water, which indirectly also saves on energy:
+
+  the creation of the infrastructure for drinking water supply and waste water disposal, the conveyance, processing and distribution of water and
+  the subsequent purification of the waste water in a wastewater treatment plant also consume resources and energy. according to the ecoinvent
+  database (version 2.1), 9.3 mj of energy are required per cubic meter of water and 0.61 kg of co2 emissions are released (reference values for
+  europe).
+  the → water footprint, which has been prepared since 2012, covers the entire value chain and shows that almost 100% of water consumption
+  occurs during the usage of the products. the picture is similar for the co2 emissions: around 67% of the total co2 footprint occurs during usage.
+  the total water savings achieved by geberit products in use throughout the world are impressive: according to one model calculation, the entire
+  dual-flush and flush-stop “fleet of cisterns” produced since 1998 has saved around 15,800 million cubic meters of water to date in comparison
+  with traditional flushing systems. in 2013 alone, the water saved amounted to 1,980 million cubic meters.
+
+direct energy savings when using the products are made possible thanks to systematically improved energy efficiency. current examples include:
+
+  with its simple, modern lines and wealth of innovative technology, the new → geberit aquaclean sela shower toilet launched in april 2013 is a
+  compelling product offering a high level of convenience. in adding this model, geberit is supplementing its line of shower toilets with a complete
+  solution that has been fundamentally redesigned and fits into nearly any style of bathroom. the spray functionality, which uses aerated water for
+  cleaning, is the main feature of the new shower toilet. enrichment with air not only gives a pleasant feeling of cleanliness, but also reduces water
+  and energy consumption. with the spray intensity at the maximum setting, just 0.5 liters of hot water are required for the entire shower
+  procedure. this results in around 65% less water consumption and 33% less electricity consumption compared to the top geberit aquaclean
+  8000plus model. for further information, see → business report > business and financial review > innovation.
+  with the → electronic lavatory taps type 185 and 186, the company has for several years been offering environmentally friendly products for
+  public facilities that reduce water consumption. the taps, which were awarded the top a category by the well water efficiency label, ensure
+  economical water-saving consumption thanks to their control electronics. since spring 2012, a new generator unit has been using the energy of
+  the flowing tap water to generate the required electricity, thus making the electronic taps independent of mains current or batteries.
+  the → geberit actuator plate sigma70, which will be launched on the market in 2014, distinguishes itself through its refined elegance and a
+  patented servo technology that does not require an external energy source due to its use of pipe pressure. thanks to this technology, a gentle
+  press suffices to trigger the dual flush.
+
+
+
+en7 reduction of indirect energy consumption
+
+  raw materials: the eco-design workshop in product development generally pursues the approach of using as few materials as possible (see
+  → en6 and → en26). no quantitative analyses on the resulting energy savings are available.
+  logistics: for information on the reduction of energy consumption, see → en29.
+  business trips: travel using company vehicles is covered in → en3. as part of the co2 strategy, an ambitious fuel reduction plan for new vehicles
+  has been defined. the emissions caused by business trips by air travel have also been captured and calculated since 2012 (for both these figures,
+  see → en18).
+
+this information partially covers the requirements of the gri indicator.
+
+
+en8 water consumption
+
+the → water footprint, which covers geberit’s entire value chain, shows that nearly 100% of water consumption is attributable to the use of the
+products, while the manufacture of the products by geberit accounts for less than 0.01% of water consumption. geberit nevertheless also serves
+as a role model with respect to its internal water consumption in production and goes to great lengths to further optimize its processes with
+regard to water consumption every year.
+
+geberit mainly uses fresh water from the public water system, together with well water and rainwater. thanks to targeted savings measures, the
+consumption of fresh and well water has been reduced by nearly 40% since 2006 and is now leveling out at a low level. consumption decreased by
+3.5% in 2013. water consumption per sales (currency-adjusted) has declined by over 50% since 2006, confirming that geberit is on track to meet
+its long-term target of reducing consumption by 5% per year.
+
+geberit also advocates the economical use of water beyond processes and products. this can be seen by its collaboration in the development of
+the product classification system → well (water efficiency label) introduced in 2011, its collaboration within the standard group for the
+development of the new iso 14046 water footprint standard and its active role in the dialog with stakeholders on the european ecolabel for wcs,
+urinals and lavatory taps.
+
+key figures concerning water consumption by source can be found at → key figures sustainability > environment.
+
+
+en9 water sources significantly affected by withdrawal of water
+
+geberit production plants’ water consumption does not place a considerable burden on water sources as defined in the gri guidelines.
+
+
+
+
+geberit annual report 2013                                                                                                                           16
+
+sustainability
+sustainability performance report
+
+
+en10 water recycling
+
+throughout the group, two processes are responsible for much of the water requirements:
+
+1.   during the production of multilayer pipes in givisiez (ch), the pipes are cross-linked in autoclaves. a total of 30,670 m³ of water was used for
+     this purpose in 2013. around 31% or 9,380 m³ of this is fresh water; the remaining 69% was recycled internally.
+2.   newly developed products are tested at the geberit sanitary laboratory in jona (ch). the tests require some 130,700 m³ of water annually.
+     only about 2% or 2,280 m³ of this is fresh water. the remaining 98% is used in a closed-circuit system. based on these two processes, the
+     estimated proportion of recycled water in the geberit group is almost 55%.
+
+
+
+en11 parcels in biodiversity reserves
+
+this indicator is not relevant to geberit. the typical activities at geberit’s production sites and the company’s products and services do not
+endanger any sanctuaries or areas of significant biodiversity.
+
+
+en12 impact on biodiversity in protected areas
+
+this indicator is not relevant to geberit. the typical activities at geberit’s production sites and the company’s products and services do not
+endanger any sanctuaries or areas of significant biodiversity.
+
+
+en13 protected or restored natural habitats
+
+this indicator is not relevant to geberit. the typical activities at geberit’s production sites and the company’s products and services do not
+endanger any natural habitats or areas of significant biodiversity.
+
+
+en14 management of impact on biodiversity
+
+this indicator is not relevant to geberit. the typical activities at geberit’s production sites and the company’s products and services do not
+endanger any sanctuaries or areas of significant biodiversity.
+
+
+en15 influence on iucn red list species
+
+this indicator is not relevant to geberit. the typical activities at geberit’s production sites and the company’s products and services do not
+endanger any sanctuaries, areas of significant biodiversity or species on the iucn red list.
+
+
+en16 direct and indirect greenhouse gas emissions
+
+a comprehensive co2 footprint has been calculated since 2012. the co2 footprint covers the entire value chain – from the provision of raw
+materials, the manufacturing of products at geberit, logistics and use, right through to disposal. an analysis of the co2 footprint revealed that
+product use (67%) and the provision of raw materials (21%) are by far the largest sources of co2 emissions. during product use, the provision of
+water, treatment of waste water and generation of hot water play a central role. production by geberit accounts for only 3% of total co2 emissions.
+in a relative comparison, the transport (1%) and disposal (8%) of the products also cause fewer emissions.
+
+co2 emissions are calculated as part of the annual preparation of the corporate eco-balance. the six leading substances as per the kyoto protocol
+(co2 fossil, ch4, n2o, hfc, pfc and sf6) were used for the greenhouse gas emissions and shown as a sum parameter (co2 equivalents or simply
+co2). the calculation includes both direct emissions (scope 1) from the burning of combustibles and fuels (see → en3) and indirect emissions
+(scope 2) resulting from electricity consumption (see → en4). the emissions from the preparation of combustibles and fuels in the upstream chain
+(scope 3) are included in the cumulative value (see → en17).
+
+key figures on the co2 emissions are available at → key figures sustainability > environment.
+
+in absolute terms, co2 emissions (scopes 1 and 2) decreased by 2.7% to 69,909 metric tons in 2013 (previous year 71,853 metric tons). if one
+relates these emissions to sales (currency-adjusted), there is an improvement of 6.1%. at 75%, electricity consumption is by far the largest source
+of co2, followed by combustibles and fuels. just the purchase of 21 gwh of green electricity in pfullendorf (de), daishan (cn), givisiez (ch) and
+weilheim (de) reduces the co2 emissions by more than 12,200 metric tons.
+
+
+en17 other relevant greenhouse gas emissions
+
+other relevant greenhouse gas emissions (scope 3) result from:
+
+  the provision of combustibles and fuels (in → en16) which accounted for some 2,000 metric tons of combustibles and around 2,250 metric tons
+  of fuels in 2013.
+  the raw materials used and the “gray energy” purchased along with them. this is estimated for the corporate eco-balance, and amounted to
+  around 10,720 tj in 2013 (previous year 10,500 tj) and caused around 491,000 metric tons of co2 emissions (previous year 478,000 metric
+  tons).
+  logistics (see → en29), which caused a total of 27,483 metric tons of co2 emissions in 2013 (previous year 26,883 metric tons).
+  business travel by air, which caused 829 metric tons of co2 emissions (previous year 769 metric tons).
+
+
+
+
+geberit annual report 2013                                                                                                                          17
+
+sustainability
+sustainability performance report
+
+
+en18 initiatives to reduce greenhouse gas emissions
+
+under the established → co2 strategy the co2 emissions per sales (currency-adjusted) should be reduced by 5% per year on average between
+2006 and 2015. with an improvement in this key figure of 6.1%, geberit outstripped this annual target in 2013 and is well on track with its strategy
+(see → en16). in line with the “best-in-class” approach, ambitious long-term goals were drawn up at the end of 2012. based on organic growth, co2
+emissions should be reduced by 20% by 2020 compared with the base year 2000, in line with the eu target values. in addition, the share of
+combustibles from renewable sources should be increased to 25% and the share of electricity from renewable sources to 60% by 2020.
+
+the measures for implementing the co2 strategy are based on the three pillars “energy saving”, “increased energy efficiency” (see → en5) and the
+“targeted expansion of the share of renewable energy sources”. an energy master plan is being implemented in the largest plants to manage and
+plan energy consumption. this provides a forward-thinking illustration of the development of energy consumption and co2 emissions. in
+switzerland, geberit works with the business energy agency and has also obtained corresponding co2 certificates.
+
+in 2013, another 2 gwh of certified green electricity was purchased by the largest production plant in pfullendorf (de), bringing the total for green
+electricity to 14 gwh. the plan is to increase this by another 3 gwh in 2014. the daishan (cn) plant purchased around 2 gwh of wind energy in the
+reporting year, which accounted for around 60% of the plant’s total energy consumption. in addition, the plant in givisiez (ch) converted to 100%
+green electricity and purchased approximately 4.6 gwh of green electricity in 2013. in 2013, the consumption of green electricity amounted to 21
+gwh (previous year 20 gwh). renewable energy sources accounted for 31% of total electricity consumption (previous year 30%). furthermore, the
+roof area at the plant in givisiez (ch) was made available to an energy services provider in 2013 for a 3,050 m2 → photovoltaic instalation with
+projected annual electricity production of nearly 0.5 gwh.
+
+the share of renewable energies when it comes to combustibles is also being increased gradually. an important milestone was reached in 2012
+with the commissioning of the → block heating station in pfullendorf (de), which was fed by 10.6 gwh of regionally generated biogas in 2013. this
+already brought the share of renewable energies for combustibles to 21% in 2013 (target figure 25%).
+
+the efficiency of the in-house fleet of vehicles is enhanced with a consistent purchasing policy. since early 2008, binding guidelines have applied for
+the purchase of new vehicles with the goal of reducing consumption by 10% every three years until 2012. since 2013, this fuel reduction plan for
+new vehicles has been increased to 5% per year to reach an emission value of 100 grams of co2/km by 2020 as targeted by the eu. at the same
+time, emission-reducing measures are being implemented. currently 99% of all geberit diesel vehicles have particle filters.
+
+geberit promotes awareness among all employees for the promotion of environmentally friendly behavior. new employees receive training on the
+subject of sustainability at geberit as part of their job orientation program. in the largest plants, this is also tailored to the target group of
+production employees.
+
+all targets and measures for improving the co2 balance are disclosed in detail as part of the company’s participation in the carbon disclosure
+project (cdp).
+
+
+en19 ozone-depleting substances
+
+emissions of ozone-depleting substances, measured in cfc11 equivalents, can be calculated based on the geberit group’s corporate eco-balance.
+the calculation includes both direct emissions from the burning of combustibles and fuels and process emissions (solvents), as well as indirect
+emissions resulting from electricity consumption.
+
+key figures on ozone-depleting substances can be found at → key figures sustainability > environment. the increase at a very low level is due to
+the increase in coolant losses.
+
+
+en20 nox, sox and other air emissions
+
+emissions of nox , so2, nmvoc (non-methane voc) and dust (pm10) can be calculated on the basis of the geberit group’s corporate eco-balance.
+the calculation includes both direct emissions from the burning of combustibles and fuels and process emissions (solvents), as well as indirect
+emissions resulting from electricity consumption.
+
+key figures on these emissions are available at → key figures sustainability > environment.
+
+
+en21 total water discharge
+
+geberit does not engage in the unplanned discharge of water. all resulting domestic waste water and all process waste water is treated. in 2013,
+116,719 m3 of waste water was generated (previous year 114,932 m3 of waste water). of this, 75% is domestic waste water that passes into the
+communal wastewater treatment plant (previous year 65%), and 2% (previous year 12%) is domestic waste water that is pretreated and fed into
+receiving waters. the remaining 23% (previous year 23%) is waste water that is pretreated and fed to a communal wastewater treatment plant.
+waste water is not directly reused by third-party companies.
+
+key figures on waste water can also be found at → key figures sustainability > environment.
+
+
+en22 waste
+
+in 2013, the total waste was 12,118 metric tons (previous year 11,460 metric tons). of this, 84% was channeled to external recycling processes
+(previous year 84%). the measures focused above all on the further separation of waste and the reduction of mixed waste and hazardous waste.
+the following examples show that considerable progress was made in the past few years: in weilheim (de), the manufacturing waste was reduced
+by 80% in five years, mainly through the use of a new foaming facility. this pioneer project was tested and implemented in several stages. central
+aspects include the use of rainwater for cleaning, which is then added to the foaming process as process water, and optimized cleaning cycles to
+prevent residues in the plant.
+
+
+
+
+geberit annual report 2013                                                                                                                           18
+
+sustainability
+sustainability performance report
+
+key figures concerning waste by category are provided at → key figures sustainability > environment.
+
+
+en23 significant spills of chemicals
+
+there were no spills of chemicals in the reporting period.
+
+
+en24 transport of hazardous waste
+
+in 2013, approximately 269 metric tons of hazardous waste (previous year 179 metric tons) were disposed of by incineration and 956 metric tons
+(previous year 1,199 metric tons) were recycled. at geberit, all waste is disposed of and recycled by licensed disposal companies.
+
+this information partially covers the requirements of the gri indicator.
+
+
+en25 effects of water discharges on bodies of water
+
+this indicator is not relevant to geberit as no bodies of water are affected by significant water discharge from geberit facilities as defined in the gri
+guidelines.
+
+
+en26 mitigation of environmental impact of products
+
+the basis for sustainable products is a systematic innovation process in which the most environmentally friendly materials and functional principles
+possible are chosen, risks are minimized and a high level of resource efficiency is targeted for the production process as well as the product itself.
+→ eco-design workshops, in which different disciplines cooperate and ensure that every new product exceeds its predecessor in environmental
+aspects, are an integral part of the early development phase.
+
+specially created product life cycle assessments are important decision-making tools for development and provide arguments for the use of
+resource-efficient products. detailed life cycle assessments have already been prepared for the following products: drainage/supply pipes,
+aquaclean 8000plus, electronic lavatory taps type 185/186, concealed cisterns and urinal flush control. an environmental product declaration
+(epd) was issued in accordance with the new european standard en 15804 for the first time in 2012. the → epd for lavatory taps provides
+relevant, comparable and verified information about the product’s environmental performance. new ways of more efficiently creating product life
+cycle assessments and epds for other products are currently being sought. a pilot project for the systematic recording of environmental data at
+the product level was therefore started, which should greatly simplify a further processing to epds and ecological product information. this further
+supports the visible positioning of the company as a provider of system solutions in the area of green building. examples from the product range
+that help to reduce the environmental impact:
+
+  since 2011, a new technological solution has been deployed to simplify the conversion of the large flush volume on nearly all concealed cisterns
+  from 6 or 9 liters to 4.5 liters. the gradual conversion of the product range is creating great potential for even more water conservation.
+  the new well water efficiency label, which was introduced by the european umbrella organization for valve manufacturers (eunited) in 2011 and
+  which determines the water efficiency of products in line with the european energy label, provides more transparency in the area of water
+  conservation (see also → pr3). of the eight geberit product groups already certified, seven are represented in the a, one in the b class. these
+  product groups account for around 20% of group sales.
+  swift implementation of the european drinking water directive 98/93/ec, which is valid as of december 1, 2013 and defines a maximum allowable
+  lead concentration in drinking water: in 2013, geberit adapted all components made of copper materials that come into contact with drinking
+  water – some 1,800 products – to the new requirements and did so ahead of time, thus ensuring that customers with geberit products are on the
+  safe side.
+  the geberit sovent fitting, which facilitates an optimal layout of waste water discharge stacks in high-rises, was streamlined and optimized
+  thanks to the leading know-how of geberit’s flow specialists. the new flow-optimized fitting causes the water to rotate in the discharge stack,
+  which creates a continuous column of air in the center. this ensures optimum pressure compensation and increases the discharge rate by 40%,
+  while at the same time taking up less space and using 45% less material. the sovent fitting also permits the use of relatively small-sized
+  discharge stacks even in very high buildings.
+  since 2010, eco-design has also been included in product modifications and technology projects, thus ensuring that opportunities to reduce the
+  ecological footprint are always utilized to their full potential: from the end of 2013, the elements for wcs, urinals and washbasins will receive new
+  halogen-free protecting hoses for the threaded rods. by replacing around 6.7 million hoses, 110 metric tons of polyvinyl chloride (pvc) can be
+  replaced by 35 metric tons of environmentally friendly polyethylene (pe).
+
+advances in the reduction of the environmental impact were not only made at product level, but also with regard to product information. from
+2013, the user manuals for the shower toilet will only be provided to the main markets in five instead of 22 languages. this change, which was
+initiated by environmentally conscious customers, is very effective, as it reduces paper consumption by some 19 metric tons per year.
+
+
+en27 reclaimed packaging material
+
+the following quantities are based on an internal survey at the sites: on the product side, approximately 13.3 metric tons of used products (mainly
+electrical equipment) were taken back and disposed of appropriately in 2013 (previous year 7 metric tons). in some markets (de, ch), parts of the
+multilayer drinking water pipes (mepla) are also taken back. the exact quantity is not known, but is estimated to be just under around 10 metric
+tons group-wide (previous year 7 metric tons). in 2013, approximately 13,360 metric tons (previous year 12,320 metric tons) of packaging material
+were used, over 49% (previous year 45%) of which was collected and recycled by geberit itself or by financed contract partners. the rest is
+disposed of and recycled on a country-specific basis.
+
+
+
+
+geberit annual report 2013                                                                                                                            19
+
+sustainability
+sustainability performance report
+
+en28 sanctions due to non-compliance with environmental laws and regulations
+
+no significant fines or non-monetary penalties were imposed in the reporting year.
+
+
+en29 environmental impact of transport
+
+in the area of logistics, in addition to cost effectiveness and punctuality, it is increasingly important to customers that transport services be as
+environmentally friendly as possible. geberit does not maintain its own fleet of vehicles. because external logistics equates to around 35% of the
+geberit group’s total environmental impact (production plants and sales companies), collaboration with the transport service providers that work
+with geberit is central. partners agree to actively support geberit in its efforts to use energy and packaging material efficiently and to reduce
+emissions, and undertake to provide the data needed for geberit’s environmental reporting.
+
+the logistics calculator developed in 2010 facilitates the capture of data on the vehicle fleet composition, transportation performance and fuel
+consumption of all transport service providers, as well as the preparation of the annual eco-balance. in the reporting year, the twelve largest
+transport service providers handled 176.6 million ton-kilometers (previous year 169.7 million ton-kilometers). this generated 27,483 metric tons
+of co2 emissions (previous year 26,883 metric tons). the increase in transport services and co2 emissions was mainly caused by the increase in
+sales and the related increase in transport volumes. the share of euro 5 vehicles remains high at 87%. euro 6 vehicles (compulsory for new vehicles
+from january 1, 2014) were also used for the first time. as a result, euro 5 and euro 6 vehicles account for a total of nearly 90% of the entire truck
+fleet.
+
+another important step in reducing the environmental impact is switching from road to rail. for instance, 80% of the goods transported from italy
+and 50% of those transported to italy are moved by train. the use of → mega-trailers, which can carry an approximately 15% greater load volume,
+also increases energy efficiency: in 2013, about 1,350 such transport runs (previous year 1,280) between rapperswil-jona (ch) and pfullendorf (de)
+and around 800 transport runs (previous year 800) between pottenbrunn (at) and pfullendorf (de) were completed in this way. this translates into a
+reduction of 134,000 kilometers compared with conventional transport runs. as a result, diesel consumption was reduced by 39,900 liters and
+co2 emissions were lowered by 164 metric tons. geberit is also working on innovative solutions aimed at enabling a higher goods per truck ratio –
+i.e. increasing capacity utilization of the transport volume.
+
+furthermore, the pilot project with an → environmentally friendly, natural gas truck running between pfullendorf (de) and rapperswil-jona (ch)
+commenced at the end of 2013. this pioneering project is being conducted in collaboration with a transport service provider and a truck
+manufacturer.
+
+this information partially covers the requirements of the gri indicator.
+
+
+en30 costs of environmental protection
+
+approximately chf 1.3 million was spent on environmental protection and preventive environmental management in 2013 (previous year
+chf 1.2 million). this involved external advisory services and training, external certification and personnel expenditures on environmental
+management activities. the costs of disposal of hazardous and other waste, in turn, amounted to approximately chf 0.6 million in 2013 (previous
+year chf 0.6 million).
+
+
+
+
+geberit annual report 2013                                                                                                                         20
+
+sustainability
+sustainability performance report
+
+
+
+
+7. employer responsibility (la)
+
+dma-la management approach to employer responsibility
+
+responsibility for all important aspects of the gri guidelines with respect to labor practices at the geberit group lies with the head corporate
+human resources who reports directly to the ceo.
+
+geberit's most important ambassadors are its employees. they shape the company's image and represent geberit in their day-to-day contact with
+customers and many other stakeholders. this task can only be performed by employees who are aware of what their company stands for and what
+its objectives are. geberit's central corporate and brand values are defined in the → geberit compass. geberit aims to act as a role model for
+ethically unimpeachable, environmentally friendly and socially responsible operations. the → code of conduct fills this objective with tangible
+content and to this end serves as an authoritative source of guidance. the code applies worldwide and is available on the intranet in 14 languages.
+revision of the code was started in 2013 and will be completed in 2014.
+
+a fundamental goal is to reinforce the performance culture, increase transparency and promote talent. the standardized global performance
+assessment, development and compensation process (pdc) started in 2012 was therefore continued. remuneration policies are based on
+standardized job assessments and salary levels for the relevant country. a central element of the process is that several supervisors assess the
+performance, development and salary of an employee together. the process is concluded with a feedback interview between the employee and
+their direct supervisor. a total of around 1,000 employees or 15% of the entire workforce are involved in this pdc process.
+
+the priority in terms of internal employee communications is for interactive, real-time communication that is accessible to all. the intranet
+introduced in 2009 plays a central role here. special solutions have been developed for production employees in the form of newsletters and/or
+large screens for joint use. the ceo, albert m. baehny, regularly informs the employees of the current state of the business, the economic
+parameters, the future prospects and general topics of interest in videos that are accessible on the intranet as well as via electronic newsletters.
+the → “geberit integrity line” that was designed in 2012 and launched on january 1, 2013 enables all employees to anonymously report internal
+irregularities in their mother tongue (35 languages), thereby making an important contribution towards the upholding of high compliance standards
+within the group. there were no significant incidents in 2013. the few registered complaints were all dealt with and issues were cleared up swiftly.
+
+geberit has formulated the vision of an “accident-free company”. to meet the group’s ambitious standards, the objective is to reduce the accident
+frequency rate (afr) and accident severity rate (asr) by 5% per year and thus by 50% between 2010 and 2020. for this purpose, a comprehensive
+master plan for occupational safety including a package of measures for the period 2013 to 2015 has been developed and adopted. this will be
+implemented and checked as part of the geberit safety system (gss). the basis for the monitoring is the monthly recording of all accidents from
+january 1, 2013 onward. important elements of the geberit safety system include: a vision, safety policy and site-specific safety principles as well
+as the definition of rules in the event of breaches, the development of a suitable organization structure, awareness-raising and training as well as
+the planning of regular internal and external audits. the geberit safety system is to be integrated into the geberit management system by mid-
+2014 and all production plants including logistics are to be certified according to ohsas 18001 in combination with iso 9001/14001 by mid-
+2016. the two chinese production plants have been certified according to ohsas 18001 since 2009, the sales company in the uk since 2010, the
+production plant in givisiez (ch) since 2011 and the plant in pottenbrunn (at) since 2013.
+
+the ability to win and retain the right employees for the company is becoming more and more important for the future. employer branding is a
+component of superordinate corporate branding and creates a unique employer identity. geberit continued the roll-out of its employer branding
+concept in 2013 and intensified its presence at job fairs in particular. in doing so, geberit sharpened its profile as a company that offers attractive
+international development opportunities at the interface between the craft, engineering and sales sectors.
+
+for objectives and measures concerning employees and occupational safety, see also → www.geberit.com > sustainability > sustainability
+strategy.
+
+
+la1 total workforce by employment type, employment contract, and region
+
+the number of employees rose once again in the reporting year. at the end of 2013, the geberit group employed 6,226 people worldwide –
+92 persons or 1.5% more than in the previous year. this increase is primarily due to the – to some extent temporary – adjustment of capacities in
+the production plants, the start of operation at the new plant in india and the development of various emerging markets. a reduction in capacity in
+the chinese plants offsets this growth slightly.
+
+for key figures on the workforce by employment type, employment contract and region, see → key figures sustainability > employees and
+society.
+
+
+la2 employee fluctuation
+
+the average fluctuation rate (in terms of employees with permanent contracts, without natural departures and long-term leaves of absence) was
+4.1% (previous year 5.0%). including natural departures, it was 5.5% (previous year 6.5%). for key figures on fluctuation by age group, gender and
+region, see → key figures sustainability > employees and society.
+
+
+
+
+geberit annual report 2013                                                                                                                            21
+
+sustainability
+sustainability performance report
+
+
+la3 benefits
+
+geberit essentially grants the same benefits to full-time and part-time employees. however, employees with temporary contracts are not always
+entitled to the same benefits as permanent employees. for example, employees in switzerland with temporary employment contracts of less than
+three months are not insured in the pension fund. geberit bases its employee benefits on country-specific standards.
+
+
+la4 employees covered by collective bargaining agreements
+
+approximately 4,050 employees, and thus around two-thirds of the workforce, are currently covered by collective agreements (e.g. collective labor
+agreements, wage agreements). above all in germany, austria and switzerland, over 90% of employees are governed by a collective labor or wage
+agreement. there are no collective agreements with employees in the us and china (14% of all employees).
+
+
+la5 notice periods regarding operational changes
+
+apart from country-specific obligations (arising from statutory requirements or collective agreements), there are no formal rules as to when and
+how often employees are to be informed. in cases of major structural changes, geberit makes every effort to involve the employees at an early
+stage. the completely revamped intranet introduced in the autumn of 2009 has become a central channel for all electronic employee
+communications within the group.
+
+
+la6 percentage of total workforce represented in health and safety committees
+
+each of the 17 production companies and logistics has a safety manager. wherever possible and sensible, this function is combined with that of the
+environmental manager or closely linked from an organizational point of view. 96% of the employees at all production sites and 85% of all
+employees worldwide are represented through an occupational health and safety panel or safety committee at their production site, in which
+employer and employee representatives can discuss occupational health and safety issues. as a rule, national standards for the country concerned
+are implemented.
+
+this information partially covers the requirements of the gri indicator.
+
+
+la7 accidents, occupational illness and lost time
+
+the group-wide absenteeism rate for the reporting year was 4.10% (previous year 3.53%); illness-related absences accounted for 4.00% of this
+rate (previous year 3.37%) and 0.10% was related to occupational accidents (previous year 0.16%). these figures are based on the hours
+effectively worked. in 2013, these amounted to 10,661,572 hours (previous year 10,680,389 hours). the statistics show only those occupational
+accidents that occur during working hours or business travel and lead to lost working time of more than one day. a total of 109 accidents were
+recorded (previous year 125 accidents), equivalent to 1,325 lost working days due to occupational accidents (previous year 2,164 lost working
+days). there were no serious or fatal accidents. employees at geberit are not exposed to a particularly significant extent with regard to
+occupational illnesses. this category is therefore not covered.
+
+furthermore, the accident frequency rate (afr) and the accident severity rate (asr) are recorded in a standardized manner. these rates are
+calculated as the number of accidents or the number of lost working days per one million hours worked. the afr was 10.2 (previous year 11.7); the
+asr dropped significantly to 124.3 (previous year 203). geberit is therefore back on track with regard to its long-term objective of reducing the
+frequency and severity of accidents by 5% per year or by 50% between 2010 and 2020.
+
+all key figures concerning the absenteeism rate by region can be found under → key figures sustainability > employees and society.
+
+for the goals and measures for the enhancement of occupational safety, see → www.geberit.com > sustainability > sustainability strategy.
+
+
+la8 assistance regarding serious illnesses
+
+at geberit, there are no operational activities involving a particularly high risk of contracting a serious illness or with a high incidence of illness.
+
+as part of its group-wide efforts to support employees’ health and well-being, geberit offers its employees precautionary healthcare opportunities
+through various offers and activities. these include, for example, sports facilities, anti-smoking training, massage services, dietary and health tips,
+and presentations on health-related issues. they also include reintegration counseling, which aims to get people back to work as soon as possible
+in the event of long-term illness. managers are specifically trained in this respect. examples of individual support include counseling in rapperswil-
+jona (ch) to assist with problems ranging from on-the-job pressure, partnership and family problems to debt issues, and the telephone helpline
+created in the us to discuss problems at work in complete confidentiality.
+
+for further information, see → business report > business and financial review > employees.
+
+
+la9 health and safety topics covered in agreements with trade unions
+
+geberit attaches great importance to a high level of health and safety for its employees. to this end, it cooperates with authorities, trade unions
+and employers’ liability insurance associations on a country-specific basis. written agreements exist at all production companies and individual
+sales companies with parties such as trade unions and employee representatives that normally cover topics such as personal protective
+equipment, complaints procedures, regular inspections, education and further training and the right to refuse unsafe work.
+
+this information partially covers the requirements of the gri indicator.
+
+
+
+
+geberit annual report 2013                                                                                                                                 22
+
+sustainability
+sustainability performance report
+
+
+la10 employee education and further training
+
+education and further training are a central theme at the company. in the reporting year, employees across the group attended on average around
+17 hours of internal and external education and further training events (previous year 17 hours). for training hours as part of the potentials
+management process, see → la11.
+
+in 2013, 234 apprentices (previous year 229) were employed. the transfer rate to a permanent employment relationship was 59%. see → business
+report > business and financial review > employees.
+
+this information partially covers the requirements of the gri indicator.
+
+
+la11 programs for skills management and lifelong learning
+
+for the management team, the watchword is continuous training. the goal of the potentials management process is to identify talent within the
+company and support selected candidates on their way to middle or upper management, or to their first management, project management or
+specialist functions. these measures are intended to ensure that at least half of the open management positions can be filled by internal
+candidates. in 2013, it was even possible for 70% of all positions in group management to be filled internally (previous year 54%).
+
+the management training program at the international institute for management development (imd) in lausanne was continued in 2013 for the
+some 160 members of group management and the geberit group companies worldwide. the course’s key topics include strategic management,
+leadership and finance. as of the end of 2013, 130 members of group management had completed this program. see also → business report >
+business and financial review > employees.
+
+
+la12 performance and career development of employees
+
+in everyday working life, the personal and professional development of each individual employee is encouraged in a variety of ways. this covers all
+areas of work, functions and age groups. around 93% of all employees received appraisal interviews in 2013, and around 59% had objective-
+agreement meetings at which development opportunities were also identified and discussed.
+
+
+la13 workforce diversity
+
+the proportion of female employees at the end of 2013 was 31% (previous year 31%), and for senior management this figure was 6.5% (previous
+year 6.5%). the board of directors consists of six men.
+
+for key figures on diversity in terms of gender and age structure, see → key figures sustainability > employees and society.
+
+no further data on minority group membership is currently being collected as geberit and its stakeholders do not consider this to be relevant.
+
+this information partially covers the requirements of the gri indicator.
+
+
+la14 gender-based differences in salaries
+
+protection of the principles of equality is anchored in the → geberit code of conduct. this includes the prohibition of discrimination against any
+employee on the basis of gender. according to the annual binding survey of all geberit group companies, no differences between the basic salaries
+of women and men exist anywhere within the group. fair and equal pay for women and men is guaranteed as follows:
+
+  determination of salaries primarily according to function, evaluated in accordance with the proven hay method. a score is calculated based on
+  the assessment criteria know-how, problem-solving and accountability. the resulting number of points is the basis for determining the salary.
+  this guarantees fair salary structures irrespective of gender.
+  binding wage agreements with set pay grades at many geberit sites.
+  an in-depth investigation carried out at four production companies in 2011 revealed no differences between the salaries of men and women. the
+  investigation covered the pay levels of production employees within an established site in employee-friendly germany, at a production site of
+  many years’ standing in slovenia and at the two chinese sites where employee protection and fair wages are largely the responsibility of the
+  company itself.
+
+
+
+
+geberit annual report 2013                                                                                                                        23
+
+sustainability
+sustainability performance report
+
+
+
+
+8. human rights (hr)
+
+dma-hr management approach to human rights
+
+in terms of information, the promotion of awareness and controlling, human rights issues related to the business activities of the geberit group are
+the responsibility of corporate human resources for internal topics (equal treatment, freedom of association and the right to collective bargaining)
+and of corporate purchasing with regard to procurement practices.
+
+the → geberit code of conduct is authoritative in the area of human rights, among other things stipulating the exclusion of child and forced labor.
+compliance with the code of conduct is monitored as part of a binding annual survey of all geberit group companies.
+
+long-term cooperation, reciprocal commitment, sustainability and social responsibility are important guidelines for geberit. these acquire
+particular importance in the procurement of raw materials, semi-finished products, finished products and services. the high standards with respect
+to fair business practices, environmental protection and safe working conditions are therefore also expected from suppliers. the → code of
+conduct for suppliers applies to all geberit suppliers worldwide. verification is the responsibility of corporate purchasing.
+
+with respect to measures and objectives regarding the code of conduct and procurement, see also → www.geberit.com > sustainability >
+sustainability strategy.
+
+
+hr1 human rights aspects in investment agreements
+
+there are no significant investment agreements which include human rights clauses or which have been audited in terms of human rights aspects.
+agreements with suppliers include human rights clauses which must be audited and upheld by geberit suppliers, see → hr2.
+
+
+hr2 screening of suppliers with regard to human rights aspects
+
+with respect to human rights violations, the greatest risk lies with suppliers, who can only be influenced indirectly. geberit does all it can to
+minimize this risk and requires its business partners and suppliers to comply with comprehensive standards, above all with respect to consistent
+environmental protection, socially acceptable working conditions and fair business practices.
+
+at the end of 2007, a → code of conduct for suppliers was introduced for the first time which is geared, among other things, to the principles of
+the united nations global compact. upon request by geberit, the supplier must prepare corresponding records in order to demonstrate
+compliance with the standards of the code and make these available at any time. should the supplier fail to comply with the regulations set out in
+this code, then corrective measures are taken wherever possible. failure to comply on the part of the supplier is regarded as a serious obstacle to
+the continuation of the business relationship. if the supplier does not correct this non-compliance, geberit can terminate the cooperation. as of the
+end of 2013, 701 suppliers had signed the code of conduct (previous year 671). this is equivalent to 95% of the total procurement value (previous
+year 95%), thereby meeting the target value of 95% for 2013. among the top 200 suppliers, the share of companies that have signed is 99%
+(previous year 99%). the code of conduct is binding for each new supplier.
+
+in the interests of the systematic planning and performance of audits, which are generally conducted every three years, the existing risk
+management approach was further developed in 2012 based on the division of suppliers into risk classes – depending on production location
+(country) and production processes. in the reporting year, 40 companies were identified in the highest risk category. this is equivalent to less than
+5% of the entire procurement value. to ensure neutrality and the expertise required for the audits, geberit also works with an external partner. in
+china, the carrying out of audits by independent experts has proven effective. performing such audits makes an important contribution to
+enhancing credibility in supplier management. any shortcomings exposed by audits give rise to sanctions. as a rule, a deadline is imposed for
+remedying the situation. for example, shortcomings were revealed at three chinese suppliers in 2013, primarily in the areas of occupational safety,
+working hours and remuneration. action plans were agreed upon with these three companies, the implementation of which will be checked and
+demanded during a re-audit in 2014.
+
+only in a few justified exceptional cases are there plans to impose complete regulations on the second tier and third tier in the supply chain by
+getting them to sign a code of conduct, as this would result in a disproportionately high level of additional administration with little added benefit.
+geberit pursues a pragmatic yet effective approach. when auditing suppliers in the highest risk category, an analysis of their most important
+suppliers is included in the risk analysis and the audit investigations on site. at the end of the day, geberit’s goal is modern supplier management,
+where the relationship with the supplier is actively managed and sustainability risks in the supply chain are jointly analyzed.
+
+for further information, see → business report > business and financial review > logistics and procurement.
+
+
+hr3 human rights training for employees
+
+in 2008, more than 98% of all employees received training on the topics contained in the → geberit code of conduct. the code applies worldwide
+and is available on the intranet in 14 languages. since 2009, all new employees have been receiving training in the code as part of their induction,
+with media such as training films developed especially for this. all employees worldwide have access to the code of conduct via the intranet. in
+addition, since 2012 contributions toward increasing awareness of the geberit code of conduct have been published on the intranet. for further
+details, see → so3.
+
+this information partially covers the requirements of the gri indicator.
+
+
+
+
+geberit annual report 2013                                                                                                                            24
+
+sustainability
+sustainability performance report
+
+hr4 cases of discrimination
+
+the code of conduct forbids discrimination as defined in the ilo core labor standards. compliance with the code is verified annually as part of a
+binding group-wide survey. in addition, the “geberit integrity line” allows all employees to anonymously report irregularities such as discrimination
+in their mother tongue (35 languages). there was one case of workplace bullying in 2013, which led to the dismissal of the person responsible.
+
+
+hr5 guarantee of freedom of association and collective bargaining
+
+employees are completely free to join trade unions, associations and similar organizations. no rights with respect to exercising freedom of
+association or collective bargaining as defined in the ilo core labor standards are subject to restriction at the geberit group.
+
+
+hr6 risk of and precautionary measures against child labor
+
+geberit’s exposure with respect to child labor is considered low because of its industry and the countries in which business activities are carried
+out as well as its high quality requirements. geberit commits itself to the protection of human rights in its code of conduct. child labor is
+categorically rejected. according to the annual, binding group-wide survey there were no cases of child labor revealed in 2013. there were likewise
+no such cases arising during the audits carried out at suppliers. the basic principles set out in the code of conduct for suppliers explicitly include
+compliance with the ilo core labor standards for the exclusion of child labor.
+
+
+hr7 risk of and precautionary measures against forced labor
+
+geberit’s exposure with respect to forced labor is considered low because of its industry and the countries in which business activities are carried
+out as well as its high quality requirements. geberit commits itself to the protection of human rights in its code of conduct. forced labor is
+categorically rejected. according to the annual, binding group-wide survey there were no cases of forced labor revealed in 2013. there were
+likewise no such cases arising during the audits carried out at suppliers. the basic principles set out in the code of conduct for suppliers explicitly
+include compliance with the ilo core labor standards for the exclusion of forced labor.
+
+
+hr8 human rights training for security personnel
+
+at its production sites in europe, the us and china, geberit is not confronted with the need for special security measures that increase the risk of
+human rights violations. to date, this problem has therefore not been relevant to geberit within the scope of its global activities.
+
+
+hr9 violation of rights of indigenous peoples
+
+to date, this problem has not been relevant to geberit within the scope of its global activities.
+
+
+
+
+geberit annual report 2013                                                                                                                             25
+
+sustainability
+sustainability performance report
+
+
+
+
+9. community (so)
+
+dma-so management approach society
+
+the corporate departments environment and sustainability (community aspect) and legal services (corruption, anti-competitive behavior,
+compliance with other basic laws) are responsible for questions of social responsibility related to the business activities of the geberit group.
+
+both internally and externally, geberit places great value on dialog. the suggestions and needs of the local stakeholders are recorded at all
+production sites in order to counter potential problems such as noise emissions and exploit opportunities for cooperation. thus, for example, a
+→ round table with regional farmers served to reach agreement on guidelines for the generation of biogas for the pfullendorf (de) production site.
+the introduction of a → stakeholder panel is another important measure aimed at integrating the perspectives of stakeholders. following on from
+the first panel in 2012, the next stakeholder panel consultation is due to be carried out in 2014.
+
+geberit aims to be a model of ethical, environmental and socially responsible operations. the → geberit code of conduct is the definitive guide for
+conduct with integrity in the corporate environment. for instance, fair competition throughout the world is an important principle here. cartels of
+any kind and other competition-distorting activities are rejected. as a member of transparency international switzerland, geberit is committed to
+high standards in combating corruption. there are clear guidelines for the purposes of prevention and employees receive continuous training in this
+area. compliance with the guidelines is monitored as part of an annual binding survey at all geberit group companies (see the individual indicators
+for the results). internal auditing is supplemented by on-site audits. in the event of misconduct, corrective measures are taken.
+
+key areas are focused on during training on compliance. in 2013, comprehensive training on antitrust legislation via an e-learning program was
+carried out as planned at the sites in china, india, south africa, southeast asia, australia and the usa. during this training, the respective members
+of management and the field service employees were brought up to the same level of knowledge and prepared for the market challenges. as in
+2011, all sites in europe will take part in the updated e-learning program in 2014.
+
+with respect to measures and objectives in the code of conduct, see also → www.geberit.com > sustainability > sustainability strategy.
+
+
+so1 impact on the community and public interests
+
+the potential for conflict with public interests in the vicinity of geberit sites is generally regarded as low. as part of environmental management in
+accordance with iso 14001, a stakeholder analysis is performed at all production sites. based on this analysis, the effects of the business activities
+and production on local communities and regions are assessed.
+
+geberit maintains good relations with its neighbors and carries out appropriate measures at its sites: for example, open days, involvement in
+associations, etc.
+
+for further information, see → 4.16 and → 4.17.
+
+
+so2 analysis of business units for risks of corruption
+
+according to the annual binding survey carried out at all geberit group companies, there were no cases of corruption in 2013.
+
+the topic of corruption is also a component of the audit program for the periodic inspections of the production plants and sales companies by the
+internal audit department. various audit activities and interviews are carried out as part of these inspections. the annual audit planning of the
+internal audit department is oriented to risks. each company is audited at least every four years, or more frequently if it has a heightened risk
+profile. in 2013, the internal audit department audited a total of 16 companies. this represent approximately one-third of all geberit companies. in
+addition, approximately three to four in-depth audits are carried out each year, whereby the audit focus is on the processes of group-wide
+functions (e.g. purchasing, it, etc.). no cases of corruption were discovered in 2013.
+
+
+so3 training on anti-corruption policies
+
+in 2008, more than 98% of employees were informed of and trained in the code of conduct. with the aid of short films (“animatics”), the training
+focuses on gray areas in four topics of relevance: bribery (corruption), sexual harassment, workplace bullying and it misuse. in 2013, as before, new
+employees were also trained accordingly as part of the welcome events. in addition, since 2012 contributions toward increasing awareness of the
+geberit code of conduct have been published on the intranet.
+
+to raise awareness on the topic of compliance, a “corporate compliance info letter” was sent to all managers on management levels 1 to 3 in
+2013 for the first time. this letter contained information on the latest developments in case law, legislation and practice in the areas of antitrust
+legislation, product liability and corruption.
+
+
+so4 actions taken in response to incidents of corruption
+
+no measures were necessary, as no cases of corruption were revealed in 2013.
+
+
+so5 political positions and exercise of influence
+
+as a rule, geberit does not issue political statements and does not involve itself in political lobbying.
+
+
+
+
+geberit annual report 2013                                                                                                                              26
+
+sustainability
+sustainability performance report
+
+
+
+so6 political contributions
+
+as a rule, geberit does not make donations to parties or politicians. all donations and related commitments (see → ec8) are neutral from a party
+political point of view.
+
+
+so7 anti-competitive behavior
+
+cartels of any kind and other competition-distorting activities are categorically rejected. there are no pending complaints alleging anti-competitive
+behavior. skills in dealing with this topic are promoted as part of comprehensive training (see → dma-so)
+
+
+so8 sanctions due to non-compliance with regulations
+
+geberit incurred no fines in 2013 resulting from violations of statutory requirements.
+
+
+
+
+geberit annual report 2013                                                                                                                         27
+
+sustainability
+sustainability performance report
+
+
+
+
+10. product responsibility (pr)
+
+dma-pr management approach to product responsibility
+
+at geberit, product responsibility lies with several corporate departments: customer health and safety with product development and quality
+management, product labeling and services, advertising and customer data with marketing, and compliance with statutory requirements with legal
+services.
+
+for geberit, high quality standards mean fulfilling customers’ requirements in terms of functionality, reliability and application safety to the greatest
+possible extent. the company is guided by the zero-error principle. corporate quality management is responsible for ensuring that suitable
+framework conditions promote a quality culture throughout the company, and that all employees act in a quality-conscious and independent
+manner.
+
+products undergo a defined optimization process from the first draft. product development is responsible for ensuring that the products
+developed are safe and user-friendly, and that they comply with all standards and statutory requirements. as an independent department, quality
+management is responsible for defining, arranging and monitoring all necessary inspections to ensure that these requirements are met. a clear
+organizational distinction is drawn between development and quality management. in addition, many products are also examined by external
+authorization bodies.
+
+following market launch, an efficient handling of complaints with integrated error analysis, the initiation of sustained corrective measures and the
+continuous development of concepts for customer support takes place in cooperation with sales, production and development. geberit has
+achieved a high standard in the processing of complaints, and reacts directly and in a solution-oriented manner in each individual case.
+
+when it comes to training its employees on geberit products, competition, standards, industry or core topics, geberit relies on a bundle of
+measures: these include a group-wide e-learning platform rolled out in the fall of 2012 as well as global product training by specially trained
+instructors.
+
+
+pr1 health and safety impact along the product life cycle
+
+generally speaking, geberit products and services involve low risks for customers in terms of health and safety. geberit nevertheless adopts a
+preventive approach within the scope of its comprehensive quality planning in order to test and ensure the health and safety requirements of all
+products from development to certification, through manufacture and storage, to use and disposal. among other things, quality and safety
+management include an fmea (failure mode and effects analysis) as a precautionary measure to prevent errors and increase the technical reliability
+of products. eco-design workshops are held in the course of product development in order to optimize the use of suitable and ecological materials.
+if the products or their use involve an increased risk to health or safety, geberit’s technical editorial staff ensures that this is communicated
+appropriately to customers (see → pr3).
+
+
+pr2 non-compliance with health and safety regulations
+
+throughout the group, there have been no court judgments or warnings against geberit involving contraventions of regulations on the health and
+safety of products and services or product and service information.
+
+
+pr3 product labeling
+
+most of the installation instructions are non-verbal, consisting of detailed illustrations in order to provide the most important customer-relevant
+information. for all products that involve the use of electricity, gas or dangerous substances, comprehensive instructions regarding target group,
+qualifications, use, maintenance, safety, disposal and constituent materials are provided and translated into all languages required in the respective
+markets. where possible, all plastic components feature material labeling in order to facilitate recycling.
+
+the well label (water efficiency label) introduced in 2011 by the european umbrella organization for valve manufacturers (eunited) is intended to
+address the growing environmental awareness of consumers. it takes its direction from the well-known and well-established energy labels for
+electrical household appliances and fulfills a similar function. well provides consumers with information about a product’s water efficiency at a
+glance. the new classification system will also encourage responsible use of water as a resource. in 2013, eight geberit product groups
+(comprising over 370 sales products) bore the well label, seven of which are represented in the top a class and one in the b class.
+
+geberit was involved in the revision of sia recommendation 493 (“declaration of environmental attributes of building products”) from the swiss
+society of engineers and architects (sia). this recommendation defines which attributes have to be declared for various building product groups
+and is thus – similar to environmental product declarations (epd) – an important instrument for green building in switzerland.
+
+
+pr4 non-compliance with labeling requirements
+
+in the reporting period, there were no known cases of violation of applicable laws or voluntary codes.
+
+
+
+
+geberit annual report 2013                                                                                                                             28
+
+sustainability
+sustainability performance report
+
+
+pr5 customer satisfaction
+
+a high degree of customer satisfaction in the regional markets is central to geberit’s success. of particular importance in 2013 was the new cross-
+media geberit aquaclean advertising campaign in a total of eleven markets – including italy and poland for the first time. the geberit aquaclean
+sela shower toilet was also introduced at the start of the new geberit aquaclean campaign. water is the key element of this campaign. brand
+tracking studies for end users were carried out in all eleven markets where the campaign took place in 2013. in addition to sociodemographic data,
+the studies also provided information on the respective awareness of the shower toilet product category, attitude and behavioral parameters, and
+also the perception of the geberit aquaclean brand and the most important competitors. in all affected markets, the awareness of the product
+category and the perception of the geberit aquaclean brand in particular have significantly increased since the start of the campaign – and the
+upward trend shows no signs of abating. the study reflects the success of market cultivation and the campaign in the individual markets. the
+intensive branding is thus proving a significant success factor for company growth.
+
+the → ”geberit challenge” took place in switzerland, finland and twice in the united kingdom in 2013. garnering much media attention, the best
+team of plumbers in each of these countries was chosen by geberit. the challenge was most popular in finland, where 850 participants were
+registered. the geberit challenge was awarded the → “xaver” in 2013, the swiss event industry’s most important award. the format won over the
+independent jury and stole the show from other high-profile competitors.
+
+in recent years, geberit has built up a standardized customer relationship management (crm) process for all markets with the aim of further
+boosting customer satisfaction. thanks to this system, which is specially tailored to geberit, customers benefit from more targeted
+communication with the relevant contact persons. from 2014, the crm system will be gradually migrated to a new technological platform to
+enable a deeper integration into daily business processes.
+
+for more information, see → business report > business and financial review > customers.
+
+
+pr6 compliance with laws and standards with regard to marketing communications
+
+geberit adheres to the group-wide code of conduct and the statutory requirements with respect to advertising. all advertising materials
+worldwide are inspected from this point of view prior to each publication. geberit does not sell any products whose sale is forbidden on certain
+markets or which are the subject of public controversy.
+
+
+pr7 non-compliance with communications requirements
+
+there were no incidents in the 2013 reporting period.
+
+
+pr8 complaints regarding customer privacy
+
+there are no known cases of complaints based on violations of data protection.
+
+
+pr9 sanctions due to non-compliance with product liability regulations
+
+no fines have been imposed in connection with geberit products and services or their use.
+
+
+
+
+geberit annual report 2013                                                                                                                         29
+
+sustainability
+key figures sustainability
+
+
+
+
+key figures environment
+
+environmental impact
+
+                                                                                             2012                     2013            deviation
+environmental impact                                                                          ubp                      ubp                   %
+electricity                                                                                54,407                52,256                    -4.0
+combustibles                                                                                5,020                    5,264                 4.9
+fuels                                                                                       6,148                    6,218                 1.1
+disposal                                                                                    4,047                    4,303                 6.3
+solvents                                                                                      760                     828                  8.9
+water and waste water                                                                         518                     523                  1.2
+total environmental impact                                                                 70,900                69,392                    -2.1
+ubp = ecopoints in accordance with the swiss ecological scarcity method (2006 version)
+
+
+
+
+material usage
+                                                                                                             2012            2013     deviation
+material usage                                                                                         metric tons     metric tons           %
+raw material plastics                                                                                     57,320             57,362        0.1
+raw material metal                                                                                        46,141             48,735        5.6
+other raw materials                                                                                          770               625       -18.9
+semi-finished products                                                                                    28,742             31,348        9.1
+finished products                                                                                         44,789             46,146        3.0
+total material usage                                                                                     177,762         184,216           3.6
+
+
+
+
+energy consumption
+                                                                                                                                      deviation
+energy consumption                                                                              unit         2012              2013          %
+electricity                                                                                    gwh          113.4             111.7        -1.5
+heating oil extra light                                                                  metric tons         20.2              13.9      -31.0
+natural gas                                                                                     m3     3,771,199        3,950,408          4.8
+biogas                                                                                          m3       878,297         994,997          13.3
+gasoline                                                                                       liter     214,990         187,303         -12.9
+diesel                                                                                         liter   1,577,960        1,631,305          3.4
+
+
+                                                                                                             2012              2013   deviation
+energy consumption                                                                                             tj                tj          %
+electricity                                                                                                 408.2             402.1        -1.5
+heating oil extra light                                                                                       0.9               0.6      -31.0
+natural gas                                                                                                 137.3             143.8        4.8
+biogas                                                                                                       33.8              38.3       13.3
+fuels (gasoline, diesel)                                                                                     64.5              65.6        1.6
+total energy consumption                                                                                    644.7             650.4        0.9
+
+
+
+
+geberit annual report 2013                                                                                                                  30
+
+sustainability
+key figures sustainability
+
+
+electricity mix
+                                                                             renewable         fossil      nuclear      others
+electricity mix 2013                                                gwh             %             %             %           %
+europe                                                              79.3          16.0          45.2          35.6         3.2
+usa                                                                  6.6           8.8          70.0          19.6         1.6
+china                                                                4.8          16.1          81.8           2.1            -
+green electricity                                                   21.0         100.0              -             -           -
+total electricity mix                                             111.7           31.4          39.7          26.5         2.4
+
+
+                                                                             renewable         fossil      nuclear      others
+electricity mix 2012                                                gwh             %             %             %           %
+europe                                                              79.7          16.0          45.2          35.6         3.2
+usa                                                                  7.7           8.8          70.0          19.6         1.6
+china                                                                6.0          16.1          81.8           2.1            -
+green electricity                                                   20.0         100.0              -             -           -
+total electricity mix                                             113.4           30.3          40.9          26.5         2.3
+
+
+
+
+water and waste water
+                                                                                                2012          2013    deviation
+water and waste water                                                                             m3            m3           %
+fresh water                                                                                 136,669       131,938          -3.5
+rain water                                                                                     5,949         6,796        14.2
+waste water                                                                                 114,932       116,719          1.6
+
+
+
+
+emissions
+                                                                                                2012          2013    deviation
+absolute co2 emissions                                                                    metric tons   metric tons          %
+from combustibles                                                                              9,717        10,158         4.5
+from fuels                                                                                     6,994         7,096         1.5
+from electricity                                                                              55,142        52,655         -4.5
+total absolute co2 emissions                                                                  71,853        69,909         -2.7
+
+
+                                                                                                 2012          2013   deviation
+relative co2 emissions                                                                    g co2 / chf   g co2 / chf          %
+from combustibles                                                                                4.4           4.5         0.9
+from fuels                                                                                       3.2           3.1         -2.1
+from electricity                                                                                25.2          23.2         -7.8
+total relative co2 emissions                                                                    32.8          30.8         -6.1
+co2 emissions in relation to sales in chf, currency adjusted
+
+
+                                                                                                2012          2013    deviation
+air emissions                                                                               kilogram      kilogram           %
+nox                                                                              direct       19,317        19,745         2.2
+                                                                               indirect     102,006         95,635         -6.2
+                                                                             total nox      121,323       115,380          -4.9
+so2                                                                              direct        1,379         1,419         2.9
+                                                                               indirect     215,768       200,403          -7.1
+                                                                             total so2      217,147       201,822          -7.1
+nmvoc                                                                            direct       44,678        46,222         3.5
+                                                                               indirect        9,597         9,321         -2.9
+                                                                           total nmvoc        54,275        55,543         2.3
+dust (pm10)                                                                      direct          394           394         0.0
+                                                                               indirect       18,422        17,364         -5.7
+                                                                             total dust       18,816        17,758         -5.6
+cfc11 equivalents                                                                direct          0.9           1.2        33.3
+                                                                               indirect          2.1           2.0         -4.8
+                                                               total cfc11 equivalents           3.0           3.2         6.7
+
+
+
+
+geberit annual report 2013                                                                                                  31
+
+sustainability
+key figures sustainability
+
+
+
+
+waste
+                                        2012          2013    deviation
+waste                             metric tons   metric tons          %
+to incineration                         697           671          -3.7
+to inert waste landfill                 360           394          9.4
+to mixed waste landfill                 606           628          3.6
+to external recycling                  8,419         9,200         9.3
+to hazardous waste incineration         179           269         50.3
+to hazardous waste recycling           1,199          956        -20.3
+total waste                          11,460        12,118          5.7
+
+
+
+
+geberit annual report 2013                                          32
+
+sustainability
+key figures sustainability
+
+
+
+
+key figures employees and society
+
+workforce
+
+workforce as of december 31                    2012       share %       2013    share %
+germany                                       2,351           38       2,422        38
+switzerland                                   1,259           21       1,255        20
+china                                           758           12         718        12
+austria                                         491            8         503         8
+usa                                             237            4         227         4
+slovenia                                        224            4         248         4
+italy                                           113            2         113         2
+others                                          701           11         740        12
+total                                         6,134          100       6,226       100
+
+
+production                                    3,361           55       3,364        53
+marketing and sales                           1,784           29       1,843        30
+administration                                  545            8         563         9
+research and development                        215            4         222         4
+apprentices                                     229            4         234         4
+total                                         6,134          100       6,226       100
+
+
+permanent                                     4,918           80       4,865        78
+temporary                                     1,216           20       1,361        22
+total                                         6,134          100       6,226       100
+
+
+full-time                                     5,856           95       5,924        95
+part-time                                       278            5         302         5
+total                                         6,134          100       6,226       100
+
+
+management                                      153            3         155        2.5
+employees                                     5,981           97       6,071       97.5
+total                                         6,134          100       6,226       100
+information in full-time equivalents
+
+
+
+
+diversity
+
+                                                       management   employees     total
+diversity as of december 31, 2013                              %           %         %
+proportion of female employees                                6.5         31        30
+age structure                            > 45 years           39          40        40
+                                       30 - 45 years          61          40        40
+                                         < 30 years            0          20        20
+
+
+
+                                                       management   employees     total
+diversity as of december 31, 2012                              %           %         %
+proportion of female employees                                6.5         31        30
+age structure                            > 45 years           39          54        54
+                                       30 - 45 years          61          25        25
+                                         < 30 years            0          21        21
+
+
+
+
+geberit annual report 2013                                                           33
+
+sustainability
+key figures sustainability
+
+
+fluctuation
+
+fluctuation                                                                                                        2012           rate %                2013     rate %
+fluctuation                                                                                                         243                 5.0             198         4.1
+
+
+fluctuation incl. attrition                                                                                        2012               rate %            2013      rate %
+
+age group                                                                                 > 45 years                116                 5.5             117         5.3
+                                                                                      30 - 45 years                 115                 5.5              94         4.5
+                                                                                          < 30 years                 87                12.6              55         7.8
+gender                                                                                           male               204                 5.9             177         5.0
+                                                                                              female                114                 8.0              89         6.1
+region                                                                                      germany                  76                 3.9              45         2.3
+                                                                                        switzerland                  75                 6.3             104         8.6
+                                                                                                china                12                10.8              20        13.5
+                                                                                              austria                41                 8.4              16         3.2
+                                                                                                 usa                 23                10.3              15         6.7
+                                                                                            slovenia                    8               3.8               1         0.5
+                                                                                                 italy                  0               0.0               1         1.0
+                                                                                              others                 83                13.5              64        10.1
+total fluctuation incl. attrition                                                                                   318                 6.5             266         5.5
+information in headcounts
+attrition includes e.g. temporary absences, retirements
+
+
+
+
+training and education
+
+                                                                                                                                                               deviation
+training and education                                                                                              unit               2012             2013          %
+apprentices                                                                                                    number                   229             234         2.2
+training and education                                                                                       hours per                   17              17         0.0
+                                                                                                             employee
+
+
+
+
+personnel expenses
+                                                                                                                                       2012             2013   deviation
+personnel expenses                                                                                                                    mchf             mchf           %
+wages and salaries                                                                                                                    344.5            357.9        3.9
+pension contributions                                                                                                                  28.3             25.4      -25.5
+other social benefits                                                                                                                  60.1             62.2        3.5
+other personnel expenses                                                                                                               30.6             29.9        -2.3
+total personnel expenses                                                                                                              463.5            475.4        1.3
+
+
+
+
+social engagement
+
+                                                                                                                                                               deviation
+social engagement                                                                                                   unit               2012             2013          %
+donations and contributions                                                                                      mchf                   2.7              3.1       14.8
+orders to social institutions                                                                                    mchf                   4.8              4.4        -8.3
+charitable work                                                                                                  hours                2,335            1,340      -42.6
+
+
+
+
+health and safety
+
+                                                                                                                                                               deviation
+health and safety                                                                                                2012                           2013                  %
+number of occupational accidents                                                                                  125                           109               -12.8
+accident frequency rate (afr)                                                                                    11.7                           10.2              -12.6
+lost days due to occupational accidents                                                                        2,164                           1,325              -38.8
+accident severity rate (asr)                                                                                      203                          124.3              -38.7
+accident frequency rate (afr) = number of occupational accidents per performed total working hours times 1 million hours
+accident severity rate (asr) = number of lost working days due to accidents per performed total working hours times 1 million hours
+
+
+
+
+geberit annual report 2013                                                                                                                                           34
+
+sustainability
+key figures sustainability
+
+                                   illness   accident   total
+absenteeism rate per region 2013        %          %       %
+europe                              4.84        0.12    4.96
+asia                                1.12        0.01    1.13
+usa                                 1.84        0.00    1.84
+others                              0.64        0.00    0.64
+total absenteeism rate              4.00        0.10    4.10
+
+
+                                   illness   accident   total
+absenteeism rate per region 2012        %          %       %
+europe                              4.15        0.16    4.31
+asia                                0.75        0.13    0.88
+usa                                 1.25        0.25    1.50
+others                              0.57        0.00    0.57
+total absenteeism rate              3.37        0.16    3.53
+
+
+
+
+geberit annual report 2013                                35

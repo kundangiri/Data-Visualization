@@ -1,0 +1,797 @@
+relatório de
+responsabilidade
+social corporativa
+do brasil de 2014
+
+2    relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+a cisco assumiu o compromisso de construir
+uma empresa sustentável no brasil. por
+meio da educação e da força da tecnologia,
+estamos melhorando as perspectivas
+econômicas das comunidades brasileiras.
+o uso da tecnologia também permitiu ampliar
+o acesso aos serviços de saúde. isso constitui
+uma contribuição positiva para a sociedade e
+confirma o sucesso a longo prazo da cisco.
+para obter mais informações sobre nossos programas globais, progressos e desempenhos,
+acesse o relatório de csr da cisco de 2014 no site www.cisco.com/go/csrreport.
+
+               www.cisco.com/go/csrreport   3
+www.cisco.com/go/csrreport
+
+4   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+mensagem de rodrigo dienstmann
+                                                         a tecnologia pode ter um efeito   o foco das ações de responsabilidade social corporativa
+                                                                                           (csr, corporate social responsibility) envolve cinco
+                                                         duradouro e transformador na      pilares: governança e ética, cadeia de suprimentos, nossa
+                                                                                           equipe, sociedade e meio ambiente. desenvolvemos
+                                                         vida das pessoas. usamos a        relacionamentos sólidos com nossos stakeholders e
+                                                                                           estabelecemos altos padrões tanto para nós como para
+                                                         tecnologia, a experiência e os    nossos fornecedores, a fim de integrar a sustentabilidade
+                                                                                           entre as prioridades da cisco. apoiamos nossos funcionários
+                                                         recursos da cisco, alinhados      e investimos neles para ajudá-los a promover a inovação.
+
+                                                         às prioridades do governo         estamos capacitando a próxima geração de profissionais
+
+                                                         brasileiro, para respaldar a      de rede brasileiros com as qualificações necessárias para
+                                                                                           obterem sucesso. ao mesmo tempo, ampliamos o acesso
+                                                         educação, a saúde e a inclusão    de crianças aos serviços de saúde
+
+
+                                                         social.                           já participaram do programa cisco® networking academy®
+                                                                                           mais de 136.000 alunos em 317 escolas em todo o brasil.
+                                                                                           isso nos ajuda a fazer grandes progressos para preencher
+                                                                                           as 363.000 vagas de trabalho na área de redes, que serão
+                                                                                           necessárias no país em 2015. nosso trabalho na área de
+                                                                                           saúde em sergipe ajudou a colocar famílias em contato com
+                                                                                           especialistas em pediatria e melhorou o compartilhamento
+                                                                                           de conhecimentos entre funcionários da área médica. o
+                                                                                           objetivo é levar nosso modelo de saúde à distância para
+                                                                                           toda a américa latina.
+
+                                                                                           a cisco é patrocinadora oficial dos jogos olímpicos e
+                                                                                           paralímpicos rio 2016 e queremos usar nossa tecnologia
+                                                                                           inovadora para dar apoio às comunidades brasileiras e
+                                                                                           fortalecer nossos negócios.
+
+                                                                                                                www.cisco.com/go/csrreport   5
+
+
+
+
+nosso compromisso com a proteção do meio ambiente             "a cisco está ajudando a transformar vidas no mundo
+no brasil continua inabalável. trabalhamos reduzindo as
+                                                               inteiro com a força da tecnologia. durante nossa jornada
+emissões de gases causadores do efeito estufa, poupando
+água e recursos naturais, dimensionando as ações de reuso e    como empresa, continuamos a investir na contribuição
+reciclagem e preservando a rica biodiversidade do país.        positiva para a sociedade e a reduzir o impacto
+                                                               ambiental. nossos funcionários estão na vanguarda
+queremos ser um parceiro confiável do governo brasileiro em
+seu caminho para o desenvolvimento sustentável.
+                                                               da inovação e, juntos, inspiramos confiança no papel
+                                                               da tecnologia na capacitação de comunidades e na
+                                                               construção do nosso futuro."
+                                                              john chambers
+                                                              chairman
+
+
+
+
+                                                              "estamos em uma posição privilegiada para ajudar a
+                                                               solucionar problemas globais, como o acesso a serviços
+                                                               de saúde e à educação e o aumento das emissões
+                                                               de carbono, por meio de nossos funcionários e da
+                                                               nossa tecnologia. a experiência e os serviços que
+rodrigo dienstmann
+presidente da cisco brasil                                     proporcionamos aos nossos clientes também ajudam
+                                                               a catalisar impactos sociais e ambientais positivos no
+                                                               brasil e no mundo inteiro."
+                                                              tae yoo
+                                                              vice-presidente sênior de assuntos corporativos
+
+6   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+                                                                         nosso código de conduta empresarial (cobc, code of
+                                                                         business conduct), bem como nosso centro interno de
+                                                                         ética e o treinamento personalizado, ajudam os funcionários
+                                                                         a tomarem decisões éticas. a cisco foi nomeada uma das
+                                                                         empresas mais éticas do mundo por sete anos consecutivos
+                                                                         pelo ethisphere institute.
+
+                                                                         o sucesso dos negócios depende da confiança de clientes,
+                                                                         parceiros e outros stakeholders. é por isso que prezamos
+                                                                         tanto a importância da conduta ética e de práticas de
+                                                                         administração rígidas.
+
+
+                                                                         gerenciamento de csr
+                                                                         nosso programa de csr usa a tecnologia e a colaboração
+                                                                         para promover mudanças sociais. nosso objetivo é
+                                                                         endereçar as questões de sustentabilidade mais relevantes
+                                                                         para nossa empresa e nos concentrar nas áreas em que
+                                                                         podemos ter mais influência. ouvimos frequentemente
+                                                                         especialistas no assunto e coletamos feedback de grupos
+                                                                         externos.
+
+                                                                         a cisco desenvolve relacionamentos com os principais
+                                                                         influenciadores para ajudar a priorizar preocupações
+                                                                         e alinhar melhor nossos negócios às necessidades da
+                                                                         sociedade. no início de 2014, entrevistamos nossos
+                                                                         stakeholders, dando foco aos representantes de
+
+
+
+governança e ética
+                                                                         empresas, investidores, organizações sem fins lucrativos
+                                                                         e empreendimentos sociais parceiros. em seguida,
+                                                                         priorizamos essas questões de acordo com o risco para o
+                                                                         nosso negócio e com o impacto e a influência que podemos
+                                                                         ter em cada área. usamos os resultados para concentrar
+forte governança corporativa e conduta ética ajudam a cisco a            nossos investimentos e engajamentos, bem como para
+                                                                         melhorar a transparência em nossos relatórios.
+conquistar confiança, gerenciar riscos, promover o crescimento
+sustentável e construir uma empresa sólida. a colaboração                ética
+é parte essencial da nossa abordagem. queremos resolver                  esperamos que nossos funcionários atuem de modo íntegro
+                                                                         em tudo o que fazem. nossa reputação de comportamento
+problemas desafiadores de frente, simplificar nossos processos,          ético nos permite construir relacionamentos confiáveis e
+responsabilizar cada um por suas ações e capacitar nossos                duradouros no mundo inteiro com clientes, parceiros e
+                                                                         outros stakeholders.
+funcionários para agirem corretamente.
+
+                                                                                                                                                                                                   www.cisco.com/go/csrreport   7
+
+
+
+
+o cobc estabelece nossas expectativas para os funcionários                               recursos que ajudam as empresas a obterem acesso
+e os orienta sobre o comportamento apropriado. ele dá                                    seguro a suas próprias nuvens e a nuvens públicas,
+informações sobre nossas políticas e procedimentos, além                                 protegidas por nós com sistemas de segurança que adotam
+de diretrizes para tomadas de decisões e links para outros                               melhores práticas, como o security intelligence operations.
+recursos e ferramentas da cisco.                                                         analisamos inovações, ameaças e tendências emergentes
+                                                                                         na segurança da rede para ajudar a identificar novas
+todos os anos, os funcionários fixos da cisco1 devem                                     oportunidades e enviar avisos antecipados sobre onde
+ratificar a conformidade com o cobc para renovarem seu                                   possam ocorrer ameaças à segurança.
+compromisso com os mais altos padrões de conduta ética e
+se familiarizarem com as alterações que tenham sido feitas                               estes serviços de segurança são tão importantes para os
+no código pela cisco. no ano fiscal de 2014 (fy14), todos                                nossos negócios como para nossos clientes e parceiros.
+os funcionários qualificados da cisco2 no brasil renovaram a                             utilizamos nossos serviços de segurança da nuvem para
+certificação. os funcionários recém-contratados devem ser                                ajudar a cisco a manter a integridade das operações. isso
+certificados três semanas após o ingresso na empresa.                                    contribui para reduzir os riscos e aprimorar a proteção de
+                                                                                         informações proprietárias.
+
+privacidade e proteção de dados                                                          procuramos manter a confiança dos clientes brasileiros
+                                                                                         colocando a privacidade e a segurança de dados entre
+a privacidade e a segurança de dados estão entre as                                      nossas principais prioridades.
+preocupações mais urgentes da cisco e do setor de
+tecnologias de informação e comunicação (tic). a internet
+de todas as coisas, que conecta pessoas, processos,                                      direitos humanos
+dados e coisas à internet e entre si, traz benefícios
+significativos para a sociedade, mas também suscita                                      a tecnologia da cisco cria oportunidades de conectividade,
+preocupações quanto à privacidade. agora as pessoas                                      comunicação e acesso a informações para um número cada
+podem acessar e compartilhar informações pessoais ou                                     vez maior de pessoas no mundo inteiro. ao mesmo tempo,
+corporativas em tempo real de qualquer local, a qualquer                                 reconhecemos nossa responsabilidade de concretizar
+momento e em qualquer dispositivo. isso torna a proteção                                 esses benefícios respeitando os direitos humanos, por meio
+de dados mais difícil e aumenta os desafios para empresas                                de nossas operações e de nossos produtos, serviços e
+de tecnologia como a cisco.                                                              relacionamentos empresariais. nossa abordagem e nosso
+                                                                                         compromisso de proteger e respeitar os direitos humanos
+a privacidade não é um complemento, mas sim um                                           são regidos pela nossa política de direitos humanos.
+componente essencial do desenvolvimento de produtos,
+serviços e sistemas da cisco. esperamos que os                                           a política é fundamentada de acordo com os princípios
+funcionários integrem a segurança à sua rotina. a segurança                              dos direitos humanos internacionais, incluindo a declaração
+faz parte do nosso cobc e do treinamento complementar.                                   universal dos direitos humanos, as normas trabalhistas da
+a conformidade com as regulamentações de segurança é                                     organização internacional do trabalho e o pacto global das
+gerenciada por uma equipe de representantes das áreas de                                 nações unidas (onu). a política baseia-se no compromisso
+ti, segurança da informação, vendas, serviços, marketing,                                da cisco de aplicar os princípios orientadores sobre empresas
+recursos humanos e jurídico.                                                             e direitos humanos da onu, que define uma relação
+                                                                                         transparente entre o dever do estado de proteger os direitos
+a computação em nuvem ou baseada na internet está                                        humanos e a responsabilidade corporativa de respeitar esses
+mudando o modo como pessoas e empresas compartilham                                      direitos.
+as informações. nossos sistemas de nuvem incluem
+
+1. nos países em que isso é permitido por lei.
+2.	excluindo aqueles que ingressaram recentemente na cisco em decorrência de aquisições, estagiários, contratados e licenciados do trabalho devem seguir nosso código de conduta do fornecedor.
+
+8   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+                                                                         trabalhamos em estreita colaboração com os fornecedores
+                                                                         para gerenciar problemas de sustentabilidade e aprimorar
+                                                                         o desempenho em toda a cadeia de suprimentos e em
+                                                                         cada etapa do ciclo de vida do produto. nosso objetivo
+                                                                         é aumentar a transparência na cadeia de suprimentos e
+                                                                         ajudar os fornecedores a melhorarem seu desempenho de
+                                                                         sustentabilidade. por meio dessas ações, conquistamos a
+                                                                         confiança do cliente, reduzimos os custos, garantimos a
+                                                                         continuidade do fornecimento, atendemos às necessidades
+                                                                         dos stakeholders e protegemos a marca da cisco.
+
+
+                                                                         inclusão da sustentabilidade nos principais
+                                                                         processos empresariais
+                                                                         esperamos que nossos fornecedores respeitem os mesmos
+                                                                         padrões elevados de ética, direitos trabalhistas, saúde,
+                                                                         segurança e meio ambiente aos quais nos propomos.
+                                                                         essas normas estão descritas no código de conduta do
+                                                                         fornecedor.
+
+                                                                         todos os gerentes do fornecedor concluíram o treinamento
+                                                                         para aumentar o conhecimento sobre sustentabilidade e
+                                                                         torná-la parte integrante de nossas decisões empresariais.
+                                                                         temos um scorecard empresarial para monitorar o
+
+
+
+cadeia de suprimentos
+                                                                         desempenho dos principais fornecedores em vários critérios,
+                                                                         como tecnologia, custo, qualidade, tempo de resposta e
+                                                                         colaboração. a sustentabilidade representa de 3% a 8% da
+                                                                         pontuação total do fornecedor. no ano fiscal de 2014, as
+                                                                         respostas do scorecard mostraram que todos os principais
+uma cadeia de suprimentos complexa e altamente dinâmica                  parceiros de produção, 62% dos fornecedores de logística e
+                                                                         56% dos principais fornecedores de componentes definiram
+desenvolve os produtos da cisco que capacitam as empresas                metas para reduzir as emissões de gases que causam o
+e permitem a colaboração mundial. no mundo inteiro, mais de              efeito estufa.
+
+600 fornecedores fabricam componentes, produzem, testam,
+entregam, recebem, reciclam ou permitem a reutilização de nossos
+produtos.
+
+                                                                                                                                       www.cisco.com/go/csrreport   9
+
+
+
+
+trabalho com os fornecedores para
+melhorar o desempenho                                           produção da cisco no mundo inteiro
+
+
+
+
+                                                                                                       8%
+acreditamos que o modo mais eficaz de melhorar as
+condições do fornecedor é por meio do apoio e diálogo
+contínuos, fundamentados pelo nosso sólido processo de                             europa e oriente
+auditoria. interagimos regularmente com os fornecedores                            médio
+para fortalecer nossas relações e desenvolver meios de
+sustentabilidade.
+
+concluímos 34 auditorias para monitorar a conformidade
+                                                                                                           holanda
+dos fornecedores com o código de conduta da
+electronic industry citizenship coalition (eicc), avaliar                                                                               rússia
+seu desempenho e identificar oportunidades de ajudá-
+                                                                             canadá
+los a melhorar. nas áreas em que os fornecedores não
+conseguem cumprir as metas, ajudamos a definir ações                          estados
+corretivas e acompanhamos para verificar se elas são                           unidos                     república
+                                                                                                          tcheca                       china
+colocadas em prática. as práticas trabalhistas compõem
+a maior parte dos resultados, especificamente em relação               méxico
+                                                                                                                                                 tailândia
+a horas de trabalho. nossa nova ferramenta on-line nos
+ajuda a monitorar e solucionar esse problema de modo mais
+eficiente.                                                                                   brasil
+                                                                                                                                      malásia
+
+solução para minerais de conflito
+
+
+
+
+                                                                                                                      53%
+                                                                                                                      ásia pacífico
+a cisco tem o compromisso de obter componentes e
+
+
+
+
+                                                                     39%
+                                                                      américas
+materiais de fornecedores que compartilhem nossos valores
+sobre direitos humanos, ética e responsabilidade ambiental.
+apoiamos uma abordagem global à complexa questão dos
+minerais de conflito por meio da participação na conflict-
+free sourcing initiative da eicc. estamos tomando as
+medidas apropriadas para cumprir a legislação pertinente e
+publicamos um relatório a respeito dos nossos processos de
+due diligence (auditora minuciosa) sobre minerais de conflito           as tendências de gastos recentes são resultado do compromisso da cisco em
+no ano fiscal de 2014. consulte o conflict minerals report              concentrar a cadeia de fornecimento mais perto das instalações do cliente e se
+(relatório sobre minerais de conflito).                                 tornar mais resiliente a riscos.
+
+10   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+                                                                          trabalho em conjunto
+                                                                          usamos nossa tecnologia para permitir que os funcionários
+                                                                          trabalhem em conjunto onde quer que estejam no brasil.
+                                                                          é importante manter a conexão. a colaboração ocorre por
+                                                                          meio de redes de pessoas e de tecnologia. por exemplo:
+                                                                          • reunião anual da cisco brasil: organizada ao fim de cada ano
+                                                                            financeiro, nossa reunião anual reúne funcionários de todo
+                                                                            o país para celebrar as conquistas do ano anterior e alinhar
+                                                                            nossa estratégia no brasil à estratégia global da cisco.
+                                                                          • reuniões trimestrais gerais: compartilhamos os
+                                                                            resultados, as estratégias e as iniciativas empresariais
+                                                                            mais recentes com nossa equipe brasileira usando a
+                                                                            tecnologia de conferência pela web do cisco webex®.
+                                                                          • webex social: os funcionários se conectam e colaboram
+                                                                            entre si usando a comunidade global on-line interna.
+
+                                                                          pulse survey
+                                                                          pedimos regulamente a colaboração de nossos funcionários
+                                                                          para compreender o que os motiva e descobrir como
+                                                                          podemos melhorar a satisfação no trabalho. uma das
+                                                                          ferramentas de compreensão mais importantes é a pesquisa
+                                                                          de opinião anual (pulse survey). é uma pesquisa on-line e
+
+
+
+
+nosso pessoal
+                                                                          confidencial que vem sendo realizada nos últimos seis anos.
+                                                                          os resultados da nossa pesquisa global no ano fiscal de
+                                                                          2014 no brasil revelaram uma base de funcionários positiva
+                                                                          e altamente engajada, com pontuações acima da média
+                                                                          global em todas as categorias.
+
+a visão e os valores da cisco permeiam a cultura da empresa e
+                                                                             entre os funcionários da cisco no brasil:
+servem de base para uma ótima experiência do funcionário. no                 • 95% têm orgulho de trabalhar para a cisco
+brasil, como no restante do mundo, nosso objetivo é construir                • 95% estão empolgados com a contribuição que o
+uma força de trabalho comprometida, talentosa e motivada.                      seu trabalho tem para o sucesso da cisco
+                                                                             • 99% concordam que a cisco se compromete com
+trabalhamos duro para inspirar nossos funcionários e despertar                 a integridade e a ética
+seu interesse. suas ideias, energia e comprometimento promovem               • 92% recomendariam a cisco como um ótimo local
+                                                                               de trabalho
+a inovação e são fatores importantes para o nosso sucesso.
+
+                                                                                                                                                  www.cisco.com/go/csrreport                  11
+
+
+
+
+ resultados da pesquisa de opinião no ano fiscal de 2014
+                                                              uma cultura inclusiva e diversificada
+                                                              a cisco aproveita a formação e a experiência diversificadas   estudos de caso no brasil
+ categoria                       pontuação       pontuação
+                                                              dos funcionários para compreender as necessidades de
+                                brasileira (%)   global (%)
+                                                              clientes do mundo inteiro, promover a inovação e aumentar
+                                                              o engajamento dos funcionários. nosso objetivo é criar uma
+                                                                                                                            destaque para as mulheres
+ desenvolvimento                     83             77
+                                                              cultura em que todos se sintam valorizados, respeitados e     as mulheres têm pouca representação em carreiras de
+                                                                                                                            tic no mundo inteiro. na cisco brasil, elas compõem
+ engajamento de funcionários         91             79        capacitados.                                                  aproximadamente 20% do quadro de funcionários. nosso
+                                                                                                                            objetivo é atrair mais mulheres para a empresa, proporcionar
+ gerente imediato                    89             84        queremos liderar nosso segmento em termos de inclusão         uma cultura inclusiva que estimule as mulheres a continuarem
+                                                              e diversidade (i&d). uma rede de equipes de i&d em nível      na cisco e ajudá-las a ocupar cargos de liderança.
+ inclusão e diversidade              88             80        global, funcional e regional orienta nossos esforços para     o grupo de recursos de funcionários (erg) "connected women
+                                                              promover uma cultura de i&d na cisco. destacamos a            in technology" (mulheres conectadas no setor de tecnologia),
+ inovação                            86             76                                                                      uma rede mundial de funcionárias focada no desenvolvimento
+                                                              importância da i&d para cada funcionário nos primeiros dias
+                                                                                                                            da mulher, é um dos mais ativos da empresa no brasil. ele
+ integridade e ética                 99             90        de trabalho conosco e asseguramos que eles entendam o         apoia as mulheres da cisco, construindo uma comunidade forte
+                                                              que isso significa na prática.                                e realizando eventos com palestrantes inspiradores. também
+ clima de liderança                  85             69                                                                      procura aumentar a quantidade de mulheres no programa cisco
+                                                                                                                            networking academy no brasil.
+ agilidade organizacional            87             77        treinamento e desenvolvimento                                 a seção brasileira do connected women oferece aos
+                                                                                                                            funcionários a oportunidade de participar de várias iniciativas
+                                                              investimos no desenvolvimento profissional dos funcionários   mundiais destinadas a apoiar as mulheres. também trabalha
+ respeito pelas pessoas              87             78
+                                                              desde o primeiro dia na cisco e em todos os níveis da         com nossa equipe de talentos e aquisição para desenvolver
+                                                              empresa. todos na cisco têm oportunidade de aprender          um pipeline de profissionais talentosas para futuros cargos na
+ recompensas e                                                                                                              cisco brasil. além de atividades de rede e desenvolvimento
+                                     75             67
+ reconhecimento                                               novas qualificações profissionais, independentemente do       profissional, as iniciativas anteriores incluem o executive
+                                                              cargo, da função ou da localidade. as oportunidades de        shadowing program (programa de shadowing executivo), o
+ alinhamento estratégico             90             73        aprendizado conferem aos funcionários o apoio necessário      girls in ict day (dia das mulheres em tic) e a conferência
+                                                                                                                            anual women of impact (mulheres de impacto) no dia
+                                                              para construírem suas carreiras.
+                                                                                                                            internacional da mulher.
+ clima da equipe                     89             82
+
+                                                              premiação dos funcionários
+um ambiente de trabalho seguro e saudável                     desejamos compartilhar o sucesso da cisco com                 benefícios no brasil
+                                                              nossos funcionários e reconhecer suas contribuições           a cisco proporciona benefícios abrangentes para
+investimos na saúde, na segurança e no bem-estar dos
+                                                              indispensáveis. nossa estratégia de premiação é oferecer      funcionários no mundo inteiro. alguns destaques do
+nossos funcionários. oferecemos os melhores recursos
+                                                              pacotes de compensações, benefícios e poupança a longo        brasil incluem:
+médicos e de bem-estar, além de tecnologias que dão
+                                                              prazo que sejam competitivos em cada um dos mercados
+sustentação a práticas de trabalho flexíveis e uma ampla                                                                    • cobertura total de seguro médico e odontológico
+                                                              em que operamos. todas as pessoas na cisco contribuem
+gama de benefícios.                                                                                                         • fundo de pensão para funcionários
+                                                              para nosso desempenho e devem ter oportunidade de
+                                                                                                                            • subsídios mensais, incluindo estudos de idiomas,
+                                                              usufruir desse sucesso. concedemos incentivos de
+                                                                                                                              refeições, transporte e creche
+                                                              desempenho a funcionários no mundo inteiro, inclusive uma
+                                                                                                                            • reembolso de mensalidades escolares
+                                                              bonificação anual em dinheiro e incentivos em ações para os
+                                                                                                                            • cumprimento de feriados nacionais, estaduais e
+                                                              funcionários que estiverem qualificados.
+                                                                                                                              municipais
+
+12   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+                                                                          nossa estratégia para a sociedade
+                                                                          a demanda por cargos na área de redes no brasil
+                                                                          aumentou mais de 50%, passando de aproximadamente
+                                                                          239.000 empregos em 2012 para mais de 363.000 em
+                                                                          2015, segundo empresa global de pesquisa de mercado
+                                                                          idc. a cisco trabalha com instituições governamentais
+                                                                          locais, organizações não governamentais (ongs) e
+                                                                          outras organizações comunitárias no brasil para ajudar
+                                                                          a atender essa demanda crescente. nossas tecnologias
+                                                                          de colaboração promovem a inclusão digital e ajudam as
+                                                                          pessoas a desenvolverem qualificações profissionais de tic
+                                                                          que melhoram sua empregabilidade.
+
+
+                                                                          engajamento de funcionários
+                                                                          estimulamos nossos funcionários a apoiarem os programas
+                                                                          comunitários locais doando seu tempo. as ações voluntárias
+                                                                          ajudam nossos funcionários a adquirir novas perspectivas,
+                                                                          desenvolver habilidades de liderança mais fortes e trabalhar
+                                                                          melhor como equipe.
+
+                                                                          os conselhos cívicos regionais da cisco, administrados
+                                                                          por funcionários, trabalham em conjunto com a equipe de
+                                                                          relações comunitárias para identificar oportunidades de
+
+
+
+
+sociedade
+                                                                          voluntariado, gerenciar doações de produtos e dinheiro e
+                                                                          manter parcerias com ongs e organizações locais sem fins
+                                                                          lucrativos. nosso conselho cívico no brasil colabora com
+                                                                          duas organizações sem fins lucrativos na organização de
+                                                                          eventos para jovens carentes: a alquimia e a casa modelo
+                                                                          de apoio à criança com câncer.
+usamos nossa experiência, nossa tecnologia e nossos recursos a
+                                                                          em junho de 2014, os funcionários da cisco brasil prestaram
+fim de contribuir de maneira positiva para a sociedade no mundo           serviço voluntário na teto brasil, uma organização que
+inteiro. no brasil, apoiamos as iniciativas de conectar a juventude       constrói casas para famílias de baixa renda na américa latina.
+
+e as populações mais vulneráveis a oportunidades de participar
+                                                                          educação
+de uma economia inovadora e digital. também trabalhamos com
+                                                                          a educação ajuda as pessoas a viverem a vida melhor,
+parceiros para construir comunidades prósperas, melhorar a vida           proporcionando as qualificações profissionais e o
+das pessoas e apoiar o sucesso duradouro de nossos negócios.              conhecimento necessários para o sucesso. usamos nossa
+                                                                          tecnologia e nossos recursos para mudar a maneira como
+
+                                                                                                                               www.cisco.com/go/csrreport   13
+
+
+
+
+as pessoas aprendem e melhorar o acesso à educação             • centro paula souza: a cisco networking academy fez
+em comunidades desfavorecidas do mundo inteiro. isso é           uma parceria com o centro paula souza para fornecer
+fundamental para a inclusão digital, constrói um pipeline de     treinamento em 63 faculdades (fatecs) administradas em
+talentos para o nosso setor e oferece ótimas oportunidades       57 municípios do estado de são paulo. em junho de 2014,
+para os empreendedores.                                          o centro paula souza contava com 3.171 alunos ativos em
+desde 1997, o programa cisco networking academy                  52 localidades. esperamos que este programa beneficie
+preparou mais de 5,5 milhões de alunos no mundo                  cerca de 20.000 alunos quando for estendido para 216
+todo com qualificações profissionais de tic sobre rede,          escolas técnicas (etecs) administradas pelo centro.
+segurança e tecnologia de nuvem. o programa networking
+academy ajuda alunos de praticamente todos os segmentos        além disso, o programa inspirou uma nova geração de
+socioeconômicos a se prepararem para certificações             mulheres a apresentarem um girls in ict day anual, que
+reconhecidas pelo setor e carreiras básicas de tic.            envolveu executivos e engenheiros da cisco no brasil e no
+                                                               mundo inteiro. em 2014, recebemos 47 alunas e ex-alunas
+até o momento, 649 instrutores lecionaram para mais de         da networking academy em nossos escritórios de são paulo
+136.000 alunos em 317 escolas em todo o brasil. isso           e do rio de janeiro.
+equivale a uma contribuição em espécie de mais de us$
+45 milhões da cisco networking academy no brasil, sendo
+us$ 4,89 milhões no ano fiscal de 2014. as mulheres            autonomia econômica
+contabilizam 21% dos alunos no brasil. a grande maioria dos
+cursos está disponível em português do brasil.                 o crescimento empresarial depende de uma economia
+                                                               próspera. fazemos investimentos e doamos produtos da
+como parte da expansão do programa cisco networking
+                                                               cisco para organizações sem fins lucrativos inovadoras que
+academy no brasil, trabalhamos em estreita colaboração com
+                                                               usam a tecnologia para ajudar pessoas em comunidades
+parceiros do setor público e apoiamos organizações sem fins
+                                                               desfavorecidas a adquirir qualificações profissionais,
+lucrativos que desejam participar. existem aproximadamente
+                                                               encontrar emprego e abrir sua própria empresa.
+20 instituições de ensino ativas baseadas em ongs no brasil.
+no ano passado, essas organizações levaram mais de 1.000
+                                                               trabalhamos com organizações sem fins lucrativos para
+novos alunos para o programa. exemplos de colaborações
+                                                               melhorar a empregabilidade de pessoas em comunidades
+acadêmicas importantes no brasil:
+                                                               desfavorecidas do mundo inteiro. essas organizações
+• forças armadas do brasil: formamos uma parceria              oferecem treinamento e oportunidades para alunos e
+  com as forças armadas para levar o treinamento da            trabalhadores, especificamente mulheres, a fim de ajudá-
+  networking academy aos soldados e esperamos oferecer         los a adquirir as qualificações profissionais e a experiência
+  treinamento a pelo menos 500 alunos por ano.                 necessária para encontrar empregos duradouros e ter uma
+• centro de integração empresa escola (ciee): o ciee           renda estável.
+  foi pioneiro no conceito de estágios como atividade
+  complementar para inserção de jovens no mercado de           em julho de 2014, a cisco lançou o get connected, um
+  trabalho brasileiro e gerencia 250.000 estágios de alunos    curso com foco na inclusão digital para pessoas sem
+  no país inteiro. a cisco está colaborando com o ciee para    qualificações profissionais básicas em computação. o
+  melhorar as qualificações de tic dos alunos antes que os     get connected oferece treinamento sobre o uso de
+  estágios sejam iniciados. já alcançamos mais de 4.000        computadores, da internet e da tecnologia digital, incluindo
+  alunos desde 2008.                                           uma introdução às redes sociais. o programa deve atingir
+                                                               10.000 alunos do brasil até o fim de 2015.
+
+14   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+                                                                          a cisco tem o prazer de ser a patrocinadora oficial dos
+                                                                          jogos olímpicos e paralímpicos rio 2016. estamos
+                                                                          dedicados a tornar esses jogos os mais inclusivos e
+                                                                          inovadores de todos os tempos e trazer mais progresso ao
+                                                                          povo brasileiro por meio da tecnologia e da força do esporte.
+                                                                          nossa abordagem de csr para o rio 2016 compreende
+                                                                          quatro elementos: forte integração com a comunidade,
+                                                                          um hub de treinamento, integração do comitê olímpico e
+                                                                          uma presença ampliada do programa cisco networking
+                                                                          academy. como parte desse compromisso, estamos
+                                                                          trabalhando com a secretaria de ciência e tecnologia do
+                                                                          rio para treinar futuros instrutores da networking academy
+                                                                          nas naves do conhecimento e na casa rio digital, a fim de
+                                                                          ampliar o acesso gratuito à tecnologia e ao treinamento para
+                                                                          pessoas de todas as idades no rio e em seus arredores.
+
+
+                                                                          serviços de saúde
+                                                                          a tecnologia ajuda a conectar as pessoas aos serviços de
+                                                                          saúde em regiões remotas. usamos a tecnologia de rede
+                                                                          da cisco a fim de melhorar o acesso a serviços de saúde
+                                                                          de qualidade para quem mais precisa deles. no brasil, há
+                                                                          uma necessidade muito grande de serviços de saúde para
+                                                                          crianças. nosso objetivo é melhorar o acesso aos serviços
+                                                                          médicos por meio da colaboração e da tecnologia de
+                                                                          nuvem, respeitando os regulamentos locais. para fazer isso,
+                                                                          usamos três modelos:
+                                                                          • colaboração entre paciente e médico, que melhora
+                                                                            o acesso a serviços de saúde especializados para os
+                                                                            pacientes e suas famílias
+                                                                          • educação médica continuada, que melhora o
+                                                                            conhecimento e o treinamento das equipes de saúde e
+                                                                            dos membros da comunidade
+                                                                          • colaboração entre médicos, que melhora a tomada
+                                                                            de decisões ampliando o acesso a especialistas em
+                                                                            centros de excelência de saúde para clínicos gerais em
+                                                                            comunidades remotas e rurais.
+
+                                                                                                                                                                         www.cisco.com/go/csrreport               15
+
+
+
+
+a cisco realizou um programa piloto para testar esses                                 necessidades humanas essenciais e                                                        connected healthy children do brasil
+modelos no estado de sergipe, onde a escassez de                                      assistência emergencial                                                                  o programa connected healthy
+pediatras na região provocava o deslocamento de famílias                                                                                                                       children da cisco em sergipe
+por grandes distâncias para consultas com especialistas.                              apoiamos organizações sem fins lucrativos do mundo inteiro                               amplia o acesso aos serviços de
+                                                                                                                                                                               saúde para crianças e melhora o
+para implementar esse programa piloto, trabalhamos com                                que ajudam a suprir necessidades humanas essenciais                                      compartilhamento de conhecimento
+a ufs (universidade federal de sergipe), a secretaria                                 de alimento, água potável e abrigo e damos suporte a                                     entre os médicos.
+de saúde do estado de sergipe e clínicas da família                                   ações de apoio a vítimas de desastres naturais. ajudamos                                 assista ao vídeo
+                                                                                                                                                                               www.youtube.com/watch?v=snody5gim
+nas cidades de lagarto e tobias barreto. os médicos                                   organizações sem fins lucrativos a fornecerem recursos                                   yy&list=ple26fb7e4ee7b806e&feature=s
+usaram equipamentos de saúde à distância3 da cisco para                               básicos a comunidades necessitadas e a tornar essas                                      hare&index=5
+
+conversar com os pacientes, avaliar casos remotamente e                               organizações mais sustentáveis e eficazes a longo prazo.
+compartilhar o conhecimento. com a nossa tecnologia, os                               isso permite que elas tenham um impacto mais duradouro
+médicos conseguiram tranquilizar os pacientes mais jovens,                            nas comunidades que atendem.
+melhorando a precisão do diagnóstico e a qualidade do
+tratamento. todos os participantes da pesquisa pós-piloto                             quando ocorre um desastre, os sistemas de comunicação
+afirmaram que estavam "satisfeitos" ou "muito satisfeitos"                            danificados podem retardar a prestação de socorro. o cisco
+com a consulta virtual e concordaram que ela tinha reduzido                           tactical operations, uma equipe de resposta a emergências
+o tempo de viagem para obter tratamento específico.                                   exclusiva e altamente capacitada, estabelece comunicação
+                                                                                      por satélite para que órgãos governamentais e organizações
+depois do piloto bem-sucedido em 2013, avançamos                                      humanitárias possam coordenar a prestação de socorro e
+para a fase de ampliação em fevereiro de 2014, em                                     acelerar a chegada de alimentos, água potável e tratamento
+que o programa tinha os recursos para atender volumes                                 médico para os necessitados.
+combinados nas duas clínicas de até 20 pacientes por
+mês com serviços médicos pediátricos especializados e
+                                                                                            saiba mais sobre o cisco tactical operations
+a capacidade de atender até 60 pessoas por mês com
+                                                                                            em http://csr.cisco.com/casestudy/tactical-
+sessões educativas sobre medicina e saúde. em abril de
+                                                                                            operations#sthash.u7hyztew.dpuf
+2015, transferimos as operações do programa para o
+beneficiário (ufs), que poderá ajustá-las aos volumes de                                    siga o cisco tactical operations no facebook:
+produção e até ampliar o programa para comportar mais                                       https://www.facebook.com/cisco.tacops
+comunidades no futuro.
+
+
+
+
+ "o connected healthy children traz benefícios para todas as crianças da nossa comunidade. e os médicos que
+  trabalham aqui na clínica adquirem um conhecimento inigualável que vai ajudá-los no futuro."
+   josefa mary costa silva, administradora de uma clínica de saúde da família em lagarto
+
+
+
+
+3. os produtos de rede e colaboração da cisco não devem ser usados em situações de emergência nem se destinam a monitoramento de pacientes em tempo real. a tecnologia
+   da cisco possibilita melhoria na comunicação entre localidades diferentes. a disponibilidade varia de acordo com as leis de cada país.
+
+16   relatório de responsabilidade social corporativa do brasil de 2014
+
+
+
+
+                                                                          através de nossos esforços contínuos para entender o
+                                                                          impacto causado por nossos produtos, nossas operações e
+                                                                          nossa cadeia de suprimentos no meio ambiente, buscamos
+                                                                          não só reduzir os impactos potencialmente negativos, mas
+                                                                          também criar oportunidades que gerem mais eficiência.
+
+                                                                          para a cisco, o consumo de energia e as emissões de
+                                                                          gases causadores do efeito estufa são as questões
+                                                                          ambientais mais importantes e complexas. o consumo
+                                                                          de energia inclui a energia usada em operações nossas
+                                                                          e de nossos parceiros da cadeia de suprimentos e pelos
+                                                                          produtos que disponibilizamos no mercado. apresentamos
+                                                                          cinco novas metas de redução de gee em 2013, visando
+                                                                          aprimorar a eficiência energética de nossas operações até
+                                                                          2017.
+
+                                                                          a melhoria da eficiência energética de nossos produtos é
+                                                                          uma prioridade também, pois o consumo de energia durante
+                                                                          o uso responde por até 90% da emissão de carbono do
+                                                                          ciclo de vida dos produtos. isso significa que a inovação
+                                                                          em nossos produtos e serviços que promovem eficiência
+                                                                          energética e redução de resíduos pode diminuir as emissões
+                                                                          de gee associadas ao uso de nossos produtos. a inovação
+                                                                          está no centro das iniciativas de sustentabilidade ambiental
+
+
+
+
+meio ambiente
+                                                                          da cisco. durante o desenvolvimento de produtos e
+                                                                          soluções, usamos a força da internet para criar modelos
+                                                                          empresariais sustentáveis para os clientes.
+
+                                                                          com tecnologias de rede que criam um novo valor social e
+                                                                          comercial, a cisco está mudando a forma como as pessoas
+acreditamos que nossas tecnologias de informação e                        trabalham, vivem, se divertem e aprendem. nossas soluções
+comunicação podem melhorar o padrão de vida do mundo, o                   de colaboração remotas permitem a "desmaterialização",
+                                                                          substituindo o físico pelo virtual. reduzindo as viagens a
+uso de recursos e a eficiência energética, proporcionando novos           trabalho e o transporte dos funcionários, caem as emissões
+benefícios para nossos clientes e para a sociedade.                       de gee provenientes do deslocamento e diminuem os
+                                                                          custos de clientes e funcionários. a colaboração remota
+                                                                          também melhora a produtividade, a comunicação, o
+                                                                          equilíbrio entre vida pessoal e profissional do funcionário e a
+                                                                          satisfação com o emprego.
+
+                                                                                                                                                     www.cisco.com/go/csrreport              17
+
+
+
+
+ "acreditamos que a tecnologia tem um papel importante na redução da emissão de carbono, mas ainda precisamos lidar com o
+  volume físico desta tecnologia de modo diferente. o foco da cisco na economia circular nos ajuda a trabalhar em conjunto com
+  nossos clientes e procurar novas maneiras de ajudá-los a gerenciar o ciclo de vida da tecnologia de forma mais eficaz."
+  colin curtis, diretor se sustentabilidade da dimension data, parceira da cisco
+
+
+
+
+na cisco, incorporamos a sustentabilidade ambiental em
+cada função empresarial e em cada processo. acreditamos                 desempenho das emissões de gases causadores do efeito estufa
+que uma maior sustentabilidade trará benefícios para nossa
+empresa, nossos clientes e o planeta. nosso relacionamento              kpi                                  parâmetro     af12         af13     ano fiscal   comentários
+com os clientes se baseia em custo, qualidade, distribuição,                                                   do ano                            de 2014
+serviço e sustentabilidade.                                                                                   fiscal de
+                                                                                                                2007
+energia e emissões de gee
+                                                                        emissão total bruta de gee: escopo     50.578      65.832       55.811     49.901
+no ano fiscal de 2014, lançamos um programa de 4 anos                   1, toneladas métricas de co2e
+para operações de energia, avaliado em us$ 57,5 milhões,
+que visa atingir novas e agressivas metas de redução da                 emissão total bruta de gee: escopo   451.647      628.164      666.393    709.021     o valor bruto é utilizado de
+emissão de gee nos escopos 1 e 2, além do escopo 3 em                   2, toneladas métricas de co2e                                                         acordo com a terminologia de
+                                                                                                                                                              cdp. as emissões brutas de
+voos comerciais. também atingimos uma redução absoluta
+                                                                                                                                                              gee não incluem a redução
+de 30% no escopo 1 e 2 de emissões de gee no mundo                                                                                                            decorrente da compra de
+inteiro com base em um parâmetro para o ano fiscal de                                                                                                         energia renovável.
+2007, o que nos força a atingir 40% da meta de redução
+absoluta de gee até o ano fiscal de 2017.                               intensidade das emissões do              14,4        15.1         14,9       16,1     a intensidade bruta é
+                                                                        escopo 1 e 2 (brutas), toneladas                                                      uma medida da eficiência
+no ano fiscal de 2014, a cisco poupou aproximadamente                   métricas de co2e por milhões de                                                       operacional usada por vários
+27,2 milhões de kwh de energia e evitou a emissão                       dólares de receita                                                                    stakeholders da cisco.
+de 14.100 toneladas métricas de co2 ao investir us$
+9,6 milhões para implementar 90 projetos de eficiência
+energética e energia renovável. por exemplo, instalamos
+
+                                                                                   ano fiscal de 2014
+e ativamos três sistemas solares fotovoltaicos (pv) nas
+instalações do texas, nos estados unidos, e de bangalore,
+na índia, aumentando a capacidade total de pv solar no
+                                                                         no
+                                                                        a cisco empatou com duas outras empresas de tic na primeira posição no relatório global 500 da cdp, obtendo a
+local de 200 kw para 1,7 mw. também adquirimos 583.000
+                                                                        pontuação 100 para a divulgação de dados sobre emissões de carbono e obtendo classificação a para o desempenho
+mwh de energia renovável no ano fiscal de 2014.
+                                                                        de gases causadores do efeito estufa..
+para obter mais informações sobre nosso desempenho e
+nossas metas energéticas e de emissão de gee, além de
+outras métricas ambientais, consulte o relatório de csr do
+ano fiscal de 2014.
+
+18   relatório de responsabilidade social corporativa do brasil de 2014
+
+                                                                                                                             www.cisco.com/go/csrreport   19
+
+
+
+
+uso da água                                                   resíduos
+no ano fiscal de 2014, continuamos a medir nosso consumo      nossos programas de troca e devolução são projetados
+de água para entender melhor o impacto dos nossos             para recolher produtos que a cisco ou nossas empresas
+programas e conseguimos coletar dados para 72% do nosso       adquiridas colocaram no mercado. dos produtos enviados
+portfólio de imóveis, por área.                               para reciclagem digital, quase 100% são reciclados e todas
+                                                              as frações da mercadoria vão para os recicladores para
+sempre que apropriado, a cisco reduz o consumo de água        se transformarem em novos produtos. a cisco tem nove
+na operação de nossos edifícios e usa água reciclada para     programas diferentes para apoiar os esforços de reciclagem
+jardinagem e aplicações semelhantes. no ano fiscal de         e devolução de produtos.
+2014, continuamos a apoiar e manter várias iniciativas de
+conservação de água em nossos campus, como o uso de           no ano fiscal de 2014, recondicionamos, revendemos
+controladores de irrigação e água reciclada para fontes e     ou reutilizamos 2.764 toneladas de produtos devolvidos
+irrigação.                                                    à cisco. por meio de nossos programas de clientes,
+                                                              reutilizamos mais de us$ 360 milhões em equipamentos
+                                                              da cisco, calculados ao custo padrão. qualquer item não
+biodiversidade e uso da terra                                 reutilizável vai para um de nossos recicladores autorizados.
+na cisco, o uso de terrenos para instalações e operações
+                                                              todas as instalações da cisco tomam providências para
+em escritórios representa nosso principal impacto na
+                                                              reduzir os resíduos operacionais e reciclam qualquer
+biodiversidade. a cisco diminui o impacto reduzindo a
+                                                              material passível de reciclagem em cada local. por exemplo,
+demanda por espaço físico para escritórios. os programas
+                                                              as iniciativas na sede de san jose, na califórnia, abriram
+de trabalho à distância para funcionários da cisco e outras
+                                                              caminho ao desviar 87% de todos os fluxos de resíduos no
+soluções de apoio (como o cisco connected workplace,
+                                                              ano fiscal de 2014.
+cisco virtual office e officeextend) contribuem para nossa
+estratégia.
+
+realizamos uma avaliação de biodiversidade de 60% do
+portfólio de imóveis no ano fiscal de 2014. a cisco também
+avalia a biodiversidade e os impactos do uso da terra das
+instalações por meio de avaliações de impacto ambiental
+exigidas para permissões e publica um relatório anual
+resumido sobre biodiversidade. por exemplo, em alviso,
+na califórnia, a cisco tem uma propriedade de 20,4 acres,
+que é um habitat protegido da coruja buraqueira (menor
+preocupação da categoria na lista vermelha da icun) e de
+uma espécie vegetal rara (tarplant de congdon).
+
+sede - américa                                                                  sede - ásia e pacífico                                                          sede - europa
+cisco systems, inc.                                                             cisco systems (usa) pte. ltd.                                                   cisco systems international bv amsterdam.
+san jose, ca                                                                    cingapura                                                                       holanda
+a cisco possui mais de 200 escritórios no mundo todo. os endereços, números de telefone e números de fax estão listados no site da cisco, na página www.cisco.com/go/offices.
+
+cisco e o logotipo cisco são marcas comerciais da cisco systems, inc. e/ou de suas afiliadas nos estados unidos e em outros países. uma lista das marcas registradas da cisco pode ser encontrada em www.cisco.com/go/trademarks. as marcas de terceiros
+citadas pertencem a seus respectivos proprietários. o uso do termo "parceiro" não implica uma relação de sociedade entre a cisco e qualquer outra empresa. (062015)

@@ -1,0 +1,2591 @@
+
+
+       introdução
+       com publicação anual, esta é a segunda edição do relatório de sustentabilidade da radiante
+       engenharia de telecomunicações, que apresenta as principais conquistas e desafios
+       da organização nas áreas de responsabilidade socioambiental, resultados operacionais,
+       financeiros, de gestão e de governança no período de 1º de janeiro a 31 de dezembro de
+       2015. [g4-28, g4-30]
+
+
+
+       este documento objetiva prestar contas e compartilhar resultados, conquistas e desafios
+       com os públicos com os quais a radiante se relaciona: colaboradores, clientes, fornecedores,
+       comunidade, governo, parceiros de negócio, especialistas e formadores de opinião. as
+       informações aqui publicadas estão de acordo com as diretrizes do g4 da gri (global
+       reporting initiative), opção essencial, e atualizam dados do relato 2014. [g4-24, g4-29, g4-32]
+
+
+
+       este relato auxilia a empresa no estabelecimento e cumprimento de um planejamento
+       estratégico para 2016, com base em procedimentos e projetos que envolvam a evolução da
+       governança e da sustentabilidade. para enviar comentários ou sugestões, entre em contato
+       conosco pelo e-mail: sustentabilidade@radiante.com.br. [g4-18, g4-31]
+
+
+
+
+4 | relatório de sustentabilidade - 2015 introdução
+
+identidade corporativa [g4-56]
+missão
+oferecer soluções completas em telecomunicações com ética,
+agilidade e inovação, proporcionando ao cliente qualidade e confiabilidade.
+
+visão
+manter posição competitiva no mercado nacional.
+
+valores
+competência: fator estratégico para a empresa em longo prazo.
+transparência: exerce papel fundamental na gestão sustentável da organização.
+formar e reter talentos: investimento em inovação e crescimento profissional.
+sustentabilidade econômica, social e ambiental: pilares primordiais para
+a sobrevivência da empresa em um mercado cada vez mais competitivo.
+
+ética
+perseguir resultados com honestidade, sinceridade, dignidade, probidade
+e transparência, buscando ser uma empresa cada vez mais respeitada
+e competitiva no segmento de telecomunicações.
+
+qualidade
+atender as necessidades do cliente com firmeza de propósito, prestando serviços
+com qualidade e confiabilidade, com ênfase em estrutura organizacional, gerência
+e capacitação dos recursos humanos buscando a melhoria contínua dos processos.
+
+
+
+
+                                                          identidade corporativa relatório de sustentabilidade - 2015 | 5
+
+                                                           palavra do presidente [g4-1]
+                                                           foi um longo caminho até chegar aqui. muitos desafios,
+                                                           vitórias, mudanças no meio do caminho, ajustes
+                                                           importantes que nos permitiram completar 25 anos
+                                                           de história como uma das maiores e mais respeitadas
+                                                           empresas de projetos, implantação e manutenção
+                                                           de sistemas de telecomunicações do brasil.
+
+                                                           avançamos muito nas diretrizes da sustentabilidade organizacional, e somos
+                                                           a primeira empresa prestadora de serviços de telecom às operadoras no brasil
+                                                           a lançar um relatório de sustentabilidade com base nas diretrizes
+                                                           do global reporting initiative (gri international). com base neste importante
+                                                           documento, a empresa trabalha fortemente em busca do equilíbrio econômico,
+                                                           social e ambiental; valorizando o respeito ao cliente e ao colaborador, a ética
+                                                           e honestidade. o nosso compromisso com a transparência envolve todos
+                                                           os públicos com os quais nos relacionamos.
+
+                                                           2015 foi um ano importante no que tange à sustentabilidade organizacional.
+                                                           criamos o saber e renovar, treinamento interno para mudança cultural em prol
+                                                           da sustentabilidade; inovamos ao implementar um programa de logística reversa
+                                                           para reciclagem dos resíduos de fibra óptica resultante das nossas operações;
+                                                           aderimos ao pacto global e aos 10 princípios baseados nos direitos humanos,
+                                                           trabalho, meio ambiente e contra a corrupção. investimos em treinamento
+                                                           e educação dos colaboradores, 170% a mais que em 2014, e criamos cursos
+                                                           e ações inéditos para melhoria da qualificação profissional e qualidade de vida
+                                                           dos nossos trabalhadores.
+
+                                                           no ponto de vista macroeconômico, o ano foi muito desafiador.
+                                                           embora a economia do país esteja caminhando de forma lenta, conseguimos
+                                                           crescer 23,9% frente ao resultado de 2014; entretanto, o lucro diminuiu
+                                                           sensivelmente. nossa expectativa para 2016 é manter o crescimento da
+                                                           organização sem perder a qualidade dos serviços prestados, continuar investindo
+                                                           em melhorias de processos e ações voltadas ao meio ambiente e capital humano.
+          helio bampi
+       diretor-presidente
+                                                           é com a visão focada na sustentabilidade organizacional, qualidade dos
+                                                           serviços prestados aos clientes e melhores condições de trabalho aos
+                                                           nossos colaboradores, que a radiante engenharia de telecomunicações
+                                                           atua para permanecer no mercado de telecom por muitas décadas.
+                                                           afinal, é a nossa fibra que ajuda a conectar o brasil.
+
+                                                           a todos que, de alguma forma, contribuíram com a radiante ao longo
+                                                           de todos esses anos de existência, o nosso muito obrigado.
+
+                                                           helio bampi
+                                                           diretor-presidente
+
+
+
+6 | relatório de sustentabilidade - 2015 palavra do presidente
+
+destaques em 2015
+- radiante torna-se signatária do pacto global.
+
+
+- economia de 33,88% no consumo de energia elétrica em relação a 2014.
+
+
+- foram instalados novos dispositivos para gestão hídrica na matriz.
+
+
+- implantação de um depósito intermediário de resíduos sólidos.
+
+
+- pioneirismo no segmento de telecom no programa de logística reversa para reciclagem
+  de cabos de fibras ópticas.
+
+- a frota deixou de emitir 576 toneladas de co² devido à troca de combustível fóssil
+  por combustível renovável.
+
+- programa saber e renovar foi realizado para 97% dos colaboradores.
+  o treinamento aborda assuntos ligados a direitos humanos, meio ambiente e saúde e
+  segurança no trabalho.
+
+- realização de cursos de qualificação profissional voltados à comunidade.
+
+- criação da ouvidoria.
+
+- criação de um comitê de ética.
+
+- recertificação da nbr iso 9001: 2008 na matriz e na filial de londrina.
+  certificação na filial de florianópolis.
+
+
+
+
+                                                               destaques em 2015 relatório de sustentabilidade - 2015 | 7
+
+       perfil
+       sobre a radiante
+       há 25 anos, nossa fibra ajuda a conectar o brasil
+
+       com sede em curitiba, paraná, a radiante engenharia de telecomunicações foi fundada
+       em 1991, pelo engenheiro eletricista helio bampi. a empresa atua em todo o território
+       brasileiro na execução de serviços e soluções completas em telecom. a organização é de
+       grande porte e possui capital fechado. é considerada uma das maiores e mais conceituadas
+       prestadoras do segmento no brasil. o crescimento da radiante não aconteceu por acaso.
+
+
+       a empresa trabalha fortemente estratégias de gestão focadas em satisfação dos clientes,
+       qualidade dos serviços prestados e sustentabilidade organizacional. fruto da evolução de
+       uma organização que completa 25 anos, priorizando a ética nos negócios, valorização do
+       capital humano e respeito ao cliente. [g4-3, g4-4, g4-5, g4-6, g4-7, g4-8]
+
+
+
+       em 2015, a empresa manteve, além da matriz, oito filiais nos estados do paraná, rio grande
+       do sul, santa catarina, minas gerais, goiás, mato grosso do sul e mato grosso, além das
+       bases operacionais em diversos municípios do país: caxias do sul, santa maria, pelotas, passo
+       fundo, criciúma, lages, blumenau, cascavel, maringá, uberlândia, juiz de fora, governador
+       valadares, varginha e rondonópolis. houve mudança de endereço nas filiais de goiânia,
+       campo grande, cuiabá e joinville. [g4-8, g4-13]
+
+
+
+
+8 | relatório de sustentabilidade - 2015 perfil
+
+onde estamos?
+
+
+
+
+nossos serviços
+ao longo dos 25 anos de atuação no mercado de telecom, houve gradativamente o cres-
+cimento e melhoria do escopo dos serviços ofertados pela organização. especializamo-nos
+na construção e manutenção de redes ópticas e metálicas, externas e internas, aéreas e
+subterrâneas para as principais operadoras de telecomunicações do brasil. confira abaixo
+outros serviços realizados pela radiante. [g4-4, g4-9]
+
+
+
+    atua como fornecedora de serviços e materiais na área de transmissão,
+     nas tecnologias pdh, sdh, dwdm, redes ip, ngn e vsats.
+
+    elabora estudos de viabilidade técnica para construção, testes, certificações e
+     configuração de modens e roteadores para acesso às redes das operadoras.
+     o público: clientes pessoa física e pessoa jurídica.
+
+
+
+                                                                    perfil relatório de sustentabilidade - 2015 | 9
+
+                transforma a infraestrutura de salas convencionais em salas de equipamentos para
+                 telecomunicações com energia ac/dc, banco de baterias, sistema de ar-condicio-
+                 nado e estruturas para acomodação de cabos. [g4-4]
+
+
+
+         com um contingente de 1.272 colaboradores, todos cobertos por acordos de conven-
+         ção coletiva, atendemos os mais diversos setores da indústria, do comércio, de serviços
+         e da governança em geral. atualmente, possuímos na carteira de clientes todas as opera-
+         doras de telecomunicações do brasil; provedores de internet; órgãos do governo como a
+         telebras, procempa-rs, copel-pr, rnp brasil, sercomtel-pr, petrobras e
+         empresas da iniciativa privada. [g4-8, g4-9, g4-10, g4-11]
+
+
+
+         mesmo diante de um cenário econômico nacional desfavorável, no ano vigente do relatório,
+         houve 36 operações da organização, 20% a mais do que em 2014 - as operações são os
+         contratos firmados entre a organização e clientes. podemos destacar, por exemplo, a quan-
+         tidade de redes ópticas que está sob a responsabilidade da radiante em várias regiões brasi-
+         leiras (45 mil quilômetros de redes ópticas). sem dúvida, melhoramos nossa performance no
+         que diz respeito à diminuição do tempo de atendimento (sla), o que nos rendeu em 2015,
+         importantes renovações contratuais.
+
+
+         um serviço atípico, executado em 2015, foi referente a um contrato no distrito federal
+         e rondônia, realizado para o exército brasileiro. fizemos o remanejamento de rede me-
+         tálica para óptica em unidades da corporação do exército nessas regiões. e para condu-
+         zir com sucesso serviços como esses, onde a empresa não possui bases operacionais,
+         foi criado um estudo estratégico da geografia destas localidades, aliado a uma forte in-
+         fraestrutura de equipamentos de ponta e pessoal qualificado para execução das obras.
+
+
+         outro ponto de destaque em nossas operações, em 2015, foi a construção e remanejamen-
+         to de redes ópticas e metálicas, ultrapassando a marca de 25 mil quilômetros, nos estados
+         do rio grande do sul, santa catarina, paraná e mato grosso do sul.
+
+
+
+
+10 | relatório de sustentabilidade - 2015 perfil
+
+clientes
+
+manter um relacionamento de confiança e respeito com os clientes é uma das premissas
+da radiante engenharia de telecomunicações. a missão da empresa retrata a busca pela
+excelência em atender com agilidade e inovação, proporcionando aos nossos parceiros
+confiabilidade e qualidade nos serviços prestados.
+
+a radiante utiliza ferramentas do sistema de gestão da qualidade para monitorar
+os índices de satisfação dos clientes e realiza uma análise crítica abordando 29 itens
+relacionados à legislação, saúde, segurança e logística aplicada. as várias políticas
+de gestão e governança implantadas na organização visam garantir a satisfação
+e confiança dos seus clientes, trabalhando internamente, de forma sistêmica,
+indicadores de qualidade, prazo e gestão de riscos. [g4-pr1, g4-pr5] *tema material
+
+a radiante avançou no escopo da pesquisa de satisfação, reforçando conceitos considerados
+fundamentais para atender os clientes com excelência, sinalizando as melhorias que devemos
+adotar dentro dos procedimentos internos da empresa, conforme mostra o gráfico abaixo.
+[g4-pr1, g4-pr5] *tema material
+
+
+
+
+no ano vigente ao relatório, cumprimos a meta de estender em 50% a pesquisa de
+satisfação para os nossos clientes e de monitorar seu resultado anualmente, bem
+como atualizar os parâmetros para uma nova pesquisa. todos os contratos assinados,
+novos ou aditados, passaram por uma análise crítica segundo as diretrizes do
+documento interno baseado na nbr iso 9001:2008. [g4-pr1, g4-pr5] *tema material
+
+
+a radiante respeita a privacidade do cliente. em 2015, criamos a ouvidoria (para receber
+reclamações e denúncias) e o comitê de ética. esses dois mecanismos nos auxiliam a garantir
+o sigilo das informações e dados dos nossos clientes. nesse período, não houve queixas ou
+reclamações sobre vazamento de informações que pudesse violar os interesses comerciais
+
+
+
+
+                                                                      perfil relatório de sustentabilidade - 2015 | 11
+
+         e estratégicos de nossos clientes. tampouco sofremos qualquer sanção administrativa ou
+         jurídica por descumprimento de regulamentos e leis durante o desempenho de nossas
+         atividades. [g4-pr8, g4-pr9] *tema material
+
+
+         fornecedores
+         nossos fornecedores exercem papel fundamental na estratégia de negócio da organização
+         e devem atender às necessidades da companhia, estando alinhados às questões
+         socioambientais, além de oferecerem produtos ou serviços de qualidade e preço competitivo.
+         nossa rede de parceiros é formada, principalmente, por fornecedores de materiais,
+         ferramentas e serviços diversos.
+
+
+         com objetivo de fomentar a indústria local, a radiante contrata empresas localizadas
+         próximo às suas principais unidades operacionais. atualmente são cerca de 494 fornecedores
+         ativos, em sua maioria em são paulo, paraná e rio grande do sul. em 2015, a aquisição
+         de materiais e a contratação de serviços negociaram um volume de compras na ordem
+         de r$ 17.217.398,60. [g4-12, g4-ec9]
+
+
+         dependendo da criticidade e do tipo de serviço ou material a ser contratado, os critérios para
+         a contratação podem ser mais ou menos exigentes. se a aquisição for de baixa criticidade, a
+         qualificação e a seleção são processos que ocorrem simultaneamente. já os fornecimentos
+         considerados críticos passam por acompanhamento diferenciado, conduzido pelos gerentes
+         operacionais e pelo departamento de compras.
+
+
+         no ano vigente a este relatório, houve mudança na forma de contratação de novos
+         fornecedores e na gestão dos contratos dos fornecedores já contratados. a organização
+         aperfeiçoou o cadastro de fornecedores - um formulário fundamentado na nbr iso
+         9001:2008. – incluindo no cadastro perguntas sobre trabalho forçado ou análogo, meio
+         ambiente e saúde e segurança no trabalho.
+
+
+
+
+12 | relatório de sustentabilidade - 2015 perfil
+
+funciona assim: os novos e antigos fornecedores devem responder ao cadastro e, de acordo
+com a resposta, a radiante emite uma nota que qualifica ou desqualifica o fornecedor.
+as notas recebidas de 60 a 100 aprovam o cadastro do fornecedor. notas de 50 a 59
+caracterizam a necessidade de uma visita “in loco” para aprovação do cadastro, e notas de
+00 a 49, o fornecedor é desqualificado. [g4-13, g4-en32]
+
+esse procedimento junto aos nossos fornecedores consolida um processo de transparência
+entre ambas as partes e, sobretudo, estimula que o nosso parceiro também adote ações
+voltadas à sustentabilidade no seu negócio para se adequar às exigências do contratante. a
+radiante deseja que a cadeia de stakeholders também faça a sua parte para contribuir com
+um mundo mais sustentável. [g4-12, g4-13, g4-26, g4-en32]
+
+
+
+
+                                       14%
+                37%
+                                                  21%                  sp
+                                                                       pr
+                                                                       rs
+                                                                       outros estados
+                                28%
+
+
+
+desempenho econômico
+o ano de 2015 foi marcado por uma forte recessão na economia brasileira, sobretudo, na
+indústria. a incerteza e o recuo dos investidores nacionais e internacionais no mercado
+nos motivou a readequar nossas operações em busca de competitividade e otimização de
+processos. negociamos com fornecedores e baixamos os valores de alguns contratos em
+até 15%.
+
+nossa superação em relação ao mercado instável é devido a alguns fatores competitivos
+que nos permitem continuar prestando serviços com qualidade e inovação aos clientes.
+podemos citar: vasto portfólio de atividades, gestão com foco em qualidade, produtividade,
+otimização estrutural, treinamento e qualificação da mão de obra.
+
+
+
+
+                                                                     perfil relatório de sustentabilidade - 2015 | 13
+
+         em 2015, apresentamos a receita operacional líquida (rol) de 98,350 milhões de reais,
+         totalizando aumento em relação ao período anterior de 22,59%, alcançando a estimativa de
+         nosso planejamento financeiro para esse ano. [g4-17]
+
+         o lucro operacional líquido atingiu o valor de 10,304 milhões de reais, correspondente a
+         10,48% da receita líquida. o ebitda (lucro antes dos juros, impostos, despesas administrativas
+         e depreciação) proporcionou o valor de 19,169 milhões de reais, representando 19,49% da
+         receita líquida da organização.
+
+         o crescimento econômico da companhia foi de 23,93% frente ao resultado de 2014,
+         apresentando o lucro líquido de r$ 6.779,00 milhões de reais. entretanto, o lucro diminuiu
+         sensivelmente. o lucro obtido pela radiante é reinvestido na melhoria de infraestrutura da
+         empresa e na qualificação profissional e técnica dos nossos colaboradores. [g4-9]
+
+
+         os fatores que contribuíram para a superação da crise e atingimento do planejamento
+         estratégico/financeiro da organização foram:
+
+
+                           manutenção dos clientes através de serviços confiáveis e de qualidade;
+
+                           otimização das estruturas já existentes, ampliando o volume
+                            de atividades nas bases operacionais;
+
+                           parcerias com fornecedores importantes para a empresa;
+
+                           incentivos para a qualificação técnica e aprimoramento das competências
+                            do quadro de funcionários;
+
+                           valorização dos talentos que apoiam as operações, por meio de cursos
+                            e treinamentos;
+
+                           manutenção do foco e da disciplina das equipes e de seus gestores visando
+                            resultados de curto e médio prazo.
+
+
+
+
+14 | relatório de sustentabilidade - 2015 perfil
+
+valor econômico direto gerado e distribuído - 2015 [g4-ec1]
+
+
+                                                                    (r$ mil)
+(+)   valor econômico direto gerado                                 108.344.021,25
+      a)    receitas                                                108.420.354,83
+
+(-)   valor econômico distribuído                                   101.565.190,22
+      d)    custos operacionais, incluindo fornecedores              39.184.046,70
+      e)    salários e benefícios de integrantes                     48.460.239,00
+      f)    pagamentos para provedores de capital                     1.725.637,81
+      g)    pagamento ao governo                                     12.132.951,76
+      h)    investimentos na comunidade                                62.314,94
+
+(=)   valor econômico                                                    6.778.831,04
+
+
+
+
+receita bruta de vendas                                   108.420.354,85
+crescimento de 22,55%
+
+receita operacional líquida (rol)                         98.350.341,68
+aumento de 22,59% em relação a 2014
+
+lucro bruto                                               19.169.099,64
+representa 19,49% da receita líquida
+
+lucro operacional líquido                                 10.304.228,90
+corresponde a 10,48% da receita líquida
+
+lucro líquido                                             6.778.831,04
+
+
+
+
+                                                                    perfil relatório de sustentabilidade - 2015 | 15
+
+         combate à corrupção
+         a organização reprova a corrupção em todas as suas formas e, para combatê-la, criou
+         medidas orientativas para seus colaboradores e procedimentos que auxiliam no combate
+         à esta prática dentro e fora da empresa. entre 1º de janeiro e 31 de dezembro de 2015,
+         foram identificados dois casos de corrupção, um deles recebido por meio da ouvidoria.
+         um dos casos resultou no desligamento do funcionário. o outro está em processo de
+         investigação. queremos ressaltar que todos os casos são tratados de forma sigilosa pela
+         radiante. [g4-so5] * tema material
+
+         as medidas adotadas em 2015 no combate à corrupção atendem o cumprimento das
+         metas estipuladas no relatório de 2014. [g4-so5] * tema material
+
+
+         política anticorrupção
+
+         a política orienta os colaboradores a respeito da lei brasileira anticorrupção, lei
+         antitruste, lei de licitações e contratos e lei de improbidade administrativa,
+         especialmente para que todos estejam engajados no objetivo de mitigar e eliminar
+         situações de risco à radiante, inclusive aos funcionários de cargos de confiança (gerentes
+         e diretores). por meio da política, todos estão aptos a auxiliar na identificação de tais
+         situações de risco, abrangidos pela legislação supramencionada, mapeando e comunicando
+         riscos à sua violação para os departamentos competentes da organização. o documento
+         é amplamente divulgado aos funcionários através da intranet, murais, redes sociais, e-mail
+         marketing e por meio do departamento de recursos humanos.
+
+         ouvidoria
+
+         canal de comunicação oficial da companhia e uma importante ferramenta para
+         recebimento de denúncias e queixas sobre corrupção.
+
+
+
+
+16 | relatório de sustentabilidade - 2015 perfil
+
+comitê de ética
+
+o comitê de ética é a instância que recebe os casos de corrupção,
+após serem analisados pela alta direção da empresa.
+
+
+saber e renovar
+
+neste importante treinamento ministrado para os colaboradores (novos e antigos) na
+matriz e em todas as filiais, a temática sobre corrupção também é abordada. em menos de
+dois anos, avançamos muito no tema, porém sabemos da necessidade de irmos ainda mais
+adiante. por isso, para 2016, atualizaremos o treinamento saber e renovar, incluindo as
+diretrizes da nossa política anticorrupção e estimulando o debate sobre este assunto entre
+os colaboradores.
+
+outra significativa meta a ser cumprida é a criação de um evento semestral para os
+funcionários da organização para discutir a corrupção no país, em casa, no trabalho e,
+sobretudo, formas de combatê-la no cotidiano. o evento terá formato de palestra e
+acontecerá em horário de expediente. [g4-so5] *tema material
+
+
+
+
+                                                                       perfil relatório de sustentabilidade - 2015 | 17
+
+         sobre o relatório
+         o escopo deste relato inclui os temas materiais definidos em nossa matriz de materialidade
+         que abrange temáticas referentes à saúde e segurança, treinamento e educação, impactos
+         ambientais, direitos humanos, dentre outros temas de grande relevância para a organização
+         e seus stakeholders.
+
+         temas materiais
+
+         no final de 2014, a radiante realizou a identificação dos temas materiais deste relato.
+         a metodologia utilizada para identificar os temas materiais é resultado de uma pesquisa
+         junto aos públicos com os quais a empresa se relaciona, intitulada teste de materialidade.
+         a pesquisa tratou de um conjunto de questões objetivas, baseadas em 38 temas pré-
+         selecionados, cuja importância temática foi avaliada com notas de 1 a 5 por cada um dos
+         stakeholders respondentes, sendo 1- sem importância; 2- pequena importância; 3- média
+         importância; 4- grande importância e 5- enorme importância. [g4-18, g4-25, g4-26]
+
+
+
+
+         etapa 1: identificação
+         o comitê de sustentabilidade, que envolve os gestores e a alta direção da empresa,
+         realizou um levantamento dos temas relevantes baseados nas diretrizes da gri.
+
+
+
+         etapa 2: priorização
+         por meio de um questionário on-line, foi aplicado o teste de materialidade, onde os temas
+         pré-selecionados foram enviados para os públicos de relacionamento da empresa que
+         estabeleceram um grau de importância para cada tema. a pesquisa ocorreu em novembro
+         de 2014.
+
+
+
+
+18 | relatório de sustentabilidade - 2015   sobre o relatório
+
+etapa 3: validação
+através das respostas de 111 questionários, gerou-se uma matriz de materialidade que
+sinalizou 26 temas de grande e enorme importância de acordo com a visão dos nossos
+stakeholders.
+
+
+
+etapa 4: análise
+por meio da matriz de materialidade, a alta direção da empresa levou em consideração
+a visão dos stakeholders de dentro e de fora da organização, definindo então 15 temas
+materiais que constam neste relatório.
+
+
+
+
+o engajamento dos stakeholders no processo da definição da materialidade foi conduzido
+pelos gerentes da radiante, por meio de contatos telefônicos, e-mails e visitas. esse
+processo de engajamento foi fundamental para o avanço da radiante nos temas da
+sustentabilidade, possibilitando o aprofundamento da organização nas melhorias dos
+processos, do atendimento do cliente com foco na qualidade e melhorias de condições de
+trabalho para os colaboradores. [g4-26]
+
+por meio de análise das respostas do questionário e do levantamento, definiu-se a matriz
+de materialidade da organização, contendo 15 temas materiais, ou seja, assuntos de muita
+relevância sob o ponto de vista dos stakeholders e da empresa. esses temas são tratados
+neste relatório de forma prioritária contendo metas definidas para cada um deles.
+[g4-18, g4-19]
+
+
+
+
+                                                             sobre o relatório relatório de sustentabilidade - 2015 | 19
+
+         matriz de materialidade
+                                                          temas materiais [g4-19]
+                       1.     saúde e segurança no trabalho [tema material]
+                       2.     treinamento e educação [tema material]
+                       3.     investimento em proteção ambiental [tema material]
+
+
+
+
+                                                                                                                                        tópicos relevantes
+                       4.     satisfação do cliente [tema material]
+                       5.     não discriminação [tema material]
+                       6.     conformidade com leis e regulamentos ambientais [tema material]
+                       7.     conformidade no fornecimento e uso de produtos e serviços [tema material]
+                       8.     diversidade e igualdade de oportunidades [tema material]
+                       9.     trabalho infantil [tema material]
+                       10. impactos dos serviços na saúde e segurança do cliente [tema material]
+                       11. trabalho forçado ou análogo ao escravo [tema material]
+                       12. investimento em infraestrutura e serviços [tema material]
+                       13. combate à corrupção [tema material]
+                       14. impactos ambientais [tema material]
+                       15. privacidade do cliente [tema material]
+                       16. consumo de água
+                       17. consumo de energia
+                       18. comunidades locais
+
+
+
+           1      saúde e segurança no trabalho
+
+           2      treinamento e educação
+
+           3      investimento em proteção ambiental
+
+           4      satisfação do cliente                                                         10
+
+           5      não discriminação                                                             9
+                                                                                      externo
+
+
+
+
+           6      conformidade com leis e regulamentos ambientais                               8
+                                                                                  público
+
+
+
+
+                                                                                                7
+           7      conformidade no fornecimento e uso de produtos e serviços
+                                                                              público
+
+
+
+
+                                                                                                6
+           8      diversidade e igualdade de oportunidades
+                                                                                                5
+           9      trabalho infantil
+                                                                                                4
+          10      impactos dos serviços na saúde e segurança de clientes
+                                                                                                3
+          11      trabalho forçado ou análogo ao escravo
+                                                                                                2
+          12      investimento em infraestrutura e serviços                                     1
+
+          13      combate à corrupção                                                                1   2   3   4    5     6       7   8        9           10
+
+          14      impactos ambientais                                                                             públicointerno
+                                                                                                                 público  interno
+
+          15      privacidade do cliente
+
+
+
+
+20 | relatório de sustentabilidade - 2015   sobre o relatório
+
+governança e sustentabilidade
+governança corporativa
+a radiante engenharia de telecomunicações é a maior empresa do grupo heliobras,
+que detém ainda outras organizações integradas: radiante florestal, radiante imóveis
+(administração de imóveis próprios), corinfo (ti), madeplast (indústria de madeira
+plastificada), tendo participação de quotas na madebampi (reflorestadora).
+
+
+
+
+a radiante é uma empresa familiar que possui um modelo de governança corporativa
+baseado na gestão participativa. as decisões tomadas na organização pela alta direção
+são baseadas no planejamento estratégico para a sustentabilidade, por meio de reuniões
+gerenciais mensais em que os diretores da companhia analisam e aprovam, em conjunto
+com os gerentes e outras lideranças, indicadores, resultados, metas e ações em prol do
+desenvolvimento organizacional, na qualidade dos serviços, no campo econômico, social e
+ambiental. uma forma atual e contemporânea de gerir o negócio. [g4-34, g4-35, g4-36]
+
+
+
+
+                                                   governança e sustentabilidade relatório de sustentabilidade - 2015 | 21
+
+    por entendermos que a perenidade do negócio é fundamental para a empresa e seus
+    stakeholders, os acionistas são assessorados através de uma consultoria de renome
+    internacional, sobre as diretrizes que objetivam a gestão de empresas familiares e sucessão.
+    a visão do negócio em longo prazo e o processo sucessório da companhia já estão sendo
+    planejados e, no futuro, será formalizado um conselho de administração.
+
+    na governança corporativa da empresa, o diretor-presidente é responsável em estabelecer
+    e aprovar a gestão estratégica; políticas de contenção de custos e maximização de receita;
+    políticas de mercado e orientações de atendimento às demandas de projetos, construções
+    e manutenção de redes de telecomunicações. [g4-39]
+
+
+
+
+22 | relatório de sustentabilidade - 2015 governança e sustentabilidade
+
+o diretor-presidente é atuante e presente nas comunidades empresariais, governamentais
+e acadêmicas paranaenses e brasileiras. ocupa cargos de direção ou de conselhos em
+sindicato patronal - siitep, federação das indústrias do paraná - fiep, associações de classe
+(abeprest, acp e telebrasil), federação brasileira de telecomunicações - febratel,
+agência de desenvolvimento de curitiba, agência de inovação da universidade federal
+do paraná, conselho estadual das cidades - concidades, paranácidade, instituto
+brasileiro de qualidade e produtividade – ibqp e no conselho do sesi pr; coordena também
+o conselho de assuntos legislativos da fiep. por meio do diretor-presidente, a empresa
+imprime sua marca de cidadania, contribuindo com o exemplo e ideias para o aprimoramento
+das instituições em todo o país. [g4-16]
+
+
+
+
+ helio bampi, no centro da foto. esposa vera e filhos guilherme e marcelo bampi, acionistas do grupo heliobras.
+
+
+
+os diretores executivos participam diretamente das definições estratégicas nos campos
+econômico, ambiental e social da organização. o diretor de operações, luis nicolait, trabalha
+focado na gestão de contratos em andamento junto aos clientes, na gestão das obras e
+manutenções. na área administrativa, o diretor joão sá é responsável pelos departamentos
+de recursos humanos, financeiro, comercial e administrativo. os diretores executivos
+reportam-se diretamente ao diretor-presidente. [g4-36, g4-38]
+
+
+
+
+                                                                  governança e sustentabilidade relatório de sustentabilidade - 2015 | 23
+
+        a estrutura da governança da radiante perpassa também pelos conselhos, comitês e políticas
+        de conduta, alinhados aos valores e princípios dos acionistas e da alta direção, conforme
+        demonstrado a seguir. [g4-34]
+
+
+        acionistas
+
+        elaboram as diretrizes do negócio e tomam definições estratégicas baseadas também nas
+        reuniões gerenciais e no planejamento estratégico criado pelos comitês.
+
+        alta direção
+
+        é formada pelo diretor-presidente e sócio-fundador, diretor de operações e diretor
+        administrativo, responsáveis por deliberar e definir as orientações gerais do negócio.
+
+        comitê de sustentabilidade
+
+        formado por gerentes de departamentos, gerentes das filiais e também por outros
+        colaboradores que não estão em cargos gerenciais, porém, desenvolvem funções estratégicas
+        na empresa. saiba mais na página 25.
+
+        comitê de ética
+
+        indicado pela alta direção, o comitê tem a missão de zelar pelo cumprimento do código
+        de ética da organização. os membros do comitê são comprometidos a investigar e, se
+        necessário, sancionar as medidas disciplinares cabíveis para cada caso, envolvendo a alta
+        direção da empresa nas ocorrências controversas.
+
+
+
+
+24 | relatório de sustentabilidade - 2015 governança e sustentabilidade
+
+políticas e códigos de conduta: orientam os colaboradores sobre as regras e boas práticas
+a serem adotadas dentro e fora da organização, contribuindo para a harmonia no ambiente
+de trabalho e para o desenvolvimento sustentável da empresa, conforme descrito abaixo.
+
+    código de ética: orienta os diferentes públicos com os quais a organização se relaciona
+                                                                       ra da empresa.
+    sobre os valores e condutas em direção à coerência ética dentro e fo
+
+
+          política de qualidade: baseia-se na melhoria contínua dos processos
+          com foco na qualidade de atendimento ao cliente.
+
+
+                 política ambiental e sst: controla os riscos de impactos ambientais
+                 e de saúde e segurança inerentes ao serviço prestado pela organização.
+
+
+
+
+os procedimentos e condutas ligados à sustentabilidade organizacional foram implantados
+na empresa ainda na década de 1990 através do programa qualidade total. programa de
+gestão que buscou os conceitos de qualidade aplicada ao serviço, não só na expectativa do
+cliente, mas em todos os públicos envolvidos nas atividades da organização. porém, foi em
+2014 que a procura sistemática pela sustentabilidade ganhou força ao aderirmos às diretrizes
+do gri e ao criamos um comitê de sustentabilidade. a partir desse momento, iniciou-se um
+processo desafiador e necessário na empresa: criar e melhorar os procedimentos de acordo
+com as boas práticas de governança.
+
+
+radiante na era da sustentabilidade
+o comitê de sustentabilidade é formado pelo time de gerentes e colaboradores de
+departamentos estratégicos da empresa. de julho a dezembro de 2014 e 2015, reuniões
+mensais foram realizadas com o apoio de uma consultoria externa em planejamento e gri.
+membros do comitê de sustentabilidade participaram de capacitações, seminários,
+
+
+
+
+                                                                    governança e sustentabilidade relatório de sustentabilidade - 2015 | 25
+
+        videoconferências e outros eventos ligados ao gri e ao pacto global. podemos afirmar que
+        foi uma importante jornada para compreender os caminhos que a empresa precisa trilhar
+        para melhorar, cada vez mais, nos campos econômico, social e ambiental.
+
+
+        em 2015, definimos um planejamento estratégico baseado nos temas materiais deste
+        relatório. no planejamento constam ações e metas a serem implementadas ao longo de
+        2016, que abrangem temáticas ligadas à saúde e segurança do trabalhador, meio ambiente,
+        direitos humanos, satisfação do cliente, combate à corrupção, treinamento, educação e
+        investimento na comunidade. todas as ações foram criadas pelo comitê e homologadas
+        pela alta direção da empresa.
+
+
+
+
+                                  o comitê estratégico é formado por lideranças de departamentos estratégicos
+
+
+        os diretores da organização analisam e aprovam formalmente o relatório de sustentabilidade,
+        garantindo que todos os seus aspectos materiais sejam abordados e executados pelo comitê
+        de sustentabilidade. [g4-48]
+
+
+        a radiante aderiu ao pacto global em maio de 2015, cumprindo a meta estabelecida no
+        relatório anterior. a adesão não se trata apenas de mais um título para a empresa e sim de
+        uma oportunidade de mostrar aos stakeholders o que temos feito em prol da sustentabilidade,
+        disseminando nossas iniciativas, trocando experiências com os nossos parceiros e criando
+        oportunidades de negócios. [g4-15]
+
+
+
+
+26 | relatório de sustentabilidade - 2015 governança e sustentabilidade
+
+o pacto global baseia-se em dez princípios universais, derivados da declaração universal
+de direitos humanos, da declaração da organização internacional do trabalho sobre
+princípios e direitos fundamentais no trabalho, da declaração do rio sobre meio ambiente
+e desenvolvimento e da convenção das nações unidas contra a corrupção.
+
+
+nesse mesmo ano, fomos convidados pela federação das indústrias do estado do paraná
+(fiep) para integrar o cpce (conselho paranaense de cidadania empresarial), que visa
+contribuir com os principais intervenientes da indústria, por meio do exemplo de ações e
+posturas de apoio e incentivo à cidadania, regida pelos modernos princípios do pacto global.
+
+sabemos que o caminho da sustentabilidade requer transparência, foco e engajamento em
+boas práticas. é com essas premissas que a radiante deixa sua marca registrada no mercado de
+telecom, ao construir uma empresa melhor para seus trabalhadores, clientes e comunidade.
+
+
+
+ética e integridade
+o código de ética da radiante é um documento que preza pela conduta ética e transparente
+de seus colaboradores e parceiros. o documento foi instituído em 2006, com base nos
+valores da organização e princípios da governança corporativa, orientando sobre convicções,
+valores e normas de conduta adotados pela instituição. [g4-56]
+
+este importante documento é traduzido de maneira clara e objetiva aos colaboradores
+por meio de murais, quadros, ações de comunicação via departamento de marketing e por
+meio de treinamentos para os colaboradores que incluem essa temática. nosso intuito é
+transmitir as diretrizes éticas das empresas entre os funcionários, gerando, dessa forma, uma
+atmosfera de transparência e integridade na organização. por meio da ouvidoria, estamos
+aptos a receber qualquer tipo de queixas e reclamações que possam ferir o código de ética.
+a empresa garante o sigilo dos casos recebidos por meio da ouvidoria. [g4-57]
+
+
+em 2015, criamos o comitê de ética da radiante, com a missão de analisar as reclamações
+e denúncias que vão contra ao descrito no código de ética. os membros do comitê têm
+o poder de apurar e sancionar as medidas disciplinares para cada caso, envolvendo a alta
+direção da empresa nos fatos mais vulneráveis. a composição do comitê de ética tem
+vigência de dois anos, devendo ser renomeado ou mantido de acordo com a definição da
+diretoria da empresa. [g4-56]
+
+
+
+
+                                                      governança e sustentabilidade relatório de sustentabilidade - 2015 | 27
+
+        qualidade
+        a política de qualidade possui como meta atender às necessidades dos clientes com firmeza
+        de propósito, confiabilidade e ênfase em estrutura organizacional. os processos gerenciais
+        com foco na qualidade do serviço e os indicadores de satisfação do cliente são os alicerces
+        da política, pontos fundamentais da estratégia do nosso negócio, que conta com um modelo
+        corporativo para a gestão da qualidade e satisfação do cliente. [g4-pr5] *tema material
+
+
+        em 2015, na matriz em curitiba e na filial de londrina (paraná), nosso sistema de gestão da
+        qualidade foi recertificado pela nbr iso 9001:2008 - norma que define requisitos para o
+        sistema de gestão da qualidade e a forma como uma empresa deve ser gerenciada, com a
+        finalidade de identificar e atender as necessidades dos clientes. uma grande conquista para
+        a empresa foi a certificação da filial de florianópolis, o que nos motiva ainda mais a avançar
+        na expansão para certificar outras filiais da organização.
+
+
+        uma das ações com foco em qualidade que envolve diretamente as equipes de campo é a
+        realização do preenchimento de um formulário de inspeção (fip). as equipes, em sintonia
+        com os seus supervisores, realizam uma análise preliminar de risco e de qualquer não
+        conformidade de segurança no local de atendimento do cliente, utilizando uma metodologia
+        para garantir que todos os serviços executados pelas equipes possam ser verificados por
+        monitoramento ou medição subsequente. este monitoramento sistemático ajuda a garantir
+        a qualidade de nossos serviços e a satisfação de nossos clientes. [g4-pr9] *tema material
+
+
+
+
+28 | relatório de sustentabilidade - 2015 governança e sustentabilidade
+
+meio ambiente
+de todas as áreas que envolvem a sustentabilidade organizacional, o meio ambiente foi
+a que mais cresceu na radiante entre 2014 e 2015, sobretudo após a implantação do
+gri como ferramenta estratégica em prol da sustentabilidade e do programa radiante
+ambiental. houve, nestes dois últimos anos, um aumento significativo de ações e melhorias
+de procedimentos. a adesão em favor do meio ambiente só foi possível pelo apoio da alta
+direção da empresa e pelo trabalho desenvolvido pelo comitê de sustentabilidade, em
+conjunto com a área de meio ambiente.
+
+
+a radiante, por entender a indispensabilidade de mitigar os impactos causados no meio
+ambiente por suas operações, criou setor de meio ambiente que atua utilizando os
+preceitos do sistema de gestão ambiental da nbr iso 14001:2004. em 2015, não
+houve queixas e reclamações relacionadas a impactos ambientais formalizados em
+nossos canais de comunicação ou nas áreas de meio ambiente e recursos humanos. a
+empresa tem um canal aberto para receber as reclamatórias e sugestões, por meio do
+sustentabilidade@radiante.com.br e ouvidoria@radiante.com.br. [g4-en34]
+
+
+no ano vigente ao relatório, não houve multas significativas ou sanções monetárias
+aplicadas em decorrência de não conformidade com leis e regulamentos ambientais. é nosso
+compromisso também divulgar os acordos e pactos firmados com entidades que possibilitem
+o desenvolvimento ambiental da empresa, visando sempre à sustentabilidade e à perenidade
+da organização. [g4-15, g4-en29] *tema material
+
+
+
+iniciativas
+a radiante engenharia de telecomunicações é a primeira empresa prestadora de serviços
+no ramo de telecom a lançar um relatório de sustentabilidade de acordo com as diretrizes
+do gri-4. um marco não só para a organização, mas também para o setor, que busca
+gradativamente se engajar e se adequar às boas práticas da sustentabilidade.
+
+
+
+
+                                                               meio ambiente relatório de sustentabilidade - 2015 | 29
+
+        o programa radiante ambiental, criado em dezembro de 2014, foi sem dúvida um divisor de
+        águas na empresa no que diz respeito à criação e adequação de normas e ações voltadas ao
+        meio ambiente e ao engajamento dos colaboradores na causa ambiental. no ano vigente ao
+        relatório, realizamos investimentos inéditos em proteção ambiental, iniciamos um estudo de
+        logística reversa para reciclagem dos resíduos de cabos de fibra óptica (fo) e reorganizamos
+        o depósito de resíduos visando a segregação desses rejeitos de forma mais eficiente. saiba
+        mais na página 42.
+
+
+        ao longo de 2015, percebemos que o engajamento dos colaboradores em relação às
+        boas práticas ambientais aumentou por meio de campanhas e de treinamentos. no saber
+        e renovar, treinamento de integração e reciclagem para os colaboradores, abordamos a
+        temática meio ambiente, trazendo ao debate, questões do cotidiano que ajudam a refletir
+        sobre boas práticas com relação à economia de água, energia, reciclagem, etc.
+
+
+        nossa política ambiental é aplicada na empresa em sinergia com as normas do sistema de
+        gestão ambiental da nbr iso 14001:2004 e do sistema de gestão de segurança e saúde
+        do trabalho. é nosso compromisso também divulgar os pactos e acordos firmados com
+        entidades que possibilitem o desenvolvimento ambiental da organização, visando sempre à
+        sustentabilidade organizacional. [g4-15]
+
+
+        no período coberto por este relatório, não houve registros de multas significativas, nem
+        sanções monetárias. também não foi registrada nenhuma queixa relacionada a impactos
+        ambientais causados por nossas atividades. as denúncias podem ser formalizadas por meio
+        da ouvidoria: ouvidoria@radiante.com.br. [g4-en29, g4-en34] *tema material
+
+
+
+        investimentos em meio ambiente
+        comparado aos anos anteriores, o investimento que a radiante fez em proteção ambiental
+        aumentou em mais de 800%, firmando o compromisso de mitigar os impactos causados
+        pelas suas atividades operacionais. [g4-en31]
+
+
+
+
+30 | relatório de sustentabilidade - 2015 meio ambiente
+
+ conheça abaixo, os principais investimentos realizados pela organização na gestão ambiental
+ em 2015. [g4-en27, g4-en31] *tema material
+
+  ação                                                                      2012 a 2014                       2015
+  gasto com funcionários dedicados às operações ambientais                    r$0,00                  r$102.453,17
+  compra de lixeiras de coleta seletiva                                     r$4.800,00                  r$2.925,15
+  licença de uso para o amblegis                                            r$15.817,30                 r$7.339,92
+  participação em eventos                                                     r$0,00                    r$1.184,07
+  compra de torneiras com temporizador                                        r$0,00                     r$630,00
+  compra de descargas dual-flush                                              r$0,00                     r$154,00
+  compra de lâmpadas de led                                                   r$0,00                    r$1.321,29
+  programa de reciclagem de cabos                                             r$0,00                   r$ 86.979,00
+  camisetas radiante ambiental                                                r$0,00                     r$720,00
+  serviço de logística reversa para materiais perigosos                     r$1.762,50                  r$1.650,00
+  testes de ringelmann (fumaça preta em veículos movidos a diesel)            r$0,00                     r$200,00
+  desenvolvimento e construção da máquina para rebobinar sucatas de cabos     r$0,00                    r$1.000,00
+  total                                                                     r$22.379,80               r$206.557,00
+
+
+
+
+r$ 120.000,00
+
+
+r$ 100.000,00
+
+
+r$ 80.000,00
+
+
+r$ 60.000,00
+
+
+r$ 40.000,00
+
+
+r$ 20.000,00
+                                                                                                                  2015
+                                                                                                           2012 a 2014
+
+
+ impactos ambientais
+ os impactos ambientais causados por nossas operações são inerentes ao negócio por
+ trabalharmos com a implantação e manutenção de fibra óptica em várias regiões do brasil.
+ sabemos dos impactos ambientais e buscamos de forma séria e sistemática mecanismos
+ de gestão para minimizá-los. nosso compromisso com os públicos com os quais nos
+ relacionamos é mitigar os impactos ambientais, promovendo o desenvolvimento econômico
+ sustentável. [g4-en27] *tema material
+
+
+
+
+                                                                                 meio ambiente relatório de sustentabilidade - 2015 | 31
+
+        gestão de gases de efeito estufa (gee)
+        a empresa possui 788 veículos que compõem sua frota, 305 veículos próprios e 483 locados.
+        os impactos ao meio ambiente provenientes da emissão de gases de efeito estufa têm sido
+        uma preocupação constante para a organização, repercutindo em ações para mitigar esses
+        efeitos.
+
+
+
+        em 2014, nos comprometemos, no relatório do gri, a substituir o combustível fóssil de 30%
+        da frota por combustível renovável (etanol – álcool etílico), e deixar de lançar na atmosfera
+        87,6 toneladas de gee. em 2015, 47% da frota da radiante passou a rodar com combustível
+        renovável, deixando de emitir 576 toneladas de gee. ultrapassamos a meta em 650% do
+        estimado. [g4-en15, g4-en19, g4-en30] *tema material
+
+
+                                         comparativo de emissão de gee 2014 - 2015
+
+
+            2014
+                                                                                     -30% - 87,6 toneladas
+           projeção
+
+
+            2015
+          realização                                                                 -47% - 576 toneladas
+
+
+
+
+        utilizamos, como ferramenta de gestão da frota, programas e parcerias que procuram
+        minimizar os impactos causados pelas emissões de gee no meio ambiente. dentre eles
+        o programa “carbon control”, que faz a medição e quantificação das emissões dos gases
+        de efeito estufa, possibilitando, dessa forma, monitorar e mitigar as emissões de gases
+        poluentes. outro mecanismo de controle utilizado em nossos veículos são os testes com o
+        anel de ringelmann - instrumento que mede a quantidade e a cor da fumaça emitida. [g4-
+        en15, g4-en19, g4-en30] *tema material
+
+
+
+
+        por meio do programa despoluir, controlamos as emissões dos veículos pesados da matriz
+        e da filial de londrina. assim, contribuímos também para a melhoria da qualidade do ar e do
+        uso racional do combustível, diminuindo, portanto, os impactos causados ao meio ambiente.
+
+
+
+
+32 | relatório de sustentabilidade - 2015 meio ambiente
+
+o controle de gee realizado na radiante é baseado nas normas do conselho nacional
+de meio ambiente (conama), que estabelece critérios e procedimentos para medição da
+opacidade dos gases de escapamento para diferentes categorias de veículos automotores.
+isso constitui um indicativo do estado de manutenção do motor, fator que interfere
+diretamente nas emissões e na eficiência energética do veículo.
+
+
+gestão de resíduos sólidos
+a criação do programa radiante ambiental foi fundamental para formar um olhar mais
+responsável e eficiente sobre a gestão de resíduos sólidos na organização. a maioria das
+ações realizadas com foco na gestão de resíduos foi desenvolvida na matriz, onde está a área
+de meio ambiente. a intenção é replicar para as filiais as ações que deram certo, adequando-
+as à realidade de cada uma dessas filiais e bases operacionais da empresa.
+
+
+entre os resíduos gerados pela matriz estão o plástico, papel, papelão, madeira, sucata de
+metal, ferragens e fio de espinar, totalizando mais de sete toneladas em 2015. esses resíduos,
+ao longo do ano, foram quantificados e controlados pelo programa radiante ambiental, com
+o intuito de promover a correta destinação de acordo com a legislação ambiental.
+
+
+outra ação relevante para a correta separação dos resíduos sólidos foi a instalação, na
+matriz e em todas as filiais, de lixeiras de coleta seletiva. “todas as iniciativas realizadas
+atendem a metas descritas no relatório de sustentabilidade, promovendo a correta gestão
+dos resíduos gerados, a conscientização ambiental e engajamento dos colaboradores no
+tema meio ambiente”, explica alan dolenc corradini, gestor do programa radiante ambiental.
+
+abaixo, as metas cumpridas em 2015 na gestão de resíduos sólidos. [g4-en27] *tema material
+
+
+
+                                                  .
+
+
+         t                                             .
+
+
+
+
+                                                                               .
+
+
+
+
+                                                                   meio ambiente relatório de sustentabilidade - 2015 | 33
+
+        destinação correta dos resíduos sólidos
+        em julho de 2015, foi homologado pela radiante, um planejamento para a correta segregação
+        e destinação dos materiais remanescentes das nossas atividades, para destinos ambientalmente
+        corretos. com a reorganização do depósito de resíduos, após a segregação, o material vai para a
+        reciclagem ou, em casos de resíduos perigosos, são destinados dentro das normativas ambientais
+
+
+
+
+        este primordial processo, que tange à destinação dos resíduos sólidos, só foi possível, após a formação
+        de uma infraestrutura básica, que conta com renovação do depósito de resíduos sólidos, na matriz,
+        e com a contratação de equipe especializada. materiais classificados como resíduos comuns foram
+        encaminhados à reciclagem, gerando um retorno financeiro para a empresa, convertido em cursos de
+        qualificação profissional para os colaboradores e comunidade do entorno. [g4-en27] *tema material
+
+
+        resíduos comuns [g4-en23, en-27] *tema material
+
+          papel (kg)           plásticos (kg)             papelão (kg)   ferro (kg)    alumínio (kg)   fio de espinar (kg)
+          260                   3.173                     994            5.880         12              2.120
+        *todos os parceiros envolvidos na destinação de resíduos foram devidamente homologados pela área
+        ambiental, apresentando à empresa as devidas documentações de operação.
+
+
+
+        resíduos perigosos [g4-en23, en-27] *tema material
+
+          resíduos                                                          quantidade
+          pilhas                                                            9 kg
+          baterias diversas                                                 3 um
+          reatores eletrônicos                                              3 um
+          latas de tintas/solventes                                         1 kg
+          extintores                                                        2 um
+          tambores químicos                                                 84,55 kg
+          lâmpadas                                                          79 um
+        *tabela referente aos resíduos - classe i - gerados na matriz, em curitiba.
+
+        em 2016, as filiais de londrina e florianópolis, certificadas pela iso 9001:2008, passarão a contar
+        com locais apropriados à segregação dos resíduos sólidos e meios de controle de quantificação
+        desses resíduos. todas as filiais contarão com iniciativas para reforço da limpeza e organização dos
+        pátios e demais áreas onde localizam-se os equipamentos da empresa.
+
+
+
+
+34 | relatório de sustentabilidade - 2015 meio ambiente
+
+esse primordial processo, que tange à destinação dos resíduos sólidos, só foi possível após a formação
+de uma infraestrutura básica, que conta com renovação do depósito de resíduos sólidos, na matriz,
+e com a contratação de equipe especializada. materiais classificados como resíduos comuns foram
+encaminhados à reciclagem, gerando um retorno financeiro para a empresa, convertido em cursos de
+qualificação profissional para os colaboradores e comunidade do entorno. [g4-en27] *tema material
+
+
+
+resíduos comuns [g4-en23, en-27] *tema material
+
+ papel (kg)      plásticos (kg)     papelão (kg)         ferro (kg)           alumínio (kg)       fio de espinar (kg)
+ 260              3.173             994                  5.880                12                  2.120
+*todos os parceiros envolvidos na destinação de resíduos foram devidamente homologados pela área
+ambiental, apresentando à empresa, as devidas documentações de operação.
+
+
+
+resíduos perigosos [g4-en23, en-27] *tema material
+
+ resíduos                                                    quantidade
+ pilhas                                                      9 kg
+ baterias diversas                                           3 um
+ reatores eletrônicos                                        3 um
+ latas de tintas/solventes                                   1 kg
+ extintores                                                  2 um
+ tambores químicos                                           84,55 kg
+ lâmpadas                                                    79 um
+*tabela referente aos resíduos - classe i - gerados na matriz, em curitiba.
+
+em 2016, as filiais de londrina e florianópolis, certificadas pela iso 9001:2008, passarão a contar
+com locais apropriados à segregação dos resíduos sólidos e meios de controle de quantificação
+desses resíduos. todas as filiais contarão com iniciativas para reforço da limpeza e organização dos
+pátios e demais áreas onde localizam-se os equipamentos da empresa.
+
+
+logística reserva
+a maior parte dos resíduos gerados pela organização é oriunda de cabos de fibras ópticas
+(cabos fo) e cabos metálicos. em 2015, a radiante deu um passo inédito no brasil em prol
+do meio ambiente. criou um programa de logística reversa para dar destinação correta e
+útil para as sobras dos cabos de fo, provenientes de obras de lançamento e manutenção
+de infraestruturas das redes ópticas de telecomunicações. [g4-en 27, g4-en31] *tema material
+
+
+
+
+                                                                                       meio ambiente relatório de sustentabilidade - 2015 | 35
+
+        o programa de logística reversa da radiante baseou-se na possibilidade de reaproveitamento
+        de 100% dos materiais que compõem os cabos de fibra óptica, através de um processo de
+        reciclagem. todo o material que constitui as camadas do cabo é reaproveitado por meio
+        da extração mecânica do polietileno (1º e 3º camadas) e do kevlar (2º camada), além da
+        moagem da fibra óptica (5º camada).
+
+        para o diretor-presidente da radiante, helio bampi, o programa de logística reversa é uma
+        inovação em benefício do meio ambiente: “conseguimos, finalmente, dar uma destinação
+        ambientalmente correta e útil para os resíduos dos cabos de fibra óptica dos nossos clientes,
+        considerados um grande passivo ambiental. isso é um avanço no que tange, sobretudo, à
+        proteção e investimento ao meio ambiente”. [g4-en 27, g4-en31] *tema material
+
+        cerca de 80 toneladas de cabos de fibra óptica foram destinadas à reciclagem em 2015 e
+        o polietileno, que reverte o cabo de fo, já está sendo utilizado na produção de mangueiras
+        corrugadas para jardim.
+
+
+        campanhas ambientais
+        com o propósito de engajar os colaboradores na causa ambiental, criamos a campanha do plástico
+        duro, que estimula o funcionário a trazer de sua casa embalagens de pead – polietileno de alta
+        densidade, oriundo de plásticos de embalagens de produtos de limpeza e cosméticos. a divulgação
+        da campanha foi realizada por meio de informativos, murais, e-mails, mídias sociais e do treinamento
+        saber e renovar. [g4-en27, g4-en31] *tema material
+
+
+
+
+        a meta para 2015 era arrecadar 1.000 kg de pead, porém atingimos a marca de 3.160 kg de plástico
+        duro, com o auxílio também da coleta das sobras de pead provenientes das operações da empresa.
+        em 2016, a radiante dará continuidade à campanha do plástico duro. [g4-en27] *tema material
+
+
+
+
+36 | relatório de sustentabilidade - 2015 meio ambiente
+
+                colaboradores engajados na campanha do plástico duro, realizada na matriz.
+
+
+gestão de resíduos em prol da responsabilidade social
+os resíduos sólidos de valor comercial gerados pela radiante no ano de 2015, em especial na
+matriz, localizada em curitiba, bem como o pead recolhido na campanha do plástico duro, foram
+direcionados às empresas recicladoras, certificadas pelas normas ambientais.
+
+
+
+
+                                                                             meio ambiente relatório de sustentabilidade - 2015 | 37
+
+        o recurso obtido na comercialização dos resíduos foi convertido em cursos de qualificação
+        profissional para colaboradores e comunidade do entorno. em 2015, a radiante recebeu das
+        empresas recicladoras r$ 32.621,50, valor referente à comercialização dos resíduos sólidos, entre
+        eles sucatas, papelão, plástico e madeira. [g4-en27, g4-en31, g4-la9]] *tema material
+
+
+
+
+                        curso de gestão de contratos para colaboradores, realizado com o dinheiro da venda do pead.
+
+
+
+
+        gestão dos recursos naturais: água e energia
+        “o homem é parte integrante da natureza e, desde o seu surgimento na terra, sempre
+        contou com o que ela lhe oferecia, como alimento, água e abrigo, itens essenciais para sua
+        sobrevivência”. (fonte: site brasil escola)
+
+
+        com a reflexão descrita acima, começamos a nossa abordagem acerca de todas as ações realizadas
+        na empresa no que tange à gestão dos recursos naturais. por se tratar de uma companhia prestadora
+        de serviços em telecomunicações, não utilizamos água na execução dos nossos serviços. nossas
+        operações também não demandam uma grande quantidade de energia elétrica a ponto de causar
+        significativos impactos ao meio ambiente.
+
+
+
+
+38 | relatório de sustentabilidade - 2015 meio ambiente
+
+no entanto, por entendermos que qualquer organização deva se comprometer para diminuir o
+consumo de água e energia elétrica, a radiante decidiu responder a esses indicadores água e
+energia, mesmo não constando na matriz de materialidade. [g4-en3, g4-en8]
+
+
+energia
+com a nova visão ambiental criada dentro do ambiente corporativo e, sobretudo, pelas ações
+implantadas com o objetivo de reduzirmos o consumo de energia elétrica, em 2015 houve melhorias
+na eficiência de utilização dos recursos energéticos. a radiante apresentou uma diminuição de
+33,7% no consumo de energia em comparação a 2014. tal economia foi possível graças a diferentes
+práticas empregadas na matriz e filiais.
+
+
+
+na matriz, em curitiba, iniciamos a troca das lâmpadas convencionais por lâmpadas de led nos
+departamentos administrativos, cumprindo, portanto, a meta estabelecida no relatório de 2014,
+onde nos comprometemos em investir na troca das lâmpadas fluorescentes por lâmpadas de led
+(na matriz) até 2017. realizamos também a implantação de sensores de presença nos banheiros em
+base operacional na filial de rio grande do sul. [g4-en6, g4-en27, g4-en31]
+
+
+
+para 2016, colocaremos em prática na matriz o plano-eco uma nova configuração de economia
+de energia nos computadores conectados à rede de serviços da radiante, em parceria com o
+departamento de meio ambiente e de t.i. [g4-en6, g4-en27, g4-en31]
+
+consumo de energia elétrica dentro da organização. [g4-en3]
+
+ localidade:                       energia consumida (kw) 2014   energia consumida (kw) 2015
+ região sul: curitiba, londrina,
+ maringá, florianópolis e porto              176.427                         128.291,08
+ alegre.
+ região sudeste:
+                                             28.536                           12.218,44
+ belo horizonte
+ região centro-oeste: cuiabá,
+                                             29.142                           14.285,01
+ campo grande e goiânia
+
+ total:                                      234.105                         154.794,53
+
+
+
+
+                                                                     meio ambiente relatório de sustentabilidade - 2015 | 39
+
+        energia
+
+      160.000
+
+      160.000
+
+      140.000
+
+      120.000
+
+      100.000
+
+        80.000
+
+        60.000
+
+        40.000
+
+        20.000
+
+
+
+                                               sul        sudeste              centro oeste
+
+                                                                                              2014
+
+                                                                                              2015
+
+        água
+        buscando a diminuição no consumo, a radiante colocou em prática ações de contenção de desperdício
+        de água por meio da troca de torneiras roscadas por modelos de acionamento temporizado nas pias
+        dos banheiros da sede da organização. com esse mecanismo, é possível atingir uma economia de
+        70%. implantamos em paralelo descargas de duplo acionamento que podem reduzir até 40% do
+        consumo de água em todos os sanitários com caixa acoplada.
+
+        em relação ao ano de 2014, tivemos um aumento de 34% no consumo de água na empresa. essa
+        estatística agrega os números de consumo e valores provenientes de rompimentos/vazamentos
+        decorrentes das obras de canalização executadas para as operadoras de telefonia. como houve
+        um aumento no número de obras em regiões urbanas, também houve o crescimento do risco de
+        acidentes envolvendo rompimento de adutoras. ainda que as concessionárias de saneamento não
+        nos forneçam mapas de suas redes hídricas, tomamos as devidas precauções para que acidentes não
+        aconteçam. em 2015, sofremos multa de r$ 8.287,90 junto à companhia de distribuição sanepar,
+        devido a um rompimento de uma adutora em londrina, paraná. [g4-en29, g4-pr9]
+
+
+
+
+40 | relatório de sustentabilidade - 2015 meio ambiente
+
+abaixo, tabela comparativa do consumo de água entre os anos de 2014 e 2015. [g4-en8]
+
+localidade:                                água consumida (m³) 2014 água consumida (m³) 2015
+região sul: curitiba, londrina, maringá,
+                                                    3.671                           4.636,39
+florianópolis e porto alegre.
+região sudeste: belo horizonte                       302                             1.202,0
+região centro-oeste: cuiabá, campo
+                                                     473                             165,46
+grande e goiânia
+total:                                              4.446                           6.003,85
+
+
+
+água
+
+
+   5000
+
+   4500
+
+   4000
+
+   3500
+
+   3000
+
+   2500
+
+   2000
+
+   1500
+
+   1000                                                                                         2014
+
+    500                                                                                         2015
+
+
+
+                     sul               sudeste             centro-oeste
+
+
+
+
+                                                                     meio ambiente relatório de sustentabilidade - 2015 | 41
+
+        capital humano
+        as organizações passam por um momento de mudanças no que diz respeito à importância
+        dada ao capital humano, mais valorizado a cada dia. neste contexto, a radiante
+        trabalha para criar um ambiente cada vez mais equilibrado e sadio para se trabalhar. a
+        empresa investe constantemente em treinamento e educação dos seus funcionários,
+        estimulando no âmbito organizacional o crescimento profissional dos colaboradores.
+
+
+
+
+                                   caroline pacheco iniciou na empresa como recepcionista. em pouco tempo foi
+                                         promovida para trabalhar no departamento de recursos humanos.
+
+
+
+
+42 | relatório de sustentabilidade - 2015 capital humano
+
+em dezembro de 2015, a empresa tinha em seu quadro de funcionários 1.216 colaboradores.
+a maioria da força de trabalho é formada pelos funcionários de campo, que atuam na
+construção e manutenção de redes de fibras ópticas e vários outros serviços ligados a
+telecomunicações.
+
+
+
+
+              grande parte da força de trabalho da empresa é formada por funcionários de campo.
+
+
+
+
+treinamento e educação
+a radiante investiu neste ano 439.913 mil reais em treinamento e educação dos
+colaboradores, contabilizando 28.274 horas de treinamento, 170% a mais do que em 2014.
+[g4-la9] *tema material
+
+
+
+
+                                                                             capital humano relatório de sustentabilidade - 2015 | 43
+
+        tratamos como prioridade o investimento na educação e qualificação profissional dos
+        nossos colaboradores, por isso priorizamos os recursos financeiros em treinamentos;
+        voltados à formação do ensino fundamental e médio (eja) saúde e segurança do trabalho
+        (nrs); formação e desenvolvimento de líderes e pronatec (formação profissionalizante).
+        empregamos também esforços para conceder bolsas de estudos a nossos funcionários,
+        qualificando-os através de cursos universitários, de pós-graduação e língua estrangeira.
+        [g4-la9] *tema material
+
+
+
+
+                                          curso inédito de gestão de contratos para funcionários da radiante.
+
+
+
+        para 2016, continuaremos a priorizar as ações de treinamento e educação, firmando assim
+        nosso compromisso de formar equipes mais preparadas para os desafios e mudanças do
+        mercado de trabalho, principalmente os treinamentos ofertados e realizados para a melhoria
+        da qualidade de vida e qualificação profissional dos colaboradores. [g4-la9] *tema material
+
+
+
+
+44 | relatório de sustentabilidade - 2015 capital humano
+
+       em 2015, a radiante investiu 170% a mais em treinamento e educação em relação ao ano de 2014.
+
+
+
+conheça os principais treinamentos da empresa em proveito da segurança e qualificação
+dos colaboradores. [g4-la9]
+
+    formação e desenvolvimento de líderes
+
+o treinamento de liderança motivacional pretende formar lideranças dentro da organização,
+com foco na capacitação de gerentes, coordenadores, supervisores e encarregados. a
+ideia é sempre extrair do colaborador maior produtividade, rendimento, planejamento,
+gerenciamento do tempo e trabalho em equipe. o curso é executado em três módulos na
+matriz e em todas as demais filiais da empresa.
+
+    normas regulamentadoras (nrs)
+
+com o objetivo não só do atendimento legal, mas da prevenção de acidentes de trabalho
+e na manutenção da integridade física de seus colaboradores, a radiante investe nos
+treinamentos da nr-05 (cipa), nr-10 (segurança em instalações e serviços com eletricidade),
+nr-11 (transporte, movimentação, armazenagem e manuseio de materiais) nr-33 (espaços
+confinados) e nr-35 (segurança em altura). todas realizadas na matriz e nas regionais da
+organização.
+
+
+
+                                                                            capital humano relatório de sustentabilidade - 2015 | 45
+
+               treinamentos operacionais
+
+        visando fomentar mão de obra qualificada, disponibilizamos para os novos colaboradores,
+        treinamentos na área operacional, os quais são desenvolvidos no próprio local de trabalho,
+        sendo executados por colaboradores com experiência na função e com acompanhamento
+        da supervisão, gerência e do departamento de recursos humanos da empresa.
+
+               curso de gestão de contratos
+
+        curso inédito em 2015, objetivando a capacitação dos gestores e demais colaboradores
+        envolvidos em análises de contratos sobre as particularidades e peculiaridades dos mesmos.
+
+               eja
+
+        a radiante abre suas portas para que seus colaboradores, familiares e comunidade possam
+        concluir o ensino fundamental e médio de forma rápida e eficiente. no primeiro semestre
+        de 2015, tivemos a formatura da primeira turma que concluiu o ensino médio por meio do
+        eja.
+
+               pronatec (programa nacional de acesso ao ensino técnico e emprego)
+
+        os cursos profissionalizantes foram ofertados para os colaboradores da radiante da matriz,
+        por meio da parceria com o senai-pr. a radiante montou uma sala de aula na própria
+        empresa para que os seus funcionários participassem das aulas do pronatec após o
+        horário de expediente. está em andamento uma turma do curso de cabista, com término
+        previsto para o primeiro semestre de 2016.
+
+               saber e renovar (integração e reciclagem)
+
+        treinamento destaque de 2015, o saber e renovar foi, sem dúvida, uma das maiores
+        conquistas da radiante em relação à mudança cultural dos colaboradores com foco na
+        sustentabilidade, pois trata-se de um treinamento que objetiva o alinhamento das diretrizes
+        da governança e as boas práticas voltadas à sustentabilidade organizacional.
+
+        o treinamento foi ministrado para 97% dos colaboradores localizados na matriz, filiais e
+        bases operacionais, superando a meta descrita no relatório de 2014, onde prevíamos o
+        treinamento de 95% dos funcionários.
+
+
+
+
+46 | relatório de sustentabilidade - 2015 capital humano
+
+para alcançar essa meta, foram criados comitês do saber e renovar em todas as unidades da
+organização. os comitês são responsáveis em treinar e multiplicar as boas práticas sugeridas
+no treinamento. foi com grande esforço que preparamos tantos funcionários em mais de 70
+cidades onde a radiante atua em todo brasil. as instruções foram feitas presencialmente e
+por meio de videoconferência.
+
+em 2016, o saber e renovar volta com força total. desta vez em duas versões: integração
+e reciclagem. os novos colaboradores terão acesso ao treinamento na íntegra, incluindo
+as políticas, normas, deveres, direitos e demais diretrizes necessárias para estabelecer o
+equilíbrio entre a organização e o colaborador.
+
+os funcionários que já passaram pelo saber em renovar, em 2015, assistirão a uma
+capacitação mais enxuta, dando enfoque nas melhorias e metas cumpridas pela empresa
+nos âmbitos de direitos humanos, meio ambiente, saúde, educação e segurança no trabalho.
+
+
+
+
+                                                                capital humano relatório de sustentabilidade - 2015 | 47
+
+        o que pensa o colaborador da radiante sobre o saber e renovar
+
+        jhone penha, gestor de t.i.
+
+         “o treinamento é muito importante, pois também aborda temas ligados ao nosso cotidiano
+        fora da empresa, tais como boas práticas em meio ambiente, direitos humanos e combate à
+        corrupção”.
+
+
+        larissa de souza covaleski, secretária
+
+        “o saber e renovar é importante, pois orienta o novo colaborador sobre a visão e missão e
+        sobre os regulamentos que devemos seguir na empresa”.
+
+
+        elizeu gomes dos santos, oficial de linhas
+
+        “através deste treinamento, aprendemos lições importantes sobre como melhorarmos
+        a nossa produtividade. toda empresa deveria orientar o seu colaborador a ter uma visão
+        futurista”.
+
+
+
+
+                              jhone penha, larissa covaleski e elizeu gomes dos santos, colaboradores da radiante.
+
+
+
+
+48 | relatório de sustentabilidade - 2015 capital humano
+
+direitos humanos
+o debate sobre as responsabilidades do setor empresarial em relação aos direitos humanos
+vem ganhando força ao longo dos últimos anos, quando a globalização econômica atingiu
+seu auge e o impacto da economia na vida das pessoas ficou mais evidente. houve, portanto,
+relevantes avanços nessa temática, com o surgimento de iniciativas para a divulgação dos
+impactos das empresas e a promoção de sua responsabilidade social, tanto na gestão dos
+negócios quanto no controle das cadeias de valor.
+
+
+a radiante avançou na temática em 2015. gestores ligados às áreas de recursos humanos,
+saúde e segurança, qualidade e sustentabilidade, participaram de capacitação em direitos
+humanos. criamos um comitê de ética para direcionar os casos de assédio, discriminação
+e corrupção, utilizamos a ouvidoria como ferramenta de diálogo entre os colaboradores e
+a alta direção da empresa. ações importantes para criar uma cultura organizacional sadia e
+equilibrada.
+
+
+não discriminação e assédio
+trabalhamos para prevenir casos de discriminação e assédio dentro da empresa. no
+treinamento saber e renovar, é realizada uma abordagem sobre direitos humanos e seus
+efeitos para a organização. divulgamos entre os colaboradores a ouvidoria como meio de
+reclamação formal a violação dos direitos humanos e levamos ao comitê de ética qualquer
+denúncia que viole os direitos humanos dos funcionários. no ano deste relatório, não foi
+registrado nenhum caso de discriminação. quatro episódios que envolveram suspeita de
+assédio moral foram analisados e solucionados. [g4-hr3] *tema material
+
+
+trabalho infantil e análogo ao escravo
+a radiante é contra qualquer forma de trabalho desumano e preza pela dignidade de seus
+trabalhadores. durante os 25 anos de existência da organização, nunca houve registros de
+trabalho infantil e análogo ao escravo. entretanto, sabemos da importância de monitorar a
+nossa cadeia produtiva, por isso a organização aperfeiçoou o cadastro de fornecedores e
+acrescentou ao questionário tópicos sobre trabalho infantil e trabalho escravo. [g4-hr5, g4-
+hr6] * tema material
+
+
+
+
+                                                                capital humano relatório de sustentabilidade - 2015 | 49
+
+        as respostas dos questionários serão usadas como subsídio para criação de uma base
+        de dados que nos ajudará a mapear as atividades de risco dos fornecedores bem como
+        na homologação de novos fornecedores. em 2016, a radiante, com o estudo concluído,
+        desenvolverá padrões mínimos de contratação de novos fornecedores com base em boas
+        práticas sociais e ambientais. [g4-hr5, g4-hr6] * tema material
+
+        no treinamento saber e renovar, orientamos os funcionários a denunciar qualquer prática
+        dessa natureza por meio da ouvidoria. os colaboradores são orientados a atuar como fiscais
+        junto aos fornecedores sobre os quais tenham acesso, denunciando possíveis irregularidades
+        quanto ao uso de mão de obra infantil não regularizada ou trabalhos forçados análogos ao
+        escravo. [g4-hr5, g4-hr6] * tema material
+
+        em 2016, daremos continuidade a atualização do cadastro de fornecedores junto aos
+        principais fornecedores da empresa e prosseguiremos na orientação dos colaboradores
+        sobre esta temática no saber e renovar. [g4-hr5, g4-hr6] * tema material
+
+
+
+        diversidade e igualdade de oportunidades
+        o salário base e a remuneração dos colaboradores da empresa, independentemente do
+        gênero, são fixados considerando as especificidades da função e qualificação profissional.
+
+
+        diversidade e igualdade de oportunidades [g4-la12] * tema material
+
+                         colabo-                                                              não
+            cargos                  branca      %          parda    %      negra    %                   %     indígena    %      amarela    %     pcd    %
+                         radores                                                           informado
+
+
+             adm.          292        213      73%          38     13%      0       4%        22       7,5%      0        0%       7       2,4%   18    6,1%
+
+            diretoria       2          2       100%                 0%      0       0%        0        0%        0        0%       0       0%      0    0%
+
+            gerência        7          6       90%          1      10%      0       0%        0        0%        0        0%       0       0%           0%
+
+          operacional      872        489      56%         225     25,8%   112     12,8%      31       3,5%      2       0.22%     13      1,5%    5    0,6%
+
+            aprendiz        15        12        80          %      20%      0       0%        0        0%        0        0%       0       0%      1    6.6%
+
+           estagiário       0          0        0%          0       0%      0       0%        0        0%        0        0%       0       0%      0    0%
+
+
+
+        a formação profissional de jovens é importante para a empresa, por isso, no ano vigente do
+        relatório, 12 jovens de 14 a 18 anos foram contratados pela radiante por meio do programa
+        aprendiz legal.
+
+
+
+
+50 | relatório de sustentabilidade - 2015 capital humano
+
+outra ação que visa aperfeiçoar a forma de contratação dos colaboradores é a implantação
+de uma nova ficha cadastral, a ser realizada em 2016 pelo departamento de recursos
+humanos. o documento realizará a atualização dos dados dos colaboradores, a respeito
+de gênero, raça e nível de escolaridade. por meio das informações obtidas, a empresa
+poderá promover outros programas e ações visando melhorar o índice de escolaridade dos
+funcionários e, consequentemente, aumentar as possiblidades de promoção e remuneração
+dos seus trabalhadores.
+
+
+canal de comunicação interno
+
+a ouvidoria é o canal de comunicação oficial da organização, criada com o propósito de
+aproximar os stakeholders (sobretudo, os colaboradores) das gerências e da alta direção da
+empresa. em 2015, recebemos 70 e-mails contendo sugestões de melhorias na infraestrutura
+e nos processos da empresa; reclamações e denúncias. 68 casos foram resolvidos e dois
+deles estão sendo analisados. [g4-hr3, g4-hr12] *tema material
+
+
+os nossos colaboradores são orientados nos treinamentos e por meio de murais e e-mail
+a formalizar suas sugestões e reclamações por meio da ouvidoria. acreditamos que dessa
+maneira podemos melhorar as condições de trabalho, direitos humanos, combater o assédio
+dentro da organização, combater a corrupção e outros problemas inerentes a grandes
+corporações. [g4-hr3, g4-s02, so11, g4-hr5, g4-hr6, g4-hr12] *tema material
+
+
+
+
+                                                               capital humano relatório de sustentabilidade - 2015 | 51
+
+        segurança no trabalho
+
+
+
+
+        por desenvolvermos atividades consideradas de risco para os nossos colaboradores de
+        campo, o tema saúde e segurança no trabalho é prioritário para a organização. por meio
+        da nossa política de meio ambiente e saúde e segurança, identificamos e controlamos os
+        aspectos e impactos ambientais e os perigos e riscos nas áreas de saúde e segurança do
+        trabalho, continuamente, no desenvolvimento das nossas atividades, produtos e serviços.
+
+
+        a qualidade de vida no trabalho é outro aspecto fundamental para a radiante, portanto,
+        ações importantes, que envolvem dimensões física, intelectual, emocional, profissional,
+        espiritual e social são praticadas no ambiente de trabalho, gerando ganhos significativos na
+        saúde física e emocional dos nossos funcionários.
+
+
+        tendo como base as nrs que regulamentam e fornecem orientações sobre procedimentos
+        obrigatórios relacionados à saúde e segurança no trabalho nas organizações, todos os
+        colaboradores da radiante, que atuam em campo, recebem treinamentos de acordo com as
+        nrs específicas ao nosso ramo de atividade: nr-10 (segurança em instalações e serviços
+
+
+
+
+52 | relatório de sustentabilidade - 2015 capital humano
+
+em eletricidade), nr-33 (espaços confinados) e nr-35 (segurança em altura) – realiza o
+controle sobre os principais riscos de choque elétrico e queda por diferença de nível.
+
+
+a nr-5 (cipa), constituída na matriz e nas regionais, tem como finalidade a prevenção de
+acidentes de trabalho com a participação dos trabalhadores eleitos e indicados. diariamente,
+as atividades de campo são acompanhadas pelos supervisores, encarregados e pelos técnicos
+de segurança do trabalho, visando à orientação de práticas seguras, uso correto e contínuo
+de epi, epc e a sinalização dos locais de trabalho, através da utilização dos procedimentos
+legais, internos e dos contratantes.
+
+
+os supervisores de obra, encarregados ou técnicos de segurança realizam inspeções diárias
+em campo, utilizando o formulário ficha de inspeção do processo (fip). em 100 % das
+obras realizadas, verificamos a utilização correta e contínua de equipamentos de proteção
+individual e coletiva epi/epc; o sistema de sinalização do local da obra de acordo com
+procedimentos internos; a limpeza e organização do local da obra; a forma de coleta e o
+descarte de resíduos gerados na obra. [g4-pr1] *tema material
+
+
+abaixo, as principais ações e programas que fazem parte da gestão de saúde e segurança
+da organização.
+
+programas e ações               objetivo
+                                preservar a saúde e a integridade física dos colaboradores,
+                               por meio do desenvolvimento das etapas de antecipação,
+programa de prevenção       de reconhecimento, avaliação e, consequentemente, do controle
+riscos ambientais - ppra       da ocorrência dos riscos físicos, químicos e biológicos existentes
+                               ou que venham a existir nos locais de trabalho, considerando a
+                               proteção ao meio ambiente e aos recursos naturais.
+                            criar e manter no âmbito da organização, a cultura de prevenção
+                            adequada, aliada à responsabilidade social da empresa, em
+                            todos os níveis hierárquicos. atuar na promoção da saúde,
+programa de controle médico
+                            prevenção, rastreamento e diagnóstico precoce dos agravos à
+de saúde ocupacional -pcmso
+                            saúde relacionados ao trabalho. reduzir os índices de acidentes
+                            de trabalho e doenças profissionais e cumprir a legislação
+                            trabalhista em relação à saúde do trabalhador.
+
+
+
+
+                                                                   capital humano relatório de sustentabilidade - 2015 | 53
+
+                                                           promover ações educativas e preventivas ao uso de álcool e
+                                                           outras drogas, incentivando a adoção de hábitos saudáveis, de
+                                                           valorização da vida e segurança no trabalho, através de palestras,
+             viva+radiante                                 campanhas e ações pontuais, conforme os princípios da gestão
+                                                           para a sustentabilidade.
+
+
+                                                           por se tratar de uma técnica aplicável a todas as atividades de
+                                                           campo da empresa, a técnica de análise preliminar de risco
+             análise preliminar de riscos-
+                                                           promove e estimula nas equipes, a responsabilidade solidária,
+             apr
+                                                           emitida sempre antes do início dos trabalhos, antecipando-se a
+                                                           possíveis riscos de acidentes.
+                                                           informar o funcionário sobre os riscos do ambiente de trabalho;
+                                                           tipos de epi/epc a serem utilizados; treinamentos necessários
+             ordens de serviço
+                                                           para cada função existente na empresa e a participação de cada
+                                                           colaborador na prevenção de acidentes de trabalho.
+                                                           comissão interna de prevenção de acidentes – cipa;
+
+             comitês                                       comitê viva+radiante;
+
+                                                           comitê de sustentabilidade.
+                                           por meio de reuniões mensais e ações pontuais, a cipa tem como
+             comissão interna de prevenção
+                                           objetivo discutir e sugerir medidas de proteção à prevenção de
+             de acidentes - cipa
+                                           acidentes de trabalho.
+             semana interna de prevenção através de palestras, visa conscientizar o colaborador sobre
+             de acidentes de trabalho-sipat diversos temas sobre a área de saúde e segurança do trabalho.
+                                                           conscientizar, orientar e preparar o colaborador para executar
+             treinamentos para                             suas tarefas conforme os procedimentos organizacionais. entre
+             colaboradores                                 os treinamentos existentes, destacamos as nrs, treinamentos
+                                                           operacionais e liderança.
+                                                           conscientizar, orientar e preparar o prestador de serviços a
+             treinamentos para prestadores                 executar suas tarefas da melhor maneira possível, através dos
+             de serviço                                    treinamentos de segurança sobre as nrs específicas.
+
+                                                           conscientizar, orientar o colaborador sobre os procedimentos e
+             integração com clientes                       normas dos clientes.
+                                                           normatizar as atividades de maneira que sejam realizadas
+                                                           sempre seguindo os procedimentos internos dos contratantes
+             instruções de trabalho - itr                  e legais.
+                                                           diminuir os índices de colisões que comprometem estruturas
+                                                           e equipamentos da empresa. preservar a vida e a integridade
+             direção defensiva                             física dos condutores, demais colaboradores e terceiros. mitigar
+                                                           as infrações de trânsito.
+
+54 | relatório de sustentabilidade - 2015 capital humano
+
+direção defensiva
+em 2015, de 540 colaboradores da empresa, 290 participaram do curso de direção defensiva,
+ultrapassando a meta estipulada no relatório de 2014, de treinar 50% dos condutores.
+
+ base operacional                                                             treinados
+ curitiba - pr                                                                   65
+ cascavel - pr                                                                   20
+
+ maringá - pr                                                                      31
+
+ londrina - pr                                                                     28
+ joinville - sc                                                                    33
+ florianópolis - sc                                                                20
+ porto alegre - rs                                                                 64
+  belo horizonte - mg                                                              20
+ goiânia - go                                                                      09
+
+ total                                                                            290
+
+
+no ano de 2015, registramos 23 acidentes de trabalho considerados de menor gravidade,
+totalizando 371 dias perdidos. taxas de lesões, doenças ocupacionais, dias perdidos,
+absenteísmo e óbitos relacionados ao trabalho (ano - 2015). [g4-la6] *tema material
+
+ taxa de lesões                                                                               0,12
+ absenteísmo                                                                                  0,78
+ acidentes com óbito                                                                           00
+ acidentes sem óbito/ homens                                                                   17
+ acidentes sem óbito/ mulheres                                                                 00
+ afastamento por doença ocupacional                                                            00
+ afastamento por acidente de trabalho/ homens                                                  17
+ afastamento por acidente de trabalho/ mulheres                                                00
+ dias perdidos por doença ocupacional                                                          00
+ dias perdidos por acidentes de trabalho/ homens                                              0,19
+ dias perdidos por acidentes de trabalho/ mulheres                                             00
+
+o cálculo da taxa de lesão tem como base a nbr (norma brasileira) 14280 da abnt (associação brasileira
+de normas técnicas). a meta para 2016 é reduzir os acidentes de trabalho com lesão em 20%.
+
+
+
+
+                                                                                capital humano relatório de sustentabilidade - 2015 | 55
+
+        saúde e bem-estar do colaborador
+
+        viva+radiante
+
+        o programa atua na melhoria da saúde e qualidade de vida do trabalhador. ele já foi implantado
+        na matriz - curitiba - e nas filiais de belo horizonte, londrina e florianópolis. houve um
+        investimento, em 2015 de 39.858 mil reais em ações e campanhas que promoveram a
+        conscientização e prevenção de temas relacionados à prevenção do câncer, acidentes de
+        trabalho, uso de álcool e outras drogas, doenças sexualmente transmissíveis, prevenção de
+        doenças crônicas e estímulos à prática de exercícios físicos. todas as ações têm a finalidade
+        de contribuir para a valorização da vida, mudanças de hábitos e a importância de realizar
+        exames médicos preventivos e de forma periódica.
+
+
+        conheça as ações desenvolvidas pelo viva+radiante no ano vigente ao relatório.
+
+        palestras
+
+                    • uso de álcool e outras drogas;
+
+                    • benefícios da ginástica laboral;
+
+                    • prevenção do câncer de pele, mama e próstata;
+
+                    • dst/aids
+
+
+
+
+56 | relatório de sustentabilidade - 2015 capital humano
+
+campanhas
+
+     • vacinação contra as gripes sazonal e h1n1;
+
+     • exames preventivos de câncer de mama, próstata e pele em parceria com o sesi
+
+      paraná;
+
+     • dia da beleza (palestras, corte de cabelo, massagem relaxante);
+
+     • outubro rosa: campanha de conscientização sobe a prevenção de câncer de mama;
+
+     • novembro azul: campanha de conscientização de prevenção do câncer de próstata.
+
+
+
+
+                      a ginástica laboral é uma das ações do viva+radiante.
+
+
+
+
+                                                                        capital humano relatório de sustentabilidade - 2015 | 57
+
+        comunidades locais
+        investimento na comunidade
+        a radiante incentiva projetos e iniciativas que contribuam para o desenvolvimento e
+        crescimento econômico, social e sustentável das comunidades onde a empresa está
+        presente. para poder implantar essas iniciativas, a organização colabora com as comunidades,
+        procurando identificar como pode auxiliar no atendimento, sobretudo, das necessidades de
+        qualificação profissional das pessoas do entorno. [g4-so1, g4-ec7]
+
+
+        em 2015, apoiamos ações comunitárias voltadas à qualificação profissional, esporte, saúde
+        e educação, de entidades e comunidades localizadas em curitiba. investimos mais de 75 mil
+        reais para melhoria da qualidade de vida da população. [g4-so1, g4-ec7]
+
+
+        esporte e inclusão social
+        damos também suporte aos jovens da periferia em um projeto de inclusão social do clube
+        orleans, em curitiba. através do esporte, esses jovens participam de competições locais
+        ampliando seu universo cultural e social, encontrando no futebol melhoria na qualidade de
+        vida.
+
+
+
+
+                                                       apoiamos a inclusão social por meio do esporte.
+
+
+
+
+58 | relatório de sustentabilidade - 2015 comunidades locais
+
+cultura
+por acreditar que a cultura possui um poder transformador na vida, principalmente da criança,
+a radiante apoia a orquestra filarmônica lions. a orquestra faz apresentações, cuja renda
+da bilheteria é revertida para a escola de música lions. ela oferece aulas gratuitas de música
+a crianças e adolescentes carentes de 7 a 14 anos que vivem em comunidades situadas em
+áreas de risco, em bairros da periferia de curitiba.
+
+
+
+
+                          apresentação da orquestra lion, curitiba – paraná.
+
+
+saúde
+auxiliamos, financeiramente, projetos ligados à saúde de crianças e adolescentes. citamos
+como exemplo, o projeto “pela vida da criança”, do hospital erasto gaertner, sediado
+em curitiba. o projeto é baseado em pesquisas direcionadas à cura do câncer infanto-
+juvenil (do diagnóstico ao tratamento da doença). contribuímos também com o hospital
+pequeno príncipe; abrigo infantil pequeno cotolengo e com o fundo estadual da infância e
+adolescência.
+
+
+
+
+                                                                      comunidades locais relatório de sustentabilidade - 2015 | 59
+
+        voluntariado
+        estimulamos o engajamento dos nossos colaboradores em ações sociais, sobretudo
+        direcionadas a crianças doentes e em situação de risco social. em 2015, realizamos ações
+        com a presença de voluntários da organização, na comunidade vila torres e no hospital
+        pequeno príncipe. uma experiência enriquecedora, que desperta nos funcionários
+        o sentimento de ajuda ao próximo.
+
+
+
+
+                          colaboradores da radiante praticam voluntariado em hospitais e comunidades da periferia.
+
+
+
+
+60 | relatório de sustentabilidade - 2015 comunidades locais
+
+qualificação profissional
+em parceria com associações de bairros, a radiante promoveu cursos de perfumaria
+artesanal e sabonete especial de natal para 47 mulheres moradoras dos bairros no
+entorno da matriz. [g4-so1, g4-ec7]
+
+moradoras da comunidade, muitas delas desempregadas, aprenderam a produzir hidrante
+corporal, perfumes, óleos corporais, sais de banho e sabonete líquido. dona ivete de
+morais carvalho relata que sua intenção é produzir os cosméticos artesanais em casa para
+consumo próprio e, se der certo, pretende comercializá-los. [g4-so1, g4-ec7]
+
+os cursos de qualificação profissional desenvolvem o potencial de empregabilidade
+e renda das mulheres, além de fomentar a independência financeira de pessoas que
+apostam em trabalhos autônomos. no planejamento para 2016, definimos, em conjunto
+com as associações dos bairros, novos cursos a serem realizados, sempre atendendo à
+necessidade de qualificação profissional da comunidade. [g4-so1, g4-ec7]
+
+
+
+
+               mulheres da comunidade realizam cursos de qualificação profissional gratuitos.
+
+
+
+
+                                                                          comunidades locais relatório de sustentabilidade - 2015 | 61
+
+        apoio a eventos da comunidade
+        em uma ação voltada à comunidade de um bairro do entorno da matriz, a radiante participou
+        pela primeira vez de um evento organizado pela comunidade, apoiando ações com foco em
+        boas práticas sociais e ambientais. para viabilizar a estrutura montada, houve a mobilização
+        de equipes dos departamentos de recursos humanos, marketing, logística e qualidade,
+        que juntos montaram uma estrutura para atender à comunidade no dia do evento.
+
+
+        uma das ações da empresa foi levar à comunidade o programa radiante ambiental.
+        distribuímos cartilhas de boas práticas ambientais para a população e orientamos quanto à
+        construção de canteiros sustentáveis para jardins a partir de materiais reutilizáveis. levamos
+        ao local, canteiros de temperos e ervas aromáticas construídos por funcionários da empresa
+        a partir de pneus usados, escadas, fios de espinar e garrafas pet.
+
+
+
+
+          colaboradores da radiante junto da presidente da associação dos moradores do bairro santo inácio – curitiba – pr.
+
+
+
+
+62 | relatório de sustentabilidade - 2015 comunidades locais
+
+agradecimento
+
+a elaboração deste relatório só foi possível pelo empenho e colaboração de funcionários
+que se colocaram à disposição para coletar e encaminhar as informações necessárias para
+a elaboração do relato. foi um esforço em conjunto que mobilizou os departamentos
+estratégicos da radiante em prol da sustentabilidade.
+
+para nós, a produção e divulgação do segundo relatório de sustentabilidade da radiante
+engenharia de telecomunicações é motivo de orgulho e nos motiva a buscar uma empresa
+cada vez mais sustentável, alinhada às boas práticas socioambientais.
+
+muito obrigado!
+
+
+
+
+                                                                         relatório de sustentabilidade - 2015 | 63
+
+         organizadores do relatório
+         comitê de sustentabilidade da radiante
+         *por ordem alfabética
+         adilson ribeiro de lima                luiz carlos de pauli
+         alan dolenc corradini                  mariana goularte
+         aldo rogério davel                     marilua feitoza
+         alexandre stahlschmidt                 mário dapper
+         helio bampi (a.d.)                     osvaldo moraes junior
+         hilário luiz spohr                     ronaldo pinto
+         jedalva oliveira                       *alta direção (a.d.): helio bampi
+         jhone penha                            (diretor presidente)
+         joão sá (a.d.)                         *alta direção (a.d.): joão sá (diretor
+                                                administrativo financeiro)
+         joão de frança
+                                                *alta direção (a.d.): luis nicolait
+         luis nicolait (a.d.)
+                                                (diretor de operações)
+
+         apoio às informações
+         antônio belin
+         daiane kanape
+
+
+
+         créditos
+
+         coordenação geral                            consultoria em gri
+
+         marketing e sustentabilidade                 consultoria sesi em gestão da estratégia
+                                                      e sustentabilidade - gerência de
+                                                      responsabilidade social sesi paraná
+         colaboração
+                                                      redação e produção
+         presidência; superintendência;
+         marketing e sustentabilidade;                marilua feitoza, jornalista (drt-pr 10141)
+         comercial; ti; recursos humanos;
+         administrativo; assessoria jurídica;         revisão
+         gerência de contratos;
+                                                      cláudia moreira, jornalista
+         financeiro; meio ambiente e
+                                                      (drt 2593/13/20/df)
+         qualidade.
+                                                      contato: sustentabilidade@radiante.com.br
+         fotografia
+
+         felipe rosa
+
+
+         projeto gráfico e diagramação
+
+         verbal comunicação
+
+
+
+64 | relatório de sustentabilidade - 2015
+
+nossas unidades [g4-5]
+
+matriz – curitiba (pr)                              filial – florianópolis (sc)
+br 277, nº 748, mossunguê.                          rua farroupilha, 211, santos dumont.
+cep 82305-100                                       cep 88117-110
+contato: (41) 3311-9466                             contato: (48) 3298-945
+
+
+filial – londrina (pr)                              filial – joinville (sc)
+rua lupércio pozato, 933, pq. ind. josé belinati.   rua bento torquato da rocha, 274.
+cep 86084-450                                       cep: 89237-100
+contato: (43) 3027-6762                             contato: (47) 3034-2551
+
+
+filial - porto alegre (rs)                          filial - campo grande (ms)
+rua fernando ferrari, 300, anchieta.                rua carapo, 116, coronel antonino.
+cep: 90200-040                                      cep: 79013-530
+
+                                                    contato: (67) 2106-3550
+filial - belo horizonte (mg)
+
+rua major selfino de paula, 1954, são francisco.    filial – cuiabá (mt)
+
+cep 31255-170                                       av. miguel sutil, 14360, jardim ubatam.
+contato: (31) 3234-8257                             cep: 78025-700
+
+                                                    contato: (65) 2129-1768
+filial - goiânia (go)
+
+rua 3, nº 339, centro
+
+cep: 74020-013
+
+contato: (62) 9851-6717
+
+
+
+
+                                                                              relatório de sustentabilidade - 2015 | 65
+
+                  índice remissivo
+
+                                                 conteúdos-padrão gerais
+                     conteúdos-padrão gerais     página /          descrição               verificaçã   princípio
+                                                 resposta                                  o externa     pacto
+                                                                                                         global
+                         estratégia e análise
+                                 g4-1                       mensagem do presidente           não
+                         perfil organizacional
+                                 g4-3                           nome da organização          não
+                                 g4-4                     principais marcas, produtos e      não
+                                                                        serviços
+                                     g4-5                      localização da sede da        não
+                                                                      organização
+                                     g4-6                    países onde a organização       não
+                                                                         opera
+                                     g4-7                   natureza da propriedade e        não
+                                                                     forma jurídica
+                                     g4-8                 mercados onde a organização        não
+                                                                          atua
+                                    g4-9                        porte da organização         não
+                                    g4-10                      perfil dos empregados         não           6
+                                    g4-11                    empregados cobertos por         não           3
+                                                          acordo de negociação coletiva
+                                    g4-12                      descrição da cadeia de        não
+                                                          fornecedores da organização
+                                                           mudanças significativas em
+                                    g4-13                   relação ao porte, estrutura,     não
+                                                              participação acionária e
+                                                               cadeia de fornecedores
+                                    g4-14                      princípio da precaução        não           7
+                                                           cartas, princípios ou outras
+                                    g4-15                    iniciativas desenvolvidas       não
+                                                                    externamente
+                                    g4-16                 participações em associações
+                                                            e organizações nacionais e       não
+                                                                    internacionais
+                                                               entidades incluídas nas
+                                    g4-17                   demonstrações financeiras        não
+                                                          consolidadas e entidades não
+                                                               cobertas pelo relatório
+                                    g4-18                    processo de definição do        não
+                                                                conteúdo do relatório
+                                    g4-19                       aspectos materiais do        não
+                                                                        relatório
+                                    g4-20                 limite, dentro da organização,     não
+                                                                de cada tema material
+                                    g4-21                  limite, fora da organização,      não
+                                                                de cada tema material
+                                                   não    reformulação de informações
+                                    g4-22         houve       fornecidas em relatórios       não
+                                                                       anteriores
+                                                   não     alterações significativas de
+                                    g4-23         houve     escopo e limite de aspectos      não
+                                                               materiais em relação a
+                                                                 relatórios anteriores
+                             engajamento de
+
+
+66 | relatório de sustentabilidade - 2015
+
+                                       anteriores
+                       não     alterações significativas de
+      g4-23           houve    escopo e limite de aspectos        não
+                                 materiais em relação a
+                                  relatórios anteriores
+ engajamento de
+  stakeholders
+     g4-24                          lista de grupos de            não
+                                 stakeholders engajados
+      g4-25                         base usada para a             não
+                               identificação e seleção de
+                                       stakeholders
+      g4-26                   abordagem para envolver os          não
+                                       stakeholders
+                              principais tópicos e questões
+                                  levantadas durante o
+      g4-27                   engajamento, por grupos de          não
+                                       stakeholders
+perfil do relatório
+       g4-28                       período coberto pelo           não
+                                          relatório
+      g4-29                     data do relatório anterior        não
+                                        mais recente
+      g4-30           anual   ciclo de emissão de relatórios      não
+                               contato sobre perguntas do         não
+      g4-31                    relatório ou de seu conteúdo
+                                  opção da aplicação das
+      g4-32                     diretrizes e localização da       não
+                                         tabela gri
+                       não    política e prática atual relativa
+      g4-33           houve   à busca de verificação externa      não
+                                      para o relatório
+   governança
+     g4-34                      estrutura da governança da        não
+                                        organização
+                                    processo usado para
+                              delegação de autoridade pelo        não
+      g4-35                          mais alto órgão de
+                                        governança.
+                                 cargos e funções de nível
+                               executivo responsável pelos
+      g4-36                    tópicos econômicos e sociais       não
+                              que se reportam ao mais alto
+                                    órgão de governança.
+                                 composição do mais alto          não
+      g4-38                        órgão de governança e
+                                          comitês.
+                              cargo de alto nível que analisa     não
+                                  e aprova formalmente o
+      g4-48                   relatório de sustentabilidade,
+                                 e garante que os aspectos
+                                materiais sejam abordados.
+ética e integridade
+                              valores, princípios, padrões e
+      g4-56                   normas de comportamento da          não                   10
+                                      organização.
+                                 mecanismos internos e
+                                    externos sobre                                      10
+      g4-57                   comportamentos éticos e em          não
+                                                                        relatório de sustentabilidade - 2015 | 67
+                                  conformidade com a
+                                        legislação.
+
+                                                                  materiais sejam abordados.
+                  ética e integridade
+                                                                valores, princípios, padrões e
+                            g4-56                               normas de comportamento da                 não            10
+                                                                        organização.
+                                                                   mecanismos internos e
+                                                                      externos sobre                                      10
+                             g4-57                              comportamentos éticos e em                 não
+                                                                    conformidade com a
+                                                                          legislação.
+
+
+                                                       conteúdos padrão específicos
+                                             informações                                                                  princípi
+            aspectos materiais              sobre a forma       descrição do indicador          omissões    verificação   o pacto
+                                              de gestão e                                                    externa      global
+                                              indicadores
+            saúde e segurança
+               no trabalho
+                                                            tipos e taxas de lesões, doenças
+                                                              ocupacionais, dias perdidos,
+                     g4-la6                                 absenteísmo e número de óbitos        não            não           1
+                                                               relacionados ao trabalho,
+                                                               discriminados por região e
+                                                                        gênero
+                treinamento e
+                  educação
+                                                              número médio de horas de
+                     g4-la9                                    treinamento por ano por            não            não
+                                                             empregado, discriminado por
+                                                             gênero e categoria funcional
+            investimento em
+           proteção ambiental
+                                                            total de investimentos e gastos
+                    g4-en31                                    com proteção ambiental,            não            não      7, 8 e 9
+                                                                 discriminado por tipo
+           satisfação do cliente
+                                                                percentual das categorias
+                                                               significativas de produtos e
+                     g4-pr1                                     serviços para os quais são        não            não
+                                                             avaliados impactos na saúde e
+                                                             segurança buscando melhorias
+                     g4-pr5                                    resultados de pesquisas de         não            não
+                                                                   satisfação do cliente
+                                                               número total de queixas e
+                     g4-pr8                                    reclamações comprovadas            não            não
+                                                             relativas à violação e perda de
+                                                                     dados de cliente
+                                                               valor monetário de multas
+                                                                  significativas por não
+                     g4-pr9                                      conformidade com leis e          não            não
+                                                                regulamentos relativos ao
+                                                            fornecimento e uso de produtos
+                                                                         e serviços
+            não discriminação
+                                                               número total de casos de
+                     g4-hr3                                    discriminação e medidas            não            não      1, 2 e 6
+                                                                  corretivas tomadas
+            conformidade com
+           leis e regulamentos
+                ambientais
+                                                                valor monetário de multas
+                                                             significativas e número total de
+                    g4-en29                                      sanções não monetárias           não            não           8
+                                                            aplicadas em decorrência da não
+                                                                 conformidade com leis e
+68 | relatório de sustentabilidade - 2015                       regulamentos ambientais
+             conformidade no
+            fornecimento e uso
+
+                                  e serviços
+ não discriminação
+                          número total de casos de
+      g4-hr3              discriminação e medidas           não   não              1, 2 e 6
+                             corretivas tomadas
+ conformidade com
+leis e regulamentos
+     ambientais
+                           valor monetário de multas
+                        significativas e número total de
+     g4-en29                sanções não monetárias          não   não                  8
+                       aplicadas em decorrência da não
+                            conformidade com leis e
+                           regulamentos ambientais
+ conformidade no
+fornecimento e uso
+  de produtos e
+     serviços
+                          multas significativas por não
+      g4-pr9                conformidade com leis e         não   não
+                       regulamentos ao fornecimento e
+                           uso de produtos e serviços
+                              percentual de novos
+     g4-en32            fornecedores selecionados com       não   não                  8
+                          base em critérios ambientais
+  diversidade e
+   igualdade de
+  oportunidades
+                           composição dos grupos
+                       responsáveis pela governança e
+                        discriminação de empregados
+     g4-la12              por categoria funcional, de       não   não                  6
+                       acordo com gênero, faixa etária,
+                       minorias e outros indicadores de
+                                 diversidade
+  trabalho infantil
+                           operações e fornecedores
+                       identificados como de risco para
+      g4-hr5           a ocorrência de casos de trabalho    não   não                  5
+                        infantil e medidas tomadas para
+                            contribuir com a efetiva
+                        erradicação do trabalho infantil
+   impactos dos
+serviços na saúde e
+segurança do cliente
+                           percentual das categorias
+                          significativas de produtos e
+      g4-pr1               serviços para os quais são       não   não
+                        avaliados impactos na saúde e
+                        segurança buscando melhorias
+                          valor monetário de multas
+                             significativas por não
+      g4-pr9                conformidade com leis e
+                           regulamentos relativos ao        não   não
+                       fornecimento e uso de produtos
+                                    e serviços
+trabalho forçado ou
+análogo ao escravo
+                            operações e fornecedores
+                           identificados como de risco
+                       significativo para a ocorrência de
+      g4-hr6            trabalho forçado ou análogo ao      não   não              1, 2 e 4
+                       escravo e medidas tomadas para
+                        contribuir para a eliminação de
+                          todas as formas de trabalho
+                         forçado ou análogo ao escravo
+  investimento em
+   infraestrutura e                                               relatório de sustentabilidade - 2015 | 69
+       serviços
+                       desenvolvimento de impacto de
+
+                                                           significativas por não
+                                    g4-en29
+                                    g4-pr9               sanções não monetárias
+                                                         conformidade       com leis e         não   não
+                                                   aplicadas              relativosda
+                                                                em decorrência
+                                                        regulamentos                 aonão     não   não
+                                                         conformidade
+                                                   fornecimento       e usocom   leis e
+                                                                             de produtos
+                                                        regulamentos      ambientais
+                                                                  e serviços
+                             trabalho forçado ou            impactos ambientais
+                             análogo ao escravo       significativos decorrentes do
+                                                   transporte
+                                                        operações de produtos     e outros
+                                                                      e fornecedores
+                                    g4-en30            bens   e materiais
+                                                       identificados    comousados   nas
+                                                                                de risco       não   não
+                                                    operações da
+                                                   significativo      organização,
+                                                                   para  a ocorrência bem de
+                                     g4-hr6            como do
+                                                    trabalho      transporte
+                                                                forçado         de seusao
+                                                                          ou análogo           não   não   1, 2 e 4
+                                                                 empregados
+                                                   escravo e medidas        tomadas para
+                                                    total   de investimentos
+                                                    contribuir                   e gastos
+                                                                  para a eliminação     de
+                                    g4-en31              com as
+                                                       todas   proteção
+                                                                  formasambiental,
+                                                                            de trabalho        não   não   7, 8 e 9
+                                                          discriminado
+                                                     forçado    ou análogo    aotipo
+                                                                            por   escravo
+                               investimento em              percentual de novos
+                                    g4-en32 e
+                                infraestrutura      fornecedores selecionados com              não   não    7e8
+                                    serviços          base em critérios ambientais
+                                                        mecanismos dede
+                                                   desenvolvimento           queixas
+                                                                              impacto e de
+                                    g4-ec7             reclamaçõesem
+                                                   investimentos       relacionadas     a
+                                                                           infraestrutura      não   não
+                                    g4-en34                  serviçosambientais
+                                                           eimpactos    oferecidos             não   não      8
+                                                      protocoladas,
+                                                     programas          processadasde
+                                                                    implementados       e
+                                                        solucionadas por meio de
+                                                             mecanismo formal
+                                privacidade do
+                                    cliente
+                                                      número total de queixas e
+                                                      reclamações comprovadas
+                                     g4-pr8             relativas à violação de                não   não
+                                                   privacidade e perda de dados de
+                                                                cliente
+                                    g4 – so1        engajamento da comunidade                  não   não
+                                                                 local
+                                   combate à
+                                   corrupção
+                                    g4-so5         casos confirmados de corrupção              não   não     10
+                                                         e medidas tomadas
+                            impactos ambientais
+                                  g4-en3             consumo de energia dentro da              não   não      8
+                                                                organização
+                                     g4-en8           total de retirada de água por            não   não      8
+                                                                    fonte
+                                    g4-en15           emissões diretas de gases de             não   não    7e8
+                                                      efeito estufa (gee) (escopo 1)
+                                                          peso total de resíduos
+                                    g4-en23         discriminados por tipo e método            não   não
+                                                               de disposição
+                                                        extensão da mitigação de
+                                    g4-en27        impactos ambientais de produtos             não   não      8
+                                                                 e serviços
+                                                        valor monetário de multas
+                                                     significativas e número total de
+                                    g4-en29              sanções não monetárias                não   não
+                                                    aplicadas em decorrência da não
+                                                         conformidade com leis e
+                                                        regulamentos ambientais
+                                                           impactos ambientais
+                                                      significativos decorrentes do
+                                                    transporte de produtos e outros
+                                    g4-en30            bens e materiais usados nas             não   não
+                                                     operações da organização, bem
+                                                       como do transporte de seus
+                                                               empregados
+                                                     total de investimentos e gastos
+                                    g4-en31              com proteção ambiental,               não   não   7, 8 e 9
+                                                          discriminado por tipo
+                                                           percentual de novos
+                                    g4-en32         fornecedores selecionados com              não   não    7e8
+                                                      base em critérios ambientais
+                                                        mecanismos de queixas e
+                                                       reclamações relacionadas a
+                                    g4-en34                impactos ambientais                 não   não      8
+                                                       protocoladas, processadas e
+                                                        solucionadas por meio de
+                                                            mecanismo formal
+                                privacidade do
+                                    cliente
+                                                      número total de queixas e
+                                                      reclamações comprovadas
+                                     g4-pr8             relativas à violação de                não   não
+                                                   privacidade e perda de dados de
+                                                                cliente
+
+
+
+70 | relatório de sustentabilidade - 2015
+

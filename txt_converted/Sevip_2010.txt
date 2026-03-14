@@ -1,0 +1,1319 @@
+ memòria de
+sostenibilitat
+
+  any 2009
+
+
+1.        carta de la direcció ................................................................................... 4
+2.        abast de la memòria ................................................................................. 5
+3.        perfil i estructura ..................................................................................... 6
+3.1.      dades bàsiques ..................................................................................................... 6
+3.2.      principals activitats, productes i/o serveis ........................................................... 6
+3.3.      organització .......................................................................................................... 8
+4.        estratègia de l’organització ...................................................................... 9
+4.1.      visió, missió i valors.............................................................................................. 9
+4.2.      política de responsabilitat social ........................................................................... 9
+4.3.      grups d’interès .................................................................................................... 10
+5.        indicadors .............................................................................................. 11
+5.1.      vector econòmic .................................................................................................. 11
+5.1.1     valor econòmic generat ........................................................................................... 11
+5.1.2     planificació estratègica ............................................................................................. 11
+5.1.3     innovació ............................................................................................................... 11
+5.1.4     proveïdors i empreses contractades ........................................................................... 12
+5.2.      objectius econòmics 2010................................................................................... 13
+5.3.      vector ambiental ................................................................................................. 13
+5.3.1     gestió ambiental ..................................................................................................... 13
+5.3.2     consum d’energia i aigua ......................................................................................... 13
+5.3.3     producció i gestió de residus ..................................................................................... 15
+5.3.4     emissions de gasos i efluents .................................................................................... 15
+5.3.5     formació i sensibilització ambiental ........................................................................... 15
+5.4.      objectius ambientals 2010 .................................................................................. 16
+5.5.      vector social ....................................................................................................... 16
+5.5.1     perfil de la plantilla .................................................................................................. 16
+5.5.2     remuneració del personal ........................................................................................ 16
+5.5.3     absentisme laboral .................................................................................................. 17
+5.5.4     rotació de la plantilla............................................................................................... 17
+5.5.5     formació ................................................................................................................ 17
+5.5.6     igualtat d’oportunitats i conciliació de la vida laboral i personal ..................................... 18
+5.5.7     comunicació amb la plantilla .................................................................................... 19
+5.5.8     seguretat i salut en el treball .................................................................................... 19
+5.5.9     drets humans ......................................................................................................... 19
+5.5.10 satisfacció del client ................................................................................................ 20
+5.5.11 responsabilitat sobre el producte i la comunicació ....................................................... 20
+5.5.12 relació amb la comunitat ......................................................................................... 21
+5.6.      objectius socials 2010 ........................................................................................ 21
+6.        taula d’indicadors del global reporting initiative (gri) ........................ 22
+
+
+
+
+                                                                                                                                         3
+
+1.    carta de la direcció
+aquest 2009 per primera vegada, i en el marc d’implantació del programa rse.pime, publiquem la
+primera memòria de sostenibilitat per informar dels impactes socials, ambientals i econòmics de la
+nostra activitat. amb aquesta memòria culminem la participació en aquesta programa, però també
+volem garantir la continuïtat de la nostra estratègia de responsabilitat social i reafirmar el
+compromís envers la sostenibilitat.
+
+a sevip reconeixem la necessitat d’alinear el creixement econòmic amb la protecció ambiental i el
+progrés social per contribuir a un futur sostenible. per això, treballem per oferir serveis de
+seguretat amb la màxima qualitat i eficàcia als nostres clients mitjançant la responsabilitat i la
+seriositat en la protecció dels seus béns.
+
+la nostra activitat, basada en els principis del desenvolupament equilibrat, sostenible i
+responsable, busca sempre les solucions per donar resposta als nous reptes socials i a les noves
+necessitats del mercat. la capacitat d’adaptació als canvis, l’atenció permanent a la innovació i la
+implicació de tots els nostres professionals ens permet assumir any rere any aquest compromís.
+
+el nostre principal objectiu és oferir uns serveis de qualitat i innovadors amb una total vocació de
+servei al client, buscant solucions àgils i adaptades a les seves necessitats de l’àmbit de la
+seguretat passiva. en aquest context, la gestió socialment responsable forma part íntegra de
+l’estratègia de sevip, marcant les accions a desenvolupar i consolidant un model d’empresa propi.
+
+en l’àmbit dels recursos humans, apostem per un equip de professionals que permeti donar una
+resposta de qualitat en la prestació dels serveis. per això, treballem per garantir la professionalitat
+dels nostres professionals i prioritzem la contractació de caràcter indefinit per estabilitzar la
+plantilla. així mateix, la igualtat d’oportunitats, la satisfacció, la formació i el desenvolupament
+professional, la comunicació i la seguretat i la salut són els principals eixos de treball en matèria de
+recursos humans. en aquest sentit, el 2009 hem elaborat el pla d’igualtat d’oportunitats entre
+dones i homes per establir els mecanismes que ens permetran garantir aquesta igualtat i millorar
+la nostra actuació en aquesta àmbit.
+
+la prestació d’un servei de qualitat i la satisfacció dels clients són la nostra raó de ser. per això,
+des de l’any 2005 tenim implantat un sistema de gestió de la qualitat certificat segons la norma
+iso 9001. d’acord amb aquesta norma, anualment avaluem el grau de satisfacció dels clients a
+través d’una enquesta la qual cosa ens permet definir les accions de millora a implantar en línia
+amb la millora contínua.
+
+el respecte per l’entorn natural és un compromís ferm de sevip, per això dediquem esforços per
+implantar mesures relacionades amb la disminució del consum de recursos i l’estalvi energètic, la
+minimització i la correcta gestió dels residus, entre d’altres. una de les accions destacades en
+aquest àmbit de cara als propers tres anys, és el canvi gradual de la nostra flota de 22 vehicles
+amb motor de combustió interna per dues subflotes amb les següents característiques: pels
+vehicles d’actuació immediata de vigilància i servei al client dins l’àmbit metropolità incorporarem
+un vehicle zev (vehicle de zero emissions) i pels vehicles dels serveis comercial, tècnic i
+d’instal·lacions fora de l’àrea metropolitana incorporarem vehicles de tecnologia híbrida.
+
+
+
+
+                                                                     anna medina, directora general
+
+
+
+
+                                                                                                           4
+
+2.    abast de la memòria
+a finals de l’any 2008 a sevip, en el marc del programa rse.pime, vam iniciar la implantació d’una
+estratègia de responsabilitat social, per això per primer any a sevip elaborem una memòria de
+sostenibilitat per informar dels impactes i de les accions desenvolupades en els àmbits ambiental,
+econòmic i social de la nostra activitat, corresponents al període comprès entre d’1 de gener i el 31
+de desembre de 2009. es preveu que el cicle de presentació de les memòries sigui biennal.
+
+la cobertura d’aquesta memòria corresponen a totes les activitats de sevip, incloent les
+delegacions de menorca i madrid. val a dir que les dades de l’apartat de medi ambient únicament
+inclouen la seu central de barcelona.
+
+la memòria s’ha elaborat de conformitat amb les indicacions i principis internacionals que estableix
+la guia per a l’elaboració de memòries de sostenibilitat versió 3.0 del global reporting initiative,
+estàndard internacional per a l’elaboració de memòries de sostenibilitat. segons aquesta guia, la
+memòria té un nivell c d’aplicació autodeclarat.
+
+
+
+
+                                                                                                        5
+
+3.     perfil i estructura
+
+3.1.   dades bàsiques
+
+nom de l’organització:                            sevip
+adreça de la seu principal:                       c/pujades, 89
+localitat:                                        08005 barcelona
+forma jurídica:                                   societat anònima
+número de socis:                                  3
+número de treballadors/es:                        72
+telèfon:                                          902 500 130
+fax:                                              93 861 70 19
+correu electrònic:                                web_online@sevip.com
+pàgina web:                                       www.sevip.es
+
+
+3.2.   principals activitats, productes i/o serveis
+
+a sevip som una empresa del sector de la seguretat passiva amb una trajectòria de més de 25
+anys. des del 1982, proposem als nostres clients les solucions més adequades a les necessitats del
+seu negoci.
+•    instal·lació, manteniment i solució d’avaries en equips i sistemes de seguretat.
+•    control i gestió en temps real d’instal·lacions les 24 h del dia des d’una central receptora
+     pròpia.
+•    instal·lació d’alarmes d’incendi, robatori i circuit tancat de televisió (televigilància).
+•    custòdia de claus.
+•    cobrim les necessitats de tots els sectors econòmics: entitats financeres, administració pública,
+     grans instal·lacions, edificis d’alt risc, edificis d’oficines, industries i fàbriques, comerços i
+     habitatges.
+
+a sevip oferim una gamma molt àmplia d'equips de seguretat i dissenyem
+solucions a la mida per cada un dels nostres clients. unim seguretat a
+responsabilitat per oferir sempre un plus als nostres clients.
+
+
+
+
+     instal·lació i manteniment d'equips i                               televigilancia
+              sistemes de seguretat
+    anti intrusió                                        central receptora d'alarmes
+    detecció i extinció d'incendis                       vídeo verificació d'alarmes / transmissió
+    control d'accessos                                    d'imatges
+    circuit tancat de televisió (cctv)                   transmissió back-up / dual
+    protecció bancària                                   identificació d'usuaris
+    gravació i transmissió digital de vídeo              sistemes bidireccionals
+    integració de sistemes
+    servei tècnic 24 hores
+        gestió de sistemes de segureta                          servei de custòdia de claus
+    paràmetres tècnics: errors xarxa, nivells,        la nostra norma és aplicar el més alt grau
+     temperatura                                       d'exigència en verificar la veracitat i magnitud
+    test de sistemes                                  de l'alarma rebuda per facilitar l'accés a les
+    suport via ràdio                                  forces de seguretat només quan el cas ho
+    controls a distància                              requereix. el nostre personal va degudament
+
+
+
+                                                                                                          6
+
+   llista d'incidències en línia                      uniformat, amb cotxe retolat i sempre dotat de
+   alarmes mèdiques                                   telèfon mòbil per mantenir contacte amb la
+                                                       central receptora d'alarmes.
+                                            servei 24 hores
+el funcionament de la central receptora d'alarmes (cra) és permanent, 24 hores el dia els 365
+dies de l'any. l'operador de la cra rep un senyal procedent d'un sistema d'alarma sevip, verifica
+el senyal descartant una possible falsa alarma, avisa immediatament les forces de seguretat i
+localitza el responsable per part del client, o el seu suplent.
+   el personal del servei de custòdia va al lloc de l'incident i facilita l'accés de les forces de
+    seguretat a l'interior de les instal·lacions per facilitar una inspecció a fons.
+   es lliura al client un informe exhaustiu de l'incident.
+gràcies a la coordinació de la cra i el servei tècnic, la reparació d'una avaria en el seu sistema de
+seguretat es pot fer a l'instant. sense esperes que incrementarien els nivells de risc.
+
+a sevip no treballem amb marques pròpies, sinó que som distribuïdor multimarca i les principals
+marques amb les que treballem són: bosch, ademco, kilsen, notifier i panasonic.
+
+
+
+tipologia de clients
+el tipus de clients als quals s’adrecen els serveis de sevip són:
+•   empreses obertes al públic: cadenes de grans botigues, cadenes de botigues, grans
+    superfícies, organismes oficials, grans corporacions, hotels i restaurants
+•   empreses industrials
+•   empreses que requereixen alta seguretat: banca, joieria i museus
+
+
+
+àmbit d’actuació
+la seu central de sevip es troba a barcelona, i compta amb delegacions menorca i madrid. al
+voltant del 80%-90% dels clients es concentren a la província de barcelona.
+
+seu central                         delegació de menorca                delegació de madrid
+c/ pujades, 16                      c/artrutx, 10-a.                    c/jérez,123
+08005 barcelona                     07714 (poima) maó menorca           28514 nuevo baztán, madrid
+
+
+
+
+participació en associacions
+sevip és membre de l’associació catalana d’empreses de
+seguretat (acaes) que forma part de pimec. la directora
+general actua com a vocal de centrals receptores i participa
+en les juntes mensuals i altres reunions que es convoquen
+periòdicament. també participa en altres aspectes
+relacionats amb el conveni del sector.
+
+
+                                                                                                        7
+
+també, som membres de la comissió de falses alarmes i participem en trobades que es
+convoquen dos cops al mes. i, per últim, som una de les empreses patrocinadores de l’associació
+de directius de seguretat.
+
+
+
+premis
+a títol personal, anna media, directora general, l’ any 2008 ha rebut una menció honorífica
+especial de la direcció general de la policia i la guardia civil en reconeixement pel compliment de
+les funcions de la tasca desenvolupada (trajectòria).
+
+
+3.3.   organització
+
+sevip és una societat anònima en la que el seu màxim òrgan de govern és el consell
+d’administració format per 3 socis: administrador únic (president) i 2 consellers delegats (socis
+passius). del president de l’empresa en deriva la direcció general que té delegades totes les
+responsabilitats de l’empresa; de manera que la directora general és qui té la responsabilitat
+directa sobre el desenvolupament econòmic, social i ambiental de l’organització. de direcció
+general en deriven les diferents àrees. la plantilla poden contactar directament amb el màxim
+òrgan de govern per fer recomanacions.
+
+
+
+
+                                                                                                      8
+
+4.     estratègia de l’organització
+
+4.1.   visió, missió i valors
+
+missió
+sevip som una empresa amb més de 25 anys d’experiència en el sector de la seguretat passiva
+dedicada a la instal·lació, el manteniment i la solució d’averies en sistemes de seguretat. alhora
+controlem i gestionem en temps real les instal·lacions dels clients les 24 hores del dia des de la
+nostra central receptora aportant com a valor afegit responsabilitat i seriositat en l’eficàcia del
+servei.
+
+visió
+continuar oferint serveis de seguretat amb la màxima qualitat i eficàcia als nostres clients
+mitjançant la responsabilitat i la seriositat en la protecció dels seus béns.
+
+posicionar sevip com una de les primeres empreses de seguretat en tots els àmbits en els que
+actuï, tant territorial com funcionalment, i assolir una posició sòlida en el sector i de lideratge en el
+segment.
+
+valors
+•    responsables: gestionar els béns dels clients com si fossin els propis amb implicació i
+     constància.
+•    seriosos: actuar i respondre d’acord amb els interessos del client mantenint els compromisos
+     adquirits.
+•    flexibles: adaptar els productes i serveis a les necessitats i requisits del mercat i de cada
+     client, tant intern com extern.
+•    professionals: tenir personal tècnicament qualificat i vetllar per una formació continuada que
+     permeti aplicar els seus coneixements en la prestació del servei tendint a l’excel·lència
+     operacional.
+•    participatius: fer que totes les persones que formen l’equip humà participin en el
+     desenvolupament de l’empresa.
+•    respectuosos amb l’entorn natural: minimitzar el consum de recursos i gestionar
+     adequadament els residus generats.
+
+
+4.2.   política de responsabilitat social
+
+les persones integrants de sevip assumim el compromís de seguir treballant per a assegurar la
+qualitat total i la gestió ambiental en tots els nostres projectes i serveis d’acord amb la norma une-
+en-iso 9001:2000, així com complir amb els requisits legals establerts en matèria de seguretat i
+salut dels treballadors/es. també ens comprometem a integrar, de forma voluntària en la nostra
+política d’empresa i en la nostra pràctica diària, els criteris de responsabilitat social que estiguin al
+nostre abast.
+
+en aquest marc, els membres de sevip assumim els següents compromisos:
+
+•    impulsar una organització eficient i flexible, orientada a les necessitats i requisits del mercat i
+     de cada client, tant intern com extern.
+•    treballar per a avançar en la comprensió de les necessitats dels clients, oferint un servei òptim
+     i mantenint els compromisos adquirits.
+•    disposar d’una plantilla tècnicament qualificada, oferint una formació contínua per a assegurar
+     el seu desenvolupament professional i personal.
+
+
+
+
+                                                                                                            9
+
+•   afavorir un clima de treball satisfactori a través de la millora contínua de les condicions
+    laborals, garantint la igualtat d’oportunitats i la no discriminació, oferint mesures de conciliació
+    de la vida personal i professional i posant al seu abast diversos beneficis socials.
+•   complir els requisits del sistema d’assegurament de la qualitat total implantat a sevip i
+    contribuir a la millora contínua de la gestió empresarial.
+•   minimitzar l’impacte ambiental derivat de les nostres activitats i serveis, millorant la gestió dels
+    residus que generem i potenciant l’estalvi d’energia i d’aigua a les nostres instal·lacions.
+•   mantenir relacions de col·laboració amb l’entorn local proper a l’empresa i participant en
+    associacions sectorials, professionals i empresarials.
+•   avaluar i seleccionar empreses proveïdores i subcontractades que compleixin requeriments de
+    la responsabilitat social.
+•   difondre els compromisos d’aquesta política als diferents grups d’interès de sevip, amb els
+    mitjans que estiguin al nostre abast.
+
+
+4.3.   grups d’interès
+
+                 grup d’interès                                          descripció
+                                                    persones que desenvolupen el seu treball amb
+equip humà                                          un contracte laboral o professional i amb una
+                                                    retribució dinerària i/o amb espècies.
+                                                    - empreses
+clients
+                                                    - administració pública
+                                                    persones que posseeixen participacions en la
+accionistes
+                                                    propietat de l’empresa.
+                                                    empreses proveïdores de productes/serveis i
+empreses proveïdores                                empreses subcontractades pel
+                                                    desenvolupament de projectes.
+                                                    entitats d’iniciativa pública o privada de l’entorn
+                                                    local proper i entitats sense ànim de lucre
+                                                    relacionades amb l’activitat empresarial.
+                                                    - pimec
+entorn local
+                                                    - cambra de comerç de barcelona
+                                                    - acaes
+                                                    - associació de directius de seguretat
+                                                    - comissió de falses alarmes
+                                                    - agència tributària
+                                                    - seguretat social
+administració pública                               - ico
+                                                    - fundació tripartita
+                                                    - inem
+
+
+
+
+                                                                                                           10
+
+5.     indicadors
+
+5.1.   vector econòmic
+
+
+5.1.1 valor econòmic generat
+
+                                                   any 2007            any 2008          any 2009
+valor econòmic generat
+vendes netes (€)                                     5.652.000 €        6.954.000 €      6.560.000 €
+valor econòmic distribuït
+costos d’explotació (€)                              2.325.495 €        2.905.366 €     2.696.716 €
+despeses salarials totals (€)                        2.358.111 €        2.725.573 €     2.726.038 €
+donacions i inversions a la comunitat (€)                     0€                 0€           0   €
+benefici net abans d’impostos (€)                       31.148 €           32.081 €        20.806 €
+pagaments a proveïdors de capital (€)                         0€                 0€           0   €
+pagaments a governs (€)                                  8.659 €           12.601 €      8.114,00 €
+
+
+xifra de negoci (€)                                  5.652.000 €        6.954.000 €      6.560.000 €
+subvencions rebudes d’administracions (€)                     0€                 0€               0€
+
+planificació i gestió pressupostària
+la gestió econòmica de sevip persegueix l’equilibri econòmic i financer. disposa d’un procés de
+gestió pressupostària formal i el seu seguiment es fa des de direcció financera i direcció general.
+
+
+5.1.2 planificació estratègica
+
+a sevip reconeixem la necessitat d’alinear el creixement econòmic amb la protecció ambiental i el
+progrés social per contribuir a un futur sostenible. per això, treballem per oferir serveis de
+seguretat amb la màxima qualitat i eficàcia als nostres clients mitjançant la responsabilitat i la
+seriositat en la protecció dels seus béns.
+
+en el marc del programa rse.pime, a sevip hem elaborat un pla estratègic que
+integra els tres àmbits de la responsabilitat social (econòmic, ambiental i social) i
+considera cada un dels nostres grups d’interès. la responsabilitat social és un
+element transversal de l’estratègia empresarial de manera que afecta cada un dels
+departaments de la nostra empresa. pel seguiment de la planificació estratègica
+hem establert objectius per cada una de les accions a implantar.
+
+per assegurar l’estàndard de qualitat, disposem d’un sistema de gestió de la qualitat implantat i
+certificat segons la norma iso 9001 des de l’any 2005. en el marc d’aquesta certificació, existeixen
+protocols i procediments per a la gestió d’aspectes econòmics i socials que estan recollits en el
+manual de qualitat de la iso 9001. a més, per a l’àmbit ambiental, disposem d’un procediment per
+a la gestió de l’energia i l’aigua i un procediment per a la gestió dels residus.
+
+
+5.1.3 innovació
+
+a sevip treballem per posar a disposició dels clients els professionals més qualificats i els mitjans
+tecnològics més avançats per oferir-los totes les garanties. per això, anem sempre un pas per
+davant, incorporant les tecnologies més avançades en identificació, detecció i control. el nostre
+maquinari i programari informàtic són els més avançats i els nostres tècnics en disseny de sistemes
+
+
+
+                                                                                                        11
+
+estan en continu procés d'aprenentatge i experimentació. som conscients que en el nostre sector
+d’activitat comptar amb la tecnologia punta equival a disposar de la millor seguretat.
+
+val a dir, que, a sevip no podem innovar en productes perquè ens limitem a la distribució dels
+productes, és a dir, en l’ús dels productes en la prestació del servei. no obstant, procurem innovar
+en processos que permetin incrementar l’eficàcia i la qualitat dels nostres serveis.
+
+exemple de projecte d’innovació
+actualment, estem desenvolupant un projecte d’innovació
+en el que mitjançant tablets-pc i pdas permetrà els
+següents avantatges:
+     controlar online l’execució de la feina
+     eliminar la redacció escrita de més de 19.000
+       comunicats passant la seva redacció a ser
+       automàtica i evitant així la impressió dels
+       documents en original i còpia autocalcant
+
+
+els objectius són:
+     eliminar els errors d’escriptura per part del tècnic
+     mantenir un control d’estocs permanent
+     optimitzar el rendiment de la nostra mà d’obra qualificada donant-los accés remot a
+        l’historial de cada client i a l’estoc de l’empresa.
+
+eliminant l’escriptura física i la seva transcripció dins l’erp de l’empresa s’estalvien més de 1.500
+hores per tècnic, podent reubicar aquesta capacitat productiva en tasques d’atenció al client.
+
+el desenvolupament del projecte ha tingut una durada de 18 mesos i de cara a l’abril del 2010 es
+faran les proves per la posada en funcionament.
+
+els recursos materials han estat físics amb la implicació i seguiment dels departaments involucrats
+així com de la direcció de sistemes i tres empreses externes. el cost aproximat, tot i que falta el
+tancament definitiu, ha estat de 40.000 €.
+
+d’altra banda, com a empresa que forma part de l’acaes, col·laborem en projectes d’innovació
+amb universitats.
+
+
+5.1.4 proveïdors i empreses contractades
+
+un part important dels proveïdors de sevip són les empreses multinacionals que són les úniques
+que fabriquen els productes que distribuïm, de manera que el nostre marge de maniobra per a la
+selecció i avaluació de proveïdors és limitat. a més, hi ha molta concentració d’empreses
+proveïdores pels productes de l’àmbit de la seguretat. cal destacar, però, que la major part
+d’aquestes grans marques tenen integrat el compromís amb la responsabilitat i consideren criteris
+ambientals i socials en la seva estratègia empresarial.
+
+pel que fa a la compra d’altres productes i la contractació de serveis, sempre que és possible
+prioritzem els proveïdors locals.
+
+                                                                      any 2008         any 2009
+percentatge de proveïdors locals respecte el total de proveïdors        73%              74%
+percentatge de facturació a proveïdors locals respecte el total de      94%              93%
+proveïdors
+
+
+
+
+                                                                                                        12
+
+5.2.   objectius econòmics 2010
+
+objectius econòmics per al 2010
+•   reduir en un 10% l’import d’adquisicions de la partida compres, incloent proveïdors,
+    subcontractats, electricitat, gasoil, etc.
+•   finalitzar la implantació del projecte “tablet”
+
+
+5.3.   vector ambiental
+
+
+5.3.1 gestió ambiental
+
+conscients de l’impacte ambiental que té la nostra activitat, a sevip assegurem una correcta gestió
+dels aspectes ambientals i desenvolupem accions relacionades amb la disminució del consum de
+recursos, la minimització i gestió dels residus, entre d’altres. així, disposem d’un procediment de
+gestió de l’energia i l’aigua i un procediment per a la gestió de residus. a més, per controlar els
+consums de recursos i la generació de residus disposem d’un sistema de registre d’indicadors de
+consums energètics, d’aigua i de generació de residus. l’objectiu és controlar i minimitzar
+l’afectació sobre el medi.
+
+
+
+impactes ambientals significatius
+•   consum d’energia elèctrica
+•   consum de gasoil de la flota de vehicles
+•   generació de residus en la prestació del servei
+•   consum de paper
+
+
+
+5.3.2 consum d’energia i aigua
+
+consum d’energia
+el 79% de l’energia que consumim a sevip és gasoil d’automoció per la nostra flota de vehicles
+formada per un total de 22 vehicles.
+
+no hi ha consum d’energia provinent de fonts d’energia renovable.
+
+                                             any 2008                        any 2009
+consum d'energia elèctrica                          124.580 kwh                     123.865 kwh
+consum      d'energia    elèctrica        0,018 kwh/ € de xifra de        0,019 kwh/ € de xifra de
+amb relació a la xifra de negoci                           negoci                          negoci
+consum de gasoil                                    439.838 kwh                   471.364,7 kwh
+consum de gasoil amb relació              0,063 kwh/ € de xifra de        0,071 kwh/ € de xifra de
+a la xifra de negoci                                       negoci                          negoci
+consum total d'energia kwh                          564.418 kwh                     595.230 kwh
+consum total d'energia amb                0,081 kwh/ € de xifra de        0,090 kwh/ € de xifra de
+relació a la xifra de negoci                               negoci                          negoci
+
+el 2009 el consum d’electricitat ha disminuit lleugerament però el consum de gasoil ha augmentat
+respecte el 2008.
+
+
+
+
+                                                                                                      13
+
+bones pràctiques per a l’estalvi energètic
+•   ús de lluminàries de baix consum
+•   existència de termòstats per regular correctament la climatització de les oficines i normes d’ús
+    dels aparells d’aire fred i calent
+•   fer manteniment dels equips i maquinàries per optimitzar el consum energètic
+•   projecte de canvi dels vehicles de la flota
+
+l’objectiu és canviar gradualment la nostra flota de
+22 vehicles amb motor de combustió interna per
+dues subflotes amb les següents característiques:
+    -   pels vehicles d’actuació immediata de
+        vigilància i servei al client dins l’àmbit
+        metropolità incorporarem un vehicle zev
+        (vehicle de zero emissions)
+    -   pels vehicles dels serveis comercial, tècnic i
+        d’instal·lacions fora de l’àrea metropolitana
+        incorporarem      vehicles    de   tecnologia
+        híbrida.
+
+preveiem la substitució de tots els vehicles en un període de 3 anys.
+
+consum d’aigua
+l’aigua que consumim a sevip prové de la xarxa pública de subministrament i és per a ús
+domèstic. les aigües residuals generades a les oficines s’aboquen a la xarxa pública de
+clavegueram.
+
+el consum d’aigua ha disminuït tant en valors absoluts com per treballador/a, degut en part a les
+accions impulsades per reduir-ne la quantitat consumida.
+
+                                             any 2008                       any 2009
+consum d’aigua                                375 m3                         345 m3
+consum d’aigua/treballador/a                 6,25 l/treballador/a           4,86 l/treballador/a
+
+bones pràctiques per a l’estalvi i correcta gestió de l’aigua
+•   ús d’atomitzadors a les aixetes
+•   evitar deixar córrer l’aigua inútilment i tancar correctament les aixetes perquè no gotegin
+•   instal·lació de cisternes de doble descàrrega
+
+
+                                                                                                       14
+
+5.3.3 producció i gestió de residus
+
+a sevip vetllem per la correcta gestió dels residus a través de la
+recollida selectiva, la priorització la seva reducció en origen i una
+gestió adient dels residus perillosos (per exemple, bateries i
+iònics).
+com a part del nostre compromís ambiental, garantim la
+correcta gestió dels residus generats en la prestació dels nostres
+serveis (aparells en desús o material utilitzat) gestionant els
+residus industrials de les empreses clients, com per exemple,
+bateries o detectors iònics, que són portats a un gestor
+especialitzat. val a dir, però, que no és obligació de l’empresa
+gestionar aquests residus, però és un valor afegit al nostre
+servei.
+
+per a la gestió dels residus disposem d’un procediment específic.
+
+la tipologia de residus que generem a sevip és: paper i cartró, envasos lleugers i plàstics, tòners,
+fluorescents, piles i bateries, detectors iònics, gravadores d’imatges, extintors en desús, detectors
+volumètrics, material informàtics i resta (rebuig).
+
+per comptabilitzar la quantitat de residus generada, aquest 2009 hem establert uns sistemàtica de
+registre que ens permetrà disposar de dades en els propers anys.
+
+bones pràctiques per a la minimització i correcta gestió dels residus
+•   recollida selectiva de les diferents fraccions de residus. disposem de contenidors específics per
+    a cada un d’ells
+•   sempre que és possible, reutilització del paper
+•   instal·lació de filtres osmòtics per aigua de beure
+
+cal destacar que utilitzem paper reciclat i, per minimitzar-ne el seu consum, prioritzem la
+digitalització de tota la documentació.
+
+
+5.3.4 emissions de gasos i efluents
+
+a sevip som conscients de l’impacte que té la nostra activitat en el medi ambient i vers el canvi
+climàtic.
+
+l’augment del consum total d’energia ha comportat un augment de les tones de co2 emeses.
+
+                                                      any 2008                   any 2009
+tones de co2 derivades del consum
+d’energia elèctrica                                          41,8 tn co2                 41,5 tn co2
+tones de co2 derivades del consum de
+gasoil                                                     112,7 tn co2                 120,8 tn co2
+tones equivalents de co2                                   154,5 tn co2                 162,3 tn co2
+tones equivalents de co2 amb relació a              0,022 tn co2/milers          0,025 tn co2/milers
+la xifra de negoci                            d’euros de xifra de negoci   d’euros de xifra de negoci
+
+
+5.3.5 formació i sensibilització ambiental
+
+per tal de fer partícips i sensibilitzar el nostre equip humà en temes ambientals hem impulsat
+diferents accions en aquest sentit.
+
+
+
+
+                                                                                                        15
+
+•   edició d’un fulletó de bones pràctiques ambientals
+•   edició d’un fulletó amb consells de conducció eficient
+•   ubicació de cartells amb bones pràctiques ambientals a les
+    oficines i magatzem amb consells específics per a l’estalvi
+    en els consums, l’ús eficient dels productes i aparells
+    elèctrics i la separació de residus.
+
+
+5.4.   objectius ambientals 2010
+
+objectius ambientals per al 2010
+•   iniciar el procés d’implantació d’un sistema de gestió ambiental segons la norma iso 14001.
+•   iniciar el canvi gradual dels vehicles de la flota.
+•   registrar la quantitat de residus generada.
+
+
+5.5.   vector social
+
+
+5.5.1 perfil de la plantilla
+
+la plantilla mitjana equivalent de sevip és de 72 persones, xifra que ha incrementat un 20%
+respecte el 2008.
+
+                                                      any 2008                       any 2009
+plantilla mitjana equivalent                             60                             72
+
+el 56% de la plantilla de sevip té entre 36 i 45 anys i és majoritàriament de nacionalitat espanyola.
+concretament, a l’oficina de barcelona el personal prové de catalunya, a l’oficina de maó és
+menorquina i a l’oficina de madrid és de la mateixa capital.
+
+
+
+
+per a la integració de personal discapacitat, tenim un 6,9% de personal discapacitat amb
+contractació directa el 2009, superant així el 2% que estableix la lismi.
+
+                                                      any 2008                       any 2009
+percentatge de persones amb alguna
+                                                          5’5%                         6’9%
+discapacitat a la plantilla
+
+
+5.5.2 remuneració del personal
+
+en l’àmbit de les remuneracions, cal considerar que les diferències entre el salari més alt i més baix
+de la plantilla es deuen al factor d’antiguitat i a les hores extraordinàries. així, no hi ha diferències
+salarials entre homes i dones, ja que els sous estan equiparats per un mateix lloc de treball.
+
+
+
+                                                                                                            16
+
+pel que fa a la relació entre el salari inicial estàndard i el salari mínim segons conveni del sector, a
+sevip el salari està per sobre del mínim segons conveni.
+
+beneficis socials
+com a beneficis socials la plantilla gaudeix de:
+•   tiquet restaurant (el 85% de la plantilla quedant exclosos els i les
+    operadores)
+•   vehicle d’empresa (40% de la plantilla)
+•   cost 0 en el sistema d’alarmes a la llar (100% de la plantilla)
+
+
+
+avaluació de la satisfacció de la plantilla
+per conèixer el grau de satisfacció de les persones que formem el nostre equip humà, aquest 2009
+hem elaborat una enquesta que contempla diferents aspectes relacionats amb el llocs de treball. el
+2010 avaluarem per primera vegada el grau de satisfacció de la plantilla.
+
+
+5.5.3 absentisme laboral
+
+a sevip hi ha un control de les absències. quant a les baixes laborals, aquestes es registren des del
+servei de prevenció aliè (mútua).
+
+les principals causes de l’absentisme són les visites mèdiques, les malalties i les maternitats i
+paternitats.
+
+                                                                      any 2008           any 2009
+taxa d’absentisme                                                        5%                11%
+
+
+5.5.4 rotació de la plantilla
+
+una de les prioritats en la gestió de l’equip humà és garantir la fidelització de la plantilla, per això
+fomentem la contractació de caràcter indefinit.
+
+el percentatge de la plantilla amb contracte indefinit ha augmentat respecte el 2008, situant-se en
+un 94%.
+
+                                                                any 2008                any 2009
+percentatge de la plantilla amb contracte indefinit               89%                     94%
+percentatge de la plantilla amb jornada completa                  99%                     99%
+
+l’any 2008 a sevip no vam registrar cap baixa laboral. aquest 2009 l’índex de rotació no desitjada
+ha estat del 2%.
+
+                                                       any 2008                     any 2009
+                                                   home       dona              home       dona
+nombre de baixes voluntàries                         0          0                 1          0
+nombre de finalitzacions de contracte                0          0                 0          1
+nombre de jubilacions                                0          0                 0          0
+altres                                               0          0                 1          0
+
+
+5.5.5 formació
+
+a sevip la formació depèn de les necessitats que sorgeixen a l’empresa. la major part de la
+formació és a nivell tècnic i relacionada amb nous productes. també hi ha autoformació, és a dir, el
+personal forma a les noves incorporacions.
+
+
+                                                                                                           17
+
+l’objectiu de cara al 2010 és elaborar un pla de formació, lligat a un pla de carrera.
+
+                                                              any 2008               any 2009
+% personal que ha rebut formació respecte al
+total dels treballadors/es                                        7%                      12%
+inversió total en formació (€)                                  1.500 €                  8.000 €
+inversió    en     formació      per    treballador/a
+(€/treballador)                                                21,74 €                   115,94 €
+total d’hores de formació                                         120                      535
+mitjana d’hores de formació per treballador/a                     50                       60
+                                 direcció                          0                       40
+mitjana d’hores de formació      càrrecs intermitjos              60                       120
+per treballador/a segons
+                                 personal tècnic                  60                       200
+categoria professional
+                                 personal de suport                0                       175
+
+
+5.5.6 igualtat d’oportunitats i conciliació de la vida laboral i personal
+
+per tal de garantir la igualtat d’oportunitats i la no discriminació entre dones i homes, aquest 2009
+hem elaborat un pla d’igualtat d’oportunitats amb accions específiques dissenyades a partir dels
+resultats obtinguts d’una diagnosi de situació.
+
+el 21% de la plantilla de sevip són dones.
+                                                                        any 2008          any 2009
+percentatge de dones a la plantilla                                       19%               21%
+
+        percentatge de dones segons àrea                                  any 2009
+        presidència                                                                         0%
+        direcció general                                                                  100%
+        administració                                                                      75%
+        serveis generals                                                                  100%
+        tic                                                                                 0%
+        administració pública                                                              25%
+        central receptora d'alarmes                                                        43%
+        instal·lacions i averies                                                            0%
+        projectes magatzem                                                                  0%
+        vigilància                                                                         33%
+        comercial                                                                           0%
+
+        percentatge de dones segons grup laboral                          any 2009
+        directius/ves                                                       20%
+        comandaments intermitjos                                            0%
+        administratius/ves                                                  75%
+        comercial                                                           0%
+        central receptora d’alarmes                                         50%
+        oficials/les                                                        0%
+        vigilants                                                           33%
+
+tot i que mai no hem registrat cap cas d’assetjament sexual, en el marc del pla d’igualtat
+d’oportunitats entre dones i homes hem elaborat un protocol d’actuació davant de casos
+d’assetjament sexual i assetjament per raó de gènere.
+
+
+
+
+                                                                                                        18
+
+un altra acció realitzada en el marc del pla d’igualtat, ha estat la difusió d’un díptic per fomentar un
+ús neutre del llenguatge.
+
+per facilitar la conciliació de la vida personal, familiar i laboral, a sevip oferim les següents
+mesures:
+•   flexibilitat horària a l’hora d’entrada i sortida
+•   divendres tarda lliure tot l’any
+•   reducció de jornada
+•   excedències
+
+
+5.5.7 comunicació amb la plantilla
+
+per facilitar la comunicació i el diàleg amb i entre l’equip humà, disposem dels següents canals:
+•   comunicats d’empresa
+•   taulell d’anuncis
+•   reunions periòdiques
+•   bústia de suggeriments
+•   correu electrònic
+•   telèfon i fax
+
+
+
+5.5.8 seguretat i salut en el treball
+
+la seguretat i la higiene són aspectes fonamentals per al benestar del nostre equip humà i per això
+complim íntegrament la normativa existent en matèria de prevenció de riscos laborals (prl).
+
+per a la gestió de la prevenció de riscos laborals tenim contractat un servei de prevenció aliè.
+
+quant a la formació en prevenció de riscos laborals, aquest 2009 un 40% de la plantilla ha rebut
+formació de nivell mitjà. afegir que hi ha formació específica de recursos preventius.
+
+                                                                     any 2008            any 2009
+percentatge de la plantilla que ha rebut formació en prl               35%                 40%
+
+pel nombre de treballadors/es, a sevip no estem obligats a tenir un comitè de seguretat i salut
+però sí que hi ha un responsable d’aquest tema i també delegats de prevenció. disposem d’un pla
+de seguretat amb els epi’s i spi’s establerts i la mútua és l’encarregada de fer-ne el seguiment.
+
+                                                                     any 2008            any 2009
+índex d’incidència                                                    3.225,81            4.615,38
+índex de freqüència                                                    18,01               25,83
+índex de gravetat                                                       0,59                 0,9
+durada mitjana de les baixes degudes a accidents laborals              32,50               34,67
+
+
+5.5.9 drets humans
+
+l’àmbit d’actuació de sevip és espanya, que forma part de l’ocde, on el respecte als drets
+humans està legalment garantit.
+
+aquest 2009 hem elaborat un codi ètic que estableix les pautes per un comportament adequat i
+responsable de l’empresa i de totes les persones que la formem.
+
+
+
+
+                                                                                                           19
+
+5.5.10 satisfacció del client
+
+amb l’objectiu de garantir la millora continua i la satisfacció dels clients, des de l‘any 2005 tenim
+implantat un sistema de gestió de la qualitat certificat segons la iso 9001:2000.
+
+en el marc del sistema de gestió, anualment avaluem el grau de satisfacció dels clients a través
+d’una enquesta que s’envia als clients.
+
+                                                                 any 2008         any 2009
+        grau de satisfacció dels clients (escala de 1 a 10)          9                9
+
+a sevip oferim un tracte personalitzat al clients, atenent de forma ràpida i eficient les seves
+demandes i consultes. així, per aconseguir la màxima satisfacció dels clients treballem per millorar
+constantment la qualitat tècnica i el servei que els oferim.
+
+la comunicació amb els nostres clients va més enllà de la pròpia relació comercial, per això els
+canals de comunicació i diàleg que tenim establerts són:
+•   equip comercial (contacte directe amb el client)
+•   enquesta de satisfacció
+•   pàgina web
+•   telèfon / fax
+•   correu electrònic
+•   correu convencional
+•   tríptics de publicitat genèrica
+•   formació als clients en alarmes
+•   personal del servei de teleoperadors
+•   personal del servei tècnic d’avaries 24 h
+•   personal de la central receptora d’alarmes 24 h
+
+tal i com estableix el sistema de gestió de la qualitat, registrem i fem el seguiment de les queixes i
+suggeriments rebuts dels clients.
+
+                                                                     any 2008           any 2009
+nombre de queixes rebudes                                               15                 15
+percentatge de queixes amb origen en la prestació del propi
+                                                                           1%                1%
+servei
+
+
+5.5.11 responsabilitat sobre el producte i la comunicació
+
+a ser una empresa distribuïdora, a sevip no podem incidir en el cicle de vida dels productes en les
+fases de desenvolupament del concepte de producte, i+d, certificació, fabricació i producció,
+màrqueting i producció i emmagatzematge i distribució. no obstant, tots els nostres productes
+estan homologats per les mateixes empreses fabricants.
+
+en les fases del cicle de vida de subministrament, utilització i servei, eliminació, reutilització i
+reciclatge, garantim que l’afectació sobre la seguretat i la salut del client sigui mínima, per
+exemple, gestionant els aparells en desús que en alguns casos són residus perillosos.
+
+
+
+treballem per garantir la transparència en la publicitat i informem dels nostres serveis i no dels
+productes.
+
+a sevip no hem registrat mai cap sanció             per     incompliment    normatiu   amb   relació   al
+subministrament i ús de productes i serveis.
+
+
+                                                                                                            20
+
+5.5.12 relació amb la comunitat
+
+a sevip donem suport a projectes socials i patrocinem diferents iniciatives.
+
+accions socials desenvolupades
+•   patrocini de l’equip de futbol sala de les terres de tarragona (2008-2009): 600 €/any
+•   patrocini del sopar de l’acaes (2009): 1.000 €
+•   patrocini de l’associació de directius de seguretat integral (2008-2009): 1.200€/any
+l’associació de directius de seguritat integral (adsi) és una associació de professionals, tècnics i
+especialistes de la seguritat integral, amb una àmplia experiència i reconegut prestigi en el sector.
+
+l’adsi va ser creada el 1996 i té el seu origen en un grup de
+professionals que realitzaven reunions i xerrades a barcelona, en les
+quals es comentaven temes d'interès professional i s'intercanviaven
+informacions i experiències. d'aquestes reunions en va sorgir la idea
+d'ampliar i formalitzar l'experiència, amb un èxit que durant els primers
+15 dies d'existència de l’adsi s’hi van associar 43 professionals.
+
+l’adsi està formada per professionals que desenvolupen la seva activitat en camps tan diversos de
+la seguretat integral com: "banca, transports, indústria, mútues de prevenció, empreses de
+seguretat, centrals nuclears, seguretat pública, mitjans de comunicació , investigació privada,
+etc. "
+
+sevip és patrocinador oficial de l’adsi.
+
+
+5.6.   objectius socials 2010
+
+objectius socials per al 2010
+•   finalitzar el procés de definició dels llocs de treball.
+•   identificar i avaluar els riscos psicosocials de la plantilla.
+•   avaluar el grau de satisfacció de la plantilla.
+
+
+
+
+                                                                                                        21
+
+6.       taula d’indicadors del global reporting initiative (gri)
+a continuació, s’ha d’adjuntar una taula on es descriuen la relació d’indicadors gri reportats per cada un dels vectors.
+                                                                                                3.7.- indicar l’existència de limitacions de l’abast o cobertura de la           especificat
+contingut                                                                        pàgina         memòria.                                                                        al llarg de la
+                                                                                                                                                                                 memòria.
+1. estratègia i anàlisi
+                                                                                                3.8.- informació sobre negocis conjunts, filials, instal·lacions                      na2
+1.1.- declaració del president.                                                         4
+                                                                                                arrendades, activitats subcontractades i altres entitats que puguin
+1.2.- descripció dels principals impactes, riscos y oportunitats.                       4
+                                                                                                afectar significativament la comparabilitat entre períodes i/o entre
+2. perfil de l’organització                                                                     organitzacions.
+2.1.- nom de l’organització.                                                            6       3.9.- tècniques de mesura de dades i bases per realitzar els càlculs,            especificat
+2.2.- principals marques, productes i/o serveis.                                       6, 7     incloses les hipòtesis i tècniques subjacents a les estimacions aplicades       al llarg de la
+2.3.- estructura operativa de la organització, incloent les principals                  7       a la recopilació d’indicadors i resta d’informació de la memòria.                memòria.
+divisions, entitats operatives, filials i negocis conjunts.                                     3.10.- descripció de l’efecte que pugui tenir la reexpresió d’informació              na3
+2.4.- localització de la seu principal de l’organització.                               7       que pertany a memòries anteriors, juntament amb les raons que han
+                                                                                                motivat aquesta reexpresió.
+2.5.- nombre i nom dels països en els que opera l’organització.                         7
+                                                                                                3.11.- canvis significatius relatius a períodes anteriors en l’abast, la            na4
+2.6.- naturalesa de la propietat i forma jurídica.                                      6
+                                                                                                cobertura o els mètodes de valoració aplicats a la memòria.
+2.7.- mercats servits (incloent el desglossament geogràfic, els sectors                 7       índex del contingut del gri
+que engloba i els tipus de clients/beneficiaris).
+                                                                                                3.12.- taula que indica la localització dels continguts bàsics en la               22-27
+2.8.- dimensions de l’ organització que informa incloent el nombre               6, 7, 11, 16
+                                                                                                memòria.
+d’empleats, les vendes netes, la capitalització total i la quantitat de
+                                                                                                verificació
+productes o serveis prestats.
+                                                                                                3.13.- política i pràctica actual amb relació a la sol·licitud de verificació       na5
+2.9.- canvis significatius durant el període cobert por la memòria en            na1
+                                                                                                externa de la memòria.
+mida, estructura i propietat de l’organització.
+                                                                                                4. govern, compromisos i participació dels grups d’interès
+2.10.- premis i distincions rebudes durant el període informatiu.                       8
+                                                                                                4.1.- estructura de govern de l’organització.                                         8
+3. paràmetres de la memòria
+                                                                                                4.2.- indicar si el president del màxim òrgan de govern ocupa un càrrec               8
+perfil de la memòria
+                                                                                                executiu.
+3.1.- període cobert per la informació recollida en la memòria.                         5
+                                                                                                4.3.- nombre de membres del màxim òrgan de govern que siguin                          8
+3.2.- data de la memòria anterior més recent.                                           5       independents o no executius.
+3.3.- cicle de presentació de memòries.                                                 5       4.4.- mecanismes dels accionistes i empleats per comunicar                            8
+3.4.- punt de contacte per qüestions relatives a la memòria o al seu                    6       recomanacions o indicacions al màxim òrgan de govern.
+contingut.
+abast i cobertura de la memòria                                                                 2
+                                                                                                  no s’han produït canvis que afectin significativament la comparabilitat entre períodes
+3.5.- procés de definició del contingut de la memòria.                                  5
+                                                                                                i/o entre organitzacions.
+3.6.- cobertura de la memòria.                                                          5       3
+                                                                                                    no hi ha memòries anteriors.
+                                                                                                4
+                                                                                                    no hi ha canvis significatius relatius a períodes anteriors.
+1                                                                                               5
+    no s’han produït canvis significatius en el període cobert per la memòria.                      la memòria no ha estat verificada externament.
+
+4.5.- vincle entre la retribució dels membres del màxim òrgan de               8         l’organització en l’elaboració de l’informe.
+govern, alts directius i executius i l’acompliment de l’organització.
+4.6.- procediments implementats per evitar conflictes d’interessos en el     8, 19         gri                              descripció                                        pàgina
+màxim òrgan de govern.                                                                   acompliment econòmic
+4.7.- procediment de determinació de la capacitació i experiència              8         ec1 (p) valor econòmic directe generat i distribuït.                                    11
+exigible als membres del màxim òrgan de govern per poder guiar                           ec2 (p) conseqüències financeres i altres riscos i oportunitats per
+l’estratègia de l’organització en aspectes socials, ambientals i                                                                                                                 14
+                                                                                                 les activitats de l’organització a causa del canvi climàtic.
+econòmics.                                                                               ec3 (p) cobertura de les obligacions de l’organització que es deuen
+4.8.- declaracions de missió i valors desenvolupades internament,            9, 10                                                                                               17
+                                                                                                 a programes de beneficis socials.
+codis de conducta i principis rellevants per a l’acompliment econòmic,                   ec4 (p) ajudes financeres significatives rebudes per part de
+ambiental i social, i l’estat de la seva implementació.                                                                                                                          11
+                                                                                                 governs.
+4.9.- procediments del màxim òrgan de govern per supervisar la               8, 9        ec5 (a) rang de les relacions entre el salari inicial estàndard i el                    nd
+identificació i gestió, per part de l’organització, de l’acompliment                             salari mínim local en llocs on es desenvolupin operacions
+econòmic, ambiental i social, incloent riscos i oportunitats relacionades,                       significatives.
+així com l’adherència o compliment dels estàndards acordats a escala                     ec6 (p) política, pràctiques i proporció de despesa corresponent a                      12
+internacional, codis de conducta i principis.                                                    proveïdors locals a llocs on es desenvolupin operacions
+4.10.- procediments per avaluar l’acompliment del màxim òrgan de             8, 9                significatives.
+govern, especialment pel que fa a l’acompliment econòmic, ambiental i                    ec7 (p) procediments per a la contractació local i proporció d’alts                    na7
+social.                                                                                          directius procedents de la comunitat local als llocs on es
+compromisos amb iniciatives externes                                                             desenvolupin operacions significatives.
+4.11.- descripció de com l’organització ha adoptat un plantejament o           8         ec8 (p) desenvolupament i impacte de les inversions en                                 na8
+principi de precaució.                                                                           infraestructures i serveis prestats principalment per al
+4.12.- principis o programes socials, ambientals i econòmics                 na6                 benefici públic mitjançant compromisos comercials, pro
+desenvolupats externament, així com qualsevol altra iniciativa que                               bono, o en espècie.
+l’organització subscrigui o aprovi.                                                      ec9 (a) comprensió i descripció dels impactes econòmics indirectes                      nd
+4.13.- principals associacions a las quals pertanyi i/o ens nacionals i        7                 significatius, incloent-hi l’abast d’aquests impactes.
+internacionals als quals doni suport l’organització.                                     acompliment mediambiental
+participació dels grups d’interès                                                        en1 (p) materials utilitzats, per pes o volum.                                         nd9
+4.14.- relació de grups d’interès que l’organització ha inclòs.               10         en2 (p) percentatge dels materials utilitzats que són materials                        nd10
+4.15.- base per a la identificació i selecció de grups d’interès amb els      10                 valoritzats.
+quals es compromet la organització.                                                      en3 (p) consum directe d’energia desglossat per fonts primàries.                        13
+4.16.- enfocaments adoptats per a la inclusió dels grups d’interès,           10         en4 (p) consum indirecte d’energia desglossat per fonts primàries.                      13
+incloses la freqüència de la seva participació por tipus i categoria de
+grups d’interès.
+                                                                                         7
+4.17.- principals preocupacions i aspectes d’interès que hagin sorgit a       10             els directius provenen de la comunitat local on l’empresa desenvolupa la seva activitat.
+                                                                                         8
+través de la participació dels grups d’interès i forma com els ha respost                   no s’han desenvolupat inversions en infraestructures i serveis prestats amb aquesta
+                                                                                         finalitat destí.
+                                                                                         9
+6                                                                                            disponible en properes edicions de la memòria.
+   sevip no desenvolupa ni s’ha subscrit a principis o programes socials, ambientals i
+                                                                                         10
+econòmics.                                                                                    disponible en properes edicions de la memòria.
+
+
+
+                                                                                                                                                                                        23
+
+en5 (a)        estalvi d’energia per la conservació i millores en l’eficiència.       nd          en17 (p)       altres emissions indirectes, de gasos d’efecte d’hivernacle,        na18
+en6 (a)        iniciatives per proporcionar productes i serveis eficients en          14                         en pes.
+               el consum d’energia, basats en energies renovables, i les                          en18 (a)       iniciatives per reduir les emissions de gasos d’efecte               14
+               reduccions en el consum d’energia com a resultat                                                  hivernacle i les reduccions aconseguides.
+               d’aquestes iniciatives.                                                            en19 (p)       emissions de substàncies destructores de la capa d’ozó, en          na19
+en7 (a)        iniciatives per reduir el consum indirecte d’energia i les             14                         pes.
+               reduccions aconseguides amb aquestes iniciatives.                                  en20 (p)       no, so i altres emissions significatives a l’aire per tipus i       na20
+en8 (p)        captació total d’aigua per fonts.                                      14                         pes.
+en9 (a)        fonts d’aigua que han estat afectades significativament per           na11         en21 (p)       abocaments totals d’aigües residuals, segons naturalesa i            14
+               la captació d’aigua.                                                                              destí.
+en10 (a)       percentatge i volum total d’aigua reciclada i reutilitzada.           na12         en22 (p)       pes total de residus gestionats, segons tipus i mètode de           nd21
+en11 (p)       descripció de terrenys adjacents o ubicats dins d’espais              na13                        tractament.
+               naturals protegits o d’àrees d’alta biodiversitat no                               en23 (p)       nombre total i volum dels abocaments accidentals més                na22
+               protegides.                                                                                       significatius.
+en12 (p)       descripció dels impactes més significatius en la                      na14         en24 (a)       pes dels residus transportats, importats, exportats o                nd
+               biodiversitat en espais naturals protegits o en àrees d’alta                                      tractats que es consideren perillosos segons la classificació
+               biodiversitat no protegides, derivats de les activitats,                                          del conveni de basilea, annexos i, ii, iii i viii, i
+               productes i serveis en àrees protegides i en àrees d’elevat                                       percentatge de residus transportats internacionalment.
+               valor en biodiversitat en zones alienes a les àrees                                en25 (a)       identificació, mida, estat de protecció i valor de                  na23
+               protegides.                                                                                       biodiversitat de recursos hídrics i hàbitats relacionats,
+en13 (a)       hàbitats protegits o restaurats.                                      na15                        afectats significativament per abocaments d’aigües i aigües
+en14 (a)       estratègies i accions implementades i planificades per a la           na16                        d’escolament de l’organització que informa.
+               gestió d’impactes sobre la biodiversitat.                                          en26 (p)       iniciatives per mitigar els impactes ambientals dels              12, 14, 15
+en15 (a)       nombre d’espècies, desglossades en funció del seu perill              na17                        productes i serveis, i grau de reducció d’aquest impacte.
+               d’extinció, incloses en la llista vermella de la uicn i en                         en27 (p)       percentatge de productes venuts, i els seus materials               nd24
+               llistats nacionals, els hàbitats de les quals es trobin afectats                                  d’embalatge, que són recuperats al final de la seva vida
+               per les operacions de l’organització segons el grau                                               útil, per categories de productes.
+               d’amenaça de l’espècie.                                                            en28 (p)       cost de les multes significatives i nombre de sancions no           na25
+en16 (p)       emissions totals, directes i indirectes, de gasos d’efecte             15                         monetàries per incompliment de la normativa ambiental.
+               hivernacle, en pes.
+                                                                                                  18
+                                                                                                       no hi ha emissions indirectes de gasos d’efecte d’hivernacle,
+11                                                                                                19
+     no hi ha fonts d’aigua afectades significativament per la captació d’aigua.                       no hi ha emissions de substàncies destructores de la capa d’ozó.
+12                                                                                                20
+     l’aigua no és reciclada ni es reutilitza.                                                         no hi ha emissions de no, so ni altres emissions significatives a l’aire.
+13                                                                                                21
+   no es desenvolupen activitats en espais naturals protegits o d’àrees d’alta biodiversitat no        disponible en properes edicions de la memòria.
+                                                                                                  22
+protegides.                                                                                            no s’han produït abocaments accidentals.
+14                                                                                                23
+   no es desenvolupen activitats en espais naturals protegits o d’àrees d’alta biodiversitat no        no hi ha impactes sobre la biodiversitat.
+protegides.                                                                                       24
+                                                                                                       disponible en properes edicions.
+15
+     no es desenvolupen activitats en hàbitats protegits o restaurats.                            25
+                                                                                                     no s’ha rebut cap multa o sanció no monetària per incompliment de la normativa
+16
+     no hi ha impactes sobre la biodiversitat.                                                    ambiental.
+17
+     no es desenvolupen activitats en hàbitats protegits o restaurats.
+
+en29 (a) impactes ambientals significatius del transport de                     nd         la12 (a) percentatge d’empleats que rep avaluacions regulars de                          nd
+         productes i altres béns i materials utilitzats per les                                     l’acompliment i del desenvolupament professional.
+         activitats de l’organització, així com del transport de                           la13 (p) composició dels òrgans de govern corporatiu i plantilla,                        18
+         personal.                                                                                  desglossats per sexe, grup d’edat, pertinença a minories i
+en30 (a) desglossament per tipus del total de despeses i inversions             nd                  altres indicadors de diversitat.
+         ambientals.                                                                       la14 (p) relació entre salari base dels homes respecte del de les                        16
+acompliment social (pràctiques laborals)                                                            dones, desglossat per categoria professional.
+la1 (p)        desglossament del col·lectiu de treballadors per tipus de        16         acompliment social (drets humans)
+               feina, per contracte i per regió.                                           hr1 (p)  percentatge i nombre total d’acords d’inversió significatius                   na28
+la2 (p)        nombre total d’empleats i rotació mitjana d’empleats,            17                  que incloguin clàusules de drets humans o que hagin estat
+               desglossats per grup d’edat, sexe i regió.                                           objecte d’anàlisi en matèria de drets humans.
+la3 (a)        beneficis socials per als empleats amb jornada completa,         17         hr2 (p)  percentatge dels principals distribuïdors i contractistes que                  nd29
+               que no s’ofereixen als empleats temporals o a mitja                                  han estat objecte d’anàlisi en matèria de drets humans, i
+               jornada, desglossat per activitat principal.                                         mesures adoptades com a conseqüència.
+la4 (p)        percentatge de llocs de treball coberts per un conveni          na26        hr3 (a)  total d’hores de formació dels treballadors sobre polítiques                   na30
+               col·lectiu.                                                                          i procediments relacionats amb aquells aspectes dels drets
+la5 (p)        període(s) mínim(s) de preavís relatiu(s) a canvis              na27                 humans rellevants per les seves activitats, incloent el
+               organitzatius, incloent-hi si aquestes notificacions són                             percentatge de treballadors formats.
+               especificades en els convenis col·lectius.                                  hr4 (p)  nombre total d’incidents de discriminació i mesures                            na31
+la6 (a)        percentatge del total de treballadors que està representat                           adoptades.
+               en comitès de salut i seguretat i conjunts de direcció -                    hr5 (p)  activitats de la companyia en les quals el dret de llibertat                    1932
+               empleats, establerts per ajudar a controlar i assessorar                             d’associació i d’acollir-se a convenis col·lectius pot córrer
+               sobre programes de salut i seguretat a la feina.                                     importants riscos, i mesures adoptades per donar suport a
+la7 (p)        taxes d’absentisme, malalties professionals, dies perduts i                          aquests drets.
+               nombre de víctimes mortals relacionades amb la feina, per                   hr6 (p)  activitats identificades que comporten un risc potencial                        1933
+               regió.                                                                               d’incidents d’explotació infantil, i mesures adoptades per
+la8 (p)        programes d’educació, formació, assessorament, prevenció                             contribuir a la seva eliminació.
+               i control de riscos que s’apliquin als treballadors, a les                  hr7 (p)  operacions identificades com de risc significatiu de ser                        1934
+               seves famílies o als membres de la comunitat amb relació a
+               malalties greus.                                                            28
+                                                                                              no hi ha acorda d’inversió significatius. l’activitat de l’empresa es desenvolupa a espanya
+la10 (p)       mitjana d’hores de formació anuals per empleat,
+                                                                                           que forma part de l’ocde i on el respecte als drets humans.
+               desglossada per categoria d’empleat.
+                                                                                           29
+la11 (a)       programes de gestió d’habilitats i de formació contínua que                      no s’han analitzat els principals distribuïdors i contractistes en matèria de drets humans.
+                                                                                           30
+               fomentin l’ocupació dels treballadors i que els donin suport                     no s’ha impartit formació relacionada amb el respecte als drets humans.
+               en la gestió del final de les seves carreres professionals.                 31
+                                                                                                no s’han produït incidents de discriminació.
+                                                                                           32
+                                                                                               no hi ha activitats en les quals el dret de llibertat d’associació i d’acollir-se a convenis
+26
+     no existeix la representació legal de les persones treballadores.                     col·lectius corri riscos.
+27                                                                                         33
+     el període(s) mínim(s) de preavís relatiu(s) a canvis organitzatius és el legalment       no hi ha activitats identificades que comporten un risc potencial d’incidents d’explotació
+establert per cada cas.                                                                    infantil.
+
+
+
+                                                                                                                                                                                              25
+
+         origen d’episodis de treball forçat o no consentit, i mesures                                pr1 (p)      fases del cicle de vida dels productes i serveis en les quals       20
+         adoptades per contribuir a la seva eliminació.                                                            s’avaluen, per ser millorats si convé, els impactes que tenen
+hr8 (a)  percentatge del personal de seguretat que ha estat format                         nd                      aquests en la salut i seguretat dels clients, i percentatge de
+         en les polítiques o procediments de l’organització pel que fa                                             categories de productes i serveis significatius subjectes a
+         a aspectes dels drets humans rellevants per a les activitats.                                             aquests procediments d’avaluació.
+hr9 (a)  nombre total d’incidents relacionats amb violacions dels                          nd         pr2 (a)      nombre total d’incidents derivats de l’incompliment de la           na42
+         drets dels indígenes i mesures adoptades.                                                                 regulació legal o dels codis voluntaris relatius als impactes
+acompliment social (comunitat)                                                                                     dels productes i serveis a la salut i la seguretat durant el
+so1 (p) naturalesa, abast i efectivitat de programes i pràctiques per                    20, 21                    seu cicle de vida, distribuïts en funció del tipus de resultat
+        avaluar i gestionar els impactes de les operacions en les                                                  d’aquests incidents.
+        comunitats, incloent-hi entrada, operació i sortida de                                        pr3 (p)      tipus d’informació sobre els productes i serveis que són            20
+        l’empresa.                                                                                                 requerits pels procediments en vigor i la normativa, i
+so2 (p) percentatge i nombre total d’unitats de negoci analitzades                        1935                     percentatge de productes i serveis subjectes a aquests
+        pel que fa als riscos relacionats amb la corrupció.                                                        requeriments informatius.
+so3 (p) percentatge d’empleats formats en les polítiques de                               1936        pr4 (a)      nombre total d’incompliments de la regulació i dels codis           na43
+        procediments anticorrupció de l’organització.                                                              voluntaris relatius a la informació i a l’etiquetatge dels
+so4 (p) mesures adoptades en resposta a incidents de corrupció.                           na37                     productes i serveis, distribuïts en funció del tipus de resultat
+so5 (p) posició en les polítiques públiques i participació en el                          na38                     d’aquests incidents.
+        desenvolupament d'aquestes i d'activitats de lobbisme.                                        pr5 (a)      pràctiques pel que fa a la satisfacció del client, incloent-hi      20
+so6 (a) valor total de les aportacions financeres i en espècie a                          na39                     els resultats dels estudis de satisfacció del client.
+        partits polítics o a institucions relacionades, per països.                                   pr6 (p)      programes de compliment de les lleis o adhesió a                    na44
+so7 (a) nombre total d’accions per causes relacionades amb                                na40                     estàndards i codis voluntaris esmentats en comunicacions
+        pràctiques monopolístiques i contra la lliure competència, i                                               de màrqueting, inclosos en la publicitat, altres activitats
+        els seus resultats.                                                                                        promocionals i
+so8 (p) valor monetari de sancions i multes significatives i nombre                       na41                     patrocinis
+        total de sancions no monetàries derivades de l’incompliment                                   pr7 (a)      nombre total d’incidents fruit de l’incompliment de les             na45
+        de les lleis i regulacions.                                                                                regulacions relatives a les comunicacions de màrqueting,
+acompliment social (responsabilitat sobre productes)                                                               incloent la publicitat, la promoció i el patrocini distribuïts en
+                                                                                                                   funció del resultat d’aquests incidents.
+                                                                                                      pr8 (a)      nombre total de reclamacions degudament fonamentades                na46
+34
+   no hi ha operacions identificades com de risc significatiu de ser origen d’episodis de treball
+forçat o no consentit.
+35
+     no s’ha analitzat el negoci pel que fa als riscos relacionats amb la corrupció.                  42
+36                                                                                                       no s’han produït incidents derivats de l’incompliment de la regulació legal o dels
+     no s’ha impartit formació en formats en les polítiques de procediments anticorrupció.
+                                                                                                      codis voluntaris relatius als impactes dels productes i serveis a la salut i la seguretat
+37
+     no s’han produït incidents de corrupció.                                                         durant el seu cicle de vida.
+38                                                                                                    43
+    no es posiciona en polítiques públiques ni participació en el desenvolupament d'aquestes              no s’han produït incompliments de la regulació i dels codis voluntaris relatius a la
+ni d'activitats de lobbisme.                                                                          informació i a l’etiquetatge dels productes i serveis.
+39                                                                                                    44
+     no hi ha aportacions financeres i en espècie a partits polítics o a institucions relacionades.      no es disposa de programes de compliment de les lleis o adhesió a estàndards ni
+40
+    no s’han produït accions per causes relacionades amb pràctiques monopolístiques i contra          codis voluntaris en comunicacions de màrqueting.
+la lliure competència.                                                                                45
+                                                                                                           no s’han produït incompliments de les regulacions relatives a les comunicacions de
+41
+     no s’han rebut sancions ni multes per incompliment de les lleis i regulacions.                   màrqueting.
+
+           amb relació al respecte a la privacitat i la fuga de dades
+           personals de clients.
+pr9 (p)    cost de les multes que són significatives fruit de                   na47
+           l'incompliment    de  la   normativa     amb    relació al
+           subministrament i l’ús de productes i serveis de
+           l’organització.
+
+
+
+
+46
+   no s’han rebut reclamacions amb relació al respecte a la privacitat i la fuga de dades
+personals de clients.
+47
+   no s’han rebut multes fruit de l'incompliment de la normativa amb relació al
+subministrament i l’ús de productes i serveis de l’organització.
+
+
+
+                                                                                            27
+
+la memòria de sostenibilitat de sevip ha estat elaborada d’acord amb les directrius de la guia
+d’elaboració de memòries de sostenibilitat de gri g3. sevip cobreix en la memòria els requisits
+associats al nivell c d’aplicació de g3, el qual implica que compleix amb les especificacions
+associades al nivell c de g3 quant a perfil, enfocament de gestió i indicadors de desenvolupament.
+
+
+
+
+grau d’aplicació
+                                                        c              c+   b   b+   a          a+
+de la memòria
+indicadors estàndards
+
+
+
+
+                        auto declarat
+
+
+
+
+                        revisat per
+                        tercers
+
+                        revisat per gri
+
+
+
+
+                                          informar:
+                                          1.1
+perfil                                    2.1-2.10
+                                          3.1-3.8, 3.10-3.12
+                                          4.1-4.4, 4.14-4.15
+
+enfocament de
+                                          no requerit
+gestió
+                                          informar com a mínim de
+                                          10 indicadors
+indicadors de                             d’acompliment, incloent
+desenvolupament                           com a mínim un de cada
+                                          vector: social, econòmic i
+                                          ambiental
+
+
+
+
+                                                                                                     28

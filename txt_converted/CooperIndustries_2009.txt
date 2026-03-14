@@ -1,0 +1,1978 @@
+corporate social responsibility report
+cooper industries, ltd.
+
+scope of report
+
+based on an internal review, cooper industries determines this report to be
+a c level application of the global reporting initiative (gri) g3 guidelines.
+the g3 content index can be found on the table of contents page.
+
+some statements in this report are forward-looking, in that they relate to
+the manner in which we intend to conduct certain of our activities, based
+on management’s current plans and expectations. important factors that
+could impact whether any of our forward-looking statements materialize
+are discussed in our annual report.
+
+table of contents/gri mapping                                                                                            cooper industries, ltd.
+                                                                                                           corporate social responsibility repor t
+
+
+
+
+              page       outline                                                     global report initiative metrics*
+
+               1         table of contents/gri mapping                               rg3.12
+
+
+
+               2         letter from the chairman and ceo                            rg1.1, 1.2, 2.12
+
+
+
+               3         175 years of innovation,                                    ec1—direct economic value generated and distrib-
+                         service and expertise                                       uted, including revs, opex, sg&a, donations and
+                                                                                     other community investments, etc.
+
+
+
+               8         environmental stewardship                                   en20—nox/sox emissions by type and weight
+                                                                                     en23—total number and volume of significant spills
+
+
+
+               14        product innovation                                          en6—initiatives to provide energy-efficient
+                                                                                     products/services
+                                                                                     pr5—practices related to customer satisfaction
+
+
+
+               20        our employees                                               la1—total workforce by employment type,
+                                                                                     contract and region
+                                                                                     la4—percentage of employees covered by
+                                                                                     collective bargaining agreements
+                                                                                     la7—rates of injury, occupational diseases,
+                                                                                     lost days, fatalities, etc. by region
+                                                                                     la12—percentage of employees receiving regular
+                                                                                     performance and career development reviews
+
+
+
+               24        community                                                   so6—total value of financial and in-kind
+                                                                                     contributions to political parties, etc.
+
+
+
+               26        governance and ethics                                       rg4.1–4.11
+
+
+
+             * this report was developed and written with reference to the global reporting initiative (gri) “g3” sustainability reporting
+               guidelines. some indicators are fully reported, some partially.
+
+
+
+
+                                                                                                                                              p1
+
+     letter from the chairman and ceo
+
+     to our customers, employees and stakeholders around the world:                            those who know cooper industries are already familiar with the company’s
+                                                                                               longstanding commitments to customer satisfaction, employee safety,
+                                     cooper industries recently celebrated its
+                                                                                               community involvement and ethical business practices. while we are very
+                                     175th anniversary. it is a time to reflect upon
+                                                                                               pleased with the external accolades we have received in these areas,
+                                     and celebrate our rich history, but more
+                                                                                               such as being named to the cro magazine “100 best corporate citizens”
+                                     importantly, it is also a chance to look ahead
+                                                                                               list for 2008 as well as institutional investor’s 2008 ranking of “america’s
+                                     to the next 175 years and understand how
+                                                                                               most shareholder-friendly companies,” and being selected for inclusion
+                                     our decisions today impact future genera-
+                                                                                               by socially responsible stock indices such as ftse4good and kld, we
+                                     tions. from development of the first steam
+                                                                                               do these things because they are the right things to do and because it is
+                                     tractor in america, to a leading manufacturer
+                                                                                               a key part of the cooper legacy and culture. cooper recently performed a
+                                     of gas and diesel engines that helped power
+                                                                                               corporate-wide survey which included questions on the area of ethics and
+                                     the growing oil and gas industry as well as
+                                                                                               business conduct. we are very proud of the fact that our employees over-
+                                     rail and marine transportation, to thomas
+                                                                                               whelmingly rated cooper’s performance in this area very favorably.
+                                     edison’s inventions in electrical products,
+                                     and to today’s energy-efficient technologies              just as cooper has grown and changed over the course of its 175 years
+                                     that improve lives and also reduce the neg-               in business, the awareness and understanding of the impacts of the
+                                     ative impact on the planet, cooper industries             company’s operations has also changed. every thing we do impacts our
+     has always played a pivotal role in pioneering new frontiers. challenged                  stakeholders—employees, shareholders, customers, suppliers, commu-
+     by the mission to achieve continued growth while also respecting people,                  nities—in some way, every day. we realize and respect that the issues
+     communities and the natural environment, cooper industries is embracing                   covered in this report are important to all of our stakeholders.
+     the next frontier—sustainability.
+                                                                                               as a company that is committed to continuous improvement, we measure
+     as part of this strategic commitment, it is my honor to introduce cooper                  our impacts, implement more changes and foster further innovation. we
+     industries’ first extensive corporate social responsibility (csr) report.                 have for decades, through our environmental excellence program, reduced
+     developed in accordance with worldwide standards issued by the global                     waste water, energy consumption, and hazardous materials. as an example,
+     reporting initiative,1 this report takes a balanced look at cooper’s activities,          this year we went a step further and implemented a worldwide program to
+     accomplishments and challenges with regard to product innovation, com-                    document our energy use so we can better understand our company’s
+     munity relations, environmental programs, and ethics and governance                       carbon footprint. working with leading universities and industry experts,
+     policies and practices.                                                                   we will continue to evaluate our energy usage from a variety of sources
+                                                                                               (water, natural gas, fuel) to identify ways to increase efficiencies and reduce
+     as a global manufacturer and seller of electrical products and tools,
+                                                                                               our environmental impact around the globe. this is one example of many
+     cooper has the ability to effect large-scale change. our innovative power
+                                                                                               initiatives that will strengthen cooper’s environmental, social and economic
+     solutions, like envirotemp® fr3tm, can help utilities improve their operating
+                                                                                               performance. as we move forward, cooper employees will continue to
+     efficiency, while eliminating their dependence on petroleum-based coolants.
+                                                                                               innovate, invent and redefine products and processes in our businesses
+     our lighting products deliver a similar beneficial impact, providing better
+                                                                                               to echo our commitment to sustainability.
+     light quality for our customers while also substantially reducing their energy
+     use and carbon footprint. whether its high-performance fluorescents,                      we invite you to join us on this journey. together, we can ensure that
+     led technology, occupancy sensors, lighting controls, power demand                        cooper industries builds upon the foundation described in this report—a
+     management products or innovative, dependable tools, cooper industries’                   socially responsible corporation committed to finding sustainable solutions
+     products lead the way to a better tomorrow for our customers, our share-                  while conducting business in a competitive global marketplace.
+     holders and our communities.
+
+
+
+                                                                                               kirk s. hachigian
+                                                                                               chairman, president and ceo
+history
+
+      1833                                           1840s–1875                                           1880s–1929                                       1930–1940s
+      brothers charles and elias cooper              cooper focuses on manufacturing                      as steam power declines, cooper                  cooper emerges from the great
+      open the c&e cooper company as a               steam engines and leverages growing                  focuses on gas engine technology                 depression to play an integral role in
+      foundry in mt. vernon, ohio. initial           rail transportation to broaden customer              and is the national leader in pipeline           the u.s. world war ii effort, supply-
+      products included plows, hog                   reach. period culminates with develop-               compression-engines, products that               ing engines that powered almost all
+      troughs, kettles and stoves.                   ment of the cooper traction engine, an               enabled the development of the grow-             the ships in the navy’s minesweeper
+                                                     innovation that helped power the move                ing oil and gas industry. period is              fleet, as well as the famous liberty
+                                                     from an agrarian to industrial society.              highlighted by the historic merger               ships which carried 75% of the
+                                                                                                          with bessemer gas engine company.                cargo used by allied forces.
+
+
+
+
+p2
+
+         175 years of innovation, service and expertise                                                                                                   cooper industries, ltd.
+                                                                                                                                             corporate social responsibility repor t
+
+
+
+
+                                                                                        cooper industries has been in business for over 175 years, growing,
+                                                                                        adapting and thriving in a constantly changing environment. the company
+                                                                                        has survived numerous challenges and obstacles throughout the years,
+                                                                                        including the civil war, industrial revolution, great depression and two
+                                                                                        world wars, in addition to embracing transformational technological
+                                                                                        advances including the advent of electricity and the information age.
+                                                                                        cooper has continued to develop products, serve the needs of cus-
+                                                                                        tomers and employees, expand markets globally and generate profits.
+                                                                                        this is certainly proof that cooper industries is “sustainable” as a
+                                                                                        successful business.
+
+                                                                                        yet, just as cooper today bears little resemblance to the foundry and
+                                                                                        steam engine business that elias and charles cooper founded in 1833,
+                                                                                        the definition of what constitutes a “sustainable business” has changed
+                                                                                        as well. the most widely accepted definition of sustainability today is
+                                                                                        “meeting the needs of the present without comprising the ability of
+                                                                                        future generations to meet their own needs.”2 the recently adopted
+                                                                                        g3 guidelines issued by the global reporting initiative (gri) provide
+                                                                                        the analytical framework for this report. this report and the rigorous
+                                                                                        processes necessary to generate it, mark the beginning of another
+                                                                                        necessary adaptation in the growth and development of cooper, one
+                                                                                        that will help it thrive for generations to come.
+
+
+
+
+1950–1980s                                  1990s–2000                                   2001–2007                                 2008+
+cooper begins an effort to diversify the    the company undergoes a period of            cooper embarks on an era of opera-        cooper assesses its corporate social
+product portfolio and deliver significant   portfolio rationalization, reducing expo-    tional excellence, launching a core       responsibility (csr) footprint and iden-
+growth, expanding into electrical prod-     sure to more cyclical industries such as     set of strategic initiatives, improving   tifies ways to enhance performance.
+ucts, electrical power equipment, auto-     automotive and petroleum. ultimately,        management practices, strengthen-         the company introduces its first csr
+motive products, tools and hardware.        cooper emerges focused on the two            ing the balance sheet and focusing        report creating a baseline for measuring
+cornerstone acquisitions during this        business segments we have today—             the product portfolio on key platforms    and monitoring its social and environ-
+period were crouse-hinds (1981) and         electrical products and tools.               to position the company for growth        mental performance worldwide.
+mcgraw-edison (1985).                                                                    in the years ahead.
+
+
+
+
+                                                                                                                                                                                p3
+
+     principles and values
+
+
+
+
+     cooper industries’ worldwide
+     operations are guided by these
+     principles:
+                passion for the customer
+                innovation is our lifeblood
+                leveraging technologies
+                excel at globalization
+                continuous improvement in everything we do
+
+
+     in recent years, the company has taken a more comprehensive, holistic approach to evaluat-
+     ing its business in an effort to better serve its customers, thereby laying the foundation for a
+     responsible, sustainable and profitable enterprise that embodies the following core values:
+
+
+                integrity
+                people and leadership
+                accountability
+                speed and adaptability
+                execution
+
+
+     this initial corporate social responsibility report is another tangible example of cooper’s
+     principles and core values in action. it is the next step in the company’s journey towards
+     becoming a “socially responsible, sustainable business” in the 21st century and beyond. after
+     175 years in business, cooper has learned that exploring and understanding what questions to
+     ask may be more telling and important than the answers proffered at any given time.
+
+
+
+
+p4
+
+financial highlights                                                                                                                        cooper industries, ltd.
+                                                                                                                                 corporate social responsibility repor t
+
+
+
+
+                       ($ in millions, except per-share data)                                   2007              2006            2005            2004           2003
+
+                       revenues                                                           $ 5,903.1         $ 5,184.6       $ 4,730.4       $ 4,462.9      $ 4,061.4
+                       community investments (in dollars)                                                                                                                new p
+                       continuing
+                       2007
+                                  income before restructuring
+                                                      $2,106,590
+                         and unusual items                                                     582.8             484.3           391.1           339.8          266.0 2007
+                       2006                                                     $2,383,988
+                       net income                                                              692.3             464.0           163.9           339.8          148.3
+                       2005                                                                  $3,101,726                                                                  2006
+                       diluted income per common share
+
+                       continuing income before restructuring                                                                                                            2005
+                         and unusual items                                                $       3.14      $     2.58      $     2.06      $     1.79     $     1.46
+                              0   500000    1000000 1500000 2000000 2500000 3000000 3500000
+                       net income                                                                 3.73            2.47            0.87            1.79           0.79
+                       shares used in computation of earnings
+                         per share (in millions)                                               185.5             187.6           190.0           189.6          187.6
+                       cashpolitical
+                       total         contributions
+                             dividends declared per(in dollars)
+                         common share
+                       2007                                           $80,100             $       0.84      $     0.74      $     0.74      $     0.70     $     0.70
+
+                       balance
+                       2006    sheet data (at december 31)                                      $133,000
+
+                       total
+                       2005 assets
+                                $12,500                                                   $ 6,133.5         $ 5,374.8       $ 5,215.1       $ 5,407.8      $ 4,965.3            0
+                       total indebtedness                                                     1,266.1           1,008.5         1,021.9         1,461.6        1,343.3
+                       shareholders’ equity                                                   2,841.9           2,475.3         2,205.2         2,286.5        2,118.2
+
+                              0      28000              56000       84000        112000       140000
+                                                                                                                                                                         total r
+
+                                                                                                                                                                         2007
+
+
+                       economic metrics (in billions of dollars)                                                                                                         2006
+
+
+                                                                                                    $5.90            revenue                                             2005
+                       2007
+                                            $1.09
+                                                                                          $5.20
+                       2006
+                                           $0.97                                                                     sg&a
+
+                                                                                     $4.70
+                       2005
+                                          $0.93
+
+
+
+
+                                                                                                                                                                                0
+                              0       1             2           3           4        5          6
+
+
+
+                                                                                                                                                                         lost t
+                       total energy savings (in kilowatt hours)
+                                                                                                                                                                         2007
+
+                       2007                                                                     1,887,274,038
+                                                                                                                                                                         2006
+
+                       2006                                                                    1,876,321,015
+                                                                                                                                                                         2005
+
+                       2005                                                           1,613,791,590
+
+
+
+
+                                                                                                                                                                     p5
+
+     cooper business units
+
+
+
+
+     cooper’s business portfolio consists of eight operating divisions:
+     seven in electrical products, one in tools.
+     the business units
+
+
+
+                                                  is a leading provider of high-quality, cost-effective and labor-saving
+                          support systems (e.g., cable tray, bolted framing products and spring steel fasteners) and
+                          electrical enclosures for the mechanical, electrical and communications/data markets.
+
+
+
+
+                                                          is a manufacturer of both north american and european-
+                          styled fuses, circuit breakers, surge protectors, fusegear, power distribution products and
+                          inductors for the electrical, electronics and heavy-duty transportation industries.
+
+
+
+
+                                                              manufactures electrical products that enhance safety
+                          and productivity in demanding industrial, military and commercial environments worldwide.
+                          product solutions include fittings, motor controls, lighting, plugs and receptacles, instrumen-
+                          tation devices, as well as engineered connectivity through the cooper interconnect brand.
+
+
+
+                                                    is a leading manufacturer of innovative, high-quality lighting and
+                          control solutions that combine energy-efficient technologies, labor saving designs and archi-
+                          tectural appeal for commercial, industrial, institutional, and residential customers worldwide.
+
+
+
+
+                                                              is a provider of quality solutions for medium- and high-
+                          voltage electrical environments and components and systems that deliver reliable electric
+                          power worldwide. cps is also a leader in utility automation, providing solutions that enable
+                          customers to increase productivity, improve system reliability and reduce costs.
+
+
+
+                                                 specializes in products designed to save lives and protect property
+                          in commercial and industrial facilities. state-of-the-art fire detection solutions and mass
+                          notification systems combine with market-leading emergency lighting products to provide
+                          comprehensive safety solutions to customers around the globe.
+
+
+                                                               is a leading manufacturer of electrical connection and
+                          control products for residential, commercial and industrial construction and renovation including
+                          switches, receptacles, gfcis, wall plates, sensors, plugs, and structured wiring systems.
+
+
+
+
+p6
+
+                                                                          0.90
+            2005
+                                                                                          1.20
+
+
+
+
+                                                                                                                                                       cooper industries, ltd.
+                                                                                                                                            corporate social responsibility repor t
+
+
+
+
+               0.0      0.2             0.4        0.6        0.8          1.0      1.2
+
+
+           lost work days incidence rate
+
+                                          15.92                                                    domestic
+           2007
+                              8.50
+                                                                                                   international
+                                                19.40
+           2006
+                                               18.60
+ the business units
+                                                                           39.10
+           2005
+                                                                            40.20
+
+
+                                                               offers a complete range of industrial power tools and accessories
+                                        for aerospace, automobile and general industrial manufacturing, in addition to manufactur-
+                                        ing a world-class collection of hand tools and soldering products for professionals and
+                                        consumers.
+
+                   0         10               20         30               40        50
+
+
+
+              lost and restricted duty cases incidence
+cooper industries (nyse symbol “cbe”) is a global manufacturer with more than 31,500 employees and manufacturing
+facilities in 23 countries as of december 2007.1.18                              its administrative headquarters in houston, texas,
+                                                  incorporated in bermuda, with domestic
+               2007
+                                0.47
+the company is organized into two operating units—electrical1.70
+                                                                  products, which  comprise approximately 87% of the company’s
+                                                                                international
+               2006
+revenues, and tools, which comprise0.80 13% of revenues. in 2007, total revenues were $5.9 billion, with net income of $692 million,
+an increase2005                                                  1.90company’s nearly 21,000 shareholders of record realized a
+                of more than $225 million from the prior year. the
+                                                   1.30
+22% increase in diluted earnings per share from continued operations.3 these results illustrate that cooper industries is well
+positioned for continued growth and success.
+
+
+
+
+markets and locations (as of december 2007)
+               0.0                0.5              1.0
+fifty-nine percent (59%) of cooper industries business is derived
+                                                                    1.5             2.0          the company manufactures its products in 23 countries—australia,
+from three of its divisions—cooper lighting, cooper power systems                                brazil, canada, china, colombia, denmark, england, france,
+and cooper crouse-hinds. the markets and customers served by                                     germany, greece, hungary, india, ireland, italy, malaysia, mexico,
+the entire company, with the amount of business they represent,                                  the netherlands, south korea, spain, switzerland, taiwan, wales
+are as follows:                                                                                  and the u.s.a. the largest plant, located in syracuse, new york,
+                                                                                                 u.s.a., is over one million square feet. although the company’s five
+                                        other                                                    largest manufacturing plants are located in the united states, it has
+               residential               4%                                                      manufacturing facilities that are larger than one hundred thousand
+                              10%                                                                square feet (>100,000 sq. ft.) around the world in brazil, china, france,
+                                                                                                 germany, mexico and the united kingdom. cooper industries’ total
+                                                                                                 revenue is generated from sales and business activities in nearly
+              utility 22%                                38%        industrial                   100 countries.
+
+
+
+                                         26%
+
+                                  commercial
+
+
+
+
+                                                                                                                                                                               p7
+
+     environmental stewardship
+
+     cooper industries is committed to being an environmentally responsible
+     manufacturer, ensuring the highest safety for our employees, while
+     minimizing our impact on the natural environment. cooper industries
+     has adopted policies and practices which ensure that our facilities
+     worldwide operate in full compliance with laws and regulations that are
+     designed to protect natural resources.
+
+
+
+
+p8
+
+                                                                                                                             cooper industries, ltd.
+                                                                                                                  corporate social responsibility repor t
+
+
+
+
+environmental policy and accountability
+
+cooper’s environmental policy and principles exist to remind
+employees around the world that environmental considerations
+have the highest priority in cooper’s operations.
+
+
+cooper industries has had a formal, written environmental         cooper industries’ environmental team is managed by the
+policy since 1990 that includes the following principles:         vice president of environment, health and safety, who reports
+                                                                  to the vice president of operations and provides detailed
+   s 4o minimize and wherever possible to eliminate the
+                                                                  reports to the board of directors. the board of directors
+     generation of all wastes.
+                                                                  receives annual environmental and safety reports and meets
+   s 4o conduct operations in a manner that demonstrates          annually to review environmental performance. in addition to
+     respect for the environment.                                 executive leadership, cooper has seven (7) regional directors
+                                                                  that manage each region and business unit’s day-to-day
+   s 4o encourage the development of environmentally sound
+                                                                  environmental performance. these managers are supported
+     procedures and to conduct business with the best-
+                                                                  by the plant management, environmental coordinators and
+     available technology.
+                                                                  engineers at each cooper facility.
+   s 4o observe all environmental laws and regulations4
+                                                                  to ensure compliance with regional and international environ-
+                                                                  mental health and safety regulations, cooper has extensive
+making the environmental policy a living, active practice is an
+                                                                  procedures and record-keeping processes in place. to support
+important part of every cooper employee’s job duties. environ-
+                                                                  monitoring and data-gathering requirements, cooper industries
+mental considerations are an integral part of the company’s
+                                                                  has a robust environmental management information system
+product innovation, continuous improvement, merger and
+                                                                  (emis) which was implemented in the 1990s. currently this
+acquisitions and employee safety and health initiatives. every
+                                                                  system is used by operating facilities globally. in addition to
+manufacturing facility maintains environmental protection and
+                                                                  reporting, cooper maintains systems at each plant to meet
+pollution prevention goals. leadership and employees receive
+                                                                  daily compliance requirements.
+detailed environmental training and are held accountable to
+achieve the company’s environmental targets.
+
+
+
+
+                                                                                                                                                     p9
+
+      environmental stewardship
+
+
+
+
+      the system supports record-keeping of air emissions, water
+      use, water discharge, and safety procedures, for all cooper
+      business units. to ensure new acquisitions meet cooper’s
+      strong environmental standards, new business units are
+      required to follow the company’s procedures and policies
+      and integrate into the environmental management information
+      system as part of its initial plan. to ensure facilities comply
+      with environmental policies and procedures, the company
+      conducts environmental, health, and safety audits using
+      both internal and external third-party auditors. findings of
+      these reports are shared with senior management and the
+      board of directors.
+                                                                         eight cooper facilities,
+      impact of operations
+                                                                         located in the u.s., china,
+                                                                         germany, the u.k., france,
+      cooper industries strives to minimize its impact on the natu-
+                                                                         mexico and denmark, have
+      ral environment through assessment of emissions, effluents,
+                                                                         been certified by external
+      resource use and waste. the company is committed to
+                                                                         registrars to iso 14001
+      achieving full compliance with environmental regulations
+                                                                         operating standards.
+      which govern the respective region of operation. beyond
+      compliance, cooper continuously evaluates opportunities
+      to replicate environmental, health and safety best practices
+      throughout our manufacturing facilities. while eight cooper
+      manufacturing facilities have been certified by external regis-
+      trars to iso 14001 compliance, many other facilities operate
+      to these standards. cooper employees are challenged to
+      achieve continuous improvement every day; however, cooper
+      industries has not yet created worldwide baselines or set
+      reduction targets for waste, air emissions, water use or
+      energy use. this report is advancing the company’s efforts
+      to understand global resource use, create baselines and set
+      reduction targets.
+
+      s waste
+         defined in the company’s environmental principles as the       retrofitted its headquarters to include the company’s
+         most important charter, it is cooper industries’ goal to       energy-efficient lighting products and occupancy monitor-
+         “minimize and where possible, eliminate the generation of      ing sensors. in addition, already 25% of our manufacturing
+         all wastes.” this charter is underscored by the company’s      and distribution square footage has been re-lamped with
+         continuous improvement culture enabled by lean and             more energy-efficient lighting products. to reinforce their
+         six sigma best practices. employees and facilities are         commitment to energy efficiency, last year cooper began
+         recognized for their achievements through the annual           investing in independent audits to assess energy use
+         environmental excellence recognition program.                  at key facilities worldwide. this analysis provided the
+                                                                        company with an energy use performance benchmark
+      s energy
+                                                                        and a global understanding of cooper industries’ carbon
+         as a leading supplier of energy-efficient lighting and power   footprint. to better measure and improve cooper industries’
+         technologies, cooper industries is dedicated to helping        own electrical, water and gas usage in our facilities, cooper
+         our customers reduce their energy use. as part of their        is working with leading universities and technology experts
+         overall commitment to maximize efficiency, cooper strives      to pilot initiatives that could be implemented worldwide.
+         to reduce energy use at its facilities. in 2007, the company
+
+
+
+
+p10
+
+                                                                     cooper lighting total energy savings (in kilowatt hours/year)
+
+                                                                     2007                                                                 50,438
+                                                                         0            500000000      1000000000         1500000000         2000000000
+
+                                                                     2006                                              34,615
+
+                                                                                                                                                       cooper industries, ltd.
+                                                                     cooper
+                                                                     2005                   24,390 savings (in kilowatt hours/year)
+                                                                            lighting total energy
+                                                                                                                                       corporate social responsibility repor t
+
+                                                                     2007                                                                 50,438
+
+
+                                                                     2006                                           34,615
+
+
+                                                                     20050      10000       20000        24,390
+                                                                                                         30000         40000      50000         60000
+
+
+
+
+                                                                     nox emissions (in tons)
+                                                                         0      10000       20000        30000      40000         50000         60000
+                                                                     2007                                                                         95.22
+
+
+                                                                     2006                                                                          95.55
+
+
+                                                                     2005 emissions (in tons)
+                                                                     nox                                                                       87.42
+
+
+      no spills reported from 2005–2007                              2007                                                                          95.22
+
+
+                                                                     2006                                                                          95.55
+
+
+                                                                     20050            20            40            60              80        87.42
+                                                                                                                                               100
+
+
+sox emissions were reduced by 33% from 2005 to 2007, driven pri-
+marily from energy efficiency initiatives (two new compressors and
+boiler efficiency improvements) implemented at the syracuse plant
+                                                                     sox emissions (in tons)
+which drove down sox at this site. overall nox emissions increased
+9% from 2005 to 2007. however, nox emissions were reduced on         20070            20          40              60     43.49 80                100
+a per-manufacturing-hour basis.
+
+includes data for 100 cooper facilities.                             2006                                                      47.59
+
+
+                                                                     2005 emissions (in tons)
+                                                                     sox                                                                         64.71
+
+
+                                                                     2007                                                43.49
+
+
+                                                                     2006                                                      47.59
+
+
+                                                                     2005                                                                        64.71
+                                                                        0.00   8.75     17.50   26.25    35.00    43.75    52.50       61.25     70.00
+
+
+
+
+                                                                        0.00   8.75     17.50   26.25    35.00    43.75    52.50       61.25     70.00
+
+
+
+
+                                                                                                                                                                         p11
+
+      environmental stewardship
+
+
+
+
+      s air                                                                 in october 1998, cooper industries sold its automotive
+         cooper industries recognizes the importance of preserv-            products businesses to federal-mogul corporation (“fm”),
+         ing air quality. for years the company has achieved com-           a major supplier of auto parts to automobile manufacturers.
+         pliance with local or national air emission tracking and           included in the discontinued businesses that were part of
+         regulatory requirements. in 2007, the company started to           the sale to fm were companies/product lines that included
+         initiate a program to track energy use and carbon dioxide          products that were made with asbestos. although cooper
+         (co2) emissions at operating facilities worldwide, enabling        received indemnifications for any asbestos-related liability
+         the company to monitor its greenhouse gases.                       claims arising from these transactions, all such indemnifi-
+                                                                            cations were placed in doubt when fm filed for chapter 11
+      s water                                                               bankruptcy protection in 2001. fm’s bankruptcy filing
+         water is an essential resource for life and plays a vital role     was triggered, in part, by overwhelming asbestos-related
+         in the earth’s ecosystems. cooper industries uses water            litigation, all of which arose from fm’s acquisition of
+         in some of its manufacturing processes. as part of its             numerous companies and businesses during the 1990s.
+         process efficiency goals, cooper strives to minimize the
+                                                                            in december 2007, the federal district court approved
+         use of water. in 2007, cooper industries started to track
+                                                                            fm to emerge from bankruptcy protection. the plan
+         the volume of our water use for all 140 facilities world-
+                                                                            attempts to balance the interests of the parties claiming
+         wide. this initiative created a baseline for performance
+                                                                            asbestos-related injuries/damages and those of fm. it is
+         that will allow the company to make better decisions to
+                                                                            a very complex case with many divergent interests involved
+         reduce water use.
+                                                                            and, as of this writing, the bankruptcy court has not ruled
+                                                                            on cooper’s ability to obtain protection under a trust for
+      remediation
+                                                                            asbestos-related injuries/damages.
+      just as cooper has grown and changed over the course of
+      its 175 years in business, the awareness and understanding          s superfund
+      of the impacts of the company’s operations has changed.               superfund is the u.s. government’s program to clean
+      everything we do impacts our stakeholders—employees,                  up the nation’s most significant hazardous waste sites.
+      shareholders, customers, suppliers, communities—in some               as part of the company’s acquisitions or divestments,
+      way, every day. in addition to preventing negative impacts in         cooper industries is associated in some way with 32
+      the future, cooper industries is actively working to reduce           superfund sites, 18 of which are considered active sites
+      outstanding issues and to find viable permanent solutions to          under remediation. cooper industries is considered a
+      the impacts of hazardous chemicals.                                   de minimis contributor at the majority of these sites and
+                                                                            is one of many participating parties.
+      s asbestos
+         asbestos is the name given to a number of naturally occur-
+         ring, fibrous silicate minerals mined for useful properties
+         such as thermal insulation, chemical and thermal stability,
+         and high tensile strength. asbestos was commonly used
+         as an acoustic insulator, thermal insulation, fire-proofing
+         and in other building materials. many products are in use
+         today that contain asbestos.
+
+
+
+
+p12
+
+                                                                                                                     cooper industries, ltd.
+                                                                                                         corporate social responsibility repor t
+
+
+
+
+                                                                          recent award winners
+
+
+
+                                                                         the york hand tools plant responded to changing conditions
+                                                                         in the market and the challenge to improve systems as part of
+                                                                         the company-wide lean manufacturing initiative. the cooper
+                                                                         hand tools plant in york, pennsylvania eliminated the disposal
+                                                                         of 175,000 gallons of spent acid and 100 tons of sludge in their
+                                                                         chain manufacturing operations. how did they do it? by eliminat-
+                                                                         ing certain steps in the polishing process and finding another
+                                                                         company to use the “nickel liquid and solids” as a raw material in
+                                                                         its pigment-making process, the york facility made a big impact.
+                                                                         the results included the elimination of hazardous waste hauling,5
+                                                                         reduction of more than 1,000,000 gallons of water annually and
+                                                                         savings of $215,000. as roger dick, the director of campbell
+                                                                         operations aptly said, “if you do the right things environmentally,
+                                                                         your costs go down. we put a lot of effort into environmental
+                                                                         and safety processes. we don’t want to be average…we want
+                                                                         to be leaders.”
+
+                                                                         the york hand tools plant received the gold award (highest honor)
+                                                                         as part of the company’s 2007 environmental awards. in addition
+                                                                         to recognition among their colleagues, the york plant received a
+                                                                         $7,500 grant to use in support of grass-roots environmental work
+                                                                         in the community near the plant.
+
+                                                                         the cooper crouse-hinds plant in eberbach, germany continu-
+                                                                         ously works to reduce waste and improve environmental perfor-
+                                                                         mance at their facility. in 2006, eberbach completed many initiatives
+                                                                         to lower costs and enhance process efficiency, including installa-
+                                                                         tion of a water recirculation system (shown in the picture in the
+                                                                         lower left corner) for use in high-pressure testing, lowering the
+                                                                         burner temperature of the heating system by 20 degrees centi-
+                                                                         grade, upgrading the steam heating system and engaging an
+                                                                         outside firm to recycle excess plastic from the injection molding
+cooper industries environmental excellence award                         process. as a result, eberbach has reduced carbon dioxide
+cooper employees have proven that doing the right things environmen-     emissions by 377 tons, reduced fuel consumption by 130,000
+                                                                         liters, reduced water usage by 9,500 liters, and eliminated 6,000
+tally can lower costs, improve performance and create direct financial   lbs. of plastic from going into a landfill by recycling it instead.
+benefits for both the customer and the company. the cooper
+                                                                         as a result of these process improvements, the crouse-hinds
+environmental excellence awards recognize these achievements. the
+                                                                         eberbach facility realized an annual cost savings of $117,000. to
+awards are presented each year to cooper facilities that best demon-     recognize their achievements and environmental impact, the plant
+strate significant, lasting and measurable results in areas such as      received a cooper silver environmental excellence award, with a
+resource conservation, pollution prevention, and recycling/upcycling.    $5,000 grant for community work. their grant was used to fund
+                                                                         the “forest classroom” project—an environmental education
+                                                                         program that teaches primary, middle school and high school
+                                                                         students about natural systems, biodiversity and how to live and
+                                                                         work in harmony with the natural environment.6 in addition to
+                                                                         funding the program, eberbach employees contribute time and
+                                                                         expertise to the organization.
+
+                                                                         at cooper the protection and preservation of the environment is
+                                                                         of utmost priority, and it is the acknowledged responsibility of
+                                                                         every employee. in our commitment to continuous improvement,
+                                                                         cooper has identified opportunities to more effectively measure
+                                                                         its environmental impact, implement changes, and improve envi-
+                                                                         ronmental performance. we are working toward a better future
+                                                                         for all our stakeholders.
+
+
+
+
+                                                                                                                                           p13
+
+      product innovation
+
+      cooper industries manufactures products that make our customers’ lives
+      better. all cooper employees worldwide are guided by the company’s
+      first principle—“passion for the customer.” cooper’s customer base is
+      quite diverse—large institutional and industrial users such as public
+      utilities and power companies, manufacturers, builders and develop-
+      ers, specifiers and designers and individual end-use consumers. the
+      range of customer needs and the products necessary to meet those
+      needs is vast. as cooper industries looks to the future, the company
+      is leveraging its product portfolio to help its customers handle the
+      challenges of higher energy costs, environmental preservation and
+      global warming. with cooper industries’ help, utilities, industrial and
+      commercial enterprises, buildings and households around the world
+      can more efficiently meet their lighting and power needs, while reducing
+      their environmental impact. with a passion and commitment to innova-
+      tion, feedback and collaboration with customers and internal research
+      leadership from places such as cooper’s thomas edison technical
+      center, cooper industries will improve the way we power and light our
+      environments and make a lasting contribution to global sustainability.
+
+
+
+
+p14
+
+                                                                                                  $0.97                                                                     sg&a
+                                                                            2007                                                                           1,887,274,038
+                                                                                                                                                $4.70
+                                                                            2005
+                                                                                                  $0.93
+                                                                            2006                                                                           1,876,321,015
+                                                                           total energy savings (in kilowatt hours)
+                                                                            2005                                                                 1,613,791,590
+                                                                            2007                                                                           1,887,274,038
+                                                                                                                                                                   cooper industries, ltd.
+                                                                                   0          1           2           3             4           5        6
+                                                                                                                                                     corporate social responsibility repor t
+                                                                            2006                                                                           1,876,321,015
+
+
+                                                                            2005                                                                 1,613,791,590
+
+                                                                           total energy savings (in kilowatt hours)
+                                                                                   0          500000000           1000000000        1500000000          2000000000
+
+                                                                            2007                                                                           1,887,274,038
+
+
+                                                                            2006                                            1,876,321,015
+                                                                            cooper power total energy savings (in kilowatt hours/year)
+                                                                            2005 0            500000000           1000000000                      2000000000
+                                                                                                                                    15000000001,613,791,590
+cooper provides customers with energy-efficient options in a variety        2007                                                                      1,887,223,600
+of ways. for the purposes of this report, cooper industries includes
+energy savings from cooper power system’s capacitor and cannon              2006                                                                           1,876,286,400
+demand response solutions and cooper lighting’s metalux f-bay              cooper power total energy savings (in kilowatt hours/year)
+and accord series products.                                                 2005                                                                 1,613,767,200
+                                                                            2007                                                                           1,887,223,600
+cooper power system’s annual energy savings is calculated by
+the market adoption of capacitors and cannon demand response                       0          500000000           1000000000        1500000000          2000000000
+solutions. cannon technologies was acquired by cooper power                 2006                                                                           1,876,286,400
+systems in august 2006; as a result, the 2006 energy savings repre-
+sents only 4 months of savings from cannon products.                        20050             500000000       1000000000                     2000000000
+                                                                                                                                15000000001,613,767,200
+
+
+cooper lighting’s annual energy savings is calculated by the market        cooper power total energy savings (in kilowatt hours/year)
+adoption of metalux f-bay and accord series products. accord series
+                                                                            cooper
+                                                                            2007   lighting total energy savings (in kilowatt 1,887,223,600
+                                                                                                                              hours/year)
+was launched by cooper lighting in 2006.
+                                                                            20070
+                                                                            2006
+                                                                                              500000000       1000000000        1500000000           2000000000
+                                                                                                                                                    50,438
+                                                                                                                                                         1,876,286,400
+
+                                                                            2006
+                                                                            2005                                               34,615            1,613,767,200
+                                                                           cooper lighting total energy savings (in kilowatt hours/year)
+                                                                            2005                                   24,390
+                                                                            2007                                                                    50,438
+
+
+                                                                            20060             500000000       1000000000 34,615
+                                                                                                                           1500000000                2000000000
+
+
+                                                                            2005                                   24,390
+energy efficiency products                                                advantage
+                                                                                 0
+                                                                                       of government
+                                                                                       10000    20000
+                                                                                                         incentives
+                                                                                                         30000   40000
+                                                                                                                      and 50000
+                                                                                                                           tax advantages
+                                                                                                                                     60000
+                                                                            cooper   lighting   total  energy  savings   (in kilowatt hours/year)
+cooper industries is strategically committed to affecting                 provided by adopting more energy-efficient products. cooper
+massive change in the world by reducing our customers’                    also  provides explosion-proof technologies and50,438
+                                                                             2007                                                 circuit protec-
+energy use. eighty-seven percent of the company is focused                tion to prevent incidents that create environmental impact and
+                                                                             2006                               34,615
+on electrical products. cooper power systems is working to                disasters.  every
+                                                                            nox0 emissions   cooper
+                                                                                       10000 (in  tons)employee
+                                                                                                20000   30000
+                                                                                                                  is focused
+                                                                                                                40000     50000
+                                                                                                                                on innovation,
+                                                                                                                                    60000
+improve the efficiency of the utility grid from transmission of           meet  ing
+                                                                             2005   customer   needs,   exceeding
+                                                                                                        24,390       expectations     and deliv-
+                                                                             2007                                                      95.22
+electricity through production to end-usage, with the goal                ering  value for the long term.
+of driving 30% more usable energy out of the existing utility               2006                                                                             95.55
+infrastructure. in addition to improving overall reliability and          customer satisfaction
+                                                                           nox emissions  (in tons)
+                                                                            2005                                                                        87.42
+productivity to all utility customers, cooper is providing                customer satisfaction is essential to cooper industries’
+                                                                            2007                                                        95.22
+emerging economies and markets with higher technology                     continued
+                                                                                 0     success.
+                                                                                        10000       with eight
+                                                                                                 20000     30000 distinct
+                                                                                                                    40000 business
+                                                                                                                             50000    units and
+                                                                                                                                     60000
+
+power solutions that significantly reduce the environmental               thousands
+                                                                            2006        of products available in nearly every region    95.55 of
+
+impact. cooper lighting’s family of name brand lighting prod-             the world, ensuring customer satisfaction for the diverse range
+                                                                            2005                                                   87.42
+ucts illuminate residential, office, retail, commercial, institutional,   of cooper
+                                                                                 0
+                                                                                       customers
+                                                                                            20
+                                                                                                      is40no small60task. however,
+                                                                                                                             80
+                                                                                                                                      cooper
+                                                                                                                                       100
+                                                                            nox emissions (in tons)
+and industrial facilities worldwide. since 2005, cooper lighting          industries has invested in the processes, people, information
+has leveraged technological advancements like led and                     systems
+                                                                            2007     and metrics to closely monitor customer satisfaction.
+                                                                                                                                        95.22
+high-performance fluorescents to introduce one of the industry’s          cooper has a mechanism in place to measure service level
+broadest offerings of efficient luminaires. cooper lighting’s               2006 emissions (in tons)
+                                                                            sox
+                                                                          performance     via                                           95.55
+                                                                                 0         20 on-time40delivery 60(otd), the 80 most critical
+                                                                                                                                      100     cus-
+led offering features the award winning circadian led night               tomer
+                                                                             2007
+                                                                            2005  loyalty driver.  the    company    is committed
+                                                                                                                       43.49        to
+                                                                                                                                   87.42
+                                                                                                                                        an  otd
+lights and halo led downlight, as well as the acquisition of              performance of 95% or better, and continuously measures
+io lighting—manufacturers of innovative and award-winning                    2006                                         47.59
+                                                                          attainment   of this objective. given the importance       of customer
+architectural led-based lighting fixtures. cooper lighting’s                sox
+                                                                          service emissions
+                                                                                    to cooper, (in tons)
+                                                                                                 these    metrics  are  monitored  where    avail-
+                                                                             2005                                                     64.71
+popular metalux industrial f-bay luminaires and accord series             able
+                                                                            2007today by the ceo, executive management43.49        and front-line
+offers the marketplace solutions to reduce their energy use by            personnel
+                                                                                 0     on a20continuous 40 basis60           80 monitored
+                                                                                                                   and will be        100 for
+                                                                            2006
+3.0m kwh: (f-bay accord i, ii, led). the company provides                 every  business unit worldwide by 2010 47.59     (metric pr5).
+educational tools and resources to help customers take                      2005                                                                          64.71
+
+                                                                                 emissions
+                                                                           sox0.00          (in tons)
+                                                                                    8.75 17.50 26.25                35.00   43.75       52.50   61.25     70.00
+
+                                                                            2007                                                 43.49
+
+
+                                                                            2006                                                        47.59
+
+                                                                               0.00    8.75       17.50   26.25     35.00   43.75       52.50   61.25     70.00
+                                                                            2005                                                                          64.71
+                                                                                                                                                                                       p15
+
+                                   product innovation
+
+
+
+stments (in dollars)                                                                                  new product vitality index (in percent of sales)
+
+                         $2,106,590                                                                                                                    14%                              cooper
+                                                                                                      2007                                           13%                                total
+                                                                                                                                                       14%
+                                 $2,383,988
+                                                                                                                                                       14%                              tools
+                                              $3,101,726                                              2006                                                                18%
+                                                                                                                                                       14%
+
+                                                                                                                                                       14%
+                                                                                                                                                                                        electrical
+                                                                                                      2005                                               15%                            products
+                                                                                                                                                       14%
+
+ 0000 1500000 2000000 2500000 3000000 3500000
+
+
+                                                                                                    cooper new product vitality index is an internal company metric that tracks the percent
+                                                                                                    of sales from products introduced within the previous 3 years compared to total sales.
+                                                                                                    this metric does not include acquired products in new product sales figures, but does
+                                                                                                    include them in total sales figures. this figure demonstrates cooper’s commitment to
+ntributions (in dollars)
+                                                                                                    innovation and customer adoption of new products. (pr-5)
+                        $80,100
+
+
+                                                 $133,000
+
+                                                                                                             0          5            10                15                   20
+
+                                  in addition to measuring customer satisfaction, every cooper business unit offers customers
+                                  real-time product support via the telephone and/or the web. in 2007, cooper industries
+         56000       84000
+                                  re-dedicated
+                                  112000
+                                                 itself to improving customer service and loyalty withtotal
+                                            140000
+                                                                                                         the introduction
+                                                                                                             recordable of    cooper rate
+                                                                                                                            incidence
+                                  customer center (“c3”), an interactive web portal that offers real-time product availability, pricing,
+                                                                                                                                         2.99                                           domestic
+                                                                                                        interface. c3
+                                  order status and tracking information in one easily navigated user 2007              made its beta
+                                                                                                                    0.64
+                                                                                                                                                                                        international
+                                  debut with 1,000 north american customers in december 2007. the company incorporated                        3.50
+ s (in billions of dollars)                                                                            2006
+                                                                                                                         1.10
+                                  initial customer feedback into the system and conducted an official north american           launch
+                                                                                                                                                                   4.20
+                                  in early 2008.   further enhancements
+                                               $5.90           revenue    are planned and the company  2005 will eventually roll-out
+                                                                                                                                1.70
+09
+                                  c3 globally.
+                                          $5.20
+7                                                               sg&a
+                                   customers help fuel cooper’s product development. customer suggestions and feedback
+                                      $4.70
+                                   come to the company in many ways—direct interaction on the phone or face to face, online,
+                                   via tradeshows and from polling and questionnaires. the company also maintains a customer
+                                   council with representative customers from all business units around the world. the council meets
+                                                                                                           0        1        2
+                                   annually to provide cooper executive management, including all cooper divisional presidents
+                                                                                                                                          3                 4              5
+     2           3           4     and5 senior 6executives, with feedback on how the company’s products can better help them
+                                   achieve their business objectives. in alignment with its six sigma practices, cooper industries
+                                   continuously looks for ways to improve customer satisfaction andlost     time incidence rate
+                                                                                                       service.
+ings (in kilowatt hours) developing and introducing new products to the marketplace is essential to cooper industries’
+                                                                                                                     0.46                                                               domestic
+                                                                                           2007
+                                                                                                                  0.40
+                                    success. introduced in 2005, the “new product vitality index” which measures the
+                         continued 1,887,274,038                                                                                                                                        international
+                                                                                                                                              0.70
+                                                                                           2006
+                         percentage of revenue contributed by new products, allows the company to track and mea-                                     0.80
+                                   1,876,321,015
+                         sure the acceptance and performance of new products. the company  2005 has introduced many
+                                                                                                                                                            0.90
+                                                                                                                                                                                 1.20
+                              products in the last three years, representing fourteen percent (14%) of total revenues
+                         new1,613,791,590
+                         (metric pr5). over time, cooper aims to increase this to twenty percent (20%) of sales, rec-
+                         ognizing the importance of constantly delivering innovative new solutions to our customers.
+
+                                  innovative products, customers that are actively engaged and satisfied and the never-ending
+                                  quest for better solutions to the challenges, opportunities and circumstances that face the
+ 000       1000000000
+                                  company,
+                             1500000000
+                                              its customers, employees and the communities they live and work in, are the elements
+                                          2000000000
+                                                                                                       0.0 will lead
+                                  that focus cooper industries’ efforts to provide goods and services that                4 to 0.a6
+                                                                                                                 0.2 the0.way                  0.8           1.0           1.2
+                                  better future for generations to come.
+otal energy savings (in kilowatt hours/year)
+
+                                                1,887,223,600
+                                                                                                      lost work days incidence rate
+                                                1,876,286,400                                                                15.92                                                      domestic
+                                                                                                      2007
+           p16                                                                                                       8.50
+                                                                                                                                                                                        international
+                                       1,613,767,200                                                                             19.40
+                                                                                                      2006
+                                                                                                                                18.60
+
+        case study                                                                                                                                    cooper industries, ltd.
+                                                                                                                                           corporate social responsibility repor t
+
+
+
+
+cooper power systems:
+cannon demand response solution
+
+
+cooper’s industry-leading cannon demand response solution provides            demand response solution can add the equivalent of an
+peak demand reduction for electric utilities, which is necessary in peri-     entire power plant’s worth of clean energy capacity for
+ods when customer demand threatens to exceed utility grid capacity.           utilities when they need it most—without the economic
+the solution is comprised of the yukon® operating software platform,          and environmental cost of building a new power plant.
+control switches and smart communicating thermostats installed in either      cooper is the leading provider of demand response solu-
+residential or small commercial locations across the utility’s customer       tions globally and, through 2007, has installed the cannon
+network. utilizing a wireless communication network, the system will          demand response solution at pacific gas & electric,
+reduce electrical demand at thousands of customer locations during            baltimore gas & electric, the six largest utilities in ontario,
+times of maximum demand, thereby enhancing grid reliability and               canada, and numerous other utilities.
+reducing brownouts and rolling blackouts. when installed, a cannon
+
+
+
+
+cooper lighting:
+cooper step up program
+
+
+according to the u.s. department of energy, lighting products           luminaire (fluorescent lamp fixtures) and control
+offer one of the quickest returns for energy saving investments,        systems, differentiated tools and expert energy
+with a payback period that averages less than two years—and in          sales support. with the help of the step up
+some cases, less than one year. in fact, lighting system upgrades       program, organizations can accurately estimate
+can produce up to 40% energy savings for the end-user which,            and measure the energy savings of installing
+in turn, reduces environmental impact by burning less fossil fuel.      an efficient and effective lighting system
+cooper lighting developed the step up program to facilitate and         upgrade—better lighting for the workplace
+implement an organization’s lighting systems upgrade. the step          and better for the environment.
+up program offers a comprehensive platform of energy-efficient
+
+
+
+
+                                                                                                                                                                             p17
+
+                 case study
+
+
+
+
+  cooper lighting:
+  metalux® lights—stepping up to the challenge
+
+  cooper lighting’s metalux f-bay industrial fluorescent luminaires are         metalux’s f-bay industrial
+  a shining example of how advances in technology and product perfor-           fluorescent luminaires offer
+  mance can provide the marketplace with an environmentally responsible         lower operating costs mini-
+  and energy-efficient lighting solution. metalux f-bay industrial fluores-     mizing the environmental
+  cent luminaires feature a longer rated lamp life requiring less maintenance   impact of the lighting system.
+  and energy savings up to 50% while providing the same light output as         f-bay luminaires are also
+  conventional industrial lighting systems.                                     supplied with lower mercury
+                                                                                content lamps and packaged
+  a superior alternative to hid and older fluorescent systems, f-bay
+                                                                                in corrugated paper that is
+  industrial fluorescent luminaires feature an exclusive modular power
+                                                                                recyclable and optimized to reduce waste at the jobsite. with the
+  supply option for code-compliant external power supply access for safe
+                                                                                increasing availability of incentives to support efficiency initiatives and
+  installation and maintenance. with fluorescent’s instant-on and restrike
+                                                                                ever-growing market expectations, metalux’s f-bay industrial fluores-
+  capability, a modular motion sensor option offers individual fixture con-
+                                                                                cent luminaires will continue to provide energy-efficient lighting systems.
+  trol to maximize energy savings. metalux’s f-bay industrial fluorescent
+  luminaire with the modular power supply option is the ideal energy-
+  efficient retrofit for hid high and low bays.
+
+
+
+
+  cooper power systems:
+  capacitors—keeping the grid in top condition
+
+
+  capacitors, or as they are more accurately described, “power factor           more efficient design and
+  correction capacitors,” are the unheralded heroes of the utility grids in     operation, cooper capacitors
+  our modern society. everywhere there is a power grid providing electric-      have achieved a market
+  ity to users large and small, capacitors are at work, keeping the current     leadership position in north
+  flowing efficiently from the power plant to the socket on the wall. truth     america and, increasingly,
+  be told, most of us don’t know what a capacitor looks like or how they        around the world. more
+  work. but without them, up to 50% of the electricity generated would          importantly, when capacitors
+  be lost during power transmission and distribution. with modern switched      are used in conjunction with
+  capacitors in place, utilities can achieve a 95% power factor efficiency      other cooper products and
+  rate.7 in an era of rising utility costs, aging infrastructure, increasing    technologies, such as our energy automation solutions (“eas”) soft-
+  demands for power and concerns about greenhouse gases and global              ware and hardware products, cooper’s customers can do the best job
+  warming, the role of cooper’s capacitors has never been more impor-           possible of providing electricity to end-users in a manner that meets
+  tant… and the products have never been better.                                demands while conserving scarce resources.
+
+  capacitors allow the system/grid to run efficiently. they help limit the
+  loads placed on the grid infrastructure and allow for necessary adjust-
+  ments during periods of peak demand. due to their smaller, lighter and
+
+
+
+
+p18
+
+                                                                                                                                                      cooper industries, ltd.
+                                                                                                                                          corporate social responsibility repor t
+
+
+
+
+cooper power systems:
+cooper envirotemp® fr3™—transforming
+transformers with the “magic” of beans
+
+historically, electrical transformers have had a dubious reputation when
+it comes to their environmental impacts and performance. at one time,
+they were cooled with fluids containing pcbs—polychlorinated biphe-
+nyls, a highly toxic, man-made compound that was banned in the late
+1970s because of its harmful health effects and its propensity to build
+up in the environment. the replacement for pcbs was mineral oil, a
+petroleum-based product.
+                                                                              rural electric cooperatives and utility companies are switching to soy-
+patrick mcshane, the global director for dielectric fluids at cooper
+                                                                              based transformer fluids. in october 2007, xcel energy, inc., a utility
+power systems, thought there must be a better way to cool transform-
+                                                                              based in minneapolis, minnesota, announced that it was becoming the
+ers. after substantial work and experimentation by the research staff at
+                                                                              first large utility in the nation to switch to soy-based transformer fluids.
+cooper’s thomas edison technical center, mcshane’s hunch became
+                                                                              starting in 2008, all new single-phase pole and pad-mounted trans-
+envirotemp fr3, the first and only bio-based dielectric fluid made from
+                                                                              formers, covering both residential and light commercial users, will use
+edible seed oil (primarily from soy beans). among its many attributes,
+                                                                              cooper’s fr3 fluid. in making the announcement of xcel’s collaboration
+fr3 is non-toxic and meets the epa’s highest bio-degradability classi-
+                                                                              with cooper power systems, xcel ceo dick kelly commented, “while
+fication; it extends the usable life of transformer insulating paper by up
+                                                                              the standard transformers function effectively and safely, we believe
+to 8 times and is highly resistant to catching fire; and it can be used in
+                                                                              that our customers expect more. the new transformers are another
+both new and retrofit/retrofill applications. as a result, the use of fr3
+                                                                              strong indicator to them of our environmental leadership.”
+creates a safer work environment and increases public safety (e.g., a
+spill becomes a non-toxic, highly biodegradable event), with lower over-      while there are more than 100,000 transformers currently using fr3,
+all costs in the long run.                                                    there are literally millions more that can make the switch. further proof
+                                                                              of the future continued success of fr3 can be found in the fact that
+envirotemp fr3 is starting to make public policy impacts as well. in
+                                                                              some of cooper’s competitors are now becoming customers, due
+2006, the iowa state legislature unanimously passed a bill creating a
+                                                                              to the unique and powerful business and environmental benefits of
+tradable tax credit for electric utilities that use a soy-based transformer
+                                                                              envirotemp fr3. the future is bright for fr3, a clean, high-performing
+fluid. this legislation arose from the decision by waverly light and
+                                                                              bio-based product that demonstrates how a idea, strong r&d and
+power, the local utility in waverly, iowa, to switch to fr3 in all of their
+                                                                              a commitment to doing the right thing can change the world, one
+transformer applications. today, a growing number of municipal and
+                                                                              transformer at a time.
+
+
+
+
+cooper lighting:
+halo led—recessed lighting for the 21st century
+
+
+to address the growing demand for energy-efficient solutions and as           fluorescent delivered from fixture) while consum-
+an alternative to traditional incandescent and fluorescent light sources,     ing less than 15 watts—75% less energy than
+cooper lighting adds innovative led recessed lighting to its halo down-       an equivalent incandescent lamp. changing ten
+lighting product line. combining the energy efficiency of led with halo’s     fixtures to led from incandescent would result
+user-friendly installation features, the led module (ml706830) is             in approximate savings of over 25,000 kilowatts
+designed for use in a variety of halo 6" housings for new construction        over the 50,000 hour life of the fixture. the halo led downlight is also
+applications or retrofits into existing halo and all-pro h7 housings.         virtually maintenance-free for approximately 20 years when operated
+                                                                              at 6 hours a day.
+the halo dimmable led module performs like traditional recessed light-
+ing by delivering light output of over 600 lumens (comparable to light
+output of one 65 watt br30 incandescent or one 18 watt compact
+
+
+
+
+                                                                                                                                                                            p19
+
+      our employees
+
+      cooper’s commitment to its most valuable resource—its employees—
+      is long held. with an employee population in excess of 33,000 people
+      working at more than 100 manufacturing facilities and offices around
+      the world, cooper has policies and practices that ensure employee
+      safety, continuous education and professional advancement. multi-year
+      employee education, development and training programs, with empha-
+      sis in operations, finance, human resources, leadership and sales and
+      marketing are available to train future company leaders. salaried
+      employees, exempt and non-exempt, receive annual performance evalu-
+      ations. association rights are protected and labor relations are good.8
+      cooper prohibits harassment and discrimination—policies which have
+      been in place globally for decades. child labor is also prohibited—no
+      one under the age of 16 may be employed anywhere in the world. there
+      is full compliance with all local laws and regulations concerning mini-
+      mum age requirements for employment. by respecting the rights of its
+      employees and maintaining safe workplaces, free from discrimination,
+      cooper creates an environment that is conducive to diversity and
+      continued growth and success.
+
+
+
+
+p20
+
+                                                                                                                      cooper industries, ltd.
+                                                                                                     corporate social responsibility repor t
+
+
+
+
+                                                                                                            global workforce
+one team, one purpose, one vision, one strategy                                                            u.s. salaried      u.s. hourly
+
+when a company is spread out around the world and the acquisition of complementary busi-             international salaried   international hourly
+
+nesses is part of the growth strategy, creating a focused, cohesive group of employees is a
+challenge. cooper industries meets this challenge in a variety of ways. the company distributes
+wallet-sized cards that contain the culture and values statements on one side and strategy and
+                                                                                                                              17%
+principles statements on the other. but a printed card doesn’t imbue the values and principles;
+it merely acts as a tangible reminder. the values, culture and strategy are learned and reinforced
+                                                                                                       43%
+by dialogue between employees and managers. they are manifested by the existence of and                               2007
+widespread participation in employee committees and projects that actively engage in safety                                         27%
+practices, environmental improvements and product and process innovations. they are spread
+by the sharing of ideas, accomplishments and even problems, between business divisions via                             13%
+intra-company newsletters, bulletin boards, the worldwide web, meetings, etc.
+
+cooper industries provides a comprehensive benefits package to help attract and retain a
+competitive workforce. while our programs may vary from one country to the next, we strive
+                                                                                                                              15%
+to be competitive and always comply with government regulations in each region where we
+operate. our benefit programs offer employees tools to help manage care needs, prepare for             36%
+retirement and manage the financial challenges of higher education. program plans and logistics
+                                                                                                                      2006
+vary from country to country, based on the availability of certain services and government                                           26%
+regulations.
+
+as part of cooper’s commitment to continuous improvement, the company conducted an online                           23%
+employee survey in november 2007 of its north american salaried employee-base to assess
+the value cooper delivers to them. in addition, it provides employees with an opportunity to
+provide feedback and leadership on corporate strategy. this survey will be rolled out through-
+out the company globally in 2009 and 2010. feedback from the survey will be used to assess
+how cooper can better address employee needs and deliver value to this vital resource.
+
+
+
+
+                                                                                                                                                 p21
+
+                                                                        14%
+        total recordable incidence rate
+
+                                                                2.99                                       domestic
+        2007
+                      0.64
+            0
+       2006 0 1 5    2 10 3                                             15
+                                                                       3.504                 520           international
+
+
+      our employees
+                1.10
+
+                                                                                     4.20
+        2005
+                                            1.70
+
+        lost time incidence rate
+        total recordable incidence rate
+                                               0.46
+        2007   0                5           0.40      10                15                    20           domestic
+
+                                                                2.99                                       international
+                                                                                                           domestic
+        2007                                                   0.70
+        2006          0.64
+                                                                    0.80                                   international
+                                                                      3.50
+        2006
+        2005
+               0          1 1.10 2                         3             0.904               5
+                                                                                                    1.20
+                                                                                     4.20
+        2005
+                                            1.70
+        total recordable incidence rate                                                                                    100% of salaried employees receive
+        lost time incidence rate
+                                                                2.99                                       domestic
+                                                                                                                           regular annual performance and career
+        2007
+                      0.64
+                                               0.46                                                        domestic
+                                                                                                                           development reviews. the performance
+                                                                                                           international
+        2007
+        2006
+                                1.10
+                                            0.40                       3.50                                                review and career development process
+                                                                                                           international
+        2006
+                                                               0.70
+                                                                                     4.20
+                                                                                                                           for hourly employees varies by division
+                                                                      0.80
+        2005
+            0.00     0.21                  2 0.6 3 0.8
+                                      0.4 1.70                               41.0           1.52                           and/or location.
+                                                                             0.90
+        2005
+                                                                                                    1.20
+
+
+
+        lost time incidence rate
+        lost work days incidence rate
+                                               0.46                                                        domestic
+        2007
+        2007   0          18.50              2
+                                            0.40
+                                           15.92           3                 4               5             domestic
+                                                                                                           international        zero fatalities for 2005–2007
+                                                               0.70
+        2006                                                                                               international
+                              19.40                                   0.80
+        2006
+                             18.60
+        20050.0      0.2              0.4           0.6         0.8           1.0
+                                                                             0.90
+                                                                               39.10
+                                                                                            1.2 1.20
+        2005 time incidence rate
+        lost                                                                    40.20
+
+                                               0.46                                                        domestic
+        2007
+                                            0.40
+        lost work days incidence rate0.70                                                                  international   percentage of employees covered by
+        2006
+                                                                      0.80                                                 collective bargaining agreements.
+                                           15.92                             0.90                          domestic
+        2007
+        2005               8.50                                                                     1.20
+                                                 19.40
+                                                                                                           international
+                                                                                                                           40% of u.s. hourly production
+        2006
+            0.00     0.210            0.4 2018.600.6 30 0.8                  401.0          1.502                          employees are covered by collective
+        2005
+                                                                                 39.10
+                                                                                  40.20
+                                                                                                                           bargaining agreements.
+
+                                                                                                                           32 international facilities have
+        lost work days incidence rate                                                                                      collective bargaining units covered
+        lost and restricted duty cases incidence                                                                           by various unions.
+        20070.0      0.2 8.50 0.415.92 0.6                      0.8           1.0           1.2            domestic
+
+                                                               1.18                                        international
+                                                                                                           domestic
+        2007                                   19.40
+        2006                        0.47
+                                              18.60
+        2006
+               0          10                20             30                40      1.70   50             international
+
+                                                 0.80                            39.10
+        2005
+                                                                                  40.20
+        lost work days incidence rate                                                       1.90
+        2005
+                                                                   1.30
+                                           15.92                                                           domestic
+        2007
+                           8.50
+                                                                                                           international
+                                                 19.40
+        2006 and restricted duty cases incidence
+        lost                  18.60
+
+      trir (recordable cases incident rate—based     39.10
+        2005                                1.18 on the osha recording criteria)domestic
+        2007                                                                      40.20
+             0            10 0.47 20     30                                  40   work      50
+      ltir (lost time cases are ones where the employee misses a complete day ofinternational
+                                                         1.70
+         2006
+      after the date of injury)     0.80
+            0.0             0.5      1.0                               1.5                  2.0
+      lwdir
+        2005
+             (lost work days)                                                               1.90
+                                                                   1.30
+      lrdir (cases where the employee misses a day of work or has to modify their job
+      because of restrictions)
+       lost
+      rate   and restricted
+           calculation:         duty cases
+                        (y x 200,000/hours   incidence
+                                           worked)
+               0          10                20             30                40             50
+                                              disease information is combined
+      zero fatalities—injury and occupational1.18                                                          domestic
+        2007
+                                    0.47
+                                                                                                           international
+                                     other                                           1.70
+        2006
+                                                 0.80
+                                       4%
+            0.0
+            residential        0.5                  1.0                1.5                     0
+                                                                                            2.1.90
+        2005               10%
+                                                                   1.30
+        lost and restricted duty cases incidence
+
+                                                            1.18                                           domestic
+        2007
+                                    0.47                   38% industrial
+           utility 22%                                                                                     international
+p22                                                                                  1.70
+        2006
+                                                 0.80
+
+                                                                                            1.90
+        2005
+
+          case study                                                                                                                               cooper industries, ltd.
+                                                                                                                                        corporate social responsibility repor t
+
+
+
+
+employees taking charge
+
+
+occupational safety and health is serious business at cooper industries.
+as a central part of the effort to create a culture that is actively aware
+of safety issues, cooper industries honors the accomplishments of
+workers and management through the “take charge safety and health
+awards.” these awards recognize creative approaches to safety
+management and training and the results of those efforts—safe,
+healthy and injury-free facilities.
+
+the take charge awards program is the most visible part of a compre-
+hensive system to monitor and measure safety and health matters in
+the workplace. all cooper facilities utilize an internally developed set of
+metrics known as oshme (occupational safety health management
+evaluation). this data forms a key part of the operational metrics—key
+performance indicators—that all plant managers report and discuss
+on a regular basis. employees are actively involved in the process,
+from daily briefings and discussions, to weekly “toolbox meetings,”
+to participation in facility safety committees. employees are actively
+engaged in the “safety kaizen” approach to operations which is focused        mexicali, mexico; the implementation of a “near miss” report card
+on continuous improvement brought about by suggestions and obser-             system in which employees are encouraged to document situations or
+vations. cooper’s decades-long commitment to a safety aware culture           conditions that could be improved, and post them on bulletin boards in
+in the workplace has lead to its facilities being among the safest in the     the plant together with the corrective actions taken; and the creation of
+manufacturing sector.                                                         a “safety incentive program” at the cooper hand tools plant in monroe,
+the most recent take charge awards recognized 27 facilities, ranging          north carolina, where employee teams toured and inspected the plant,
+from “honorable mention” to the coveted “tri star award.” four facilities     scored the results and posted the information on a “horse race themed”
+received the tri star award, which acknowledges significant accom-            chart in the cafeteria—a friendly but very competitive and highly visible
+plishments sustained and built upon over time. examples of tri star           means of reinforcing the importance of safety and every person’s role
+achievements included 1,000,000 hours of accident-free operations in          in creating results.
+
+
+
+
+                                                                                                                                                                          p23
+
+      community
+
+      community—cooper’s work
+      extends beyond products and
+      customers
+      corporate giving and community outreach have been a part of cooper
+      industries’ operating philosophy and business practices for decades.
+      the cooper industries foundation, a non-profit section 501(c)(3) private
+      foundation funded by company contributions, was founded in 1964.
+      additional corporate giving is done by each of the eight business divi-
+      sions, globally, as a part of the annual budget and planning process.
+
+      to date, the community outreach and charitable giving programs that
+      originate at the business division level, which comprise a significant
+      portion of cooper industries’ overall corporate giving programs, have
+      only been reported on a dollars expended basis. the rationale has
+      been to give the local cooper business leaders broad discretion in
+      determining what will best serve their particular communities. the
+      company believes this approach best serves all of the interests at
+      stake, allowing good societal activities to be done at the local level,
+      while allowing the managers and employees to focus most of their time
+      and energies on creating and delivering great products to customers,
+      which, in turn, creates the profits that allow cooper’s charitable pro-
+      grams to thrive.
+
+      the variety of programs and grant requests that are funded reflects the
+      diversity of the people and places where cooper operates. this section
+      highlights some of these community investments.
+
+
+
+
+p24
+
+                                                                                                                                                cooper industries, ltd.
+                                                                                                                                   corporate social responsibility repor t
+
+
+
+
+                                                                       community investments (in dollars)
+
+                                                                       2007                                          $2,106,590
+
+
+                                                                       2006                                                  $2,383,988
+
+
+                                                                       2005                                                               $3,101,726
+
+                                                                       community investments (in dollars)
+
+                                                                       2007                                          $2,106,590
+
+                                                                               0   500000   1000000 1500000 2000000 2500000 3000000 3500000
+scholarship program                                                    2006                                                  $2,383,988
+
+  s 4his program offers the children of #ooper employees               2005                                                               $3,101,726
+    in mexico and the united states with an opportunity for
+    educational advancement. independently administered,               total political contributions (in dollars)
+    the program provides scholarships for students pursuing
+                                                                        2007                                        $80,100
+    a bachelor’s degree from a 4-year university or who plan                   0   500000   1000000 1500000 2000000 2500000 3000000 3500000
+    to study at a 2-year community college or vocational                2006                                                                 $133,000
+    school. selection criteria include academic merit, dem-
+                                                                        2005        $12,500
+    onstration of financial need, evidence of outstanding
+    character and extracurricular activities.                         total political contributions (in dollars)
+                                                                     contributions are made to republicans and democrats.
+                                                                        2007                                        $80,100
+matching gift program
+                                                                               0      28000          56000       84000        112000       140000
+  s ! variety of matching gift programs match contributions             2006                                                                 $133,000
+
+    made by employees, officers, division presidents and           cooper china charitable festival
+                                                                        2005        $12,500
+    company directors to qualified charitable organizations.          s 4he &amily $ay &estival at #ooper #hina in 3hanghai in
+                                                                        october 2007
+                                                                       economic           featured
+                                                                                     metrics           the theme
+                                                                                               (in billions          “olympics & charity.”
+                                                                                                            of dollars)
+neighborhood centers grant                                              activities included sports, games, picnic, a charity auction
+                                                                                                                                       $5.90                  revenue
+  s 4his is a   grant paid over three years to support           and other opportunities
+                                                                        2007
+                                                                                         $1.09         for on-the-spot donations. funds
+                                                                             0        28000       56000        84000     112000     140000
+    neighborhood centers (“nci”). nci is a 100-year-old                 raised will help at least two children with congenital   $5.20
+                                                                        2006
+    organization that serves more than 200,000 children,                heart defects$0.97
+                                                                                         to receive open-heart surgery through the                            sg&a
+
+                                                                                                                            $4.70
+    youth, families and senior citizens each year in a 13-county        gift of life program
+                                                                        2005
+                                                                                        $0.93
+                                                                                                  of the shanghai charity       foundation
+    region in southeast texas. more than 80% of the people                            club of(inshanghai.
+                                                                        and rotarymetrics
+                                                                       economic                                 the success of the event
+                                                                                                   billions of dollars)
+    served at nci centers have yearly household incomes                 inspired other cooper employees in xi’an and dongguan
+                                                                                                                                       $5.90                  revenue
+    of less than $25,000. the new community center in the               to host their own
+                                                                        2007
+                                                                                         $1.09events to help more needy children.
+
+    gulfton-sharpstown neighborhood in houston will pro-               2006
+                                                                               0      1          2           3           4        5    $5.206
+                                                                                 $0.97park conservancy
+                                                                   houston downtown                                                                           sg&a
+    vide programs and services that promote economic
+                                                                                                                                  $4.70
+    development, leadership, education, and health for the            s 2005
+                                                                        #ooper funded      a five year grant to support the (ouston
+                                                                                       $0.93
+    entire family—enabling people to help themselves. the                     energypark
+                                                                        downtown
+                                                                       total                      (in kilowatt the
+                                                                                            conservancy.
+                                                                                       savings                     conservancy will be
+                                                                                                               hours)
+    gulfton area is densely populated with residents that               the first private, non-profit organization to oversee the
+                                                                        2007                                                     1,887,274,038
+    have emigrated from guatemala, el salvador, honduras,               design, development and on-going operations of a major
+    mexico and, more recently, refugees from somalia,                        0 park 1in houston.
+                                                                        public
+                                                                        2006
+                                                                                               2                  4 consist
+                                                                                                      the3 park will    5 of 126 acres
+                                                                                                                                1,876,321,015
+    bosnia, pakistan and afghanistan. the services pro-                 of green space and water features, bordered by public
+    vided by nci assist these residents in their pursuit of the         2005
+                                                                        parking, a convention center, sports facilities  1,613,791,590
+                                                                                                                            and other
+    american dream.                                                     hospitality
+                                                                       total  energy destinations.
+                                                                                       savings (in kilowatt hours)
+
+                                                                        2007                                                                1,887,274,038
+
+
+                                                                        2006                                                                1,876,321,015
+
+                                                                               0       500000000       1000000000        1500000000    2000000000
+                                                                        2005                                                       1,613,791,590
+
+
+
+                                                                       cooper power total energy savings (in kilowatt hours/year)                                    p25
+
+      governance and ethics
+
+      in 1833, charles and elias cooper founded the company that would become
+      cooper industries, ltd. today, cooper is a publicly traded corporation,
+      organized under the laws of bermuda. the company’s administrative
+      headquarters is located in houston, texas, where all of the members of
+      the company’s senior management team are resident, as are all of the
+      corporate officers. the rationale for organizing the company under the
+      laws of bermuda while maintaining the principal executive offices in the
+      united states is to give the company an equal footing with its non-usa-
+      based competitors, particularly with regard to issues of income and taxa-
+      tion for its operations around the world. some may take issue with the
+      company’s decision, claiming that it results in the company “not paying
+      its fair share of u.s. taxes,” but this is both incorrect and overly simplistic.
+      the current legal structure allows cooper to maintain its large manufac-
+      turing and employment infrastructure in the united states and compete
+      more effectively in global markets, while returning maximum value to its
+      shareholders.
+
+
+
+
+p26
+
+                                                                                                                               cooper industries, ltd.
+                                                                                                                    corporate social responsibility repor t
+
+
+
+
+the board of directors                                                     annual meeting of shareholders. on an annual basis, the cncg also
+the company is governed by an eleven member board of directors,            reviews and makes recommendations on the adequacy and frequency
+ten of whom are independent. kirk s. hachigian is both the chairman        of board meetings, board member compensation issues, and the
+of the board of directors and the president and chief executive            nature and timing of information provided to directors prior to and
+officer of the company. the company’s corporate governance                 during board meetings. they also review the membership and func-
+principles, which are published and available to the public via the        tion of board committees and general corporate governance matters.
+internet at www.cooperindustries.com, provide for a presiding non-
+management director, who is also deputy chairman of the board              code of ethics and business conduct
+of directors.9 cooper’s board of directors maintains four standing         the company’s board of directors and senior management have
+committees: audit committee, executive committee, management               taken numerous steps to ensure that the company operates with
+development and compensation committee and the committee on                high ethical standards and an absence of conflicts of interest. the
+nominations and corporate governance.                                      cooper code of ethics and business conduct was originally adopted
+                                                                           and implemented in 1962 and has been updated and expanded
+the criteria for membership on the cooper industries board of
+                                                                           numerous times since then, most recently in 2005. the written policy
+directors are determined by the committee on nominations and
+                                                                           is thirteen (13) pages and is distributed to employees worldwide. the
+corporate governance (“cncg”). the cncg consists of no less
+                                                                           policy is translated into seven languages in hard copy format (english,
+than three directors. the board appoints the members of the cncg
+                                                                           spanish, french, german, portuguese, korean and mandarin chinese)
+and reviews committee membership annually. the cncg has the
+                                                                           and is also available on the company’s website and intranet site.
+authority and responsibility to develop and maintain criteria for the
+                                                                           the company provides training on the code of ethics and business
+identification and selection of potential candidates for board member-
+                                                                           conduct and requires a substantial number of employees to furnish
+ship, including procedures, the use of independent search firms
+                                                                           a signed written compliance statement, affirming that they have
+(including the ability to retain, terminate, set/review the fees, etc.),
+                                                                           read, understand and will comply with the company’s policy.10
+evaluation of incumbent directors and whether to nominate for
+                                                                           cooper has worked hard over the last 46 years to develop a corpo-
+re-election, as well as the overall effectiveness of the board, its
+                                                                           rate culture that makes ethical behavior and awareness of ethical
+composition, organization and the conduct of board business.
+                                                                           issues part of day-to-day decision making.
+among the specific criteria considered by the cncg in evaluating
+candidates for nomination for board membership are: the candidate’s        compliance and risk mitigation
+business and/or professional experience, the absence of conflicts of       in addition to its internally developed ethics programs, the company
+interest (utilizing the company’s written policies and procedures), the    provides training, written policies and guidance with regard to ethics
+board’s need for a diversity of skills and backgrounds, and the ability    and business practices legislation such as securities laws, antitrust
+of the candidate to commit the time necessary to serve effectively.        and fair competition laws, anti-corruption laws and environmental,
+based upon its analysis and deliberations, the cncg recommends             health and safety laws and regulations.11 as required by applicable
+new candidates to the full board and the director nominees for the         laws, the company’s board of directors is knowledgeable about
+
+
+
+
+                                                                                                                                                      p27
+
+      governance and ethics
+
+
+
+
+      the content and operation of the company’s compliance and ethics          performance
+      programs, including the administration and day-to-day operation of        there are direct links between the performance of the company
+      the program by the company’s compliance officers.12 operationally,        and the compensation paid to the company’s senior managers and
+      the company’s code of ethics and business conduct includes a              executives. ethics and integrity in business practices are part of
+      compliance procedure and corporate ethics committee, currently            every cooper employee’s job performance criteria. among the crite-
+      comprised of the chairman/ceo/president, the sr. vice president,          ria that may be included in an individual’s goals and performance are
+      general counsel and chief compliance officer and the sr. vice             employee health and safety, diversity, sustainability, environmental
+      president, human resources. additionally, other senior corporate          practices, ethics and integrity and leadership on such issues. senior
+      officers act as compliance officers responsible for the oversight of      personnel are also evaluated on how well they have inspired, facili-
+      training and policy implementation for various substantive areas of       tated and measured the efforts of those employees under their
+      the company’s operations. the company is satisfied with the results       supervision. for executive management, individual performance and
+      of its ethics and compliance policies and practices to date; however,     compensation issues are governed by the management development
+      it will continue to monitor these areas and make changes as neces-        and compensation committee charter of the company’s board of
+      sary to remain vigilant and competitive in an ever-changing competi-      directors. the board committee is comprised of no less than three
+      tive global marketplace.                                                  (3) non-management directors who are appointed annually. in an
+      risk management, or the so-called “precautionary approach” identi-        effort to increase transparency and independence in this regard,
+      fied in the rio principles, is an integral part of planning, operations   the charter is posted on the company’s website and the indepen-
+      and business strategy at cooper. as a company that utilizes the           dent directors who serve on the management development and
+      acquisition of strategically valuable businesses as part of its growth    compensation committee have the authority to retain external
+      plan, risk analysis and mitigation is central to the company’s due        consultants to assist in the development, review and modification
+      diligence process. a number of potential acquisition deals have been      of executive compensation programs for the ceo and senior
+      cancelled or avoided because of such risk analysis.                       management.
+
+                                                                                the cooper board monitors the company’s environmental, social
+      stakeholder involvement                                                   and economic performance in a variety of ways. each division
+      cooper employees have the ability to raise issues and questions           president reports on a monthly or quarterly basis, with significant
+      (and are encouraged to do so) by directly speaking or writing to their    accomplishments and/or issues being reported to the board. annually,
+      supervisor or division manager. the company maintains an 800              the board’s audit committee receives an environmental audit report
+      number, a toll-free “ethics hotline,” to facilitate reporting ethical     regarding the environmental impacts of the company’s operations
+      issues or possible violations of company policies and practices. in       around the globe. this report contains information concerning
+      this regard, the company’s code of ethics and business conduct            energy use, waste tracking, water, and, most recently, greenhouse
+      procedures have provisions for maintaining employee confidentiality       gas emissions. at least every three years (or more frequently if
+      and protecting against retaliation for employees who make reports.        circumstances warrant), the environmental audit and related issues
+      the “contact us” section of the cooper website provides an additional     are presented to the full board. through the cooper industries
+      means for employees to anonymously raise issues or ask questions          foundation and direct corporate giving programs at the divisional
+      of senior management and the board.                                       level, the company’s social outreach programs are presented to
+                                                                                the board annually as well.
+      there are a number of means for stakeholders, particularly share-
+      holders and employees, to provide input or raise questions to the         reviewing the economic impacts of all of the company’s activities,
+      board of directors. cooper’s proxy statement (which is posted on          as well as the company’s adherence to its internal policies, codes
+      the company’s website and distributed to all shareholders) includes       of conduct and all applicable laws and regulations, is, of course, the
+      explicit instructions for communicating with the company’s non-           primary responsibility of the board. at each meeting of the board,
+      management directors about any issue regarding cooper and the             and in committee reports and other communications between board
+      conduct of its business. interested persons can also contact the          meetings, the members of the board of directors focus on how
+      company’s investor relations office by telephone or email.                cooper industries, ltd. is responding to challenges and opportuni-
+                                                                                ties in the marketplace, the company’s economic performance and
+                                                                                how that performance effects cooper’s shareholders, employees,
+                                                                                customers, suppliers and the communities it operates in and serves.
+
+
+
+
+p28
+
+                                                                                                                                                   cooper industries, ltd.
+                                                                                                                                      corporate social responsibility repor t
+
+
+
+
+for more information contact:                                               end notes
+jon safran, director of investor relations                                   1
+                                                                                 this report follows the latest gri guidelines version 3 (or “g3”).
+jon.safran@cooperindustries.com                                              2
+                                                                                 united nations 1987 “report of the world commission on environment and development.”
+                                                                             3
+                                                                                 earnings per share calculated before restructuring and unusual items.
+corporate headquarters                                                       4
+                                                                                 this is only a partial listing of the principles of the cooper industries environmental policy.
+cooper industries, ltd.                                                          a complete statement of the policy and principles can be found at the cooper industries
+600 travis street, suite 5600                                                    website http://www.cooperindustries.com/common/aboutcooper/environmental.cfm.
+houston, texas 77002-1001                                                    5
+                                                                                 by shipping the spent nickel liquor to the other manufacturer, it is a source material or co-
+telephone (713) 209-8400                                                         product, not “hazardous waste.” cooper employees also made sure that any waste left over
+e-mail address: info@cooperindustries.com                                        after the pigment manufacturing process at the other company was properly dealt with.
+
+web site
+                                                                             6
+                                                                                 for 2007, eight cooper facilities (5 in the u.s., 1 in germany, 1 in france and 1 in u.k.)
+                                                                                 received awards (1 gold; 3 silver; 4 bronze), which resulted in $32,500 in grants for local
+www.cooperindustries.com
+                                                                                 environmental/community work.
+credits                                                                      7
+                                                                                 in actual practice, a 100% efficiency rate is rarely possible or even recommended. this is
+strategy and report development: the csr group, llc                              due to the wide variety of load demands that occur in any given day, and the effect of factors
+designed by curran & connors, inc. / www.curran-connors.com                      such as weather, time of year, etc.
+                                                                             8
+                                                                                 approximately 39% of the company’s employees are unionized, with bargaining units and
+                                                                                 various unions in place at 19 u.s. facilities and 32 facilities around the world.
+cooper industries is proud to have been selected for inclusion by several
+highly respected socially responsible stock indices including: ftse4good     9
+                                                                                 the position is appointed annually by the board of directors. it is currently held by
+and kld. for more information, contact investor relations for cooper at          gerald b. smith.
+the address above or go to www.kld.com <http://www.kld.com/> and/or
+www.ftse.com/ftse4good <http://www.ftse.com/ftse4good/>
+                                                                            10
+                                                                                 the employees required to furnish signed compliance statements include all employees in
+                                                                                 the corporate headquarters; all division presidents, their direct reports and their respective
+                                                                                 direct reports; all employees with responsibilities in the following areas—purchasing/
+                                                                                 procurement, marketing, sales, engineering, product development, information systems,
+                                                                                 safety, environmental, human resources, plant or operations management, finance/controller/
+                                                                                 credit, accounting, audit and any other employee deemed as appropriate by division
+                                                                                 management.
+
+                                                                             in the united states, these would include the sarbanes-oxley act of 2002 (“sox”), united
+                                                                            11
+
+                                                                             states securities and exchange commission (“sec”) regulations, the u.s. federal sentencing
+                                                                             guidelines, and the u.s. foreign corrupt practices act.
+                                                                            12
+                                                                                 the audit committee of the board has been delegated the primary oversight responsibility;
+                                                                                 however, senior management provides a compliance report to the full board every three (3)
+                                                                                 years or more frequently as necessary.
+
+
+
+
+                    cert no.scs-coc-00648
+
+
+
+
+cooper industries
+corporate social responsibility repor t
+
+cooper industries, ltd.
+600 travis, suite 5600, houston, texas 77002-1001
+phone: (713) 209-8400
+fax: (713) 209-8996
+www.cooperindustries.com
+
+
+
+cooper bessemer is a registered trademark of cameron international corporation (“cameron”); used with permission.
+for more information about the global reporting initiative (“gri”) and the g3 guidelines, go to http://www.globalreporting.org
+to view this report online or to download a pdf, go to http://www.cooperindustries.com

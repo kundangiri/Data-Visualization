@@ -1,0 +1,876 @@
+                                                                                                                                                               1
+
+
+
+technocast 2015 sürdürülebilirlik raporu
+1- rapor hakkında : ................................................................................................................................. 2
+2- genel müdürün mesajı: ...................................................................................................................... 3
+3- firmanız hakkında : ............................................................................................................................. 4
+   iş kollarımız.......................................................................................................................................... 5
+   tedarik zincirimiz ................................................................................................................................ 6
+4- sürdürülebilirlik yönetimimiz ve paydaş katılımı : ............................................................................. 7
+5- öncelikli konularımız: .......................................................................................................................... 8
+6- sorumlu üretim yapımız ve kalite anlayışımız ..................................................................................... 9
+   çevreye duyarlı katma değerli ürünlerimiz ......................................................................................... 9
+   ürün sorumluluğu ve müşteri memnuniyeti ..................................................................................... 10
+7- çevresel etkimiz ................................................................................................................................ 12
+   enerji tüketimimiz ............................................................................................................................. 12
+   atık yönetimimiz ............................................................................................................................... 13
+8- technocast’ta çalışma hayatı ............................................................................................................ 14
+   kaliteli işgücü ve çalışan gelişimi ...................................................................................................... 14
+   işgücü devamlılığı .............................................................................................................................. 15
+   kadın istihdamı .................................................................................................................................. 15
+   ........................................................................................................................................................... 16
+   iş sağlığı ve güvenliği ........................................................................................................................ 16
+10- gri göstergeler tablosu.................................................................................................................. 17
+
+                                                                                                                 2
+g4-17, g4-18, g4-22, g4-23, g4-28, g4-29, g4-30, g4-32
+
+        1- rapor hakkında :
+        technocast otomotiv sanayi ve ticaret a.ş olarak işte şeffaflık programı kapsamında ilk
+        sürdürülebilirlik raporumuzu paydaşlarımızla paylaşıyoruz.
+
+        işte şeffaflık programı, uluslararası ölçekte küresel raporlama girişimi – gri tarafından
+        yürütülmektedir. programın amacı kurumların finansal olmayan performansının geliştirilmesine
+        yardımcı olmak ve bu doğrultuda sürdürülebilirlik raporlaması aracını kullanmaları yönünde
+        kurumsal kapasitelerini geliştirmektir.
+
+        ispanya, hindistan, kolombiya, endonezya, peru, portekiz, güney afrika cumhuriyeti, vietnam gibi
+        ülkelerde uygulanan bu programın türkiye proje yürütücüsü kıymet-i harbiye yönetim danışmanlık
+        şirketidir. 2015 yılında işte şeffaflık programı’na bir türk ana üreticisinin de katılması için kontenjan
+        ayrılmış ve katılım için arçelik’e davet gönderilmiştir. programın türkiye’deki ana yararlanıcısı arçelik,
+        işte şeffaflık programı kapsamında bir değerlendirme yaparak programa katılmanın hem arçelik hem
+        de katılımcı tedarikçiler adına önemli faydalar sağlayacağı sonucuna ulaşmıştır. bu şekilde arçelik’e
+        ürün ve hizmet sağlayan tedarikçiler olarak 14 kobi de programın katılımcısı olarak davet almıştır.
+
+        bu 14 davetli katılımcıdan biri olarak sürdürülebilirlik raporlaması konusunda eğitim çalışmalarına
+        başladık ve bu çalışmanın sonunda 01.01.2015- 31.12.2015 arası bir takvim yılını içeren ilk sosyal ve
+        çevresel etkilerimize dair performansımızı raporluyoruz.
+
+        raporlama döneminde gerçekleştirilen önceliklendirme çalışmalarına ait sonuçlar doğrultusunda
+        içerik belirlenirken, öncelikli olarak tespit edilen konulara ağırlıklı olarak yer verilmiştir.
+
+        raporun kapsam ve bağlayıcılığının belirlenmesinde global reporting initiative (gri) tarafından
+        yayınlanan g4 raporlama rehberi temel (core) uyumluluk seçeneği ilkeleri kullanılmıştır. rapor
+        içeriğinin oluşturulmasında yine g4 raporlama rehberinde yer alan göstergelerden yararlanılmıştır.
+
+                                                                                                                 3
+g4-1
+
+
+
+       2- genel müdürün mesajı:
+
+       sayın paydaşlarımız,
+
+       technocast, plastik üretim sektöründe henüz 6. yılını sürdürmekle birlikte, hızlı bir gelişim
+       göstermiştir. sektörümüzde tercih edilen iş ortağı olabilmek hedefi ile, sağlıklı büyümek için
+       kurumsallaşmamızı tamamlamamız önceliğimizdir.
+
+       technocast faaliyet gösterdiği trakya bölgesinde, doğaya saygılı üretim yapan, sosyal sorumluluk
+       bilinci ile hareket eden ve bölgenin ekonomisine değer katmaya çalışan bir firmadır. bu bilinci
+       arttırabilmek ve paydaşların katılımını sağlamak için, sürdürülebilirlik raporlama çalışmasına ayrı bir
+       önem veriyoruz. bu çalışmayı sadece bir raporlama olarak değil, çevreye ve sosyal değerlere duyarlı
+       bir yönetim biçimi olarak benimsiyoruz.
+
+       işte şeffaflık programı, uluslararası ölçekte küresel raporlama girişimi – gri tarafından
+       yürütülmektedir. programın amacı kurumların finansal olmayan performansının geliştirilmesine
+       yardımcı olmak ve bu doğrultuda sürdürülebilirlik raporlaması aracını kullanmaları yönünde
+       kurumsal kapasitelerini geliştirmektir.
+
+       ispanya, hindistan, kolombiya, endonezya, peru, portekiz, güney afrika cumhuriyeti, vietnam gibi
+       ülkelerde uygulanan bu programın türkiye proje yürütücüsü kıymet-i harbiye yönetim danışmanlık
+       şirketidir. 2015 yılında işte şeffaflık programı’na bir türk ana üreticisinin de katılması için kontenjan
+       ayrılmış ve katılım için arçelik’e davet gönderilmiştir. programın türkiye’deki ana yararlanıcısı arçelik,
+       işte şeffaflık programı kapsamında bir değerlendirme yaparak programa katılmanın hem arçelik hem
+       de katılımcı tedarikçiler adına önemli faydalar sağlayacağı sonucuna ulaşmıştır. bu şekilde arçelik’e
+       ürün ve hizmet sağlayan tedarikçiler olarak 14 kobi de programın katılımcısı olarak davet almıştır.
+
+       bu 14 davetli katılımcıdan biri olarak sürdürülebilirlik raporlaması konusunda eğitim çalışmalarına
+       başladık ve bu çalışmanın sonunda 01.01.2015- 31.12.2015 arası bir takvim yılını içeren ilk sosyal ve
+       çevresel etkilerimize dair performansımızı raporluyoruz.
+
+                                                                                                            4
+
+g4-8, g4-17
+
+
+
+       3- firmanız hakkında :
+
+       technocast 2003 yılında otomobil jantı ticareti ve danışmanlığı yapmak hedefiyle kurulmuştur. 2004
+       senesinde stratejik öncelikleri doğrultusunda istanbul beylikdüzü'nde kurulu hafif alaşımlı otomobil
+       jant üretimi yapan kare metal firmasını (carre wheels) satın alan technocast, büyümesine devam
+       etmiştir. ayrıca technocast, 2004 -2010 yılları arasında rusya ve ukrayna'da olmak üzere iki farklı
+       jant üretim tesisinin kurulması konusunda anahtar teslim danışmanlık hizmeti vermiştir.
+
+       stratejik büyüme öncelikleri doğrultusunda 2010 yılında çerkezköy osb'de 10.000 m2 kapalı alana
+       sahip yeni üretim tesisine taşınmış, plastik enjeksiyon alanında yatırım kararı almıştır.
+
+       technocast 2011 yılından itibaren entegre üretim tesis yatırımı ile beraber, tedarikçisi olduğu
+       firmalara oem/odm ürün ve yarı mamul üretim hizmeti sağlamaktadır. ağırlıklı olarak beyaz eşya ve
+       küçük ev aletleri sektöründe yer alan lider markalara bünyesinde bulunan ar-ge, kalıphane, plastik
+       enjeksiyon, boya, serigrafi, gruplama ve montaj bölümleri ile hizmet vermektedir. tüm servisler
+       technocast bünyesinde, entegre üretim tesislerinde sağlanmaktadır.
+
+       technocast, yetkin ürün geliştirme, ar-ge ve üretim ekibi ile müşterilerinin projelerine hayat
+       vermektedir. 2015 yılı itibariyle arçelik (çerkezköy ve istanbul), blue house (istanbul), homend
+       (istanbul), smart-e (istanbul), seb groupe fransa (lourdes ve vernon), seb groupe türkiye (istanbul)
+       firmalarına ürün ve hizmet sunmaktadır.
+
+
+
+       2014 senesinde iso 9001'e ek olarak ts16949 kalite sistemini kuran technocast, otomotiv sektörüne
+       de hizmet vermeye başlamıştır.
+
+                                                                                                       5
+
+
+
+
+iş kollarımız
+
+plastik (küçük ev aletleri-beyaz eşya-otomotiv) technocast küçük ev aletleri, beyaz eşya ve
+otomotiv alanlarında sektörün lider markalarına yarı mamül ve bitmiş ürün tedariği yapmaktadır.
+endüstriyel ve mekanik tasarımdan montaja kadar tüm ürün geliştirme ve üretim süreçlerini aynı çatı
+altında yürütmektedir.
+
+alçak basınçlı döküm (jant-elektrik motor gövdesi) technocast bünyesinde yer alan kare metal,
+carre wheels tescilli markası ile özel tasarım 13"-23" ölçülerinde alüminyum alaşımlı jant üretimi
+yapmaktadır. technocast çatısı altında üretimine devam eden kare metal, tüm ar-ge, kalıp tasarım
+ve imalat, jant üretimi ve test süreçlerini bünyesinde barındırmaktadır. jantlar, yurtiçinde 150'den
+fazla bayi kanalı ile satılmakta, yurtdışında başta ingiltere, belçika, almanya, tunus, mısır olmak üzere
+15'ten fazla ülkeye ihraç edilmektedir.
+
+medikal technocast stratejik büyümesi doğrultusunda 2013 yılında başlayan medikal ar-ge
+çalışmalarını 2016 yılında sonuçlandırmış olup, 2016 yılının ikinci yarısında endoskopi alanında
+üretime başlamayı hedeflemektedir. üreteceği ürünler esas alındığında türkiye'de ilk olmayı
+hedeflemektedir. ar-ge çalışmaları kapsamında 2 adet tübitak 1507 projesini başarıyla
+tamamlamıştır.
+
+
+
+
+                                   alçak basınçlı
+         plastik                                                      medikal
+                                      döküm
+      küçük ev
+                                    jant-elektrik
+      aletleri-
+                                       motor                          medikal
+     beyaz eşya-
+                                      gövdesi
+      otomotiv
+
+g4-12                                                                                                        6
+
+
+
+
+  tedarik zincirimiz
+
+  tedarik zinciri yönetimi değişen müşteri ihtiyaçlarına hızlı ve esnek cevap verebildiği için, pazarda
+  rekabet edebilmenin gerekli koşullarından olmuştur.
+  tedarik zinciri yönetimi, hammaddelerin edinilmesinden imalat ürünlerine ve buradan da tüketiciye
+  işlenmiş ürünlerin dağıtımına kadar tüm tedarik zinciri boyunca bilgiye dayalı karar alınmasına olanak
+  vermektedir.
+
+  tedarik zincirinin kısa vadeli amacı gereksiz stokları ortadan kaldırmak ve üretim ile müşteriye cevap
+  verebilme hızını artırmaktır. uzun vadeli stratejik amaç ise, müşteri beklentilerini doğru yerde teslim
+  edilmiş doğru ürünle karşılamak, bu şekilde pazar payını ve karları artırmaktır.
+
+  technocast tedarik zinciri yönetimini hayata geçirebilmek için çalışmalar yapmaktadır. müşterilerden
+  alınan sipariş öngörüleri tedarikçiler ile dinamik olarak paylaşılır. tedarikçilerin gereksiz stok
+  taşımamaları sağlanır. projelerde mümkün olduğu kadar yerli tedarikçiler tercih edilir, lojistik avantajı
+  ile minimum emniyet stokları ile çalışılır. müşterinin şart koştuğu dış tedarikçilerden yapılan alımlarda
+  ise, dış ticaret departmanının organizasyonuyla finans yükünü minimum seviyede tutacak şekilde
+  planlamalar yapılmaktadır.
+
+  montaj hattındaki kanban uygulaması ile tedarikçi kendi ürününü direkt hatta yükleyebilmektedir.
+  vida besleme için başlatılan bu uygulamanın yaygınlaştırılması için çalışmalar yapılmaktadır.
+
+  yerli ve yabancı tedarikçilerin performansları kalite ve lojistik puanları olarak değerlendirilmektedir.
+  bu puanlandırma sonucu alternatif tedarikçilerden hangi oranlarda alım yapılacağı ve yeni tedarikçi
+  ihtiyacı belirlenir. firma ziyaretleri yapılarak, tedarikçiler ile daha yakın iletişim kurulmakta ve
+  tedarikçilerin kendilerini geliştirmeleri için destek sağlanmaktadır.
+
+                                                                                                                7
+
+
+
+g4-19, g4-20, g4-21, g4-24, g4-25, g4-26, g4-27, g4-34
+
+
+
+    4- sürdürülebilirlik yönetimimiz ve paydaş katılımı:
+    sürdürülebilirlik bizim için raporlama faaliyetinin ötesinde, bir yönetim biçimidir. rapor kapsamında
+    belirtilen faaliyetlerin belli bir program doğrultusunda, etkinliğinin arttırılması, firmanın bu strateji
+    doğrultusunda yönetilmesi kararlılığındayız. iso 9001 sertifikasına sahip bir işletme olarak
+    sürdürülebilirlik yönetimini mümkün kılan en temel yönetim anlayışı olan kurumsal yönetim ve kalite
+    yönetim sistemlerini kullanmaktayız.
+
+    tedarikçisi olduğumuz firmalara (oem/odm) sağladığımız ürün ve yarı mamul üretimimiz dolayısıyla
+    bizim hammadde tedarik ettiğimiz kendi tedarikçilerimiz, organize sanayi yönetimi, çalışanlarımız ve
+    tabii ki müşterilerimiz faaliyetlerimizden doğrudan etkilenmektedir. faaliyetlerimiz konusunda karar
+    alırken ilgili paydaşların etki gücünü hesaba katıyoruz. faaliyetlerimizden doğrudan etkilenen ve
+    faaliyetlerimizi doğrudan etkileme potansiyeline sahip bu kişi ve kuruluşların fikirlerini çeşitli araçlarla
+    topluyor, iş süreçlerimize yansımalarını değerlendiriyoruz.
+
+
+           paydaş                  iletişim metodu          başlıca konular                  iletişim sıklığı
+    müşterilerimiz            *karşılıklı ziyaretler        ürün kalitesi         haftalık
+                              *anket
+    çalışanlarımız            *düzenli toplantılar          çalışma koşulları     aylık ve online eşzamanlı
+                              *isg kurulları                iş sağlığı ve
+                              *öneri kutuları               güvenliği
+                              *anket
+    tedarikçilerimiz          *ziyaret                      müşteri               aylık
+                                                            memnuniyeti
+    çosb organize sanayi      *ziyaret                      atık yönetimi –       aylık ve online
+    yönetimi                  *yönetimin düzenli            çevre yönetimi
+                              duyuruları
+
+                                                                               8
+
+
+g4-17, g4-18
+
+
+       5- öncelikli konularımız:
+
+         ihraç kapasitesi
+
+
+
+
+         süreç verimliliği
+                                         üretim
+         ürün sorumluluğu &
+         müşteri memnuniyeti
+
+
+
+
+                                                       öncelikli konularımız
+        çevre dostu ve katma
+        değerli ürünler
+
+
+        iklim değişikliği ve enerji
+        verimliliği
+
+                                         çevresel
+        operasyonların çevresel
+        etkileri
+                                         etkimiz
+
+        atık yönetimi
+
+
+
+
+        kaliteli işgücü
+
+
+    işgücü devamlılığı
+
+
+
+
+    çalışan hakları
+                                      çalışanlarımız
+
+
+
+    kadın istihdamı
+
+
+
+        iş sağlığı ve güvenliği
+
+                                                                                                           9
+
+
+
+
+6- sorumlu üretim yapımız ve kalite anlayışımız
+technocast kaliteyi en üst düzeyde tutan üretim anlayışı ile yurt içi ve yurt dışı müşterilerine hizmet
+vermektedir. entegre kalite yönetimi sistemimiz ve tam donanımlı laboratuvarımız sayesinde sadece
+ürün değil tüm süreç kalitesini güvence altında tutmak hedefimizdir.
+
+kalıbın kalitesi üretimin sağlığı açısından çok önemlidir. bunun bilincinden hareketle, kalıp üretimi ve
+bakımı alanında müşterilerimize en iyi hizmeti vermekteyiz. alçak basınçlı alüminyum döküm ve
+plastik enjeksiyon dahil olmak üzere yıllık 100 adet kalıp üretebilme kapasitesine sahibiz. ayrıca
+technocast, yurt içi ve yurt dışı stratejik kalıp üreticisi iş ortakları sayesinde de plastik ve metal kalıp
+üretimi alanında güçlü bir oyuncudur.
+üretimde olan kalıpların projeler kapsamında tüm bakım hizmetlerini yetkin ekibimiz, bünyemizde
+bulunan kalıphanemizde vermektedir. amacımız en verimli ve kaliteli üretimi sağlamaktır.
+
+işletmemizde 45 adet 35t-700t kapama kuvvetine sahip, çoğunluğu avrupa menşeili plastik
+enjeksiyon presleri çalışmaktadır.
+makinelerimizin büyük bir çoğunluğu 2011 yılında çalıştırılmaya başlanmış yeni makinelerdir.
+plastik enjeksiyon üretiminde kullanmış olduğumuz teknolojiler;
+      robot otomasyonlu enjeksiyon
+      çift komponent enjeksiyon (400t)
+      insert enjeksiyon
+      overmolding
+      proje bazlı otomasyon (konveyör, cnc çapak alma sistemleri gibi)
+ayrıca üretim sırasında, gravimetrik dozajlama üniteleri sayesinde en hassas şekilde hammadde
+karışımları elde edilmektedir.
+yıllık 6000 ton plastik işleme hacmine sahip technocast, birçok farklı hammadde ile çeşitli
+özelliklerde (yanmaz, yüksek ısı dayanımlı, elektrik geçirgenliği düşük, şeffaf, yüksek kuvvet
+dayanımlı) parça üretimi yapmaktadır.
+
+technocast üç adet plastik yaş boyama, bir adet metal toz ve vernik hattına sahiptir.
+boyahanelerimizde manuel olarak ve eksenel robot kullanımı ile tam otomatik boyama
+yapılabilmektedir.
+farklı ebatlarda ve özellikteki parça boyamaları için esnek aparat tasarım ve uygulama yöntemi ile en
+etkin boya dağılımı elde edilebilmektedir.
+
+
+
+çevreye duyarlı katma değerli ürünlerimiz
+
+ağırlıklı ürün grubumuz olan elektrikli süpürgelerde mevcut yürürlükte olan erp (çevreye duyarlı
+tasarım gerekleri) yönetmeliğine uygun mamuller üretilmektedir. böylelikle ar-ge departmanındaki
+yeni tasarımlarımızda avrupa’da uygulanan ama henüz ülkemizde yürürlüğe girmeyen yönetmelikleri
+de dikkate alarak, enerji tüketimi az olan, çevre dostu süpürge tasarımları yapılmaktadır.
+
+                                                                                                      10
+
+
+ürün sorumluluğu ve müşteri memnuniyeti
+
+
+technocast’ın kalite politikası doğrultusunda çevreye saygılı, kullanıcısına güven veren ürün
+çeşitlerimizi müşteri istekleri doğrultusunda geliştiririz. boyahanemiz periyodik aralıklar ile termograf
+ölçümlerine tabi tutulmakta ve en uygun kurutma ortamı sağlanmaktadır.
+
+boyahane sonrası testler: boyalı ürünler bir dizi teste tabı tutulmaktadır.
+cihaz/test                      marka/model           ölçme aralığı                  testin amacı
+cross cut test                  tqc                   --                             boya tutunma testi
+renk ölçüm cihazı               konica minolta        l-a-b spherical coordinates    boyalı parça renk kontrolü
+plastik parça boya kalınlık
+                                elektrophysik         1,5 mm                         parça üzerinde boya kalınlık ölçümü
+ölçümü
+
+
+serigrafi bölümümüzde tampon baskı, sıcak baskı, pvd kaplama işlemleri yüksek kalitede
+gerçekleştirilmektedir. bünyemizde aynı anda 4 farklı renkli tampon baskı yapılmasına olanak
+sağlayan üretim hattımız bulunmaktadır.
+yüzey baskısı zor olan pp gibi hammaddeler için de ayrıca en yüksek kaliteli tutuculuk için kurutma
+çözümleri de uygulanmaktadır.
+
+
+technocast bünyesinde farklı projeler için tasarlanmış manuel ve otomasyonlu montaj hatları
+bulunmaktadır. proje bazında gerekli montaj hattı tasarlanmakta ve ihtiyaca göre en esnek şekilde
+yatırım çalışmaları yapılmaktadır.
+ayrıca montaj hatlarımızda tüm fonksiyonel testler de uygulanmaktadır.
+işletmemizde %100 görsel kontrol ile titiz gruplama yapılabilmesi için en uygun ortam sağlanmıştır.
+
+                                                                                                       11
+
+
+
+
+                                                   girdi kalite
+                                   raporlama        kontrol
+                                                      (gkk)
+
+
+
+                           tedarikçi                           proses
+                           yönetimi                            kontrol
+
+
+
+                                                      final
+                                       testler
+                                                     kontrol
+
+
+
+
+kalite yönetimi süreçlerimiz
+
+technocast, üretim kalitesini güvence altında tutmak öncelikli hedefi ile tüm sahaların tamamında
+yalın üretim tekniklerini (6 sigma, kaizen, poka yoke, tpm, 5s vb…) uygulamaktadır. bunların
+yanında müşteri odaklı çalışma felsefemizden yola çıkarak tüm üretim ve montaj bantlarında gerekli
+test ve diğer ekipmanlar yetkin mühendis kadromuz tarafından geliştirilmektedir.
+
+iso 9001 ve ts16949 sertifikalarına sahip olan işletmemizde kalite yönetim sistemi standartlar
+çerçevesinde kurulmuş ve başarıyla uygulanmaktadır. saha otomasyonu, akıllı raf, fifo ve barkod
+sistemi ile izlenebilirlik sağlanmaktadır.
+
+technocast’ın kalite politikası doğrultusunda müşteri ihtiyaç ve taleplerini (müşteri memnuniyetini)
+en üst seviyede tutarız. kalite güvence sistemini tüm çalışanların katılımı ile destekleriz. kalite
+yönetim sistemi ile kaliteyi düşük maliyetle en üst seviyede tutarız. müşterimize uluslararası kabul
+görmüş düzeylerde ürün ve hizmet sunarız.
+
+technocast kalite politikası;
+     müşteri ihtiyaç ve talepleri doğrultusunda müşteri memnuniyetini en üst seviyede tutmak
+     kalite güvence sistemini tüm çalışanların katılımı ile desteklemek
+     kalite yönetim sistemi ile kaliteyi düşük maliyetle en üst seviyede tutmak
+     müşterimize uluslararası kabul görmüş düzeylerde ürün ve hizmet sunmak
+     çevreye saygılı, kullanıcısına güven veren ürün çeşitlerimizi müşteri istekleri doğrultusunda
+      geliştirmek
+     çalışanları kalite yönetim sistemi şartlarına uyma ve sürekli gelişme, iyileştirme konularında
+      bilinçlendirmek
+     yurt dışı pazarlara açılmak
+     düzenli, temiz ve güvenilir çalışma ortamı sağlamak
+     teknolojik gelişmeleri takip ederek, teknolojinin gerisinde kalmamak
+     ulusal yasa ve mevzuatlara uygun çalışmak
+
+g4-14, g4-15, g4-en3                                                                                      12
+
+
+   7- çevresel etkimiz
+   technocast, ana faaliyet konuları olan plastik enjeksiyon ve alçak basınçlı alüminyum döküm
+   alanlarında müşteri beklentilerine uygun, kaliteli ve çevreye duyarlı üretim yapmayı hedeflemektedir.
+   technocast, iso 14001 çevre yönetim sistemi standartlarına bağlı kalarak çevre programını ve
+   hedeflerini oluşturmuş, çevre politikasını belirlemiştir. technocast çevre politikası ve hedefleri
+   çerçevesinde çevre kirliliğini azaltıcı ve önleyici sürekli iyileştirme faaliyetlerini uygulamayı ve
+   teknolojik gelişmeleri yakından takip etmeyi ilke edinmiştir. bu doğrultuda çevre ile ilgili onaylanmış
+   uluslararası yasal düzenlemelere, ulusal kanun/mevzuat ve diğer yükümlülüklere tam uyum hedefi
+   benimsenmiştir.
+
+   operasyonlarımızda çevreye duyarlı teknoloji seçmek önceliğimizdir. ayrıca faaliyetlerimizden
+   kaynaklı atıklarımızı en aza indirmek ve kontrol altında tutmak için sistemler geliştirdik.
+
+   çevresel etkimiz yönetirken kirliliğini kaynağında önleme ve çevre üzerindeki olumsuz etkilerini
+   azaltma hususlarına odaklanırız. çevre bilinci firmada eğitimlerle sağlanmış ve hiç bir çevre kazası
+   yaşanmamıştır.
+
+   enerji tasarrufu sağlayacak girişimleri desteklemek ve etkin üretim planlaması yaparak hammadde,
+   enerji ve işgücü israfını önlemek için çalışırız.
+
+   enerji tüketimimiz
+
+
+                kapsam 1 ve kapsam 2 enerji tüketimimiz
+                                (kwh)
+    6000000                                                                        5489260
+                                                                                               5209425
+    5000000                                    4465280
+
+    4000000                                                  3500314
+                   3204670
+    3000000                   2635049
+
+    2000000
+
+    1000000
+
+          0
+                          2013                         2014                                2015
+
+                       elektrik (kwh)       doğalgaz (kwh)             doğrusal (elektrik (kwh))
+
+
+
+
+   2014 yılı itibariyle 4.465.280 kwh olan elektrik tüketimimiz 2015 yılında 5.489.260 kwh’a yükselmiştir.
+   elektrik tüketimimizdeki artışın sebebi üretimdeki artıştır. üretimimizdeki artış oranı enerji
+   tüketimindeki artış oranının çok üstündedir. yeni projelere başlamamız, yeni üretim hatları devreye
+
+                                                                                                      13
+
+
+almamız sonucunda kapsam 1 ve kapsam 2 enerji tüketimimiz artmış olmasına rağmen parça başına
+enerji tüketimimiz aynı seviyelerindedir.
+
+
+atık yönetimimiz
+
+technocast olarak küçük ev aletleri ve beyaz eşya sektörlerinde entegre üretim tesisimiz ile tedarikçisi
+olduğumuz firmalara (oem/odm) sağladığımız ürün ve yarı mamul üretimiz dolayısıyla ortaya çıkan
+doğrudan ya da dolaylı şekilde oluşmuş, çevre üzerinde olumsuz etkiler yaratabilecek her türlü çıktıyı
+atık olarak tanımlıyoruz. atıkların yönetiminde atık yönetim hiyerarşisi kullanılmakta ve
+faaliyetlerimizden kaynaklanan atıklar atık hiyerarşisine uygun şekilde değerlendirilmektedir. oluşan
+atıkları türlerine göre ayrıştırıp, her bir atık türü için öncelikle önlenmesinin mümkün olup olmadığı
+araştırılmaktadır. önlenmesi mümkün olmayan atıklara yönelik azaltma metodolojileri belirleriz.
+atıkların yeniden kullanımı ya da geri kazanımı atık yönetimi sürecimizde üzerinde titizlikle
+durduğumuz bir konudur. üretim faaliyetlerinden kaynaklanan atık yağlar, elektronik atıklar ve evsel
+atıklar geri dönüşüm sisteminde değerlendirilir.
+
+
+
+atık öncelik piramidi
+                   önleme • tüketimden kaçınma
+
+                   azaltma         • daha az tüketme
+
+
+               yeniden kullanım          • aynı ürünün birçok kere kullanılması
+
+
+            kaynak kazanım prosesi            • enerji ve mineral kazanımı
+
+
+          atıkların enerjiye dönüşümü              • enerji kazanımı
+
+                                                         • güvenli depolama veya
+               sorumlu bertaraf                            kapsülleme
+
+
+
+
+türlerine göre atık miktarı (ton)
+
+   5                              4,68
+ 4,5
+   4              3,55
+ 3,5                                                                                     3,06
+   3
+ 2,5
+   2
+ 1,5
+   1
+ 0,5                                                                         0
+   0
+                    tehlikeli atık                                           teklikesiz atık
+
+                                               2014       2015
+
+                                                                                                         14
+
+g4-9, g4-la10
+
+
+   8- technocast’ta çalışma hayatı
+   technocast’ın kalite politikası doğrultusunda çalışanları kalite yönetim sistemi şartlarına uyma ve
+   sürekli gelişme, iyileştirme konularında bilinçlendirmeye önem veririz. düzenli, temiz ve güvenilir
+   çalışma ortamı sağlamak için azami gayreti gösteririz. kadın ve erkek tüm çalışanlarımızın huzurlu,
+   sağlıklı şekilde çalışabileceği çalışma koşulları sunarız. hem kadın hem de erkek çalışanlarımıza karşı
+   eşit işe eşit ücret prensibi ile hareket ederiz.
+
+
+
+
+   kaliteli işgücü ve çalışan gelişimi
+
+   türkiye’de yeterli teknik ara elemanın olmaması sektörümüz için bir açık teşkil etmektedir. düz işçi ile
+   mühendis görevleri arasında, teknik öğretmen, 2 yıllık teknik yüksek okul mezunları, teknik meslek
+   lisesi mezunlarının sayısı oldukça azdır. technocast üretim tesisinin bulunduğu çerkezköy organize
+   sanayi bölgesinin yardımıyla özel bir teknik lise kurulmuştur. bu okul bütün mezunlarını işsiz
+   bırakmadan hemen mezun olur olmaz bir işe yerleştirme hedefindedir. bütün organize bölgelerde o
+   bölgenin ihtiyacını karşılayacak okullar kurmamız gerekiyor, teknik elemanlar yetiştirmemiz gerekiyor.
+   türkiye ekonomisinin de güçlenmesi için teknik ara eleman yetiştirme konusunda çalışmaların
+   artırılması için sorumluluğumuzun bilincindeyiz.
+
+                                                                                                                       15
+g4-la1, g4-la9
+
+         technocast'ın sektöründe başarılı olması ve kendisini sürekli yenilemesi çalışanlarının katkıları ve
+         gelişimleri ile mümkün olmaktadır. bu doğrultuda çalışanların eğitim, gelişim ihtiyaçları ve görevleri
+         doğrultusunda desteklenmesi için destek çalışmaları uygulanmaktadır.
+
+         çalışanlarımızın üstlendikleri görevler doğrultunda gereklilikler tespit edilerek her yıl eğitim planları
+         oluşturulmaktadır. 2015 yılında çalışanlarımıza yönelik kişi başı 14 saat eğitim gerçekleştirilmiştir.
+
+         işgücü devamlılığı
+         bir önceki yıl 2015 yılı için çalışan sirkülasyon oranına yönelik %10 hedefi belirlenmişti. 2015 yılındaki
+         gerçekleşen çalışan sirkülasyon oranı %8’dir. bu durum memnun edicidir.
+
+         çalışanlar ile sürekli çeşitli kanallardan iletişim kurmaktayız. çalışanların beklentilerini 6 ayda bir
+         uyguladığımız memnuniyet anketleriyle ölçüyor ve sağlık, esenlik ve memnuniyet düzeylerini
+         iyileştirmek için harekete geçiyoruz. 2014 ve 2015 yılında yapılan çalışan memnuniyet anketleri
+         sonucunda sırasıyla %71 ve %64’luk skorlar elde edilmiştir. bu skorlar %90 olan şirket hedefinin
+         gerisindedir. dolayısıyla anket sonuçlarıyla tespit edilen; memnuniyetsizlik yaratan noktalar tespit
+         edilerek iyileştirme çalışmaları yapılmaktadır. 2015 yılı itibariyle soyunma odalarının durumunun
+         iyileştirilmesi, sağlık servislerinin geliştirilmesi ve sosyal etkinliklerin artırılmasına yönelik talepler
+         gelmiştir. bu doğrultuda gereken iyileştirmeler yapılmıştır.
+
+
+
+
+                                           çalışan memnuniyet oranı (%)
+           80
+                                      71
+           70                                                                           64
+           60
+
+           50
+
+           40
+
+           30
+
+           20
+
+           10
+
+            0
+                                     2014                                             2015
+
+                             çalışan memnuniyet oranı (%)            üstel (çalışan memnuniyet oranı (%))
+
+
+         kadın istihdamı
+         plastik enjeksiyon alanında işgücünün yarısından fazlası kadınlar tarafından karşılanmaktadır.
+         technocast çalışanlarına bakıldığında kadın çalışanların oranı %56,8 ile sektör ortalamasındadır.
+         technocast olarak işgücümüzün çoğunluğunu sağladığımız kadın çalışanlarımıza yönelik insan
+         kaynakları uygulamaları yürütmekteyiz.
+
+                                                                                                                  16
+g4-la6, g4-la9
+
+
+        iş sağlığı ve güvenliği
+        technocast iş sağlığı ve güvenliği politikası insana saygıya dayanmaktadır. technocast ohsas
+        18001 standartlarına bağlı kalarak iş sağlığı ve güvenliği yönetim sistemini kurmuş, çalışanlarda iş
+        güvenliği bilincini sağlamak ve işçi sağlığı ve güvenliğini tehlikeye alacak riskleri azaltmayı
+        hedefleyerek politikasını oluşturmuştur.
+
+                çalışma bakanlığı mevzuatları içinde yer alan iş sağlığı ve iş güvenliği tüzüğü ve iş sağlığı ve iş
+                 güvenliği kuralları hakkında tüzük içerisinde belirtilen gerekleri yerine getirileceğini, bu
+                 politikanın uygun zaman aralıklarında ya da gerektiğinde gözden geçirileceğini ve bu yönetim
+                 sistemini sürekli geliştirmeyi,
+                işyeri ve eklentilerinde iş kazası, meslek hastalığı doğurabilecek emniyetsiz durum ve
+                 hareketleri, olası kaza risklerini, etkin bir risk değerlendirmesi yaparak önceden tespit etmeyi
+                 ve ortadan kaldırmayı, sürekli iyileştirme ve önleyici davranış yaklaşımımızla risklerimizi etkin
+                 yönetmeyi,
+                faaliyetlerimiz sırasında meydana gelebilecek kaza veya acil durumlarla ilgili risk analizlerini
+                 yapmak, kaza ve acil durumun oluşması durumunda zararları en az düzeye indirecek tedbirler
+                 planlayıp, uygulamayı,
+                ekipman, hammadde ve iş aracı seçiminde iş sağlığı – iş güvenliğine uygun malzeme seçimi
+                 yapmayı,
+                çalışanlarımızı iş sağlığı ve güvenliği alanında bilgi düzeylerini geliştirecek şekilde eğitmeyi ve
+                 bu eğitimleri periyodik olarak tekrarlayarak, iyi bir iş sağlığı ve güvenliği bilincine erişmelerini
+                 sağlamayı, iş sağlığı ve güvenliği politikamız olarak taahhüt ederiz.
+
+
+                                    iş kazası (%)
+          2,5
+                       2
+           2
+          1,5                                           1,33
+
+           1                                                            iş kazası (%)
+          0,5
+                                        0
+           0
+                     2013             2014             2015
+
+
+        alınan tüm tedbirlere rağmen 2014 yılında etkin uygulamalarla sıfıra indirdiğimiz iş kazası oranı
+        raporlama döneminde %1,33 olarak gerçekleşmiştir.
+
+                                                                                                      17
+
+
+
+10- gri içerik indeksi
+
+genel standart bildirimler
+genel standart bildirimler sayfa           bölüm                                  açıklamalar
+
+strateji ve analiz
+
+g4-1                      3                genel müdürün mesajı
+
+kurumsal profil
+
+g4-3                      arka kapak       iletişim bilgileri
+
+g4-4                      12               ürün ve hizmetler
+
+g4-5                      arka kapak       iletişim bilgileri
+
+g4-6                      2                rapor hakkında
+
+g4-7                      2,4              rapor hakkında, kurumsal profil
+
+g4-8                      4                firmamız hakkında
+
+g4-9                      12               ürün ve hizmetler
+
+g4-10                     21               çalışan profili
+
+                                                                                  firmamızda toplu iş sözleşmesi
+g4-11                     17               gri göstergeler tablosu                kapsamında çalışan
+                                                                                  bulunmamaktadır.
+
+g4-12                     6                tedarik zincirimiz
+
+g4-13                     17               gri göstergeler tablosu                ilk rapor yayınımızdır.
+
+g4-14                     12               çevresel etkimiz
+
+                                           kalite yönetimi süreçlerimiz,
+g4-15                     11,12
+                                           çevresel etkimiz
+
+                                                                                  herhangi bir üyeliğimiz
+g4-16                     17               gri göstergeler tablosu
+                                                                                  bulunmamaktadır.
+
+tanımlanan öncelikli unsur ve çerçeveler
+
+g4-17                     8                öncelikli konularımız
+
+g4-18                     8                öncelikli konularımız
+
+                                           sürdürülebilirlik yönetimi ve paydaş
+g4-19                     7
+                                           katılımı
+
+g4-20                     7                sürdürülebilirlik yönetimi ve paydaş
+
+                                                                                    18
+
+
+                         katılımı
+
+                         sürdürülebilirlik yönetimi ve paydaş
+g4-21               7
+                         katılımı
+
+                         sürdürülebilirlik yönetimi ve paydaş yeniden düzenlenen beyan
+g4-22               7
+                         katılımı                             bulunmamaktadır.
+
+g4-23               2    rapor hakkında
+
+paydaş katılımı
+
+                         sürdürülebilirlik yönetimimiz ve
+g4-24               7
+                         paydaş katılımı
+
+                         sürdürülebilirlik yönetimimiz ve
+g4-25               7
+                         paydaş katılımı
+
+                         sürdürülebilirlik yönetimimiz ve
+g4-26               7
+                         paydaş katılımı
+
+                         sürdürülebilirlik yönetimimiz ve
+g4-27               7
+                         paydaş katılımı
+
+rapor profili
+
+g4-28               2    rapor hakkında
+
+g4-29               2    rapor hakkında
+
+g4-30               2    rapor hakkında
+
+g4-31               2    rapor hakkında
+
+g4-32               2    rapor hakkında
+
+                                                                kamuoyuna açıkladığımız 2015 yılı
+                                                                sürdürülebilirlik performansımıza
+g4-33               18   gri göstergeler tablosu
+                                                                dair bilgiler için rapor kapsamında
+                                                                bağımsız denetim alınmamıştır.
+
+yönetişim
+
+                         sürdürülebilirlik yönetimimiz ve
+g4-34               7
+                         paydaş katılımı
+
+etik ve dürüstlük
+
+                                                                 http://www.technocast.com.tr/kal
+g4-56                    gri göstergeler tablosu                ite-kalite-politikamiz linkinden
+                                                                kalite politikamıza ulaşabilirsiniz.
+
+                                                                                                  19
+
+
+           özel standart bildirimler
+dma ve göstergeler sayfa   raporlandığı bölüm             hariç tutulanlar         açıklamalar
+
+kategori: ekonomik
+
+dma unsur: piyasa
+                     11    kalite yönetimi süreçlerimiz
+varlığı
+
+                                                                                   şirketimizde ortalama
+g4-ec5               19    gri göstergeler tablosu        -                        başlangıç ücreti asgari
+                                                                                   ücretin üzerindedir.
+
+kategori: çevresel
+
+dma unsur: enerji    12    çevresel etkimiz
+
+g4-en3               12    enerji tüketimimiz             -
+
+dma unsur: atıklar   13    atık yönetimimiz
+
+g4-en23              13    atık yönetimimiz               -
+
+kategori: sosyal
+
+dma unsur: istihdam 15     işgücü devamlılığı
+
+                                                          kadın –erkek kırılımı
+g4-la1               15    işgücü devamlılığı
+                                                          hesaplanmamıştır.
+
+dma unsur:
+                     16    iş sağlığı ve güvenliği
+istihdam: isg
+
+                                                          kadın –erkek kırılımı
+g4-la6               16    iş sağlığı ve güvenliği
+                                                          hesaplanmamıştır.
+
+kategori: insan haklari
+
+dma unsur: insan
+                     14    technocast’ta çalışma hayatı
+hakları
+
+                                                          raporlama döneminde
+                                                          technocast bünyesinde
+g4-hr 3              19    gri göstergeler tablosu        yürütülen operasyonlar
+                                                          dahilinde bir vakaya
+                                                          rastlanmamıştır.
+
+                                                          herhangi bir risk
+g4-hr 5              19    gri göstergeler tablosu
+                                                          bulunmamaktadır.
+
+g4-hr 6              19    gri göstergeler tablosu        risk bulunmamaktadır.
+
+g4-hr 12             19    gri göstergeler tablosu        raporlama döneminde
+                                                          technocast bünyesinde
+
+                                                                                              20
+
+
+                                                                   yürütülen operasyonlar
+                                                                   dahilinde raporlanan bir
+                                                                   resmi şikayet
+                                                                   bulunmamaktadır.
+
+kategori: ürün sorumluluğu
+
+dma unsur: ürün ve              sorumlu üretim yapımız ve kalite
+                    9
+hizmet etiketlemesi             anlayışımız
+
+                                sorumlu üretim yapımız ve kalite
+g4-pr5             9                                             -
+                                anlayışımız
+
+
+
+
+      g4-3, g4-5
+
+
+          technocast otomotiv sanayi ve ticaret a.ş.
+          çosb g.o.paşa mah. 6. cad. no:12, 59500 çerkezköy/tekirdağ, turkey
+
+          telefon: 0282 726 44 80
+          faks: 0282 726 20 22
+          e-posta: info@technocast.com.tr

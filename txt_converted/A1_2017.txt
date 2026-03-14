@@ -1,0 +1,1630 @@
+ die umwelt kann
+ auf uns zählen.
+ a1 umwelterklärung 2016/2017
+
+
+
+  a1.net
+a1 umwelterklärung              seite 35
+
+                                                                                                                                  inhalt
+
+
+
+
+inhalt
+vorwort ............................................................................................................................. seite 2
+
+unternehmensprofil........................................................................................................ seite 3
+
+umweltpolitik .................................................................................................................. seite 4
+
+umweltmanagement ...................................................................................................... seite 6
+
+umweltprogramm........................................................................................................... seite 8
+
+
+
+
+co2-reduktion ....................................... seite 10
+
+
+energieeffizienz .......................................... seite 14
+
+
+mobilität ...................................................... seite 19
+
+
+ressourcenschonung................................. seite 22
+
+umweltkennzahlen ....................................................................................................... seite 26
+
+umweltregister .............................................................................................................. seite 28
+
+gültigkeitserklärung..................................................................................................... seite 31
+
+
+
+
+impressum
+eigentümer, herausgeber, verleger: a1 telekom austria ag
+adresse: lassallestraße 9, 1020 wien | website: a1.net
+telefon: +43 50 664 0 | e-mail: umwelt@a1telekom.at
+
+                                                                                                              vorwort
+
+
+
+
+klares bekenntnis zum
+globalen klimaschutz.
+a1 bekennt sich seit mehr als 10 jahren klar zum umwelt-     als besonderer „grüner meilenstein“ ist das „co2-neu-
+und klimaschutz und setzt sich dazu laufend neue ziele       trale netz“ von a1 zu sehen (siehe seite 12); 2014 reali-
+im rahmen mehrjähriger umweltprogramme. die maß-             siert hat es maßgeblich dazu beigetragen, das gesamte
+nahmen reichen dabei von der reduktion des energie-          unternehmensweite aufkommen an co2-emissionen um
+sowie des rohstoffbedarfs über fachgerechtes recycling       66% zu senken. somit wird den kundinnen und kun-
+bis hin zu aktiver bewusstseinsbildung.                      den klimaneutrales telefonieren, fernsehen und surfen
+                                                             ermöglicht. zudem bietet a1 mit seinem produkt- und
+a1 versteht sich als wegbegleiter bei der digitalisierung,   lösungsportfolio möglichkeiten, einen aktiven beitrag
+die mit einem dynamischen anstieg der transportierten        zum umwelt- und klimaschutz zu leisten: mit lync und
+datenvolumina verbunden ist. damit nicht parallel dazu       videokonferenzen, machine-to-machine-lösungen, der
+der energiebedarf und somit auch der co2-ausstoß             papierlosen rechnung oder dem a1 handyrecycling bie-
+ansteigen, setzt a1 eine vielzahl an maßnahmen, um den       tet a1 auch den kundinnen und kunden möglichkeiten,
+strombedarf vom datenvolumen zu entkoppeln. und zwar         ihren ökologischen fußabdruck zu verringern.
+mit erfolg: von 2013 bis 2016 reduzierte a1 den strom-
+bedarf um 5% von 414 auf 394 gigawattstunden.                umwelt- und klimaschutz können nur gemeinsam unter
+                                                             einbindung aller interessensgruppen gelingen. daher
+diesen erfolgreichen weg geht a1 konsequent weiter:          schärft a1 mit informationskampagnen das umwelt-
+im aktuellen umweltprogramm 2016-2018 setzt sich a1          bewusstsein der mitarbeiterinnen und mitarbeiter sowie
+zum ziel, den strombedarf trotz laufenden netz- und inf-     seiner externen stakeholder. auch für die kommenden
+rastrukturausbaus bis 2018 in einer maximalen schwan-        jahre bekennt sich a1 klar zu richtungsweisenden
+kungsbreite von 5% stabil zu halten. darüber hinaus soll     schritten im interesse von umwelt- und klimaschutz.
+im selben zeitraum der stromeinsatz pro transportiertem
+datenvolumen in terabyte um 50% reduziert werden. mit
+einer reduktion um 36% zwischen 2015 und 2016 kam a1
+diesem ziel bereits einen großen schritt näher. auch dem
+ziel, gefahrene kilometer um 5-7% zu reduzieren, kommt
+a1 mit einer reduktion um 3% von 2015 auf 2016 bereits
+nahe. der interne papierverbrauch konnte zwischen 2015
+und 2016 um 4% reduziert werden. a1 befindet sich damit
+auf dem richtigen weg, das ziel den papierverbrauch von
+2016 auf 2018 um 10% zu reduzieren, zu erreichen. die
+unternehmensweiten co2-emissionen wurden von 2015
+auf 2016 um 6% reduziert.
+
+
+
+
+a1 umwelterklärung                                                                                              seite 2
+
+                                                                                                                  unternehmensprofil
+
+
+
+
+unternehmensprofil
+
+ firmenname                                                          a1 telekom austria ag
+
+ geschäftsleitung                                                    dr. margarete schramböck, ceo (bis 16.10.2017)
+                                                                     mag. sonja wallner, cfo
+                                                                     markus grausam, cto (interimistischer ceo ab
+                                                                     16.10.2017)
+
+ umsatz                                                              rund 2.575,5 mio. eur (jahr 2016)
+
+ mitarbeiterinnen                                                    8.352 (vollzeitkräfte per 31.12.2016)
+
+ organisationsstruktur                                               a1 (rechtspersönlichkeit: a1 telekom austria ag) ist
+                                                                     eine österreichische tochtergesellschaft der a1 telekom
+                                                                     austria group (rechtspersönlichkeit: telekom austria
+                                                                     ag) – einem führenden kommunikationsanbieter im
+                                                                     cee-raum. die an der wiener börse notierte telekom
+                                                                     austria ag ist mit mehr als 24 millionen kundinnen
+                                                                     und kunden in sieben ländern tätig: in österreich
+                                                                     (a1), bulgarien (mobiltel), kroatien (vipnet),
+                                                                     weißrussland (velcom), slowenien (a1 slovenija1),
+                                                                     der republik serbien (vip mobile) und der republik
+                                                                     mazedonien (one.vip).
+
+ kurzbeschreibung der firmentätigkeit                                a1 ist mit knapp 6 mio. mobilfunkkunden und mehr
+                                                                     als 2,2 mio. festnetzanschlüssen österreichs führender
+                                                                     kommunikationsanbieter. die kundinnen und kunden
+                                                                     profitieren von einem umfassenden gesamtangebot
+                                                                     aus einer hand.
+
+ produkte und lösungen                                               sprachtelefonie, internetzugang, digitales kabel-
+                                                                     fernsehen, daten- und it-lösungen, mehrwertdienste,
+                                                                     wholesale-services und mobile business- und
+                                                                     payment-lösungen. die marken a1, bob, red bull
+                                                                     mobile und yesss! stehen für höchste qualität und
+                                                                     smarte services.
+
+1) die umbenennung von si.mobil d.d. in a1 slovenija, d.d. im zuge des rebrandings wurde im april 2017 wirksam.
+
+
+
+
+a1 umwelterklärung                                                                                                            seite 3
+
+                                                                                                     umweltpolitik
+
+
+
+
+umweltpolitik
+wir bekennen uns zu unserer ökologischen verantwortung und leisten einen aktiven beitrag zum schutz der
+umwelt. im rahmen einer integrativen betrachtung wirtschaftlicher und umweltbezogener aspekte unterneh-
+merischen handelns sind wir bestrebt, unseren ökologischen fußabdruck so weit wie möglich zu reduzieren.
+zu diesem zweck hat a1 ein nach iso 14001 und emas zertifiziertes umweltmanagementsystem implementiert
+und verfolgt darauf aufbauende, klar definierte und messbare zielsetzungen. unternehmensinterne richtlinien
+gewährleisten deren einhaltung ebenso wie jener des geltenden umweltrechts.
+
+
+
+infrastruktur & services
+bei der entwicklung, realisierung und vermarktung von digitalen kommunikationsdienstleistungen nimmt a1 auf
+ökologische gesichtspunkte bedacht. beim ausbau unserer kommunikationsinfrastruktur sorgen wir dafür, dass
+landschaftsbild, naturschutz und die interessen der menschen gewahrt bleiben.
+
+
+
+energie
+der energieverbrauch stellt die größte umweltauswirkung von a1 dar. daher setzen wir auf energiesparen bzw.
+eine steigerung der energieeffizienz und die nutzung von erneuerbaren energiequellen im unternehmen. um das
+konsequente verfolgen dieser ausrichtung sicherzustellen, hat a1 ein energiemanagementsystem nach iso 50001
+implementiert.
+
+
+
+ressourcen
+wir gehen sorgsam mit den natürlichen ressourcen um. ökologische kriterien bei planung, beschaffung und einsatz
+von betriebsmitteln wie z. b. fahrzeugen, papier oder technischem equipment bringen diese haltung zum ausdruck.
+a1 ist bestrebt, abfälle zu vermeiden, ressourcen zu schonen und wertvolle rohstoffe solange wie möglich im kreis-
+lauf zu halten.
+
+
+
+kommunikation
+a1 fördert das umweltbewusste denken und handeln der mitarbeiterinnen. wir binden sie und unsere kundinnen
+aktiv in umweltprojekte ein und haben dabei ein offenes ohr für anliegen und anregungen. regelmäßige und
+transparente kommunikation stellt einen offenen austausch mit unseren stakeholdern sicher.
+
+
+
+
+ dr. margarete schramböck, ceo              mag. sonja wallner, cfo                 marcus grausam, cto
+
+
+a1 umwelterklärung                                                                                           seite 4
+
+                                                           umweltpolitik
+
+
+
+
+                     respektieren.
+                     durchatmen.
+                     ein zeichen setzen.
+                     verantwortung übernehmen.
+                     mit gutem gewissen.
+                     die welt verändern.
+                     die natur schützen.
+du kannst co2 neutral kommunizieren.
+                     einfach grüner sein.
+                     umweltfreundlich handeln.
+                     die zukunft beeinflussen.
+                     an morgen denken.
+                     ein vorbild sein.
+                     deinen teil beitragen.
+                     rücksicht nehmen.
+
+
+
+
+du kannst alles.
+mit dem ersten grünen netz.
+
+
+
+
+a1.net/gruenes-netz
+#connectlife
+                                                 seite 5
+co 2 neutrales netz bestätigt vom tüv süd
+
+                                                                                              umweltmanagement
+
+
+
+
+richtungsweisendes
+umweltmanagement
+                             a1 wurde 2004 erstmals nach der internationalen umweltmanagementnorm iso
+  zertifizierungen           14001 zertifiziert. die einhaltung der anforderungen der norm wird seitdem jähr-
+  auf einen blick            lich von einem unabhängigen gutachter überprüft. seit 2013 ist a1 auch nach den
+  iso 14001                  anforderungen der emas-verordnung erfolgreich geprüft.
+  iso 50001
+  iso 9001                   die allgemeinen ökologischen prinzipien von a1 sind in der umweltpolitik (seite 4)
+  iso 27001                  festgeschrieben. das darauf basierende umweltprogramm (seite 8) legt konkrete ziele,
+  emas                       maßnahmen und verantwortlichkeiten fest. ein umweltmanagementhandbuch beinhal-
+                             tet alle diesbezüglichen prozesse und aktivitäten sowie arbeits- und detailanweisungen
+                             für umweltrelevante tätigkeiten wie etwa im einkauf oder bei der abfallentsorgung.
+
+                             a1 entspricht den hohen gesetzlichen umweltstandards und überprüft hierzu regelmä-
+                             ßig, ob es neuerungen im österreichischen umweltrecht gibt. umweltrisiken werden er-
+                             hoben, im umweltregister erfasst und soweit wie möglich eliminiert. für die immissionen
+                             von mobilfunkanlagen gelten in österreich die grenzwerte der icnirp (international
+                             commission on non-ionizing radiation protection), die von der weltgesundheitsorgani-
+                             sation (who) empfohlen wurden. damit ist sichergestellt, dass alle anforderungen von
+                             iso 14001 und emas berücksichtigt und umgesetzt werden.
+
+
+
+
+  kooperationen & mitgliedschaften
+
+  • klimaaktiv mobil (seit 2014)
+      klimaschutzinitiative des ministeriums für ein lebenswertes österreich zur forcierung von
+      klimafreundlicher mobilität
+
+  • code of conduct on data centres energy efficiency (seit 2009)
+      verpflichtung, rechenzentren energieeffizient zu betreiben
+
+
+
+
+a1 umwelterklärung                                                                                            seite 6
+
+                                                                                             umweltmanagement
+
+
+
+
+organisation und verantwortlichkeiten
+die corporate-sustainability-abteilung untersteht organi-   enger abstimmung mit den relevanten fachbereichen
+satorisch als teil des bereichs external communications     das umweltprogramm, treibt sämtliche umweltaktivitäten
+& sustainability direkt dem ceo. sie steuert und koor-      innerhalb des unternehmens voran und führt in koope-
+diniert die umweltaktivitäten des unternehmens. dies        ration mit internen und externen stakeholdern umwelt-
+beinhaltet somit auch die oberste leitung des umwelt-       bezogene projekte durch.
+managements. die sustainability-abteilung erarbeitet in
+
+
+
+
+umweltaspekte
+unter umweltaspekten werden laut emas jene aspekte          brauch (seite 14) und die daraus entstehenden co2-
+der tätigkeit, der produktion oder der dienstleistung       emissionen (seite 10). alle ziele und maßnahmen von a1,
+einer organisation verstanden, die positive oder nega-      die im umweltprogramm festgelegt sind, zielen darauf
+tive auswirkungen auf die umwelt haben können. die          ab, die negativen umweltauswirkungen dieser aspekte zu
+wesentlichsten umweltaspekte bei a1 sind energiever-        reduzieren.
+
+
+
+
+input und output bei a1
+                          input                                                    output
+
+  energie                                                   direkte emissionen
+  • strom                                                   • aus heizung
+  • heizenergie                                             • aus treibstoffen
+  • treibstoffe
+                                                            indirekte emissionen
+                                                            • aus stromproduktion
+                                                            • aus fernwärme
+
+                                                     material
+
+  • technisches netz-equipment wie kabel,                    • verpackungen
+    router etc.                                              • altstoffe
+  • hilfs-und betriebsstoffe wie muffen, filter etc.         • abfälle
+  • büromaterialien                                          • abwasser
+  • papier                                                   • elektroaltgeräte
+  • wasser                                                   • althandys
+  • technisches equipment für kundinnen
+
+
+
+a1 umwelterklärung                                                                                           seite 7
+
+                                                                                                                                     umweltprogramm
+
+
+
+
+umweltprogramm
+2016-2018
+  umweltziele                                                    maßnahmen                                                                  zeitraum¹)
+
+  co2-reduktion
+
+  beibehaltung des co2-neutralen netzbetriebes                   initiative co2-neutrales netz, umsetzung von co2-                          bis 2020
+  und reduktion der verbleibenden co2-                           reduktionsmaßnahmen im bereich energie
+  emissionen um weitere 5%
+
+
+  energieeffizienz
+
+  stabilisierung²) des energieverbrauchs trotz                                                                                              bis 2018
+                                                                 energiesparmaßnahmen wie beispielsweise tausch von
+  fortlaufenden netzausbaus
+                                                                 heizsystemen, einsatz von energieeffizienten kühlungen in
+                                                                 der bestehenden netzinfrastruktur sowie im rahmen des
+  verringerung des stromeinsatzes pro transpor-                                                                                             bis 2018
+                                                                 fortlaufenden netzausbaus
+  tiertem datenvolumen in terabyte um 50%
+
+
+  erneuerbare energie
+
+  nutzung von 100% strom aus erneuerbarer                        bezug von 100% strom aus erneuerbarer energie wie                          bis 2018
+  energie                                                        wind, wasser, sonne und biomasse
+
+
+  mobilität
+
+  reduktion der gefahrenen kilometer der                         selbstinstallation, router auf postweg retour, car-sharing,                bis 2018
+  fahrzeugflotte im fuhrpark um 5-7%                             nutzung der bahn, mitfahrbörse etc.
+
+
+  reduktion des treibstoffverbrauchs um 10%                      flottenoptimierung, forcierung alternativer antriebs-                      bis 2018
+                                                                 modelle, förderung von elektromobilität
+
+
+  reduktion geflogener kilometer bei                             verankerung in der travel policy, interne kampagnen                        bis 2018
+  dienstreisen um 15-20%                                         zur verstärkten nutzung von audio-, web- und video-
+                                                                 konferenzen
+
+
+1) als basis gelten die entsprechenden umweltkennzahlen aus dem jahr 2015.
+2) es wird beabsichtigt, trotz des weiteren infrastrukturausbaus, den energieverbrauch in einer schwankungsbreite von etwa 5% konstant zu halten.
+
+
+
+
+a1 umwelterklärung                                                                                                                                     seite 8
+
+                                                                                                      umweltprogramm
+
+
+
+
+ umweltziele                                 maßnahmen                                                   zeitraum¹)
+
+ abfall & recycling
+
+ recyclingquote von 70%                      umfassende interne kampagne zur verbesserten abfall-        bis 2018
+                                             trennung sowie durchführung von schulungen in logistik
+                                             und technik
+
+
+ reduktion des internen papierverbrauchs     ausrollung von follow-me-drucker, eliminierung von          bis 2018
+ um 10%                                      faxgeräten, förderung des papierlosen arbeitsalltags,
+                                             digitalisierung von prozessen
+
+
+ beibehaltung des anteils von                kontinuierliche beschaffung von büromaterialien,            bis 2018
+ umweltfreundlichen betriebsstoffen          reinigungsmitteln sowie technischen betriebsstoffen
+ von mind. 10%                               mit umweltkennzeichnung
+
+
+ produkte & services
+
+ erhöhung des anteils an online-rechnungen   umstellung der mitarbeiterinnentarife auf online-rech-      bis 2018
+ auf 70%                                     nungen, förderung von online-rechnungen für business-
+                                             und privatkundinnen und –kunden
+
+
+ sammlung von 60.000 stück althandys         interne und externe kampagnen, etablierung eines            bis 2018
+                                             regelprozesses sowie kundenaktionen
+
+
+
+
+a1 umwelterklärung                                                                                                  seite 9
+
+                     co2-reduktion
+
+
+     			mehr daten,
+     			weniger co2
+                     informations- und kommunikationstechnologien (ikt) haben entsprechenden
+                     studien zufolge das potenzial, die weltweiten co2-emissionen bis 2030 um 20% zu
+                     reduzieren¹). gleichzeitig kann der dynamische trend zur digitalisierung auch ein
+                     mehr an energiebedarf und damit verbunden co2-emissionen bedeuten. daher
+                     gestaltet a1 ihre infrastruktur sowie digitalen produkte und lösungen so umwelt-
+                     freundlich wie möglich.
+
+                     a1 setzt umfassende maßnahmen zur reduktion oder vermeidung von co2-emissionen.
+                     so betreibt a1 sein netz seit 2014 zu 100% co2-neutral und damit klimafreundlich. dies
+                     trug wesentlich dazu bei, dass die co2-emissionen bei a1 von 2012 bis 2016 um 66%
+                     reduziert werden konnten.
+
+                     ¹) gesi, smarter2030, 2015
+
+
+
+
+a1 umwelterklärung                                                                                  seite 10
+
+                                                                                                                co2-reduktion
+
+
+
+
+co2-emissionen bei
+telekommunikationsunternehmen
+co2-emissionen entstehen bei telekommunikationsunter-
+nehmen durch den fuhrpark, die beheizung oder die kli-
+matisierung, insbesondere aber durch den strombedarf
+der netzinfrastruktur. wird der strombedarf aus fossilen
+energiequellen gedeckt, entsteht co2 – im gegensatz zur
+nutzung von strom aus erneuerbaren ressourcen, der als
+klimaneutral gilt.
+                                                                           co2-emissionen 2012 bis 2016¹)
+das netz ist das herzstück jedes telekommunikations-                                          in tonnen
+unternehmens. um dieses möglichst umweltfreundlich
+zu gestalten, setzt a1 auf ein umfangreiches maßnah-                               76.441
+menpaket: vom einsatz energieeffizienter kühlverfahren                                                              scope 1
+                                                                                                                    scope 2
+(seite 16) bis hin zu verbrauchs- und emissionsoptimier-
+ten antriebstechnologien und car-sharing modellen im
+fuhrpark (seite 19). als erfolg solcher initiativen – aber
+insbesondere auch durch das „co2-neutrale netz“ von                                                -66 %
+a1 – konnten von 2012 bis 2016 rund 66% der unterneh-
+                                                                                    56.172
+mensweiten co2-emissionen vermieden werden. für den
+zeitraum 2016 bis 2018 hat sich a1 zum ziel gesetzt, die
+verbleibenden co2-emissionen um zusätzliche 5% zu re-
+duzieren. von 2015 auf 2016 konnte a1 die verbleibenden                                                    26.320
+co2-emissionen bereits um 6% reduzieren und ist damit
+                                                                                                            8.733
+dem ziel voraus.
+
+
+                                                                                   20.269                  17.587
+
+
+
+                                                                                     2012                   2016
+
+                                                             1) exklusive co2 -kompensation
+
+
+
+
+   ziele aus dem umweltprogramm 2016-2018²)                                                                   zeitraum
+
+   beibehaltung des co2-neutralen netzbetriebes und reduktion der verbleibenden                               bis 2018
+   co2-emissionen um weitere 5%
+
+2) basisjahr: 2015
+
+
+
+
+a1 umwelterklärung                                                                                                            seite 11
+
+                                                                                                                           co2-reduktion
+
+
+
+
+das „co2-neutrale netz“ von a1
+über 3 konsequent gesetzte schritte vermeidet a1 zu 100%                  2. schritt: erneuerbare energie nutzen
+alle direkten co2-emissionen, die durch den betrieb des                   um den trotz reduktion und vermeidung verbleibenden
+netzes anfallen. im 1. schritt werden maßnahmen zur re-                   energiebedarf so nachhaltig wie möglich zu decken, setzt
+duktion und vermeidung von co2-emissionen umgesetzt. in                   a1 seit 2014 zu 100% auf strom aus erneuerbaren ener-
+einem 2. schritt setzt a1 auf 100% strom aus erneuerbarer                 giequellen, der als klimaneutral gilt. zu diesem zweck
+energie. die verbleibenden co2-emissionen werden im 3.                    errichtet a1 auch eigene anlagen zur produktion von
+schritt über hochwertige klimaschutzprojekte kompensiert.                 klimafreundlichem solarstrom (seite 18). darüber hinaus
+in summe konnte a1 den netzbetrieb dadurch zu 100%                        testet a1 alternative, umweltfreundliche antriebstechno-
+co2-neutral gestalten – vom tüv süd nach iso 14064 teil                   logien im fuhrpark (seite 19).
+3 und nach der internationalen norm pas 2060 geprüft und
+bestätigt.                                                                3. schritt: klimaschutzprojekte
+                                                                          erst nach den vorgenannten schritten kompensiert
+1. schritt: effizienz steigern, co2 vermeiden                             a1 jene co2-emissionen, die dadurch nicht reduziert
+durch eine steigerung der energieeffizienz in rechen-                     werden können, durch die freiwillige unterstützung
+zentren und an mobilfunkstandorten (seite 16) wird der                    hochwertiger klimaschutzprojekte.
+energieverbrauch gesenkt. aber auch die einsparung von
+fast 5 millionen fahrkilometern seit 2013 durch innovative
+mobilitäts- und logistikkonzepte (seite 19) trägt dazu bei,
+konsequent co2-emissionen zu vermeiden.
+
+
+      in 3 schritten zum co₂ neutralen netz von a1
+
+       1 effizienz steigern, co₂ vermeiden                                                 erneuerbare energie nutzen 2
+            energieverbrauch verringern                                                     100 % strom aus erneuerbarer energie
+                                                         rechenzentren,
+                                                         technikräume
+
+
+                                          büros                                                 wind
+                                                             fuhrpark
+
+
+
+
+                                                                                                solar
+               mobilfunkstandorte
+
+
+                                                                                                   reduktion der
+                                                                                                   co₂-emissionen
+
+
+
+
+                                                                                                 3 klimaschutzprojekte
+                                                                                                    jene co₂-emissionen, die derzeit
+                                                                                                    nicht über maßnahmen reduziert
+                                                                                                    werden können, werden durch die
+                                                                                                    unterstützung hochwertiger klima-
+                                                                                                    schutzprojekte kompensiert.
+
+
+
+                             strom 300 gwh/jahr            heizung 25,73 gwh/jahr          42 mio. gefahrene km/jahr
+                             entspricht dem jährlichen     entspricht dem durchschnitt-    das ist ca. 1.050 mal um den
+                             stromverbrauch aller          lichen verbrauch von rund       äquator
+                             salzburger haushalte          5.100 haushalten
+
+   auftraggeber/quelle: a1
+
+
+
+
+a1 umwelterklärung                                                                                                                      seite 12
+
+                                                                                                     co2-reduktion
+
+
+
+
+digitale produkte & lösungen für
+die gesellschaft und die umwelt
+das „co2-neutrale netz“ sorgt dafür, dass digitale a1        auf energie- und verkehrseffizienz, klimaschutz und
+produkte und lösungen so umweltfreundlich wie mög-           co2-fußabdruck. die a1 digital international gmbh,
+lich betrieben und genutzt werden können. mit der a1         wie a1 ein tochterunternehmen der a1 telekom austria
+austria cloud werden daten, programme und e-mails in         group, bietet hierfür umfassende lösungen – sogenannte
+eine „mobile büroinfrastruktur“ – die cloud – ausgelagert.   vertical market solutions – entlang der gesamten wert-
+diese benötigt weniger strom als konventionelle büroin-      schöpfungskette aus einer hand an: vom kosteneffizienten
+frastruktur, wodurch auch weniger co2 produziert wird.       flotten-management über umfangreiche smart-metering-
+mit housing services übernimmt a1 den betrieb und die        dienstleistungen mit zählersystemen, zählerdatenma-
+wartung des it-equipments von kundinnen und kunden.          nagement und roll-out-services bis hin zu modularen
+die a1 rechenzentren gewährleisten hierbei größtmög-         lösungen für industrieautomatisierung und fernwartung
+liche sicherheit. ähnlich verhält es sich beim hosting,      wie der cloudbasierten m2m-application-enablement-
+wo die serverinfrastruktur in ein a1 rechenzentrum aus-      plattform „simplify plus“, die um ein energieeffizienz-
+gelagert wird. für beide services gilt: durch die auslage-   überwachungssystem erweitert wurde.
+rung der infrastruktur wird strom effizienter genutzt und
+die co2-emissionen werden auf ein minimum reduziert.         integrierte kommunikationslösungen wie a1 video con-
+                                                             ferencing oder a1 network unified voice service machen
+auch so genannte machine-to-machine-lösungen                 die kommunikation mit kundinnen und partnern schnel-
+(m2m) haben durch die intelligente vernetzung und den        ler, effizienter und auch umweltfreundlicher. auf „knopf-
+automatisierten datentransfer zwischen maschinen, ge-        druck“ ist man damit in der ganzen welt präsent, ohne
+räten, sensoren und zentralservern positive auswirkungen     den schreibtisch verlassen zu müssen.
+
+
+
+
+   mitarbeiterinneneinbindung
+   mitarbeiterinnen können nicht nur dazu beitragen, den co2-ausstoß des unternehmens zu reduzieren, sondern
+   auch ihren individuell verursachten. dementsprechend stand die umweltkampagne „a1 wird grün“ unter dem
+   motto „co2-sparen“. die bereiche vor den aufzügen und die stiegenhäuser wurden im rahmen der kampagne
+   mit motivierenden sprüchen und fußabdrücken belebt. das so genannte „bewegte stiegenhaus“ wirkt sich
+   nicht nur positiv auf die gesundheit aus, sondern auch auf die umwelt: denn die nicht-verwendung des auf-
+   zugs spart strom und damit co2-emissionen. außerdem wurde ein co2-rechner im intranet implementiert, wo
+   mitarbeiterinnen ihre durch umweltfreundliches handeln eingesparten co2-werte eintragen können. informa-
+   tionen zur entstehung von co2 und diesbezügliche auswirkungen und einsparpotenziale wurden zudem über
+   unterschiedliche kommunikationskanäle wie screens, intranet, liftaushängen etc. aufbereitet. die grünstrom-
+   anzeige im intranet und in der unternehmenszentrale zeigt außerdem in echtzeit, wie viel co2 durch die
+   eigenstromproduktion aus erneuerbarer energie von a1 aktuell eingespart wird. ein weiterer schwerpunkt der
+   internen kampagne „a1 wird grün“ lag auf der reduktion des energieverbrauchs – siehe dazu den abschnitt
+   „mitarbeiterinneneinbindung“ im kapitel „energieeffizienz“ auf seite 18.
+
+
+
+
+a1 umwelterklärung                                                                                             seite 13
+
+                     energieeffizienz
+
+
+     			 nachhaltig
+     			 effizient
+                     einer cisco-studie zufolge wird 2019 ein datenvolumen von 2 zettabyte pro jahr
+                     über das internet übertragen werden¹). das entspricht der speicherkapazität von
+                     mehr als 2 billionen cds. damit digitalisierung nicht ein mehr an energiebedarf
+                     bedeutet, optimiert a1 die energieeffizienz der infrastruktur und setzt auf erneuer-
+                     bare energie für den betrieb der netze.
+
+                     a1 verfolgt dabei das ambitionierte ziel, den energiebedarf trotz dynamischen daten-
+                     wachstums stabil zu halten. ergänzend dazu gilt es, den energiebedarf so nachhaltig
+                     wie möglich zu decken. durch ein bündel vielfältiger maßnahmen konnte das unter-
+                     nehmen seinen energieeffizienzindikator, der angibt wie viele mwh pro terabyte an
+                     transportiertem datenvolumen benötigt werden, von 2015 auf 2016 um 36% verbessern.
+                     a1 deckt seit 2014 den eigenen strombedarf ausschließlich aus erneuerbaren energie-
+                     quellen²).
+
+
+
+
+                                                         1) cisco, the zettabyte era: trends and analysis, mai 2015
+                                                         2) der bezogene strom setzt sich zusammen aus ökostromzuweisung
+                                                            der ömg, aus zertifizierter österreichischer wasserkraft, windkraft,
+                                                            biomasse, erdwärme und sonnenkraft sowie aus europäischer
+                                                            wasserkraft.
+
+
+a1 umwelterklärung                                                                                                             seite 14
+
+                                                                                                                                           energieeffizienz
+
+
+
+
+konsequentes energiemanagement
+als eines der ersten unternehmen österreichs ließ a1                               um ca. 3% (von 308 gwh auf 299 gwh) gesenkt werden.
+das energiemanagementsystem nach iso 50001 (erst-                                  für den zeitraum 2016 bis 2018 setzt sich a1 zum ziel,
+zertifizierung nach en 16001) zertifizieren. über einen                            den energieverbrauch des unternehmens trotz fortlaufen-
+systematischen ansatz wird der energieverbrauch                                    den netzausbaus und steigender datenvolumina stabil zu
+gemessen sowie gesteuert und energieeffizienzpotenzi-                              halten¹).
+ale werden erschlossen. darüber hinaus unterzeichnete
+a1 bereits 2009 den „code of conduct on data centres
+energy efficiency“ der europäischen kommission und ist                                    gesamtenergieverbrauch von a1 2016
+somit seither verpflichtet, rechenzentren energieeffizient                                                            in mwh
+zu betreiben. um die energieeffizienz in allen energiein-
+tensiven unternehmensbereichen sicher zu stellen und                                                                     49.532 ³)
+diesbezüglich zielführende maßnahmen abzuleiten,                                                                             treibstoffe
+
+implementierte a1 im jahr 2014 ein energiemonitoring-
+system. so genannte „energiescans“ identifizieren und                                 28.869
+bewerten hier energiesparpotenziale für gebäude, die in-                                 fernwärme
+
+frastruktur sowie für den transport und die speicherung
+von daten. ebenfalls 2014 wurde die „green it score                                   16.227 ⁴)
+card“ für rechenzentren eingeführt, die eine bewertung                                   brennstoffe
+                                                                                         für heizung
+nach für die energieeffizienz relevanten kriterien ermög-
+licht und somit ansatzpunkte für verbesserungsmaßnah-
+men liefert.
+                                                                                                                                                298.983 ²)
+                                                                                                                                                  strom
+die erfolgsbilanz des a1 energiemanagements kann
+sich durchaus sehen lassen: obwohl sich das daten-
+volumen aktuell alle 2 jahre verdoppelt, konnte der ab-
+solute gesamtenergiebedarf bereits das 6. jahr in folge                            gesamtenergieverbrauch: 393.611
+reduziert werden. von 2013 bis 2016 ist eine reduktion
+                                                                                   2) zukauf und eigenproduktion sowie diesel für notstromaggregate
+um ca. 5% – von 414 auf 394 gigawattstunden (gwh) –                                3) diesel, benzin und cng, ohne diesel für notstromaggregate
+gelungen. im selben zeitraum konnte der strombedarf                                4) öl und gas
+
+
+
+
+  ziele aus dem umweltprogramm 2016- 2018⁵)                                                                                                zeitraum
+
+  stabilisierung¹) des energieverbrauchs trotz fortlaufenden netzausbaus                                                                   bis 2018
+
+  verringerung des stromeinsatzes pro transportiertem datenvolumen
+                                                                                                                                           bis 2018
+  in terabyte um 50%
+
+  nutzung von 100% strom aus erneuerbarer energie                                                                                          bis 2018
+
+1) es ist beabsichtigt, trotz des weiteren infrastrukturausbaus, den energiebedarf in einer schwankungsbreite von etwa 5% konstant zu halten.
+5) basisjahr: 2015
+
+
+
+
+a1 umwelterklärung                                                                                                                                    seite 15
+
+                                                                                                     energieeffizienz
+
+
+
+
+reduktion und
+nachhaltige bezugsquellen
+der gesamtenergiebedarf von a1 betrug 2016 rund              entkoppeln, setzt a1 in einem ersten schritt auf reduk-
+394 gwh. etwa 90% davon entfallen auf den betrieb            tion durch steigerung der energieeffizienz und maßnah-
+der netzinfrastruktur. die zunehmende digitalisierung        men zur vermeidung von strombedarf. in einem zweiten
+könnte prognosen zufolge zwischen 2011 und 2020 einen        schritt wird jener strom, der trotz der reduktionsmaß-
+zuwachs des energiebedarfs für informations- und kom-        nahmen benötigt wird, zu 100% aus erneuerbaren ener-
+munikationstechnologien (ikt) um 21% bedingen. um            giequellen gedeckt. auf diese weise werden bei gleich-
+einer solchen entwicklung entgegen zu wirken und den         zeitiger gewährleistung eines sicheren netzbetriebes die
+stromverbrauch zunehmend von den datenvolumina zu            umweltauswirkungen soweit wie möglich reduziert.
+
+
+
+
+energieeffiziente netze
+mit reduziertem strombedarf
+bei der ausgestaltung von noch stromsparenderen              zur kühlung der hardware wird hierbei gezielt in den
+netzen sind energieeffizienzmaßnahmen die entschei-          ansaugbereich der geräte geführt. das führt zu einer
+dende stellschraube. zugleich müssen aber qualität und       senkung des stromverbrauchs bei gleichzeitiger erhö-
+verfügbarkeit der netze weiterhin gewährleistet sein. eine   hung der betriebssicherheit. insgesamt installierte a1
+stabile betriebstemperatur in rechenzentren ist dabei        seit 2012 240 laufmeter dieses kühlsystems.
+eine wichtige voraussetzung. daher muss 365 tage im
+jahr 24 stunden lang entsprechend temperiert werden.         auch die server-virtualisierung trägt zur steigerung der
+und je mehr gekühlt wird, desto mehr strom wird natür-       energieeffizienz in rechenzentren bei: mehrere server
+lich benötigt.                                               des altbestandes werden dabei in neue, energieeffizi-
+
+um die erforderliche kühlung so energieeffizient wie
+möglich zu gestalten, setzt a1 seit jahren auf innovative
+technologien: bei der hot-spot-absaugung beispielswei-
+se wird die abwärme direkt über dem gerät abgesaugt
+und gleichzeitig außenluft zur kühlung zugeführt. seit
+der einführung dieses kühlverfahrens hat a1 bereits
+mehr als 448 hot-spot-absaugungen installiert. sie tra-
+gen maßgeblich zur steigerung der energieeffizienz bei
+und haben bei flächendeckender umsetzung das poten-
+zial, jährlich rund 4.500 mwh strom einzusparen.
+
+als weiteres innovatives kühlverfahren kommt in den
+a1 rechenzentren neben freecooling-anlagen die so
+genannte kaltgangeinhausung zur anwendung. kaltluft
+
+
+
+a1 umwelterklärung                                                                                             seite 16
+
+                                                                                                  energieeffizienz
+
+
+
+
+entere und leistungsstärkere server zusammengefasst        jahres rund 135.000 kwh strom gespart werden.
+und durch diese ersetzt. das spart nicht nur fläche und    auch in büroräumlichkeiten setzte a1 erfolgreiche
+ressourcen, sondern auch strom. 2016 wurde bereits ein     energieeffizienzmaßnahmen: so liegen etwa wesentli-
+virtualisierungsgrad von 95,6% erreicht. ebenfalls 2016    che schwerpunkte bei der sanierung bzw. optimierung
+stellte a1 weitere 2.250 mobilfunk-basisstationen auf      von heizsystemen auf der nutzung der abwärme von
+single ran-technologie (single radio access network)       techniksystemen und dem einsatz von wärmepumpen
+um. neben der damit verbundenen stromeinsparung            zur erzeugung von warmwasser. darüber hinaus werden
+kann das netz dadurch auch schneller und mit höherer       laufend alte kältemaschinen sowie wärmepumpen auf
+kapazität betrieben werden.                                den neuesten stand gebracht. zusätzlich stellt a1 zur
+                                                           steigerung der energieeffizienz beleuchtungssysteme
+als weitere energieeffizienzmaßnahme wurde bei             kontinuierlich auf led-technik um.
+mobilfunk-basisstationen – nach einem langzeittest, um
+sicher zu stellen, dass netzsicherheit und -qualität bei   um den ökologischen fußabdruck des unternehmens
+einem anheben der maximalen raumtemperatur ge-             weiter zu minimieren, setzte sich a1 im rahmen des um-
+währleistet sind – seit 2008 die temperatur stufenweise    weltprogramms 2016-2018 zum ziel, den stromverbrauch
+von 22 auf 29 grad erhöht. dadurch wird weniger kühl-      pro terabyte an transportiertem datenvolumen um 50%
+leistung benötigt, was zu einer stromeinsparung geführt    zu verringern. dank des oben genannten maßnahmen-
+hat. außerdem wurden 2016 insgesamt rund 60 gleich-        bündels konnte die energieeffizienz von a1 von 2015 auf
+richteranlagen in vermittlungsstellen auf energieeffizi-   2016 bereits um 36% verbessert werden.
+entere anlagen umgerüstet. so konnten innerhalb eines
+
+
+
+
+a1 umwelterklärung                                                                                         seite 17
+
+                                                                                                       energieeffizienz
+
+
+
+
+strombezug aus nachhaltigen quellen
+ein umfassender beitrag zum schutz von umwelt und             allein 2016 konnten durch die a1 photovoltaikanlagen
+klima muss über die steigerung der energieeffizienz           fast 280.000 kwh strom produziert werden. die größte
+hinausgehen. denn auch eine intensive reduktion des           a1 photovoltaikanlage speiste 2016 rund 200.000 kwh
+energiebedarfs kann nie zu vollständigem stromverzicht        in die erdfunkstelle aflenz ein.
+führen. daher gilt es, den verbleibenden strombedarf so
+nachhaltig wie möglich zu decken. einerseits durch den        die umstellung auf strombezug zu 100% aus erneuer-
+bezug von 100% strom aus erneuerbarer energie, ande-          barer energie ist auch die grundlage für die initiative
+rerseits investiert a1 seit 2010 in die eigenproduktion von   „co2-neutrales netz“ und für die reduktion der co2-
+strom aus sonnenkraft.                                        emissionen um 66% seit 2012 (seite 11).
+
+
+
+
+   mitarbeiterinneneinbindung
+   die energie für die heizung, beleuchtung oder kühlung in bürogebäuden, die a1 als unternehmen mit über
+   8.300 mitarbeiterinnen benötigt, stellt keine zentrale umweltauswirkung von a1 dar. dennoch setzt a1 maß-
+   nahmen, um das bewusstsein der mitarbeiterinnen für energiesparen – auch über den arbeitsalltag hinaus –
+   zu fördern. 2013 startete a1 die umweltkampagne „a1 wird grün“: neben der verteilung von steckerleisten zur
+   vermeidung von stand-by-verlusten und dem anbringen von aufklebern an lichtschaltern, die daran erinnern,
+   beim verlassen eines raumes das licht abzuschalten, wurde während des kampagnenzeitraums ein sms-info-
+   service für mitarbeiterinnen errichtet. ein weiterer schwerpunkt der internen kampagne lag auf der reduktion
+   der co2-emissionen – siehe dazu den abschnitt „mitarbeiterinneneinbindung“ im kapitel „co2-reduktion“
+   auf seite 13.
+
+
+
+
+a1 umwelterklärung                                                                                                seite 18
+
+                                                                                          energieeffizienz
+
+
+
+
+                     mobilität
+
+
+     			a1 bewegt sich
+     			im grünen bereich
+                     ob kundentermine, geschäftsreisen, service- oder wartungsarbeiten – mobilität
+                     ist für den geschäftserfolg unverzichtbar. auch beim thema mobilität findet
+                     digitalisierung bei a1 einzug – ganz nach der devise „datenhighway statt
+                     straßenverkehr“.
+
+
+
+                     mit vielfältigen initiativen und maßnahmen konnte a1 im jahr 2016 die fahrkilometer im
+                     vorjahresvergleich um mehr als 2 million reduzieren. die direkten mobilitätsbezogenen
+                     co2-emissionen wurden dadurch im selben zeitraum um mehr als 350 tonnen gesenkt.
+                     das 2012 gesetzte ziel, bis 2016 15% an co2-emissionen im fuhrpark einzusparen, hat
+                     a1 auf diese weise mit einer reduktion von 17% übererreicht.
+
+
+
+
+a1 umwelterklärung                                                                                 seite 19
+
+                                                                                                             mobilität
+
+
+
+
+nachhaltig mobil
+mit rund 3.300 fahrzeugen ist a1 einer der größten fuhr-
+parkbetreiber österreichs und legte mit diesem im jahr
+2016 rund 70 millionen kilometer zurück. das entspricht
+in etwa einer 1.800-fachen äquatorumrundung. damit
+ein mehr an kundenservice nicht auch ein mehr an ge-
+fahrenen kilometern bedeutet, hat sich a1 ambitionierte
+mobilitätsziele auferlegt. um diese zu erreichen, werden
+in einem ersten schritt die fahrkilometer durch gezielte
+maßnahmen reduziert – beispielsweise durch effiziente,
+digitalisierte routenplanung – oder durch videokonferen-
+zen vermieden. in einem weiteren schritt wird auf den
+einsatz alternativer antriebstechnologien gesetzt.
+
+innovativer klimaschutz ist demzufolge auch ein stichwort    220 weitere technikerinnen sind für 2017 geplant. darüber
+für nachhaltigkeit in der business unit consumer, wo         hinaus testet a1 österreichweit mehr als 50 fahrzeuge mit
+durch optimierte planung bzw. logistik beim kunden-          alternativen antriebsarten. mit maßnahmen dieser art
+terminmanagement mit effizienterer routenplanung nicht       beabsichtigt a1, den unternehmensweiten treibstoffver-
+nur die servicequalität erhöht wurde. denn das vermei-       brauch von 2016 bis 2018 um 10% zu senken. von 2015
+den von „zick-zack-fahrten“ schont natürlich auch die        auf 2016 konnte der treibstoffverbrauch bereits um 3%
+umwelt, indem gefahrene kilometer und damit auch der         reduziert werden – damit wurde ein erster großer schritt
+treibstoffverbrauch sowie die co2-emissionen reduziert       in richtung zielerreichung gesetzt.
+werden. bei fahrkilometern, die per pkw mit fossilen
+treibstoffen zurückgelegt werden, ist nachhaltigkeit         im rahmen des neuen umweltprogramms von 2016 bis
+selbstverständlich ebenfalls ein thema. da mit einer         2018 hat sich a1 weitere ambitionierte ziele im bereich
+ökologischen fahrweise der treibstoffverbrauch um bis        der mobilität gesetzt. so ist beispielsweise geplant. die
+zu 30% reduziert werden kann, forciert a1 entsprechende      fahrzeugflotte in diesem zeitraum um 5 bis 7% zu redu-
+fahrtrainings für mitarbeiterinnen: seit 2015 absolvierten   zieren. um dieses ziel zu erreichen, wurde unter anderem
+bereits 440 technikerinnen solche trainings. trainings für   ein österreichweites car-sharing-modell im jänner 2017
+
+
+
+ ziele aus dem umweltprogramm 2016-2018¹)                                                             zeitraum
+
+ reduktion der gefahrenen kilometer der fahrzeugflotte um 5-7%                                        bis 2018
+
+ reduktion des treibstoffverbrauchs um 10%                                                            bis 2018
+
+
+
+
+ ziele aus dem umweltprogramm 2012-2015²)                                                             zeitraum
+
+ reduktion der co₂-emissionen im fuhrpark um 15% ³)                                                   bis 2016
+
+1) basisjahr: 2015			           2) basisjahr: 2012			            3) exklusive co2 -kompensation
+
+
+
+
+a1 umwelterklärung                                                                                               seite 20
+
+                                                                                                              mobilität
+
+
+
+
+implementiert, dadurch konnten die poolfahrzeuge um
+32% reduziert werden. aktuell stehen 240 fahrzeuge den
+mitarbeiterinnen österreichweit als car-sharing zur verfü-
+gung. öffnen und schließen erfolgen mit der zutrittskarte,
+der zustand der fahrzeuge wird elektronisch übertragen
+und auch das erstellen des fahrtberichtes erfolgt elektro-
+nisch. dadurch wurde die effizienz bei der nutzung von
+betriebsmitteln gesteigert und die verfügbarkeit für kurz-
+fristige fahrten erhöht. durch diese maßnahme können
+rund 160 tonnen co2 pro jahr und ca. 680 kg feinstaub
+pro jahr reduziert werden. zusätzlich wurde im februar
+2017 die a1 mitfahrbörse für privat- und dienstfahrten
+unternehmensweit im intranet zu verfügung gestellt.
+
+parallel dazu forciert a1 die möglichkeiten für mitarbei-
+terinnen, gänzlich auf geflogene oder gefahrene kilo-        die förderung von nachhaltiger mobilität geht bei a1
+meter zu verzichten. so werden geschäftsreisen bei a1        allerdings auch über die unternehmensgrenzen hinaus:
+vermehrt durch virtuelle meetings ersetzt: in der gesam-     seit 2010 trägt das unternehmen durch den umbau von
+ten unternehmensgruppe wurden 2016 videokonferenzen          telefonzellen zu stromladestellen zur förderung der
+in einem ausmaß von mehr als 34.500 stunden abgehal-         elektromobilität bei. die jüngste generation dieser strom-
+ten. dank der verstärkten nutzung von virtuellen meetings    tankstellen speist dabei über ein photovoltaikpanel
+konnten die flugkilometer von 2015 auf 2016 um 17%           solarstrom ein. aktuell können e-fahrzeugbesitzerinnen
+reduziert werden. a1 hat sich im rahmen des umwelt-          kostenlos in ganz österreich ihre fahrzeuge betanken.
+programms 2016 bis 2018 als neues ziel eine reduktion        finanziert wird die umrüstung von telefonzellen in
+der flugkilometer um 15% bis 20% gesteckt – aktuell          stromtankstellen zum teil aus den erlösen des a1 handy-
+liegt a1 bei der zielerreichung auf kurs.                    recyclings (siehe seite 24).
+
+
+
+
+   mitarbeiterinneneinbindung
+   mobilität betrifft alle mitarbeiterinnen – vom weg in die arbeit bis hin zu auswärtsterminen und dienstreisen.
+   aus diesem grund setzt a1 österreichweit bewusstseinsbildende maßnahmen. neben spritspartrainings zur
+   förderung einer vorausschauenden, ökonomischen fahrweise stehen mitarbeiterinnen e-bikes, fahrräder
+   sowie segways für geschäftliche termine zur verfügung. dadurch werden taxifahrten und fahrten mit dem
+   firmen-kfz vermieden. jährlich nehmen rund 100 mitarbeiterinnen an e-fahrzeugschulungen teil.
+
+
+
+
+a1 umwelterklärung                                                                                              seite 21
+
+                                                                                    ressourcenschonung
+
+
+
+
+                     ressourcenschonung
+
+
+                     weniger ist mehr
+                     der hoch kompetitive telekommunikationsmarkt ist durch dynamischen technolo-
+                     gischen wandel gekennzeichnet. a1 begegnet den damit verbundenen herausfor-
+                     derungen bezüglich ressourcenschonung und effektivem umweltschutz mit einem
+                     durchdachten abfallkonzept.
+
+                     das vermeiden von abfall, ressourcenschonung und wertvolle rohstoffe solange wie
+                     möglich im kreislauf zu halten, sind die grundprinzipien dieses konzeptes von a1. die
+                     dabei hinterlegten zielsetzungen werden konsequent und erfolgreich verfolgt. durch
+                     interne umweltkampagnen und eine verbesserung der trennqualität in logistikzentren
+                     wurde die recyclingquote von 2015 auf 2016 von 67% auf 70% erhöht. a1 hat sich zum
+                     ziel gesetzt, bis 2018 die recyclingquote bei 70% zu halten.
+
+
+
+
+a1 umwelterklärung                                                                                 seite 22
+
+                                                                                                 ressourcenschonung
+
+
+
+
+drei r führen zum erfolg                                                                      reduce
+
+
+a1 setzt bei der ressourcenschonung auf ein bündel an         monatlich
+unterschiedlichen maßnahmen – sie alle folgen den drei        werden in
+„r“s der abfallwirtschaft: im 1. schritt „reduce“ gestaltet   33 städten
+a1 kontinuierlich arbeitsabläufe und prozesse neu, um         österreichs
+
+
+
+
+                                                                                 rec
+
+
+
+
+                                                                                                                  use
+abfall erst gar nicht entstehen zu lassen. der 2. schritt     von a wie
+„reuse“ zielt darauf ab, materialien so lange wie möglich     amstetten
+
+
+
+
+                                                                                   yc
+
+
+
+
+                                                                                                               re
+– ohne chemische oder physikalische umwandlung –              bis z wie zell
+                                                                                       e
+
+
+
+
+                                                                                     l
+zu nutzen. im 3. schritt „recycle“ setzt a1 auf wiederver-    am see – rund
+wertung. in summe wird auf diese weise ein „grüner            3 millionen
+kreislauf“ im kerngeschäft wie auch im büroalltag             digitale parkscheine
+sichergestellt.                                               per sms ausgestellt. auch
+                                                              das a1 field service verzichtet zunehmend auf papier-
+                                                              ausdrucke, etwa indem es bereits seit 2002 mobile end-
+reduce                                                        geräte zur auftragsabwicklung einsetzt. damit werden
+                                                              rund 1 million blatt papier pro jahr eingespart. durch
+digitale lösungen sparen ressourcen ein                       den verstärkten einsatz von tablets können seit 2015
+bereits zwei drittel aller a1 kundinnen und kunden ha-        zudem auch diverse datenanhänge – wie beispielsweise
+ben sich für eine online-rechnung entschieden, und in         pläne, montageaufträge etc. – beim field service digi-
+a1 shops können verträge digital unterschrieben wer-          tal verarbeitet werden. dies spart weitere 100.000 blatt
+den. auch services wie „handy parken“ tragen nicht            papier pro jahr ein.
+nur dazu bei, wege und zeit einzusparen. sie senken
+auch den papierverbrauch der kundinnen und kunden             im büroalltag gilt es arbeitsprozesse effizienter und
+selbst.                                                       insbesondere digitaler zu gestalten. zentral aufgestellte
+
+
+
+
+ ziele aus dem umweltprogramm 2016-2018¹)                                                                zeitraum
+
+ recyclingquote von 70%                                                                                  bis 2018
+
+
+ reduktion des internen papierverbrauchs um 10%                                                          bis 2018
+
+
+ beibehaltung des anteils von umweltfreundlichen betriebsstoffen von mind. 10%                           bis 2018
+
+
+ sammlung von 60.000 stück althandys                                                                     bis 2018
+
+
+1) basisjahr: 2015
+
+
+
+
+a1 umwelterklärung                                                                                                seite 23
+
+                                                                                                                       ressourcenschonung
+
+
+
+
+so genannte „follow-me-drucker“ reduzieren den pa-                              chemische umwandlung – verwendet werden können.
+pierbedarf: druckaufträge werden erst nach scannen                              unter anderem wird von a1 abgebautes equipment in
+der zutrittskarte direkt beim drucker ausgeführt. nicht                         anderen tochtergesellschaften der a1 telekom austria
+abgeholte aufträge werden automatisch nach 24 stun-                             group wieder aufgebaut und die lebensdauer damit
+den gelöscht – ganz ohne papierverbrauch. durch solche                          verlängert. auch defekte oder retournierte modems
+„follow-me-drucker“ konnten bereits rund 4,5 millionen                          und mediaboxen werden gründlich auf ihre technische
+blatt papier vermieden werden. 2016 konnten endkun-                             funktionalität geprüft, gegebenenfalls repariert oder
+denschreiben außerdem so optimiert werden, dass statt                           erneuert und gereinigt. alleine 2016 konnten ca. 4.000
+11 blätter nur mehr 7 benötigt werden – pro jahr spart                          mediaboxen, 2.000 mediarecorder und rund 32.500
+das rund 200.000 blatt papier. ebenso konnte beim                               modems wieder eingesetzt und erneut genutzt werden.
+versand von gewissen tauschkarten das papiervolumen                             2016 wurde zudem das spektrum der wiederverwend-
+um 50% reduziert werden. all diese maßnahmen tragen                             baren geräte erweitert: jedes zurückgewonnene, funktions-
+maßgeblich dazu bei, dass a1 alleine von 2015 bis 2016                          fähige und dem aktuellen technischen stand entsprechende
+mehr als 1.500 kg papier eingespart hat. um das ziel                            gerät wird bei a1 wieder eingesetzt. auch im bürobetrieb
+10% an papier zwischen 2016 und 2018 einzusparen zu                             achtet a1 auf den wiedereinsatz von geräten. so wird
+erreichen, wird a1 weiterhin einen fokus auf die digitali-                      seit 2016 nicht mehr benötigtes equipment wie laptops,
+sierung von internen arbeitsprozessen legen.                                    monitore etc. an a1 mitarbeiterinnen verkauft.
+
+
+
+reuse                                                                           recycle
+bestehende materialien nochmals oder neu nutzen                                 zurück in den rohstoffkreislauf
+a1 achtet darauf, dass bereits im einsatz befindliche res-                      im kerngeschäft von a1 – der bereitstellung von telekom-
+sourcen so lange wie möglich – ohne physikalische oder                          munikationsinfrastruktur und -services – hat recycling
+
+
+        a1 handyrecycling                                              abholung und
+        ein handy beinhaltet wertvolle rohstoffe, die zu 70-80%          transport
+        wiederverwertet werden können. um diese wertvollen
+        rohstoffe dem kreislauf wieder zuzuführen,
+        setzt a1 seit 2004 auf handyrecycling:                                                                   sammelstelle:
+                                                                                                                 überprüfung der geräte
+                                                                                                                 und datenlöschung
+
+
+
+
+                                                                               recyc
+                                                                                       ling
+                                                                                                                                    spezielle
+                                                                                                                                    entsorgung
+                                                                                                kunststoff 32%                      der akkus
+                                          metalle 40%
+                                          (gold, tantal,
+                                          kupfer, alu-
+                                          minium,...)                                    glas/keramik 28%
+
+
+
+
+                                                                                                                    zerkleinern
+                                                                                                                    und sortieren
+                                                                                                                    in österreich
+                    wieder-
+                 verwertung
+
+                                                           metalle    glas       kunststoff
+                                                                     keramik
+
+      auftraggeber/quelle: a1
+
+
+
+a1 umwelterklärung                                                                                                                           seite 24
+
+                                                                                                    ressourcenschonung
+
+
+
+
+einen besonders hohen stellenwert. denn im dynamischen          neuen handys gutgeschrieben. funktionierende altgeräte
+technologischen wandel ersetzt a1 laufend bestehende            werden zur wiederverwendung in den kreislauf rückge-
+durch neue, noch effizientere und leistungsfähigere techno-     führt. im falle, dass althandys defekt sind, werden diese
+logien. oft kann dies durch ein software-upgrade oder den       über einen sachgemäßen entsorgungsprozess in österreich
+austausch einzelner komponenten erfolgen. doch wenn             entsorgt. auf diese weise werden die enthaltenen wertstoffe
+alte geräte oder einrichtungen tatsächlich nicht weiter ein-    dem rohstoffkreislauf wieder zugeführt. erlöse aus dem
+gesetzt werden können, werden sie an ihren standorten ab-       handyrecycling investiert a1 in klimaschutzprojekte – 2016
+gebaut, systematisch in fraktionen wie leiterplatten, kupfer,   beispielsweise in eine grüne vermittlungsstelle und in den
+eisen bzw. blech etc. getrennt und fachgerecht recycelt. von    ausbau von stromtankstellen (siehe seite 21). seit 2016
+2012 bis 2016 gelangten auf diese weise mehr als 10.000         können auch business kunden das a1 handyrecycling-
+tonnen wertvolles material in den rohstoffkreislauf zurück.     programm nutzen.
+durch das ersetzen von kupfer- durch leistungsfähigere
+glasfaserkabel wurden außerdem mittlerweile rund 488            auch im büroalltag setzt a1 auf recycling: ob schnellhefter,
+kilometer kupferkabel fachgerecht recycelt – das entspricht     ordner, aktenumschläge oder geschirrspülmittel – sie be-
+etwas mehr als der distanz zwischen wien und innsbruck.         stehen im besten fall aus recyclingmaterialien oder werden
+                                                                so nachhaltig wie möglich hergestellt. etwa 120 büroartikel
+auch den in einem althandy enthaltenen rohstoffen kann          tragen aktuell ein umweltsiegel wie das österreichische
+ein zweites leben geschenkt werden. seit 2004 können            umweltzeichen, der blaue engel oder eine fsc- oder pefc-
+kundinnen und kunden altgeräte kostenlos in den a1              zertifizierung. derzeit liegt der anteil von umweltfreund-
+shops zurückgeben. wenn das betreffende handy noch              lichen betriebsmitteln bei 18% – das ziel den anteil von
+einen marktwert besitzt, wird dieser auf den gerätepreis des    mindestens 10% zu halten, ist damit aktuell erreicht.
+
+
+
+
+   mitarbeiterinneneinbindung
+   unternehmensweite ressourcenschonung kann nur mit diesbezüglichem engagement der mitarbeiterinnen er-
+   folgreich sein. zu diesem zweck werden sie bei a1 von abfallbeauftragten über abfallvermeidung und richtiges
+   recycling informiert. landesweite abfallkampagnen – wie „a1 wird grün – abfall & recycling“– bringen den
+   mitarbeiterinnen den umweltbewussten umgang mit abfall nahe. knapp 1.500 neue behälter zur abfalltren-
+   nung und zahlreiche trennleitfäden trugen dazu bei, die ziele schrittweise umzusetzen.
+
+
+
+
+a1 umwelterklärung                                                                                                  seite 25
+
+                                                                                                                                                       umweltkennzahlen
+
+
+
+
+umweltkennzahlen
+
+  unternehmensprofil                                                                                           2016                           2015                   veränderung
+
+  mitarbeiteranzahl (in fte)                                                                                  8.352                          8.512                           -1,9%
+
+  umsatz (in mio. eur)                                                                                        2.576                          2.527                           1,9%
+
+
+  gebäudenutzfläche (in m2)                                                                                440.932                        447.045                            -1,4%
+
+  gebäudenettofläche (in m2)                                                                             1.100.925                      1.109.611                            -0,8%
+
+
+
+
+  energie¹)                                                                                                    2016                           2015                   veränderung
+
+  direkter und indirekter energieverbrauch gesamt (in mwh)                                                 393.611                        397.582                           -1,0%
+
+     davon strom²)                                                                                         298.983                        299.530                            -0,2%
+
+     davon fernwärme                                                                                         28.869                         30.766                           -6,2%
+
+     davon heizenergie³    )
+                                                                                                             16.227                         16.226                           0,0%
+
+     davon treibstoffe⁴)                                                                                     49.532                         51.060                           -3,0%
+
+
+  relative indikatoren
+
+  energieeffizienzindikator (in mwh/terabyte)                                                                    0,3                            0,4                           36%
+
+  anteil erneuerbarer energie am strom (in %)                                                                    99                              99                          0,0%
+
+tabelle vorbehaltlich rundungsdifferenzen. 1 joule = 2,77777778 x 10-10
+1) die berechnung basiert – sofern es sich nicht um eigenproduktion handelt – auf der abrechnung der jeweiligen energieversorger. zur umrechnung auf
+   kilowattstunden wurden die faktoren der ecoinvent datenbank herangezogen. für den energiegehalt der kraftstoffe wird der heizwert herangezogen.
+2) zukauf und eigenproduktion sowie diesel für notstromaggregate
+3) öl und gas
+4) diesel, benzin und erdgas
+
+
+  mobilität                                                                                                    2016                           2015                   veränderung
+
+  dienstreisen
+
+  flug⁵) (in km)                                                                                         2.758.462                      3.327.216                           -17,1%
+
+  bahn (in km)                                                                                           1.910.606                      1.922.123                            -0,6%
+
+  taxi (in km)                                                                                               49.018                         55.518                          -11,7%
+
+
+  fuhrpark
+
+  anzahl der fahrzeuge (in stk.)                                                                              3.310                          3.329                           -0,6%
+
+  gesamtkilometer fuhrpark (in km)                                                                      70.174.828                     72.435.715                            -3,1%
+
+  treibstoffverbrauch durch fuhrpark (in l)                                                              4.981.033                      5.139.491                            -3,1%
+
+     davon benzinverbrauch (in l)                                                                             4.319                          8.558                          -49,5%
+
+     davon dieselverbrauch (in l)                                                                        4.976.714                      5.130.933                            -3,0%
+
+  erdgas (cng) (in kg)                                                                                        6.500                          6.599                           -1,5%
+
+
+
+  luftschadstoffe⁶) (in tonnen)                                                                                2016                           2015                   veränderung
+
+  schwefeldioxid (so2)                                                                                           17                              14                         24,7%
+
+  stickoxide (nox)                                                                                               52                              50                          4,0%
+
+  staub (pm10)                                                                                                     5                              5                          -0,2%
+
+5) aufgrund verbesserter datenqualität wurde die kennzahl „flug" für das jahr 2015 korrigiert.
+6) die luftschadstoffe wurden nach der berechnungsmethode von ecoinvent ermittelt. sie beinhalten den ausstoß des fuhrparks. die dargestellten luftemissionen stellen die
+   wesentlichen schadstoffe für a1 dar.
+tabelle vorbehaltlich rundungsdifferenzen.
+
+
+
+
+a1 umwelterklärung                                                                                                                                                          seite 26
+
+                                                                                                                                                        umweltkennzahlen
+
+
+
+
+     co2-emissionen⁷) (in tonnen)                                                                              2016                           2015                   veränderung
+
+     direkte und indirekte co2-emissionen gesamt                                                             26.320                         27.856                           -5,5%
+
+       davon strom⁸  )
+                                                                                                              1.508                          1.793                          -15,9%
+
+       davon heizung                                                                                          3.756                          3.761                            -0,1%
+
+       davon fernwärme                                                                                        7.728                          8.236                            -6,2%
+
+       davon treibstoffe⁹   )
+                                                                                                             13.328                         14.067                            -5,3%
+
+
+     direkte und indirekte co2-emissionen gesamt abzüglich kompensation                                       9.950                         12.456                          -20,1%
+
+     kompensation im zuge des „co2-neutrales netz“                                                           16.370                         15.400                            6,3%
+
+
+     vorgelagerte co2-emissionen gesamt¹⁰)                                                                   13.560                         11.453                           18,4%
+
+
+     relativer indikator
+
+     co2-intensität pro fte                                                                                        3                              3                           0,0%
+
+7)  bei der berechnung der direkten, indirekten und sonstigen indirekten treibhausgas-emissionen folgt a1 grundsätzlich der international anerkannten definition des greenhouse
+    gas protokolls des wri/wbcsd (world resource institute und word business council for sustainable development), wobei jedoch alle, also nicht nur die vom kyoto protokoll abgedeck-
+    ten, treibhausgase in die berechunng einfließen. in diesem zusammenhang wurde auf die von ecoinvent veröffentlichten daten (ara-100 year (ipcc 2007-4. assessment report))
+    zurückgegriffen. werte entsprechen co2-äquivalenten. bei den von energielieferanten bekannt gegebenen scope 2 emissionen sind die einbezogenen gase nicht bekannt. direkte
+    und indirekte energie inklusive mehrheitsbeteiligungen.
+8) strombedarf und treibstoffe von notstromaggregaten
+9) treibstoffe aus dem fuhrpark
+10) die vorgelagerten emissionen berücksichtigen die mit der vorgelagerten energieerzeugung verbundenen emissionen aus heizung, strom (nicht in scope 2 beinhaltet) und treibstoffen
+    (fuhrpark) sowie dienstreisen (taxi, flug, bahn). seit 2013 wird der energieverbrauch der mobiltelefone der kundinnen und kunden in scope 3 miteinbezogen.
+
+     ressoucenschonung                                                                                         2016                           2015                  veränderung
+
+     abfälle gesamt (in t)                                                                                    5.668                          5.219                            8,6%
+
+       davon restmüll (in t)                                                                                  1.311                          1.481                          -11,5%
+
+       davon metall (in t)¹¹    )
+                                                                                                              1.413                          1.695                          -16,6%
+
+       davon kunststoff (in t)¹¹)                                                                               153                            131                           17,2%
+
+       davon bunt- und weißglas (in t)¹¹   )
+                                                                                                                 86                              60                          43,0%
+
+       davon papier und kartonagen (in t)¹¹)                                                                    875                            929                            -5,8%
+
+       davon sonstige recycelbare abfälle (in t)¹¹)                                                             333                            305                            9,1%
+
+       davon elektronik (in t)                                                                                  774                            357                          117,0%
+
+       davon gefährliche abfälle (in t)                                                                         419                            261                           60,5%
+
+
+
+     ressourcenverbrauch
+
+     drucker- und kopierpapier (in t)                                                                            94                              96                           -2,1%
+
+     rechnungspapier (in t)                                                                                     471                            584                          -19,3%
+
+     toner (in t)                                                                                             1.552                          3.100                          -49,9%
+
+     wasserverbrauch (in m3)                                                                               214.000                         209.000                            2,4%
+
+
+     anzahl gesammelter althandys (in stk.)                                                                  18.522                         24.385                          -24,0%
+
+
+     relative indikatoren
+
+     wasserverbrauch pro fte (in m2)                                                                             26                              25                           2,5%
+
+     papierverbrauch pro fte (in kg)                                                                             11                              11                           0,0%
+
+     recyclingquote (in %)                                                                                       70                              67                           4,5%
+
+     anteil online-rechnungen (in %)                                                                             63                              63                           0,8%
+
+11) diese abfallfraktionen werden von a1 einem fachgerechten recycling zugeführt.
+tabelle vorbehaltlich rundungsdifferenzen.
+
+
+
+
+a1 umwelterklärung                                                                                                                                                           seite 27
+
+                                                                                                     umweltregister
+
+
+
+
+umweltregister
+das umweltregister gibt einen überblick über die umweltauswirkungen von a1 und über
+den möglichen handlungsbedarf zur reduktion dieser auswirkungen.
+
+
+
+
+                                                       normale betriebsbedingungen   abnormale betriebsbedingungen/
+                                                                                                 notfall
+
+                                                        umwelt-         handlungs-     umwelt-         handlungs-
+ betriebsstoffe
+                                                       auswirkung         bedarf      auswirkung         bedarf
+
+ büroausstattung, kästen, leitern
+                                                                            3                               2
+ (gewerbeabfälle, sperrmüll etc.)
+
+ papier- und pappeprodukte
+                                                                            3                               3
+ (altpapier, verpackung etc.)
+
+ pflanzliche und tierische fette
+                                                                            2                               2
+ (emulsionen, kabelreinigungstücher etc.)
+
+ holz, holzmasten
+                                                                            2                               2
+ (kabeltrommeln, holzemballagen etc.)
+
+ sonstige feste mineralische produkte
+                                                                            2                               2
+ (altglas, asbest etc.)
+
+ eisen- und stahlmaterialien
+                                                                            2                               2
+ (eisenmetallemballagen etc.)
+
+ elektrische und elektronische geräte, fahrzeuge
+                                                                            2                               2
+ (leiterplatten, schrott etc.)
+
+ ne-metalle (kabel, telefonzellen, bleiakkus etc.)                          2                               2
+
+ säuren, laugen, konzentrate (akkusäuren etc.)                              2                               2
+
+ pharmazeutische erzeugnisse (arzneimittel etc.)                            3                               2
+
+ mineralöl- und kohleveredelungsprodukte
+                                                                            2                               2
+ (altöl, kraftstoffe etc.)
+
+ organische lösemittel, farben, lacke, klebstoffe,
+                                                                            2                               2
+ kitte und harze (kitt, farben etc.)
+
+ kunststoff- und gummi
+                                                                            2                               2
+ (isolierschaum, gießharze etc.)
+
+ textilprodukte, filter (luftfilter etc.)                                   2                               2
+
+ chemische umwandlungs- und syntheseprodukte
+                                                                            2                               2
+ (spraydosen mit restinhalten, bauchemikalien etc.)
+
+ radioaktive produkte (überspannungsableiter etc.)                          2                               2
+
+ bioabfall, mähgut, laub, küchen- und speisenabfälle
+                                                                            3                               3
+ (abfälle für die biologische verwertung etc.)
+
+
+
+
+a1 umwelterklärung                                                                                              seite 28
+
+                                                                                 umweltregister
+
+
+
+
+                                   normale betriebsbedingungen   abnormale betriebsbedingungen/
+                                                                             notfall
+
+                                    umwelt-         handlungs-     umwelt-         handlungs-
+ betriebsmittel
+                                   auswirkung         bedarf      auswirkung         bedarf
+
+ papier                                                 3                               3
+
+ toner                                                  3                               2
+
+ batterien                                              2                               2
+
+ handys                                                 2                               2
+
+ pcs                                                    2                               2
+
+ bildschirme                                            2                               2
+
+ drucker                                                2                               3
+
+ verpackung                                             3                               2
+
+ büroreinigung                                          3                               2
+
+ energie
+
+ strom                                                  1                               2
+
+ gas                                                    2                               2
+
+ heizöl                                                 2                               2
+
+ diesel                                                 2                               2
+
+ fernwärme                                              3                               3
+
+ gasförmige emissionen
+
+ staub am standort                                      3                               2
+
+ co2, co, nox, so2, ch4                                 2                               2
+
+ wasser
+
+ sanitäranlagen                                         3                               3
+
+ lärm
+
+ geruch                                                 3                               3
+
+ erschütterungen                                        3                               3
+
+ opt. einwirkungen                                      3                               3
+
+ bodenkontamination                                     3                               2
+
+ auswirkungen auf ökosysteme/emf                        3                               2
+
+
+
+
+a1 umwelterklärung                                                                          seite 29
+
+                                                                                                 umweltregister
+
+
+
+
+                                              normale betriebsbedingungen        abnormale betriebsbedingungen/
+                                                                                             notfall
+
+                                               umwelt-              handlungs-     umwelt-         handlungs-
+ produkte
+                                              auswirkung              bedarf      auswirkung         bedarf
+
+ produkte und dienstleistungen                                          2                               2
+
+ indirekte umweltaspekte
+
+ handys                                                                 2                               3
+
+ sonstige produkte und dienstleistungen                                 3                               3
+
+ geräte für kunden (modem, mulimedia-box..)                             2                               3
+
+ beschaffung/einkauf                                                    2                               2
+
+
+
+
+ legende
+ umweltauswirkungen                                        handlungsbedarf
+
+ hoch                                                      groß                                                 1
+
+ mittel                                                    mittel                                               2
+
+ gering                                                    klein                                                3
+
+
+
+
+a1 umwelterklärung                                                                                          seite 30
+
+                                                                                               gültigkeitserklärung
+
+
+
+
+                           gültigkeitserklärung
+              der leitende und zeichnungsberechtigte emas-umweltgutachter
+
+                                            dipl.-ing. dr. kurt kefer
+                                      der umweltgutachterorganisation
+                               tüv süd landesgesellschaft österreich gmbh,
+                             campus 21, europaring a04301, 2345 brunn am gebirge
+                                     (registrierungssnummer at-v-0003)
+
+              bestätigt, begutachtet zu haben, dass die gesamte organisation, wie in der aktualisier-
+              ten umwelterklärung der organisation
+
+                                             a1 telekom austria ag
+                                                 lassallestraße 9
+                                                    1020 wien
+                                       mit der registriernummer at-000629
+
+              angegeben, alle anforderungen der verordnung (eg) nr. 1221/2009 des europäischen
+              parlaments und des rates vom 25. november 2009 über die freiwillige teilnahme von
+              organisationen an einem gemeinschaftssystem für umweltmanagement und umwelt-
+              betriebsprüfung (emas) erfüllt.
+
+              mit der unterzeichnung dieser erklärung wird bestätigt, dass
+              • die begutachtung und validierung in voller übereinstimmung mit den anforderungen
+                der verordnung (eg) nr. 1221/2009 durchgeführt wurden,
+              • das ergebnis der begutachtung und validierung bestätigt, dass keine belege für die
+                nichteinhaltung der geltenden umweltvorschriften vorliegen,
+              • die daten und angaben der aktualisierten umwelterklärung der organisation ein
+                verlässliches, glaubhaftes und wahrheitsgetreues bild sämtlicher tätigkeiten der
+                organisation innerhalb des in der umwelterklärung angegebenen bereichs geben.
+
+              die umweltgutachterorganisation tüv süd landesgesellschaft österreich gmbh ist
+              per bescheid durch das bundesministerium für land- und forstwirtschaft, umwelt und
+              wasserwirtschaft für den 61.00 (nace-code) zugelassen.
+
+               wien, am 18. september 2017
+
+
+
+
+                                                                                              landesgesellschaft
+                                                                                                  österreich
+              leitender und zeichnungsberechtigter umweltgutachter
+              der tüv süd landesgesellschaft österreich gmbh
+              campus 21 europaring a04301, 2345 brunn am gebirge
+
+
+
+              die nächste validierung der aktualisierten umwelterklärung erfolgt 2018.             a1.net
+a1 umwelterklärung                                                                                           seite 31

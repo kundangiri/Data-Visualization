@@ -1,0 +1,2761 @@
+     2012
+raport anual
+de dezvoltare
+ sustenabilă
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+       2
+
+                                                                                                                       raport anual de dezvoltare sustenabilă
+
+
+
+
+2012 a fost un an deosebit pentru echipa siveco: s-au împlinit 20
+de ani de la înfiinţarea companiei, devenită în aceste două decenii
+cea mai mare casă românească de software, dar şi un lider
+regional în dezvoltarea de proiecte software de mare complexitate
+şi anvergură.
+cum am reuşit să creştem an de an într-un domeniu plin de provocări cum
+este it-ul şi într-o economie globalizată marcată de turbulenţe? în primul
+rând, prin foarte multă muncă, prin dorinţa de a reuşi când cei mai mulţi
+au spus că este imposibil, printr-un efort constant, de echipă. această
+muncă nu ar fi dat însă rezultatele dorite dacă nu am fi pus în prim plan
+nevoile comunităţilor în care lucrăm. prin definiţie, tehnologia informaţiei
+aduce progres prin schimbări pozitive pe termen mediu şi lung.
+în proiectele noastre am pornit întotdeauna de la analiza şi identificarea corectă a nevoilor beneficiarilor noştri, urmărind ca prin expertiza noastră
+să-i ajutăm să valorifice pe deplin avantajele instrumentelor tehnologice moderne.
+nu în ultimul rând, ne-am preocupat în mod constant de comunicarea cu toate grupurile implicate în proiectele noastre: clienţii, partenerii de
+afaceri, acţionarii, angajaţii, opinia publică în general.
+recent, comisia europeană a publicat o propunere legislativă prin care obligă companiile cu peste 500 de angajaţi să publice anual informaţii referitoare
+la impactul social, de mediu şi asupra drepturilor angajaţilor. noi ne-am asumat voluntar şi proactiv acest demers încă din 2008.
+în mod formalizat, coerent şi consecvent, evaluăm şi raportăm ceea ce realizăm an de an, proiecte mari de informatizare în domeniul
+educaţiei, sănătăţii, agriculturii, vămilor, proiecte cu un impact social major. metricile utilizate sunt aceleaşi pentru toate proiectele pe
+care le dezvoltăm în 27 de ţări de pe 4 continente, pentru milioane de beneficiari. comunicăm în mod transparent toate acţiunile cu caracter
+social pe care le susţinem, în parteneriat cu alte organizaţii sau ca voluntari entuziaşti.
+proiectele noastre implică nu doar prestaţii tehnice de clasă mondială, ci şi un nivel ridicat de responsabilitate. aceste exigenţe pot fi
+îndeplinite numai cu o echipă de excepţie. echipa siveco este compusă în prezent din peste 1.300 de profesionişti la nivel global, cei
+mai buni de pe piaţa software, valoare confirmată de rezultatele proiectelor mari pe care le construim în toată lumea.
+planurile noastre de viitor sunt consecvente cu evoluţia de până acum: vom continua să ne dezvoltăm, să investim în cercetare, în calitate, în
+specializarea angajaţilor, să promovăm etica şi transparenţa în afaceri, să susţinem proiectele sociale în acelaşi climat deschis şi prietenos
+în care s-a format echipa siveco până acum.
+
+
+ne facem o datorie de onoare să împărtăşim cu dumneavoastră experienţa câştigată în 2012, al 20-lea an al existenţei noastre.
+
+
+irina socol
+preşedinte şi director general
+siveco romania
+
+
+
+                                                                                                                                                   3
+
+raport anual de dezvoltare sustenabilă
+
+
+
+cuprins
+
+
+i.         carte de vizită                                    iv. raportare economică
+	dezvoltăm proiecte în românia şi în alte 26 de                    chiar dacă a fost un an greu, am putut raporta
+  ţări pentru peste 1.500 de clienţi.
+                                                                   o cifră de afaceri foarte bună.
+
+
+ii.        istoric al acţiunilor sociale                      v.   raportare de mediu
+           desfăşurate în perioada 2002-2012
+                                                                   nu putem să mergem mai departe fără să ne
+           suntem o companie care funcţionează în                  gândim la ce se va întâmpla peste 10 sau 50 de
+           mijlocul comunităţii şi in beneficiul ei. o             ani. responsabilitatea contează.
+           companie care probează responsabilitate şi
+           implicare în iniţiative care aduc dezvoltare pe
+           termen lung.                                       vi. etică
+                                                                   investim constant în comportamentul etic de
+                                                                   business. susţinem şi respectăm acest principiu
+iii. raportare socială
+                                                                   de bază în activitatea noastră de zi cu zi, avem
+           proiectele mari înseamnă profesionalism,                toleranţă zero faţă de orice manifestare care ar
+           expertiză, responsabilitate, echipe mari,               putea submina efectele pozitive şi beneficiile
+           antrenate să lucreze pentru binele comunităţilor        generate de dezvoltarea durabilă.
+           şi al companiilor. proiectele mari sunt pentru
+           companii capabile să-şi asume ţinte îndrăzneţe.
+           noi construim proiecte pentru milioane de
+           beneficiari.
+
+
+
+
+       4
+
+                                                                                    raport anual de dezvoltare sustenabilă
+
+
+
+
+vii. angajaţi                                             ix. recunoaștere internațională
+     se spune că a forma o echipă este doar                     spune-mi ce proiecte faci, ca să-ţi spun ce
+     începutul, a lucra împreună este progresul, iar            premii o să iei. pentru noi 2012 a fost chiar
+     a rămâne împreună este succesul. dar la fel                un an plin, în care am primit diplome şi trofee
+     de important este să investeşti permanent în               valoroase.
+     propria dezvoltare.
+
+viii. afilieri                                            x.    obiective pentru 2013
+     evoluţia companiei include dezvoltarea               	lucrurile bune trebuie continuate. ne dorim ca şi
+                                                            în 2013 să construim proiecte relevante, pe care
+     modelului de business cu ajutorul partenerilor,
+                                                            să vi le putem împărtăşi în viitorul nostru raport.
+     atât în cadrul proiectelor locale, cât şi al celor
+     internaţionale.
+
+
+
+
+                                                                                                                5
+
+raport anual de dezvoltare sustenabilă
+
+
+
+i. carte de vizită
+
+
+
+››21 de ani de experienţă
+
+››peste 1.500 de clienţi
+
+››27 de ţări - siveco dezvoltă proiecte
+  informatice complexe în românia și alte
+  ţări din comunitatea europeană, orientul
+  mijlociu, africa de nord și spaţiul
+  comunităţii statelor independente
+
+
+
+
+    structura
+    acționariatului
+
+    42,2 %
+    siveco netherlands bv
+
+
+
+
+                                             32,5 %
+                                             intel capital corporation & enterprise investors
+
+
+    25,3 %
+    management siveco romania
+
+
+
+6
+
+                                                                          raport anual de dezvoltare sustenabilă
+
+
+
+
+                                               puncte de lucru
+                                               ››românia: bucureşti (sediu central), ploieşti, braşov,
+                                                 constanţa, galaţi, timişoara, craiova, cluj, iaşi.
+
+                                               ››birouri internaţionale: emiratele arabe unite, belgia,
+                                                 kazahstan, bulgaria, turcia.
+
+
+
+
+                                               certificări:
+soluții                                        ››iso 9001:2008 afnor group international
+››elearning                                    ››iso 14001:2004 sisteme de management de mediu
+››ehealth                                      ››iso 27001 securitatea informaţiei
+››eagriculture
+››ecustoms
+››enuclear
+››customized applications (portal, biroul de
+  credit, managementul documentelor şi
+  fluxurilor de lucru, einsurance, ebanking)   angajați
+››enterprise application suite                 ››+1.300 la nivel global
+
+
+
+
+                                                                                                              7
+
+     raport anual
+     raport       de dezvoltare
+              anual             sustenabilă
+                      de dezvoltare    sustenabilă
+
+
+
+
+alexandru rădășanu                                   daniela bichir              florin ilia
+vicepreşedinte                                       vicepreşedinte              vicepreşedinte
+cercetare-dezvoltare                                 resurse umane şi calitate
+
+
+
+
+efortul nostru de a inova de fiecare
+dată se traduce printr-un plus de
+performanță pentru clienții noștri.
+     8
+
+                                                                          anual
+                                                                    raportde
+                                                            raport anual        de dezvoltare
+                                                                             dezvoltare       sustenabilă
+                                                                                           sustenabilă
+
+
+
+
+aurora crusti                 doina binig                            bogdan ciungradi
+vicepreşedinte adjunct        vicepreședinte strategie și            vicepreşedinte financiar
+divizia comercială            chief operating officer
+
+
+
+
+                                            irina socol
+                         preşedinte şi director general
+                                       siveco romania
+
+
+                                                                                                       9
+
+       anual
+raportanual
+raport      dede dezvoltare
+              dezvoltare      sustenabilă
+                         sustenabilă
+
+
+
+
+ii. istoric al acţiunilor sociale desfăşurate
+în perioada 2002-2012
+
+
+
+
+anca crahmaliuc
+director de marketing și comunicare
+
+
+
+“dezvoltarea constantă de proiecte naţionale şi internaţionale de anvergură, cu un impact social
+determinant a generat, în mod natural, includerea elementelor de responsabilitate socială în
+proiectele de ehealth, elearning, eagriculture, ecustoms, ebusiness. primele proiecte de csr
+au fost derulate în zona educaţională, în paralel cu implementarea sistemului educaţional
+informatizat, unul dintre cele mai de succes proiecte educaţionale din romania. prin iniţiative
+de mare anvergură şi impact precum cupa siveco, .campion, şcoala de vară siveco, conferinţa
+naţională de învăţământ virtual, competiţia “urmaşii lui moisil” - am potenţat avantajele sociale
+ale proiectului sei, cu implicaţii directe pentru milioane de beneficiari: elevi, profesori, părinţi,
+conducători de instituţii de învăţământ. compania a atins acel nivel de maturitate care face
+posibilă conştientizarea necesităţii de a iniţia, desfăşura şi dezvolta acţiuni care să susţină din
+punct de vedere social proiecte naţionale extraordinar de complexe, în domenii vitale pentru
+cetăţeni. o companie responsabilă se preocupă ca un astfel de proiect să genereze în mod
+durabil beneficiile scontate.”
+
+       10
+
+                                                                  raport anual de dezvoltare sustenabilă
+
+
+
+
+                                                                                     2002
+prezentăm câteva dintre       ››la aniversarea a 10 ani de activitate, siveco romania susţine
+                                 prezentarea în premieră pentru românia, a unei opere
+                                 celebre - traviata de giuseppe verdi - pe o scenă în aer liber.
+cele mai importante acţiuni      cu această ocazie, 10% din donaţiile de sponsorilor sunt
+                                 direcţionate asociaţiei “nicolae bălcescu”, implicată activ în
+
+pe care le-am desfăşurat         îngrijirea copiilor bolnavi de sida. “intenţiile generoase i-au
+                                 unit întotdeauna pe oameni. sperăm că emoţia spectatorilor,
+
+în domeniul social:
+                                 privilegiaţi să asiste la un moment artistic excepţional, va
+                                 contribui la strângerea de fonduri în folosul copiilor - şi că astfel
+                                 ţelul principal al acestui eveniment va fi atins”, a declarat irina
+                                 socol, directorul general siveco romania.
+                              ››siveco romania este sponsor al concursului naţional
+                                 infoeducaţie, concurs dedicat elevilor cu aptitudini pentru
+                                 crearea aplicaţiilor informatice (soft educaţional, soft
+                                 utilitar şi pagini web).
+                              ››trei elevi de la liceul mihai eminescu din petroşani primesc
+                                 burse lunare de studiu din partea siveco.
+                              ››siveco sponsorizează un spectacol de operă în beneficiul
+                                 copiilor bolnavi de sida.
+                              ››cu sprijinul siveco, la colegiul naţional cantemir vodă
+                                 este organizat un concurs de informatică pentru elevii
+                                 claselor ix-xi, manifestare devenită deja tradiţională pentru
+                                 acest prestigios liceu bucureştean.
+
+
+
+
+                                                                                             11
+
+       anual
+raportanual
+raport         de dezvoltare
+            de dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+2003
+››centrul virtual pentru excelenţă siveco include o serie de              ››specialişti din cadrul siveco susţin seminarii la cursul de
+    iniţiative ale companiei în sectorul educaţional, destinate a            master în ebusiness organizat la facultatea de cibernetică,
+    promova creativitatea în elearning: cupa siveco, .campion,               statistică şi informatică economică, în anul universitar
+    şcoala de vară siveco etc.                                               2002-2003.
+››aflat la prima ediţie, concursul naţional de software                   ››siveco susţine financiar tineri elevi de la liceul mihai
+    educaţional cupa siveco îşi propune să devină o competiţie               eminescu din petroşani cu performanţe şcolare deosebite și
+    tradiţională pentru învăţământul preuniversitar. competiţia              care, din lipsă de mijloace materiale, nu îşi pot valorifica pe
+    este dedicată în primul rând elevilor pasionaţi de realizarea            deplin aptitudinile. cu ajutorul regiei autonome a apei din
+    aplicaţiilor informatice cu caracter educaţional, dar şi                 valea jiului, tinerii beneficiază și de burse lunare de studiu.
+    profesorilor creatori de mijloace de învăţământ inovatoare.              “suntem conştienţi că gestul nostru este unul simbolic. noi
+    organizat de siveco romania sub patronajul ministerului                  sperăm că această legătură cu copiii din valea jiului să ia forma
+    educaţiei şi în parteneriat cu revista pc magazine,                      unor proiecte care să aducă beneficii şi pentru alţi colegi de-ai
+    concursul promovează toate produsele valoroase prezente                  lor. un astfel de exemplu este concursul de soft educaţional pe
+    în competiţie. indiferent de poziţia ocupată în clasamentul              care l-am lansat anul acesta, cupa siveco. echipele de elevi
+    final, acestea sunt achiziţionate de către siveco şi                     care realizează materiale educaţionale inovative beneficiază de
+    incluse în cadrul programului informatizat de instruire din              recompense substanţiale”, a declarat irina socol.
+    învăţământul preuniversitar.
+                                                                          ››siveco acordă cuplului de actori carmen stănescu şi
+››la expoziţia educa - berlin, germania, cea mai mare                        damian crâşmaru “premiul de simpatie”. această întâlnire
+    conferinţă internaţională dedicată metodelor de instruire                a teatrului cu tehnologia informaţiei dovedeşte că lumea
+    asistată de calculator, românia este reprezentată de echipa              în care trăim este şi va deveni, din ce în ce mai mult, un
+    câştigătoare a concursului naţional de software educaţional              spaţiu al convergenţelor. cu siguranţă, prin performanţele
+    cupa siveco – formată din profesori şi elevi ai colegiului               excepţionale pe care le realizează aceste domenii construiesc
+    cantemir vodă din bucureşti.                                             într-o mare măsura brandul “românia”, generând vizibilitate
+                                                                             şi prestigiu.
+››siveco sprijină evenimentul premiile flacăra 2003 pentru
+    realizări importante în domenii ca: literatură, teatru, film,
+    muzică, arte plastice, ştiinţă, jurnalism, management şi
+    sport. “premiile flacăra au menirea de a arăta unor oameni
+    de excepţie că românii îi preţuiesc - gratitudinea este adesea
+    un lucru rar şi tocmai de aceea, credem că merită stimulată.
+    gala laureaţilor reuneşte cele mai semnificative nume din viaţa
+    ştiinţifică, culturală, sportivă, jurnalistică a ultimilor ani “, a
+    declarat irina socol.
+
+
+
+
+       12
+
+                                                                            raport anual de dezvoltare sustenabilă
+
+
+
+
+                                                                                               2004
+››este lansată ediţia a ii-a a cupei siveco, competiţie menită să
+   desemneze cele mai bune aplicaţii de software educaţional.
+   19 echipe finaliste îşi prezintă aplicaţiile în faţa unui juriu format
+   din profesori, specialişti în soft educaţional şi finalişti ai ediţiei
+   2003. marele premiu al concursului constă în sponsorizarea
+   deplasării la o expoziţie reprezentativă în domeniul elearning.
+››liceenii campioni la programare se întâlnesc în tabăra de la poiana
+   pinului. tinerii informaticieni participă la programul centrul virtual
+   de excelenţă siveco, sponsorizat de siveco romania.
+››în cadrul unui proiect dezvoltat cu televiziunea română sunt
+   organizate tele-meditaţii pentru pregătirea examenelor de
+   bacalaureat, la fizică, matematică, informatică, geografie, istorie
+   şi chimie. emisiunea “lecţie pentru viitor” beneficiază de prezenţa
+   unor personalităţi marcante ale domeniului educaţional autohton.
+   astfel, la emisiunea pilot au fost în studio: ministrul comunicaţiei
+   şi tehnologiei informaţiilor, ministrul educaţiei, directorul general
+   siveco romania. în fiecare din cele 12 emisiuni este prezentată o
+   lecţie computerizată pe platforma de elearning ael, dezvoltată de
+   siveco romania.
+››este lansată prima ediţie a premiilor jurnalismului de educaţie,
+   competiţie ce propune un standard profesional pentru jurnalistul
+   de educaţie, semnalând totodată înaltul nivel calitativ al acestui
+   segment media. organizat de comisia naţională a româniei pentru
+   unesco, în colaborare cu fundaţia pentru stimularea creaţiei
+   tehnico-ştiinţifice şi cu sprijinul siveco romania, concursul are
+   patru secţiuni: tv (reportaj, talk-show), web-site, radio, presă
+   scrisă şi cărţi de popularizare a ştiinţei. pentru fiecare secţiune se
+   acordă premii în valoare de 1.000 de euro.
+››sunt organizate cursuri de iniţiere şi de pregătire în domeniul
+   utilizării calculatorului, în beneficiul direcţiei generale pentru
+   învăţământ preuniversitar din cadrul ministerului educaţiei.
+
+
+
+
+                                                                                                       13
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+                                                                               este realizat portalul
+››siveco susţine desfăşurarea concursului de web design
+    organizat la colegiul naţional “tudor vianu” din bucureşti.
+››la facultatea de matematică şi informatică a universităţii
+    bucureşti are loc cel mai important eveniment ştiinţific al anului
+    din domeniul învăţământului asistat de calculator: conferinţa
+    naţională de învăţământ virtual. siveco oferă premiul special
+                                                                                   educaţional sei -
+                                                                                http://portal.edu.ro/
+    “centrul virtual de excelenţă” constând în susţinerea participării
+    la conferinţa de software educaţional educa berlin – germania,
+    premiul de creativitate şi 6 premii de popularitate.
+››siveco sprijină echipa facultăţii de matematică în finala
+    concursului internaţional acm programming contest, din praga.
+››este realizat portalul educaţional sei - http://portal.edu.ro/, oferit
+                                                                                    oferit sub formă
+    sub formă de donaţie către ministerul educaţiei.
+››ilinca tomoroveanu şi traian stănescu, doi dintre cei mai mari
+                                                                                    de donaţie către
+                                                                               ministerul educaţiei.
+    actori români, primesc “premiul de simpatie” din partea siveco,
+    în cadrul festivităţii aniversare organizate de uniter.
+
+
+
+
+2005
+                                                                       ››siveco romania organizează şcoala de vară din drobeta turnu severin,
+                                                                           judeţul mehedinţi, sub egida centrului virtual de excelenţă şi în
+                                                                           colaborare cu ministerul educaţiei şi cercetării. cursanţii sunt selectaţi
+                                                                           dintre participanţii la cupa siveco şi .campion, competiţii organizate
+                                                                           în cadrul centrului virtual de excelenţă siveco, dar şi dintre utilizatorii
+                                                                           activi ai forumului de pe portalul educaţional sei. “şcoala de vară
+                                                                           organizată de compania noastră îşi propune să pună bazele unei comunităţi
+                                                                           de creatori de soft educaţional care să promoveze, cu argumente ştiinţifice,
+                                                                           necesitatea utilizării instrumentelor informatice ca mijloc complementar
+                                                                           de educaţie”, a declarat prof. radu jugureanu, coordonator realizare
+                                                                           materiale educaţionale în cadrul siveco romania.
+                                                                       ››are loc finala competiţiei naţionale .campion 2005, la care participă
+                                                                           peste 1.000 de elevi.
+
+
+
+
+       14
+
+                                                                                 raport anual de dezvoltare sustenabilă
+
+
+
+
+››siveco romania sprijină artiştii români contribuind la participarea
+   violonistului cristian fătu la festivalul de vioară “fritz kreisler”, de la
+   viena.
+››cea de-a v-a ediţie a concursului interjudeţean de programare
+   „urmaşii lui moisil”, are loc la colegiul naţional de informatică
+   grigore moisil din iaşi. „urmaşii lui moisil” îşi propune sã reprezinte
+   o etapã utilã în pregãtirea elevilor calificaţi la olimpiada naţională
+   de informatică. sponsorii principali ai competiţiei - siveco
+   romania şi microsoft românia - acordă premii câştigătorilor.
+   „mă bucur să constat că toţi câştigătorii se numără printre primii
+   clasaţi în competiţiile desfăşurate sub egida centrului virtual de
+   excelenţă siveco. sper ca numele câştigătorilor de la „urmaşii lui
+   moisil” să se regăsească printre medaliaţii olimpiadei naţionale
+   de informatică, dar şi printre cei care obţin medalii olimpice pentru
+   românia în concursurile internaţionale”, a declarat ştefan morcov,
+   project manager în cadrul siveco romania.
+››siveco se implică în sprijinirea victimelor inundaţiilor din
+   moldova, prin donaţii de materiale de construcţii şi alimente. este
+   sprijinit proiectul “şcoala unui nou început” - tabăra pentru copiii
+   sinistraţi, dezvoltat în cadrul programului naţional “universitatea
+   de vară”. de asemenea, de crăciun sunt oferite cadouri pentru
+   căminele de bătrâni.
+››siveco participă în calitate de partener la tabăra naţională de
+   informatică forum it, eveniment dedicat tinerilor pasionaţi de
+   informatică şi organizat de echipa emisiunii forum it, în parteneriat
+   cu ministerul comunicaţiilor şi tehnologiei informaţiei, unesco şi
+   consiliul judeţean prahova. forum it este un eveniment care îşi
+   propune să creeze un mediu propice comunicării, în care tinerii să
+   poată discuta cu reprezentanţii marilor companii it din românia.
+››peste 120 de elevi şi profesori participă la drobeta turnu severin
+   la a doua ediţie a şcolii de vară siveco, iniţiativă finanţată de
+   siveco romania. acest demers se adresează elevilor, studenţilor
+   şi profesorilor din învăţământul liceal şi gimnazial din românia,
+   cu rezultate deosebite la concursurile naţionale de creativitate în
+   domeniul soft-ului educaţional, dar şi specialiştilor dezvoltatori de
+   soft educaţional.
+
+
+
+
+                                                                                                            15
+
+raport anual
+raport  anual  dezvoltare
+             dede         sustenabilă
+                  dezvoltare   sustenabilă
+
+
+
+
+››începând din anul universitar 2005-2006, academia de studii            ››siveco susţine celebrarea a 15 ani de activitate a facultăţii
+    economice din bucureşti (ase) şi siveco romania susţin                   de jurnalism şi ştiinţele comunicării, una dintre instituţiile
+    academia siveco, un program de instruire complementară,                  româneşti care formează viitorii jurnalişti.
+    care are ca scop pregătirea unor grupe de studenţi, la standarde
+    înalte de calitate şi performanţă, în domeniul ingineriei software   ››la sediul uniter din bucureşti, în prezenţa a numeroşi oameni
+    şi al informaticii economice.                                            de cultură, siveco decernează “premiul de simpatie” unor
+                                                                             artişti autentici: cătălina mustaţă şi florin zamfirescu.
+››siveco romania împreună cu romanceram iniţiază o campanie
+    de sprijin pentru victimele inundaţiilor din galaţi.
+
+
+
+
+2006
+                                                                         ››în cadrul academiei siveco, sunt oferite studenţilor cursuri
+                                                                             de programare, prezentare şi vânzări, prin care aceştia să-şi
+                                                                             completeze cunoştinţele acumulate în şcoală cu noţiuni şi
+                                                                             abilităţi cerute pe piaţa muncii şi să capete deprinderi practice
+                                                                             de lucru în echipă.
+                                                                         ››caravana sei poposeşte la iaşi, la cea de a vi-a ediţie a
+                                                                             concursului regional de informatică “urmaşii lui moisil”,
+                                                                             concurs organizat de liceul de informatică grigore moisil din
+                                                                             iaşi şi adresat elevilor din românia şi republica moldova.
+                                                                         ››este lansată a iv-a ediţie a concursului naţional de soft
+                                                                             educaţional cupa siveco, concurs dedicat elevilor pasionaţi de
+                                                                             aplicaţii informatice cu caracter educaţional, dar şi profesorilor
+                                                                             creatori de mijloace de învăţământ inovatoare.
+                                                                         ››este organizată competiţia .campion 2006, prima ediţie cu
+                                                                             participare internaţională. în concurs sunt înscrişi elevi din
+                                                                             bulgaria, republica moldova, albania, canada, vietnam şi
+                                                                             nigeria.
+                                                                         ››siveco romania, altfactor, spidernet şi litera international sunt
+                                                                             susţinătorii echipei olimpice ce reprezintă românia la olimpiada
+                                                                             internaţională de geografie, organizată la brisbane, australia.
+                                                                             acest concurs îşi propune să îi încurajeze pe elevii pasionaţi de
+                                                                             geografie din întreaga lume să interacţioneze, contribuind astfel
+                                                                             la creşterea calităţii acestei discipline la nivel preuniversitar.
+                                                                         ››siveco susţine campania “fii inteligent, nu fi violent!” ce se
+                                                                             adresează elevilor din învăţământul preuniversitar, cadrelor
+                                                                             didactice şi nu în ultimul rând părinţilor, având ca scop reducerea
+                                                                             violenţei în unităţile de învăţământ.
+
+
+
+
+       16
+
+                                                                                                                        raport anual de dezvoltare sustenabilă
+
+
+
+
+››primul “parlament al tinerilor” reuneşte 150 liceeni, studenţi şi              ››are loc lansarea programului academia siveco pentru anul
+    masteranzi care au posibilitatea să îşi exerseze calităţile de politician,       universitar 2006-2007 şi decernarea diplomelor pentru absolvenţii
+    să discute proiecte de lege şi să voteze acte normative. iniţiat de              primei ediţii a acestui program.
+    asociaţia pro democraţia şi susţinut de siveco, proiectul atrage
+    implicarea şi suportul autorităţilor statului, societăţilor comerciale şi    ››cu ocazia galei uniter, siveco decernează “premiul de simpatie”
+    asociaţiilor din românia şi de peste graniţă.                                    unor artişti autentici: victor rebengiuc şi mariana mihuţ.
+                                                                                     „ne exprimăm admiraţia şi simpatia pentru aceşti doi artişti speciali:
+››colegiul naţional bilingv “george coşbuc” este gazda conferinţei                   victor rebengiuc şi mariana mihuţ – un cuplu care ne aduce de atâţia ani
+    „democraţia este un lux?”, eveniment ce marchează lansarea                       valoarea normalităţii, performanţei şi bucuriei de a împărtăşi succesul”, a
+    proiectului de conferinţe civice “despre buna folosinţă a democraţiei”,          declarat anca crahmaliuc, director de marketing siveco romania.
+    proiect ce se desfăşoară în perioada noiembrie 2006 - iunie 2007.
+    proiectul susţinut de către siveco, fundaţia raţiu şi compania
+    selenis are ca scop recuperarea spaţiului şcolar ca spaţiu deschis
+    al societăţii civile, prin intermediul conferinţelor şi al dezbaterilor
+    publice în licee, urmărind în acelaşi timp să-i deprindă pe elevi cu
+    ideea de dezbatere şi să-i înveţe să-şi susţină punctele de vedere cu
+    argumente şi contraargumente.
+
+
+
+
+                                                                                                                                                    17
+
+raportanual
+raport anual  dezvoltare
+            dede         sustenabilă
+                 dezvoltare   sustenabilă
+
+
+
+
+2007
+››în programul academia siveco ni se alătură şi studenţii               ››poliția municipiului bucurești demarează în perioada 8-14
+    de la universitatea de vest şi universitatea politehnică din           octombrie 2007 cea de-a doua ediție a evenimentului
+    timişoara.                                                             „săptămâna prevenirii criminalității”. cu ocazia lansării
+                                                                           evenimentului, compania siveco romania este desemnată
+››80 de copii cu nevoi speciale se bucură de instruire eficientă           ca fiind „cel mai bun partener 2007” al direcției generale
+    cu ajutorul lecţiilor interactive ael. siveco romania le oferă         de poliție a municipiului bucurești, devenind astfel singurul
+    acestora posibilitatea de a învăţa eficient cu ajutorul celui          reprezentant al sectorului privat distins cu acest important
+    mai bun conţinut educaţional din lume, prin sponsorizarea              premiu, pentru al doilea an consecutiv.
+    liceului cu licenţa educaţională ael şi lecţii interactive
+    ael, dar şi suportul tehnic pentru implementarea soluţiei           ››este organizată “ziua transparenţei”, eveniment dedicat
+    elearning în cadrul centrului de îngrijire.                            atitudinii de csr (corporate social responsibility).
+                                                                           sunt discutate strategia şi principalele acţiuni de csr
+››este lansată oficial ediţia a v-a a concursului naţional de              iniţiate şi desfăşurate de siveco romania, independent
+    soft educaţional cupa siveco, concurs dedicat atât elevilor            sau în colaborare cu alte instituţii şi ong-uri.
+    inovativi cu aptitudini şi înclinaţii pentru crearea aplicaţiilor      dezbaterea, desfăşurată sub forma unei mese rotunde,
+    informatice cu caracter educaţional, cât şi profesorilor               reuneşte parteneri ai companiei ce activează în domeniul
+    pasionaţi de modernizarea mijloacelor de învăţământ.                   csr, precum amcham, csr romania, world vision
+››siveco romania sprijină o nouă serie de conferinţe                       romania, ardor şi asociaţia pro democraţia. “a activa pe
+    civice “despre buna folosinţã a democraţiei” iniţiate şi               piaţa europeană unică presupune mai mult decât oferirea unui
+    desfăşurate de asociaţia românã de dezbateri, oratorie şi              produs ori serviciu. înseamnă să fii o companie care integrează
+    retoricã (ardor) împreunã cu asociaţia pro democraţia şi               preocupări sociale şi de mediu în activităţile de producţie şi
+    ziarul cotidianul.                                                     comerciale. responsabilitatea socială corporatistă presupune
+                                                                           obţinerea succesului comercial într-o manieră etică, respectând
+››elevii români participă la balcaniada de informatică,                    angajaţii, comunităţile şi mediul”, a declarat irina socol,
+    obţinând locul i în clasamentul pe naţiuni, cu patru medalii           președinte și director general, siveco romania.
+    (două de aur, una de argint şi una de bronz). la competiţie
+    participă 36 de elevi din 8 ţări - românia, bosnia, bulgaria,
+    cipru, grecia, moldova, serbia şi turcia. siveco romania,
+    sponsorul principal al balcaniadei de informatică, se
+    implică în mod constant în susţinerea tinerilor pasionaţi de
+    tehnologia informaţiei.
+
+
+
+
+       18
+
+                                                                                                     raport anual de dezvoltare sustenabilă
+
+
+
+
+                                                                                                                        2008
+››proiectul .campion se află la cea de-a v-a ediţie şi se            ››“întâlnirea de duminică”, organizată de muzeul naţional de
+   bucură de susţinerea a numeroşi profesori de prestigiu şi            istorie naturală “grigore antipa”, este un program interactiv
+   studenţi, foşti câştigători ai olimpiadelor internaţionale de        şi interdisciplinar dedicat copiilor şi părinţilor. în cadrul
+   informatică. ca element de noutate, din acest an .campion            prezentării interactive a programului myria educational,
+   integrează un sistem de evaluare online, asemănător celui            elevii şi-au manifestat deschis preferinţa pentru informaţii
+   utilizat la olimpiada internaţională de informatică.                 transmise interactiv prin intermediul jocului şi al
+                                                                        experimentelor. proiectul myria educational este rezultatul
+››siveco romania este desemnată din nou „cel mai bun                    unui parteneriat de excepţie, în care s-au implicat companii
+   partener” al direcţiei generale de poliţie a municipiului            de renume din industria it&c – microsoft, siveco romania,
+   bucureşti. prin această distincţie poliţia municipiului              altfactor, amd şi complet electroserv. programul a fost
+   bucureşti răsplăteşte eforturile companiei de susţinere a            dezvoltat din dorinţa de a oferi pieţei româneşti un produs
+   activităţilor de pregătire antiinfracţională şi antivictimală a      educaţional complet şi eficient, bazat pe cele mai noi
+   populaţiei.                                                          tehnologii.
+
+
+
+
+                                                                                                                                19
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+       20
+
+                                                                                                          raport anual de dezvoltare sustenabilă
+
+
+
+
+››colegiul naţional „mihai viteazul” din ploieşti găzduieşte                ca instrumente de comunicare, cercetare şi inovare în cadrul
+   cea de-a 12-a conferinţă civică din suita de evenimente                  procesului educaţional”, a declarat dana vlădoiu, project
+   „despre buna folosinţă a democraţiei”, organizată de                     manager în cadrul siveco romania.
+   ardor - asociaţia română de dezbateri, oratorie şi retorică
+   şi siveco.                                                            ››siveco romania acordă burse de merit studenţilor de la
+                                                                            facultatea de matematică şi informatică a universităţii
+››începe o nouă ediţie a academiei siveco. „ne propunem prin                din bucureşti care manifestă un interes special pentru
+   acest program ambiţios să pregătim viitori angajaţi pentru toate         cercetarea ştiinţifică. programul bursele de excelenţă
+   departamentele din siveco romania, să le dezvoltăm abilităţile           siveco constă în acordarea a două burse, câte una pentru
+   necesare pentru activitatea lor ulterioară, oferindu-le în acelaşi       fiecare domeniu de licenţă – matematică şi informatică.
+   timp posibilitatea să răspundă şi îndatoririlor de studenţi”, a
+   declarat daniela bichir, vicepreşedinte calitate şi resurse           ››siveco romania lansează o nouă iniţiativă menită să-i
+   umane, siveco romania.                                                   motiveze pe cei mai activi formatori în predarea lecţiilor pe
+                                                                            calculator. premierea acestora are loc la sfârşitul anului
+››la concursul naţional de informatică “urmaşii lui moisil”                 şcolar 2008-2009, în cadrul celei de-a cincea ediţii a şcolii
+   participă peste 80 de elevi din întreaga ţară, alături de o              de vară siveco.
+   echipă valoroasă din republica moldova.
+                                                                         ››universitatea din bucureşti găzduieşte într-un cadru festiv
+››este lansată oficial cea de-a vi-a ediţie a concursului                   decernarea premiilor celei de-a vi-a ediţii a conferinţei
+   naţional de soft educaţional “cupa siveco”.                              naţionale de învăţământ virtual (cniv). conferinţa a câştigat
+                                                                            an de an notorietate, devenind un punct de maxim interes
+››„clubul dascălilor creativi” este o iniţiativă demarată de                pentru cercetători, specialişti din domeniul elearning,
+   siveco în sprijinul cadrelor didactice care, prin utilizarea             profesori din învăţământul universitar şi preuniversitar,
+   resurselor educaţionale inovatoare în activitatea didactică              inspectori, consilieri, pedagogi, psihologi, elevi şi studenţi.
+   de zi cu zi, participă activ la construirea școlii viitorului.
+   “lecţiile interactive reprezintă un instrument puternic şi            ››colegiul naţional “sf. sava” din bucureşti găzduieşte
+   flexibil cu ajutorul căruia profesorul poate completa procesul           conferinţele civice „despre buna folosinţă a democraţiei”.
+   tradiţional de predare prin motivarea elevilor şi prin îmbinarea         seria de evenimente le oferă tinerilor posibilitatea de a
+   diferitelor sisteme de predare. astfel, elevii sunt stimulaţi să         schimba idei cu importanţi lideri de opinie ai societăţii civile
+   experimenteze ceea ce învaţă, să aplice în practică cunoştinţele         şi academice româneşti, filosofi, jurnalişti, politologi sau
+   dobândite, procesul de instruire devenind mult mai eficient”, a          istorici. siveco romania, partener în cadrul acestui proiect,
+   declarat radu jugureanu, coordonator dezvoltare conţinut                 încurajează astfel încrederea în valorile democratice reale şi
+   educaţional în cadrul siveco romania.                                    sprijină implicarea tinerilor în promovarea acestora.
+››recunoscând importanţa formării continue a personalului,               ››se desfăşoară o nouă ediţie a proiectului de conferinţe
+   universitatea politehnica bucureşti aderă la programul                   civice “despre buna folosinţă a democraţiei”, cu un maraton
+   intel®teach – instruirea în societatea cunoaşterii.                      de public speaking.
+   programul intel®teach a ajutat mai mult de 5 milioane
+   de profesori să integreze eficient tehnologia în activitatea          ››ca în fiecare an, din 2003 încoace, în preajma sărbătorii de
+   de instruire la clasă. “din poziţia de coordonatori ai acestui           crăciun este acordat “premiul de simpatie” unui cuplu din
+   program în românia, suntem alături de toţi cei implicaţi în              lumea teatrului. în acest an, distincţia este oferită familiei
+   sistemul de învăţământ, care doresc să se familiarizeze cu               marina constantinescu, critic de teatru, şi mircea rusu,
+   multiplele modalităţi de utilizare a computerului şi a internetului      actor, în cadrul festivităţii organizate la ateneul român.
+
+
+
+                                                                                                                                     21
+
+raportanual
+raport anualde dezvoltare sustenabilă
+               de dezvoltare   sustenabilă
+
+
+
+
+2009
+››siveco romania anunţă lansarea raportului de
+    responsabilitate socială şi dezvoltare sustenabilă,
+    primul raport de acest fel realizat de către o companie
+    românească şi unul dintre puţinele existente şi în prezent
+    pe piaţa locală. raportul evaluează performanţa socială şi
+    impactul activităţii companiei asupra mediului, comunităţii,
+    partenerilor, clienţilor, angajaţilor în anul 2008. raportul
+    primeşte recunoaşterea juriului european business awards
+    la categoria award for corporate sustainability.
+››siveco sprijină lansarea oficială la liceul „grigore moisil”       ››siveco romania, sponsor principal al concursului de
+    a primului portal educaţional din românia de tip „learning          creativitate software linfo@sv, organizat de colegiul naţional
+    gateway” - „portal.moisil.ro”- o resursă didactică la               de informatică „spiru haret” din suceava, oferă premii
+    îndemâna profesorilor, elevilor şi părinţilor. proiectul            elevilor de gimnaziu şi liceenilor. concursul stimulează
+    “portal.moisil.ro” s-a născut din dorinţa de a-i implica pe         interesul elevilor şi al profesorilor faţă de tehnologia
+    tineri în procesul educaţional, stimulându-le curiozitatea          informaţiei şi încurajează un climat de competitivitate între
+    şi entuziasmul de a descoperi lucruri noi şi interesante cu         elevi.
+    ajutorul tehnologiilor moderne. portalul îi motivează pe elevi
+    să acceseze resursele de învăţare, atât din şcoală, cât şi din   ››peste 2.000 de elevi participă la concursul .campion
+    afara acesteia.                                                     2009. cei care au intrat în finală au obţinut cel puţin un
+                                                                        premiu la una dintre prestigioasele competiţii olimpiada
+››la iaşi se desfăşoară cea de-a ix-a ediţie a concursului              internaţională de informatică, balcaniada de informatică,
+    naţional de informatică “urmaşii lui moisil” şi sesiunea            olimpiada naţională de informatică sau la alte concursuri
+    de comunicări ştiinţifice ale profesorilor “infocalitate –          de profil.
+    asigurarea calităţii la disciplina informatică”.
+                                                                     ››în cadrul conferinţelor civice organizate de asociaţia
+                                                                        română de dezbateri, oratorie şi retorică şi susţinute de
+                                                                        siveco, liceenii sunt invitaţi să-şi exprime părerile despre
+                                                                        subiecte intens dezbătute în societatea românească:
+                                                                        “ar trebui introduse noi reglementări pentru ca posturile
+                                                                        comerciale de televiziune să aibă responsabilităţi educative
+                                                                        faţă de public?”, “dau noile canale media mai multă putere
+                                                                        cetăţeanului modern?”, “multiculturalismul este o utopie?”,
+                                                                        „este legitim absenteismul?”
+
+
+
+
+       22
+
+                                          raport anual de dezvoltare sustenabilă
+
+
+
+
+››solidaritatea socială a angajaţilor siveco romania este probată
+   inclusiv prin participarea constantă la campania 2% - “lasă-ţi
+   semnătura pe o faptă bună!” peste 120 de formulare de direcţionare
+   a 2% din impozitul pe salariu de pe anul precedent sunt completate
+   şi transmise către organizaţii neguvernamentale care desfășoară
+   programe pentru ajutorarea copiilor bolnavi, orfanilor, bătrânilor,
+   pentru spitale, parohii, pentru protecţia mediului sau încurajarea
+   performanţei în educaţie.
+››profesori din învăţământul superior şi preuniversitar, elevi şi
+   studenţi, specialişti în educaţie şi it participă la conferinţa naţională
+   de învăţământ virtual. concomitent cu ediţia a vii-a a cniv se
+   desfăşoară şi cea de-a iv-a ediţie a conferinţei internaţionale de
+   învăţământ virtual.
+››reprezentanţi ai siveco romania fac parte din juriul galei premiilor
+   în educaţie, o competiţie care urmăreşte promovarea oamenilor,
+   proiectelor şi organizaţiilor cu un impact semnificativ asupra
+   sistemului educaţional din romania.
+
+
+
+
+                                                                     23
+
+raportanual
+raport anual  dezvoltare
+            dede         sustenabilă
+                 dezvoltare   sustenabilă
+
+
+
+
+2010
+››la cea de-a vii-a ediţie a competiţiei .campion participă peste          ››este redactat primul raport communication on progress,
+    1.500 de elevi pasionaţi de informatică. competiţia constă                privind respectarea drepturilor omului. acesta este trimis
+    în desfăşurarea a 11 runde în care alternează etapele de                  către united nations global compact. în calitate de partener
+    pregătire cu concursurile online.                                         al acestei organizaţii, siveco îşi ia angajamentul ca în fiecare
+                                                                              an să evalueze şi să raporteze modul în care a respectat
+››în calitate de membru al clubului femeilor de afaceri                       principiile legate de drepturile omului, standardul de muncă,
+    “financiarul”, irina socol, împreună cu alte 11 doamne din                anticorupție şi protecţia mediului.
+    club, manageri ai unor afaceri de succes din românia, susţin
+    prima ediţie a competiţiei “mărţişorul de 50.000 de euro”.             ››profesori din învăţământul superior, preuniversitar şi din
+    competiţia este dedicată tinerelor antreprenoare, până în 35              mediul economic se întâlnesc la cea de-a viii-a conferinţă
+    de ani, care vor să pornească o afacere.                                  naţională de învăţământ virtual (cniv 2010), găzduită de
+                                                                              universitatea de medicină şi farmacie din târgu mureş.
+››experţii în educaţie din siveco propun în cadrul parteneriatului            manifestarea este coordonată de universitatea din bucureşti,
+    cu societatea academică din românia, una dintre cele mai                  în colaborare cu siveco romania şi intel. dezbaterile au loc pe
+    puternice voci ale societăţii civile din românia, un proiect              baza lucrărilor şi produselor software elaborate şi prezentate
+    de reformare a sistemului educaţional românesc. raportul                  în cadrul celor 68 de lucrări publicate în cadrul conferinţei.
+    propune ministerului educaţiei un sistem de educaţie                      în calitate de sponsor principal, siveco romania oferă premii
+    performant, care să producă competenţele necesare dezvoltării             la concursul “software educaţional” pentru elaborarea de
+    societăţii în întregul său şi să cultive abilităţile individuale ale      produse software în educaţie şi cercetare.
+    elevilor.
+
+
+
+
+     este organizat primul transport de cartuşe goale
+       de imprimantă predate firmei edefau technik.
+      o parte din banii obţinuţi în urma revalorificării
+     sunt donaţi asociaţiei părinţilor cu copii bolnavi
+      de cancer, leucemie si anomalii grave (pavel).
+
+
+
+
+       24
+
+                                        raport anual de dezvoltare sustenabilă
+
+
+
+
+››asociaţia “ateliere fără frontiere” şi siveco romania încheie un
+   parteneriat pentru preluarea de echipamente folosite (copiatoare,
+   monitoare, imprimante), sub formă de donaţii către organizaţiile
+   româneşti care dezvoltă programe sociale.
+››siveco romania se alătură campaniei împotriva încălzirii globale
+   “stinge lumina! cu tine vom fi un miliard!” timp de o oră, la sediul
+   companiei, luminile sunt stinse. evenimentul “ora pământului –
+   lasă pământul să respire!” se desfăşoară în fiecare an şi se doreşte
+   a fi un semnal de alarmă pentru protejarea resurselor naturale.
+››este lansată o campanie internă de responsabilizare a angajaţilor
+   în privinţa gestionării resurselor interne.
+››liceul de informatică “grigore moisil” din iaşi găzduieşte cea
+   de-a x-a ediţie a concursului naţional de informatică “urmaşii
+   lui moisil”, eveniment susţinut de siveco romania. competiţia se
+   adresează în fiecare an liceenilor participanţi la etapa naţională a
+   olimpiadei de informatică. la ediţia din 2010 s-au înscris elevi din
+   28 de judeţe şi din republica moldova.
+
+
+
+
+                                                                   25
+
+       anual
+raportanual
+raport         de dezvoltare
+            de dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+2011
+››se desfăşoară o nouă ediţie a programului academia siveco.       ››pentru al treilea an consecutiv, angajaţii siveco participă
+                                                                      la campania de colectare a 2% din impozitul pe venit.
+››25 de tineri fac practică în siveco. prin acest program de          banii sunt direcţionaţi pentru susţinerea programelor a 23
+    internship, numit summerdays@siveco, studenţii câştigă            de organizaţii neguvernamentale din domeniul sănătăţii,
+    experienţă de muncă înainte de terminarea studiilor şi            educației, protecția mediului sau ajutorării copiilor orfani și
+    aplică lecţiile învăţate în timpul facultăţii.                    bătrânilor.
+››siveco este singura companie locală de it care evaluează         ››compania participă la cea de-a 16-a ediţie a iniţiativei
+    şi raportează activitatea socială, economică şi de mediu. în      parteneriatul global împotriva corupţiei (paci) găzduită
+    2011 este publicat al iii-lea raport csr.                         de forumul economic mondial cu sediul în geneva.
+››este redactat şi transmis către united nations global               reprezentanţi ai companiilor semnatare paci, printre care
+    compact al doilea raport communication on progress                se află şi siveco romania, dezbat probleme cheie privind
+    privind respectarea drepturilor omului.                           lupta împotriva mitei şi corupţiei şi nevoia de lideri care să
+                                                                      promoveze politicile anticorupţie în cadrul companiilor.
+
+
+
+
+                                                                                          mai mulţi angajaţi siveco
+                                                                                          participă la primul curs de
+                                                                                          resuscitare cardiorespiratorie
+                                                                                          (crp), alături de 7.400 de
+                                                                                          bucureşteni dornici să înveţe
+                                                                                          lecţiile de prim ajutor.
+                                                                                          ei exersează pe stadionul
+                                                                                          dinamo tehnicile crp sub
+                                                                                          îndrumarea instructorilor de la
+                                                                                          ambulanţă.
+
+
+
+
+       26
+
+                                        raport anual de dezvoltare sustenabilă
+
+
+
+
+››în decembrie, în preajma sărbătorilor de crăciun, angajaţii siveco
+   oferă cadouri copiilor din centrul din periş şi bătrânilor din azilul
+   floare roşie.
+››profesori din învăţământul superior, învăţământul preuniversitar şi
+   din mediul economic participă la cea de a ix-a ediţie a conferinţei
+   naţionale de învăţământ virtual, găzduită de universitatea
+   de medicină şi farmacie din târgu mureş. manifestarea este
+   coordonată de universitatea din bucureşti, în colaborare cu siveco
+   romania şi intel.
+››tinerii amatori de fotbal din siveco joacă o partidă demonstrativă
+   în beneficiul unor copii cu dizabilităţi intelectuale. ei susţin astfel
+   demersul de integrare socială a persoanelor cu dizabilităţi, iniţiat
+   de organizaţia special olympics.
+
+
+
+
+                                                                   27
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+››sunt redactate manualul anticorupţie şi manualul de etică,          ››cei mai pricepuţi designeri sunt invitaţi la un concurs grafic
+    documente care demonstrează interesul companiei în                   2d sau 3d. după etapa de jurizare, concurenţii selectaţi sunt
+    asigurarea unui mediu de afaceri etic şi transparent.                invitaţi să-şi susţină creaţiile în faţa comisiei alcătuite din
+                                                                         specialişti din cadrul companiei. celor trei câştigători li se
+››departamentul de marketing al companiei participă la                   oferă premii în bani şi oportunitatea de a lucra alături de
+    acţiunea “clădim case, construim speranţe”, iniţiată de              echipa de profesionişti din cadrul siveco romania pentru
+    asociaţia habitat for humanity românia. astfel, pe şantierul         dezvoltarea de conţinut educaţional interactiv. partenerii
+    din comuna bălţeşti, prahova, angajaţii siveco pun temelia           concursului sunt facultatea de arte decorative şi design din
+    unei case pentru o numeroasă familie de romi. acţiunea               cadrul universităţii naţionale de arte bucureşti şi asociaţia
+    contribuie la eliminarea locuirii în condiţii precare a acestei      studenţilor arhitecţi şi urbanişti “ion mincu”.
+    minorităţi.
+
+
+
+
+       28
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+                           29
+
+raport anual de dezvoltare sustenabilă
+
+
+
+iii. raportare socială
+
+
+
+
+                              proiectele mari înseamnă profesionalism,
+                                expertiză, responsabilitate, echipe mari,
+                                      antrenate să lucreze pentru binele
+                                         comunităţilor şi al companiilor.
+                                 proiectele mari sunt pentru companiile
+                                  capabile să-şi asume ţinte îndrăzneţe.
+                       noi construim proiecte pentru milioane de beneficiari.
+
+
+
+
+       30
+
+                                                                     raport anual de dezvoltare sustenabilă
+
+
+
+
+               iată care au fost cele mai importante proiecte
+                          realizate de echipa siveco în 2012:
+
+
+proiecte cu impact şi acoperire naţională
+
+         sistemul it pentru agenţia de plăţi şi intervenţii pentru
+                                                 agricultură (apia)
+
+                           fapte și cifre
+                           ››1.650.000 loturi agricole evaluate
+                           ››peste 5 miliarde euro - valoarea subvenţiilor plătite fermierilor în
+                              campaniile 2007-2012
+                           ››261 de centre locale apia, 42 oficii regionale
+                           ››5.000 de utilizatori interni estimați
+                           ››750.000 de utilizatori externi estimați
+                           ››absorbţia a 99,4% din fondurile europene alocate dezvoltării
+                              agricole
+
+
+
+
+       sistemul asigură calcularea şi autorizarea plăţilor pe
+fermă, inclusiv activităţile de control al calităţii şi de audit,
+ executarea efectivă a plăţilor către fermieri, contabilizarea
+plăţilor prin proceduri contabile standard pe baza conturilor
+                                      de venituri şi cheltuieli.
+                                                                                                31
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+sistemul it pentru agenţia de plăţi pentru
+dezvoltare rurală şi pescuit
+fapte și cifre
+››5,18 miliarde de euro în ultimii 5 ani, atrase din fonduri
+  europene şi naţionale de către satele româneşti
+
+
+
+o altă referinţă importantă privind soluţiile informatice complexe în domeniul
+agriculturii este sistemul de procesare a cererilor de finanţare pentru dezvoltarea
+rurală, implementat în cadrul agenţiei de plăţi pentru dezvoltare rurală şi pescuit
+(apdrp). finanţarea proiectelor de dezvoltare rurală reprezintă sprijinul financiar
+acordat de cãtre ue din fondul fondul european pentru agricultură şi dezvoltare
+rurală, în conformitate cu politica agricolã comunã.
+
+
+
+
+       32
+
+                                                                            raport anual de dezvoltare sustenabilă
+
+
+
+
+                                                 sistemul informatic integrat
+                                                   al asigurărilor de sănătate
+                                         fapte și cifre
+
+           urmăreşte îmbunătăţirea       ››siui are cea mai mare bază de date din ţară:
+                                           8 tb (1 terabyte = 1.024 gigabytes)
+     sistemului asigurărilor sociale
+                                         ››42 de case de sănătate judeţene
+       de sănătate din românia şi a
+                                         ››52.797 medici
+     calităţii serviciilor medicale şi   ››10.303 medici de familie
+      farmaceutice, prin colectarea      ››93.151 asistenţi medicali
+        şi gestionarea de informaţii     ››465 spitale
+   economice şi medicale necesare        ››53 staţii de ambulanţă
+     funcţionării eficiente, evidenţa    ››272 furnizori servicii de îngrijire la domiciliu
+          persoanelor asigurate şi a     ››444 recuperări ambulatorii
+   furnizorilor de servicii medicale.    ››2.455 furnizori de dispozitive medicale
+                                         ››3.330 ambulatorii stomatologice
+                                         ››15 sanatorii
+                                         ››4.205 farmacii
+
+
+
+                                             în 2012 a fost completat pachetul de sisteme
+                                             naţionale care compun platforma informatică
+                                               a asigurărilor de sănătate, prin realizarea şi
+                                           implementarea la scară naţională a sistemului
+                                          pentru reţeta electronică. la finalul anului 2012,
+                                             fuseseră generate cca. 6,5 milioane de reţete
+                                             electronice. tot în 2012 a început dezvoltarea
+                                            sistemului naţional pentru cardul electronic al
+                                                                                asiguratului.
+dragos dobran
+directorul departamentului ehealth
+                                                                                                       33
+
+       anual
+raportanual
+raport      dede dezvoltare
+              dezvoltare      sustenabilă
+                         sustenabilă
+
+
+
+
+sistemul educaţional informatizat (sei),
+demarat în 2001, a inclus românia
+pe harta furnizorilor de inovaţie în
+educaţie. azi, după 12 ani,
+soluţia românească de elearning este
+folosită de elevi şi profesori din toată lumea.
+
+
+
+                                            cifrele dau în mod obiectiv dimensiunea acestui
+                                            succes: zeci de milioane de beneficiari în 24.000 de
+                                            şcoli din europa, orientul apropiat, africa şi csi, 3.700
+                                            de lecţii interactive pentru 21 de materii, peste 45.000
+florin ilia
+vicepreşedinte                              de obiecte individuale de învăţare reutilizabile.
+
+
+
+
+       34
+
+                                                                                                                   raport anual de dezvoltare sustenabilă
+
+
+
+
+                                                                     sistemul educaţional informatizat
+
+                                                                       fapte și cifre
+                                                                       ››peste 5 milioane de beneficiari la nivel naţional
+                                                                       ››140.000 de profesori instruiţi
+                                                                       ››15.000 de laboratoare informatizate
+                                                                       ››192.000 de calculatoare
+                                                                       ››3.700 de lecţii multimedia ael
+                                                                       ››2.360.000 de candidaţi la bacalaureat (2004-2012)
+
+soluţiile de elearning ael cuprind o bibliotecă virtuală               ››510.000 de participanţi la examenul
+uriaşă, multi-disciplinară şi poliglotă (ael econtent),                  de titularizare (2003-2012)
+platforma ael pentru predare, învăţare, evaluare şi                    ››2.343.802 elevi repartizaţi în licee (adlic 2001-2012)
+management al conţinutului educaţional multimedia,
+dar şi instrumente software care permit ministerelor                   ››212.000 de utilizatori înregistraţi pe portal edu.
+educaţiei să obţină o imagine clară şi completă asupra                   ro, 3.440.000 de vizitatori, peste 8.500 de articole
+întregului sistem educaţional.                                           şi 1.900.000 de mesaje postate pe forum
+
+în românia, sei înseamnă peste 15.000 de laboratoare informatizate, 5 milioane de elevi, conţinut digital atractiv şi intuitiv şi un sistem modern de
+management informatizat al şcolilor. sei este un program informatic complex, iniţiat de ministerul educaţiei, al cărui obiectiv de bază îl reprezintă
+susţinerea procesului de predare - învăţare în învăţământul preuniversitar, cu tehnologii de ultimă oră. sei este cel mai apreciat proiect românesc din
+domeniul educaţiei, fiind premiat în importante competiţii internaţionale: world summit award, european egovernment awards, european it excellence
+awards, international project management association, eeurope awards for egovernment.
+
+
+
+                                                                         evoluţia numărului de vizitatori unici și afişări
+                                                                                             pe http://www.portal.edu
+
+
+
+                                                                                  ››record afişări: 125.263.442 în luna iulie 2012
+                                                                                  ››cel mai mare proiect din romania care funcţionează
+                                                                                    pe tehnologie cloud începând din 2011
+                                                                                  ››record vizitatori: 1,14 milioane pe 8.07.2012
+
+
+                                                                                                                                              35
+
+       anual
+raportanual
+raport         de dezvoltare
+            de dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+                                   sistemul it pentru autoritatea naţională a vămilor
+
+
+                                                  fapte și cifre
+                                                  ››8 direcţii regionale pentru accize şi operaţiuni vamale
+                                                  ››81 direcţii judeţene pentru accize şi
+                                                    operaţiuni vamale şi birouri vamale
+                                                  ››conectare 24 de ore pe zi, 7 zile pe sãptãmânã -
+                                                    transmiterea electronicã a datelor prin intermediul
+                                                    reţelei comune de comunicaţii a comisiei
+                                                    europene şi a sistemului comun de interfeţe
+                                                  ››peste 10.000 de documente electronice procesate zilnic
+                                                  ››peste 1.000.000 de documente electronice
+                                                    stocate anual în baza de date
+dan tuhar                                         ››1 secundă - timpul mediu de rãspuns la
+directorul departamentului ecustoms                 o cerere de date sau informaţii
+
+
+
+proiectele implementate în cadrul autorităţii naţionale a vămilor (anv)
+contribuie la asigurarea interoperabilităţii sistemului it vamal din
+românia cu sistemele comisiei europene şi ale administraţiilor vamale
+din statele membre ue. acestea duc la îmbunătăţirea serviciilor oferite
+operatorilor economici, prin alinierea la standardele şi normele europene,
+precum şi la susţinerea cerinţelor de business ale anv în contextul
+evoluţiei legislaţiei în domeniu.
+
+
+       36
+
+                                                                       raport anual de dezvoltare sustenabilă
+
+
+
+
+                                    sistemul sivabon pentru biroul de credit
+
+                                        fapte și cifre
+                                        ››peste 45.000.000 rapoarte de credit
+                                          eliberate în ultimii ani
+                                        ››30.000 - numãr mediu de rapoarte
+                                          de credit eliberate pe zi
+                                        ››500.000 - numãr maxim de înregistrãri
+                                          încãrcate în sistem
+                                        ››1 secundă - timpul mediu de rãspuns
+                                          la o cerere de raport de credit
+
+
+aplicaţia sivabon este dezvoltată de siveco romania în colaborare cu specialiştii
+de la biroul de credit din românia.
+
+sistemul gestionează o bază de date comună care conţine informaţii despre clienţii
+de retail, debitori, clienţii fraudulenţi şi conturile lor. sistemul gestionează date
+negative şi pozitive provenind din surse bancare şi nebancare.
+
+
+
+
+                                                                                                  37
+
+raport anual de dezvoltare sustenabilă
+
+
+
+proiecte europene
+
+
+
+
+proiecte pentru organizaţii ale comisiei europene
+avem în derulare peste 20 de contracte pentru oficiul de publicaţii al uniunii europene
+și alte importante instituții și organizații precum:
+
+
+››agenţia europeană de siguranţă a aviaţiei
+››institutul de statistică al uniunii europene eurostat
+››agenţia executivă pentru sănătate şi consumatori
+››europeaid - oficiul de cooperare din cadrul
+  comisiei europene
+››banca europeană pentru reconstrucţie şi dezvoltare
+››banca europeană de investiţii şi fondul
+  european de investiţii (eib group)
+
+
+
+
+       38
+
+                                                                raport anual de dezvoltare sustenabilă
+
+
+
+
+                                  este o mare onoare pentru orice firmă să aibă pe lista
+                                  clienţilor instituţii ale comisiei europene. suntem
+                                  mândri că, începând din 2009, noi am reuşit acest
+                                  lucru. am demonstrat că putem îndeplini cerinţele
+                                  acestor instituţii cu exigenţe foarte mari, atât în
+                                  termeni financiari, cât şi de performanţă.
+
+
+
+
+ștefan morcov
+vicepreşedinte adjunct
+
+
+
+„suntem permanent implicaţi în respectarea standardelor impuse de particularităţile
+proiectelor, atât ca viziune, cât și din punct de vedere al competențelor. şcoala
+românească de software este foarte apreciată în uniunea europeană”, a declarat
+ştefan morcov, vicepreşedinte adjunct siveco.
+
+                                                                                           39      39
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+proiecte finanţate din fonduri structurale
+în calitate de aplicant, partener sau subcontractor, ne implicăm activ în dezvoltarea de proiecte
+finanțate din fonduri structurale prin care aducem la îndemâna oamenilor instrumentele it.
+
+
+
+
+››programul operaţional sectorial dezvoltarea resurselor umane (pos dru)
+››programul operaţional sectorial creşterea competitivităţii economice (pos cce)
+››programul operaţional sectorial de mediu (pos mediu)
+
+
+
+
+proiectele pe care derulăm:
+
+››asigură buna utilizare a instrumentelor educaţionale moderne
+››creează competenţe pentru o societate incluzivă
+››oferă instrumente pentru eliminarea stereotipurilor
+››cresc oportunităţile de ocupare prin îmbunătăţirea nivelului de
+  specializare
+››generează dezvoltare locală
+››contribuie la reducerea decalajului digital
+››dezvoltă competenţele manageriale şi antreprenoriale
+                                                                                             cristina ițcuș
+››stimulează iniţiativele de antreprenoriat pentru o dezvoltare                    director fonduri structurale
+  sustenabilă
+
+
+       40
+
+                                                                                      raport anual de dezvoltare sustenabilă
+
+
+
+
+                              1.650         21.932
+                                                                             angajaţi & manageri
+        43.650
+                                                        14.550               antreprenori & viitori
+                                                                             antreprenori
+                                                             7.880           categorii defavorizate
+
+9.916                                                          9.220         personal medical &
+                                                                             farmaceutic
+                                                                             profesori & formatori
+
+                                                                             şomeri
+
+                                                                             elevi, studenţi &
+                                                                             absolvenţi
+                                                                             alte categorii
+                              110.533
+
+
+
+
+ serviciile noastre de formare tic
+ au acum peste 200.000 de beneficiari:
+ ››cadre didactice din învăţământul preuniversitar şi universitar
+ ››elevi şi studenţi
+ ››formatori
+ ››medici şi asistente medicale
+ ››şomeri din zona urbană şi rurală
+ ››manageri din zona urbană şi rurală
+ ››femei aflate în căutarea unui loc de muncă
+ ››angajaţi din sectoarele: transporturi feroviare, transporturi aeriene, energetic, financiar-bancar, morărit şi
+   panificaţie, petrol şi gaze naturale, construcţii
+ ››angajaţi din domeniul asistenţei sociale
+ ››persoane cu dizabilităţi
+ ››tineri întreprinzători
+
+                                                                                                                 41
+
+       anual
+raportanual
+raport         de dezvoltare
+            de dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+proiecte de cercetare
+
+
+
+
+monica florea
+director proiecte europene
+
+
+
+
+„proiectele noastre de cercetare ajută organizaţiile de
+învăţământ să îşi adapteze oferta educaţională la cerinţele
+reale ale pieţei de muncă, prin utilizarea celor mai noi
+tehnologii, şi în acelaşi timp să pregătească studenţii pentru
+societatea informaţională. proiectele din domeniul cercetării
+medicale aduc noi speranţe pacienţilor, în timp ce acelea din
+zona formării profesionale sporesc competenţele angajaţilor şi
+elimină barierele lingvistice. proiectele de egovernment permit
+dezvoltarea de noi tehnologii care duc la creşterea calităţii
+serviciilor publice, îmbunătăţind relaţia dintre cetăţeni şi
+instituţiile publice. pe scurt, beneficiarul major al proiectelor
+noastre de cercetare este întreaga societate”, a declarat
+monica florea, director departament proiecte europene.
+
+42     42
+
+                                      raport anual de dezvoltare sustenabilă
+
+
+
+
+pentru compania noastră, investiţia în cercetare este un avantaj
+strategic. suntem implicaţi în proiecte de cercetare aplicativă
+susţinute prin planul naţional de cercetare cu cele două
+subprograme - inovare şi parteneriate – dar şi prin programele
+europene fp7 (al 7-lea program cadru de cercetare şi dezvoltare
+tehnologică al uniunii europene), lifelong learning, eureka, itea2.
+
+cercetarea aplicativă este destinată, în principal, utilizării
+cunoştinţelor ştiinţifice pentru perfecţionarea sau realizarea de noi
+produse, tehnologii şi servicii. dezvoltăm proiecte de elearning,
+ehealth şi egovernment, în parteneriat cu universităţi şi institute de
+cercetare din românia şi alte ţări europene.
+
+
+
+
+                                                                 43
+
+raport anual
+raport  anual  dezvoltare
+             dede         sustenabilă
+                  dezvoltare   sustenabilă
+
+
+
+
+renova - transfer de cunoştinţe pentru asistenţi medicali şi moaşe din europa pentru a-și dezvolta
+abilităţile profesionale ca manageri - lifelong learning programme. în acest proiect oferim o
+platformă de învăţare colaborativă, care ajută la abordarea situaţiilor reale simulate de specialişti cu
+experienţă.
+
+beneficiari: asistenţi medicali şi moaşe din europa
+
+
+
+
+toi4food - proiectul urmăreşte realizarea unui transfer de cunoştinţe ale specialiştilor din portugalia
+şi spania în materie de reguli şi proceduri europene care trebuie implementate în românia în domeniul
+produselor alimentare tradiţionale. echipa noastră dezvoltă metodologia de formare educaţională,
+precum şi o platformă colaborativă pe care se vor derula cursurile online. platforma colaborativă
+va permite facilitarea interacţiunii utilizatorilor şi va conţine recomandări, reglementări şi anunţuri
+despre produsele tradiţionale.
+
+beneficiari: cercetători, producatori şi comercianţi de alimente tradiţionale (imm-uri)
+
+
+
+
+linked2safety: un sistem avansat de conectare semantică a informaţiilor medicale din dosarul
+electronic al pacienţilor cu rezultatele studiilor clinice, pentru îmbunătăţirea siguranţei pacienţilor
+în cercetările medicale. proiectul urmăreşte îmbunătăţirea practicii clinice şi accelerarea cercetării
+medicale, prin furnizarea unui cadru inovator de interoperabilitate semantică care să faciliteze accesul
+la înregistrările din dosarul electronic de sănătate (ehr). în acest proiect vom construi o platformă
+scalabilă, modulară şi extensibilă care va permite experţilor din companiile farmaceutice şi cadrelor
+medicale să aibă acces rapid la informaţiile din dosarele electronice de sănătate din europa.
+
+beneficiari: companii farmaceutice, cadre medicale şi pacienţi
+
+
+44     44
+
+                                raport anual de dezvoltare sustenabilă
+
+
+
+
+open discovery space - proiect complex ce oferă acces
+integrat la resursele educaţionale digitale. proiectul va
+fi implementat pe parcursul a 3 ani în 2.000 de şcoli din
+europa. prin experienţa pe care o avem în dezvoltarea
+de conţinut educaţional şi prin biblioteca impresionantă
+de resurse educaţionale, vom oferi resurse educaţionale
+şcolilor participante. proiectul va îmbunătăţi practicile
+profesorilor în toate domeniile lor de activitate, îmbinând
+abilităţile de ict cu inovaţii în pedagogie, curriculum şi
+organizarea şcolii. open discovery space va stimula cererea
+pentru resurse de elearning inovatoare şi va consolida
+integrarea europeană prin conexiunea diferitelor culturi.
+
+beneficiari: 10.000 de profesori şi 40.000 de elevi din
+europa
+
+
+
+
+                                                           45
+
+                raport  anual
+                raport anual dede dezvoltare
+                               dezvoltare      sustenabilă
+                                          sustenabilă
+
+
+
+
+                proiecte internaţionale
+
+
+
+                încă din 2008, am început dezvoltarea de proiecte mari pe pieţele
+                internaţionale, iar azi 30% din cifra de afaceri provine din exportul
+                realizat în 26 de ţări, replicând expertiza obţinută în proiecte                                                                                finland
+
+
+
+
+                naţionale de anvergură.
+                                                                                                                                            germany          poland    belarus
+                                                                                                                 ireland     uk
+                                                                                                                              belgium             czech
+                                                                                                                              luxemburg           republic
+                                                                                                                                                                                 moldavia
+                                                                                                                                                             hungary
+                                                                                                                                                                          romania
+
+                                                                                                                                  france
+                                                                                                                                                             serbia        bulgaria
+                                                                                                                                                                                                    georgia
+                                                                                   finland                                                                      macedonia                                     azerbaijan
+                                                                                                                                                                                       turkey
+united states
+
+                                                                                                                                                       malta
+                                                                                                                                                                                        cyprus
+                                                                                                                                                                                                 lebanon
+
+                                                                                                               morocco
+                                                                                                                                                                                    egypt
+                               ireland                       germany         poland        belarus
+                                           uk                                                                                                                                                                        ku
+
+                                             belgium              czech
+                                             luxemburg            republic                                                                                                kazakhstan
+                                                                      slovakia                       moldova
+                                                                             hungary
+                                                                                             romania
+          japan                                 france                 croatia
+                                                                            serbia
+                                                                                            bulgaria                       georgia
+                                                                                       macedonia
+                                                                                                                                     azerbaijan
+                                                                                 albania                  turkey
+                                                                                                                                                                turkmenistan
+
+
+                                                                         malta
+                                                                                                           cyprus
+                                                             tunisia                                                lebanon          iraq
+
+                            morocco
+                                                                                                       egypt
+                                                                                                                                              kuwait
+                                                 algeria
+
+                                                                                                                                                                            unitedarab
+                                                                                                                                                         qatar               emirates
+                                                                                                                                       saudiarabia
+
+
+                                                                                                                                                                             oman
+
+
+
+
+                       46
+
+                                                raport anual de dezvoltare sustenabilă
+
+
+
+
+kazahstan   în 2012, am semnat un parteneriat strategic cu şcoala
+            de studii politice nur otan, în vederea promovării celor
+            mai inovative mijloace şi tehnologii pentru modernizarea
+            managementului resurselor umane şi dezvoltarea formării
+            profesionale prin intermediul elearning şi tic, pentru
+            funcţionarii publici şi managerii de instituţii din kazahstan.
+
+            de asemenea, am semnat contractul cu centrul național
+            de informatizare din kazahstan pentru furnizarea de
+            resurse educaţionale în limba rusă şi kazahă. ael econtent,
+            biblioteca de conţinut digital dezvoltată de colegii
+            noştri de la elearning, este rezultatul unor îndelungate
+            proiecte de cercetare şi implementării cu succes în
+            românia si multe alte ţări, precum moldova, azerbaijan,
+            emiratele arabe unite, cipru.
+
+
+
+
+moldova     împreună cu banca naţională a moldovei am demarat extinderea
+            sistemului informatic de raportare bancară, prin dezvoltarea
+            a peste 50 de tipuri noi de rapoarte cu caracter statistic şi de
+            supraveghere prudenţială, specifice domeniului bancar.
+
+            noul sistem de raportare va fi implementat cu scopul de a revizui
+            modul actual de raportare către banca naţională a moldovei, în
+            vederea alinierii la cerinţele de raportare aplicate în uniunea
+            europeană.
+               japan    sistemul informatic de raportare este proiectat
+            conform direcţiilor trasate la nivelul european bank association,
+            care vizează centralizarea raportărilor şi translatarea acestora
+            din formate diferite într-o singură structură standard.
+
+
+
+
+                                                                           47
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+macedonia                                echipa noastră de ecustoms a început dezvoltarea sistemelor
+                                         „integrated tariff environment - ite” ale comunităţii europene
+                                         (taric) şi a sistemelor relative la tariff (cota2, surveillance 2,
+                                         ebti3) pentru administraţia vamală din republica macedonia, în
+                                         cadrul unui proiect ce se va desfăşura în perioada 2012 - 2014.
+                                         acesta face parte din programul național de asistență pentru
+                                         tranziție şi consolidarea instituțiilor, oferit ţărilor angajate în
+                                         procesul de aderare la uniunea europeană.
+
+                                         taric este o bază de date care indică măsurile tarifare şi
+                                         netarifare aplicabile mărfurilor, atunci când acestea sunt
+                                         importate pe teritoriul uniunii europene sau, după caz, când
+                                         acestea sunt exportate către ţări terţe. proiectul are ca scop
+                                         consolidarea capacității operaționale a administraţiei vamale
+                                         din republica macedonia, în conformitate cu standardele ue
+                                         şi asigurarea compatibilităţii şi interoperabilităţii depline a
+                                         sistemelor informatice vamale locale cu cele utilizate în uniunea
+                                         europeană.
+
+
+
+
+       48
+
+                                                                                  raport anual de dezvoltare sustenabilă
+
+
+
+                                          proiecte pentru comunitate
+
+la mulţi ani,
+                                             au trecut 10 ani de la prima ediţie a conferinţei naţionale
+                                             de învăţământ virtual (cniv), cel mai important eveniment
+                                             academic educaţional din românia.
+
+cniv!                                        cniv şi icvl (conferinţa internaţională de învăţământ virtual),
+                                             lansată în 2006 - sunt manifestări ştiinţifice ce promovează
+                                             tehnologii şi metodologii inovative în educaţie, în cercetare şi în
+                                             perfecţionarea continuă, atât în mediile preuniversitar, respectiv
+                                             universitar, cât şi în mediul de afaceri.
+
+                                             structurate şi organizate după principii şi standarde
+                                             internaţionale, cele două proiecte promovează implementarea
+                                             ideilor moderne în educaţia iniţială şi în formarea continuă,
+                                             încurajează lucrul la proiecte, activităţile colaborative, metodele
+                                             şi experimentele ştiinţifice, gândirea creativă şi intuiţia,
+                                             argumentaţia şi demonstraţia.
+
+                                             ambele evenimente de anul trecut s-au desfăşurat la
+                                             universitatea „transilvania” din braşov, fiind organizate de
+                                             universitatea din bucureşti cu suportul autorităţii naţionale
+                                             pentru cercetare ştiinţifică (ancs) şi siveco romania, în
+                                             parteneriat cu centrul pentru dezvoltare şi inovare în educaţie
+                                             (tehne). peste 200 de profesori şi cercetători români au înscris
+                                             46 de lucrări în cadrul conferinţei cniv, iar alţi 300 au participat
+                                             fără lucrare. conferinţa icvl a reunit peste 80 participanţi din
+                                             14 ţări de pe 3 continente, care au înscris 67 de lucrări. toate
+                                             lucrările au fost publicate în volumele icvl şi cniv, la editura
+                                             universităţii bucureşti.
+
+
+
+
+radu jugureanu
+directorul departamentului ael econtent
+
+
+
+
+                                                                                                             49
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+oraşul viu,                              ne dorim cu toţii un oraş funcţional, nu-i aşa? de aceea am
+                                         ales să fim parteneri ai evenimentului „orașul viu”, care constă
+                                         dintr-o serie de conferințe organizate de către asociația art
+
+pentru noi toţi                          metropolis cu scopul de a facilita dialogul dintre sfera publică
+                                         și cea privată, astfel încât performanțele ambelor sectoare să se
+                                         îmbunătățească.
+
+
+
+
+       50
+
+                                                                                         raport anual de dezvoltare sustenabilă
+
+
+
+
+„orașul viu” propune implicarea activă a factorilor decizionali,
+publici şi privaţi, în scopul identificării soluțiilor care răspund
+necesității de a elabora, dezvolta și implementa proiecte de
+succes prin care să fie posibilă stimularea şi diversificarea
+activităţilor economice, impulsionarea investiţiilor în domeniul
+privat și sprijinirea regenerării centrelor urbane cu potenţial de
+creştere economică.
+
+astfel, discursurile și dezbaterile ce au avut loc în cadrul
+conferințelor „orașul viu” furnizează informații complete și
+obiective și promovează idei inovatoare în domeniul investițiilor
+și al parteneriatelor public-private, în concordanță cu problemele
+actuale pe plan social, economic, juridic și legislativ.
+
+
+
+
+nocturne                                             6 zile de cultură, muzică barocă şi lectură în aer liber au
+                                                     adus bucurie invitaţilor de pe esplanada bibliotecii naţionale
+                                                     a româniei din vecinătatea bulevardului unirii. acolo au
+
+baroce                                               răsunat acorduri de bach, vivaldi, scarlatti şi händel,
+                                                     în cadrul primei ediţii a festivalului “nocturne baroce”. timp de
+                                                     6 zile, artiştii au cântat pe malul dâmboviţei, într-un concert
+
+pe malul                                             susţinut de siveco şi organizat de asociaţia culturală kitarodia.
+
+
+
+dâmboviţei
+                                                                                                                    51
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare     sustenabilă
+                          sustenabilă
+
+
+
+
+pe 23 martie 2012, instituţii publice şi oameni din peste
+130 de ţări din toată lumea au sărbătorit ziua pământului
+şi au stins lumina timp de o oră (20.30 – 21.30). la sediul
+                                                                             stinge lumina!
+siveco echipamentele electrice au fost închise şi luminile
+stinse. la fel s-a întâmplat şi în instituţiile publice, care au
+stins lumina pentru o oră, pentru a marca ora pământului, cel
+mai amplu eveniment care are ca scop tragerea unui semnal de
+alarmă asupra problemei reale cu care se confruntă omenirea:
+încălzirea globală.
+
+
+
+poartă galben!                                            de ziua internațională a învingătorilor de cancer ne-am
+                                                          îmbrăcat în galben, pentru a ne arăta solidaritatea faţă
+                                                          de oamenii care au învins această boală. îndemnul
+                                                          de a ne alătura acestei campanii ne-a fost adresat de
+                                                          asociația little people, o organizație non-profit, cu
+                                                          experiență de 16 ani în oferirea serviciilor psihosociale
+                                                          în domeniul medical, care asigură suport zilnic și
+                                                          programe de intervenție complexe copiilor și tinerilor bolnavi de
+                                                          cancer internați în secțiile de oncopediatrie din timișoara, cluj,
+                                                          bucurești și iași.
+
+
+
+
+52
+       52
+
+                                                                                           raport anual de dezvoltare sustenabilă
+
+
+
+
+susţinem                                            o iniţiativă frumoasă pentru oamenii care au nevoie de
+                                                    ajutorul comunităţii: hospice casa speranţei bucureşti. aici va
+                                                    funcţiona primul centru de îngrijiri paliative din românia, pe
+
+casa speranţei!                                     un teren situat în sectorul 2, pe malul lacului plumbuita. noi
+                                                    am fost prezenţi la evenimentul simbolic de aşezare a primelor
+                                                    cărămizi ale centrului de îngrijire.
+
+                                                    programul este susţinut de siveco romania, alături de alte
+                                                    firme şi de reprezentanţi ai administraţiei publice. hospice casa
+                                                    speranţei este o organizaţie nonguvernamentală de caritate,
+                                                    înfiinţată la braşov în anul 2006, la iniţiativa britanicului graham
+                                                    perolls, cu scopul introducerii şi dezvoltării serviciilor specializate
+                                                    de îngrijire pentru bolnavii incurabili în stadii avansate.
+
+
+
+
+noaptea porţilor deschise la
+biblioteca academiei române
+cu ocazia împlinirii a 145 de ani ai bibliotecii academiei române, am susţinut un eveniment de excepţie: noaptea
+porţilor deschise - 7 ore de muzică, teatru, lumini, cărţi, ce au traversat secole pentru a ajunge până la noi. încă de
+la început, biblioteca academiei române a avut misiunea de a aduna şi conserva în colecţiile sale fondul naţional
+de manuscrise şi tipărituri, ilustrând istoria şi cultura românească, dar şi istoria şi civilizaţia universală. potrivit
+site-ului instituţiei, fondurile sale se cifrează la peste 14 milioane de unităţi, dintre care 3.600.000 monografii şi
+5.300.000 publicaţii seriale.
+
+
+
+
+                                                                                                                      53
+
+       anual
+raportanual
+raport      dede dezvoltare
+              dezvoltare      sustenabilă
+                         sustenabilă
+
+
+
+
+2% înseamnă uneori 100%
+in domeniul responsabilităţii sociale, orice gest are însemnătate. pentru al iv-lea an consecutiv, angajaţii
+noştri au participat la campania de direcţionare a 2% din impozitul pe venit către 31 de organizaţii neguver-
+namentale din domeniul sănătăţii, ajutorării copiilor orfani, sau a bătrânilor, pentru protecţia mediului etc.
+iată care sunt organizaţiile pe care am ales să le susţinem în 2012:
+
+››fundaţia pentru smurd                                  ››fundaţia estuar
+
+››fundaţia spitalul de urgenţă                           ››asociaţia de terapie comportamentală aplicată
+
+››fundaţia hospice casa speranţei                        ››asociaţia “ bucureştiul meu drag”
+
+››organizaţia salvaţi copiii                             ››asociaţia inima copiilor
+
+››viitor plus - asociaţia pentru dezvoltare durabilă     ››societatea română pentru alzheimer
+
+››societatea naţională de cruce roşie din românia        ››fundaţia chance for life
+
+››fundaţia alfa – omega                                  ››organizaţia suedeză pentru ajutor umanitar
+                                                           individual
+››fundaţia principesa margareta a româniei
+                                                         ››asociaţia pentru intervenţia precoce în autism
+››asociaţia pentru protectia animalelor robi
+                                                         ››fundaţia speranţă pentru copiii româniei
+››fundaţia cliniclowns românia
+                                                         ››asociaţia română de kyudo
+››fundaţia scheherazade
+                                                         ››asociaţia pentru protecţia animalelor ador
+››asociaţia pro-vita pentru născuţi şi nenăscuţi
+  vălenii de munte                                       ››asociaţia wwf - programul dunăre-carpaţi
+                                                           românia
+››organizaţia e.m.m.a.
+                                                         ››asociaţia clubul de dezbateri academice iaşi
+››asociaţia salvaţi dunărea şi delta
+                                                         ››asociaţia natura – moştenire pentru viitor
+››societatea ornitologică română
+                                                         ››fundaţia comunitatea sf. ioan
+››biserica sf. gheorghe - parohia brebina
+
+
+       54
+       54
+
+                                                      raport anual
+                                                           raport       de dezvoltaresustenabilă
+                                                                    de dezvoltare
+                                                                  anual               sustenabilă
+
+
+
+
+          raportul de dezvoltare sustenabilă,
+   o probă de responsabilitate şi transparenţă
+    suntem singura companie locală de it care evaluează şi
+raportează anual activitatea socială, economică şi de mediu.
+            în 2012 am publicat al iv-lea raport de acest fel.
+
+
+                               «suntem mândri că prin ceea ce facem an de an,
+                             reducem decalajele digitale, dar mai ales generăm
+                             dezvoltare pe termen lung. derulăm proiecte mari,
+                             ce contribuie esenţial la dezvoltarea societăţii prin
+                         folosirea tehnologiilor moderne. susţinem prin acţiuni
+                            concrete şi transparente eliminarea discriminării în
+                            privinţa angajării şi ocupării, încurajăm respectarea
+                               drepturilor omului şi promovăm un climat corect
+                              de business. în cele două decenii de când activăm
+                                  pe piaţă, am probat cu fapte că este posibil să
+                               armonizezi obiectivele economice cu cele sociale
+                                                                     şi de mediu»,
+                                                          a declarat irina socol,
+                            preşedinte şi director general siveco romania.
+
+
+
+
+                                                                                      55
+                                                                                      55
+
+       anual
+raportanual
+raport         de dezvoltare
+            de dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+iv. raportare economică
+
+chiar dacă a fost un an greu, am putut raporta o cifră de afaceri foarte bună.
+
+compania noastră şi-a continuat strategia asumată în urmă cu şapte ani,
+şi anume de extindere a prezenţei pe piaţa internaţională, de accesare a
+proiectelor finanţate din fonduri europene, de păstrare a unei contribuţii
+echilibrate a sursei veniturilor între proiecte mari şi mai puţin mari, între
+proiecte interne şi internaţionale, între domenii economice diverse.
+
+ca atare, cifra financiară consolidată raportată pentru 2012 a fost de 89
+milioane usd.
+
+                                   evoluţia financiară siveco romania
+                                        2004-2012 (milioane usd)
+            2012                                                                   89
+
+            2011                                                                  87
+
+            2010                                                             80
+
+            2009                                                        73
+
+            2008                                                                       91
+
+            2007                                                   67
+
+            2006                                         39
+
+            2005                                    35
+
+            2004                               31
+
+
+
+
+       56
+
+                                                                                                           raport anual de dezvoltare sustenabilă
+
+
+
+                                                                                                 poziţia pe piaţă
+
+de 10 ani ne aflăm în topul furnizorilor de servicii it şi în cel al       în studiul dat publicităţii în 2012, idc a poziţionat compania
+furnizorilor de soluţii pentru administrarea afacerilor. pentru            noastră pe primul loc în segmentul soluţiilor dedicate
+o firmă românească este o performanţă unică, confirmată de                 întreprinderilor (enterprise resource management) cu o cotă
+studiile international data corp (idc).                                    de piaţă de 27% şi pe piaţa de business analytics, cu o cotă de
+                                                                           39,1%. ne aflăm, de asemenea, în poziţii de top pe segmentele
+potrivit evaluării din 2012, siveco a avut o cotă de piaţă de              supply chain management (managementul lanţului de
+24,8% pe piaţa furnizorilor de soluţii de gestiune a afacerilor.           aprovizionare-distribuţie), operations and manufacturing
+ne aflăm la mai puţin de 2% faţă de liderul topului şi la mare             applications (planificarea şi execuţia activităţii de producţie
+distanţă de cel de-al treilea clasat, ambii jucători globali din it.       şi a serviciilor operaţionale) şi customer relationship
+                                                                           management (managementul relaţiei cu clienţii).
+
+
+                                        evoluţia siveco romania pe piaţa soluţiilor eas
+                                      25
+
+
+
+                                      20
+                     milioane usd
+
+
+
+
+                                      15
+
+
+
+                                      10
+
+
+
+                                       5
+
+
+
+                                       0
+                                             2004   2005   2006    2007    2008     2009     2010     2011      2012
+                                    siveco   6,62   8,7    11,25   15,66   19,29    18,38    18,82    19,45     19,61
+
+
+
+ „cercetarea consolidată a pieţei locale de it, aliniată standardelor internaţionale, arată că suntem în competiţie cu liderii
+globali din acest domeniu. cerinţele pieţei sunt din ce în ce mai mari iar concurenţa e foarte puternică. în aceste condiţii,
+situarea unei companii româneşti în topul furnizorilor de servicii it şi în cel al furnizorilor de soluţii pentru administrarea
+afacerilor, timp de 10 ani consecutiv, este o performanţă. de două decenii suntem implicaţi în proiecte de informatizare
+a companiilor private şi publice. soluţia noastră erp - siveco applications 2020 - funcţionează cu succes la peste 1.400
+de firme din toate sectoarele de activitate, precum producţie, utilităţi, banking, transporturi, telecom şi în organizaţii
+ale administraţiei publice. utilizând aplicaţiile din pachetul integrat siveco applications 2020, clienţii noştri dispun de
+posibilităţi extinse de control asupra costurilor şi de eficientizare a utilizării resurselor materiale şi umane. astfel, devin din
+ce în ce mai competitivi pe o piaţă unde doar cei mai buni rezistă”, a declarat irina socol, preşedinte şi director general
+siveco romania.
+
+                                                                                                                                      57
+
+       anual
+raportanual
+raport         de dezvoltare
+            de dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+v. raportare de mediu
+
+
+
+
+                                             vulnerabilitatea planetei este o realitate pe care nu
+                                              o putem ignora. nu putem să mergem mai departe
+                                                 fără să ne gândim la ce se va întâmpla peste 10
+                                                      sau 50 de ani. responsabilitatea contează.
+
+
+
+
+       58
+
+                                                                                                                raport anual de dezvoltare sustenabilă
+
+
+
+
+                       practicile de mediu ale siveco romania
+      pentru a aplica o politică eficientă de mediu, am optat pentru implementarea şi certificarea unui sistem de
+                                     management de mediu în conformitate cu cerinţele standardului internaţional
+                                                           iso 14001:2004 – sisteme de management de mediu.
+
+    pentru a răspunde cerinţelor acestui standard, dar şi pentru a pune în practică politica de mediu, am iniţiat
+    câteva măsuri ce au devenit practici de mediu obligatorii, pentru toţi membrii organizaţiei:
+
+
+1. prin intermediul echipei de mediu, am elaborat un set de proceduri        4. de asemenea, s-a identificat şi modalitatea în care activităţile şi
+    de mediu care fac referire, printre altele, la modul în care deşeurile       produsele noastre interacţionează cu mediul. această interacţiune
+    sunt colectate diferenţiat, sunt gestionate în conformitate cu               este evaluată periodic şi monitorizată permanent, astfel încât să
+    prevederile legale în vigoare şi în final eliminate prin intermediul         ne asigurăm ca interacţiunea cu mediul se petrece în limitele
+    agenţilor economici autorizaţi să desfăşoare astfel de activităţi;           definite de prevederile legale în vigoare;
+
+
+
+
+2. preocupările de mediu nu ocolesc nici măsurarea noxelor pe                5. acordăm o atenţie sporită şi consecinţelor asupra mediului în
+    care centrala termică le generează, măsurarea zgomotului la                  urma producerii unui eveniment ce se constituie într-o situaţie
+    limita amplasamentului precum şi măsurarea poluanţilor din apa               de urgenţă (calamităţi naturale sau accidente cu consecinţe
+    deversată în sistemul de canalizare;                                         deosebit de grave asupra mediului). prin intermediul personalului
+                                                                                 specializat, am creat programe de acţiune ce au ca scop, printre
+                                                                                 altele, iniţierea acelor măsuri ce permit poluarea cât mai mică
+                                                                                 a mediului în astfel de situaţii. realizăm periodic simulări ale
+                                                                                 acestor situaţii de urgenţă pentru a asigura capacitatea de
+3. prin intermediul echipei de mediu şi cu ajutorul departamentului              răspuns rapid în cazul producerii unor astfel de evenimente;
+    juridic monitorizăm permanent cerinţele legale în vigoare pentru
+    a identifica orice nouă cerinţă de mediu aplicabilă companiei. în
+    situaţia în care apar noi prevederi legale privind protecţia mediului,
+    acestea sunt analizate şi iniţiem toate măsurile necesare pentru
+    a ajunge cât mai rapid posibil în situaţia în care noile cerinţe sunt
+    respectate în totalitate.
+
+
+
+
+                                                                                                                                           59
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+pe lângă acestea, am iniţiat şi alte măsuri menite să contribuie la reducerea poluării mediului, măsuri ce fac
+referire la următoarele aspecte, dar fără a se limita la acestea:
+
+analizăm permanent colaborarea cu furnizorii ce pot avea impact             angajaţilor siveco romania li s-au trasat sarcini referitoare la protecţia
+asupra mediului. prin contractele încheiate cu aceştia, impunem             mediului prin intermediul procedurilor interne şi/sau prin intermediul
+implementarea unor bune practici ce au ca principal rol reducerea           fişelor de post. tot personalul este implicat în colectarea diferenţiată
+poluării mediului.                                                          a deşeurilor în pubelele şi coşurile puse la dispoziţie de companie.
+
+
+personalul companiei este instruit să cunoască modul prin care              desfăşurăm periodic instruiri ale personalului, ce au ca tematică
+activitatea desfăşurată interacţionează cu mediul înconjurător şi să ia     procedurile sistemului de management de mediu şi bunele practici ale
+toate măsurile prin care interacţiunea cu mediul să fie cât mai puţin       companiei în domeniul protecţiei mediului.
+invazivă sau chiar benefică, dacă se poate.
+
+
+de asemenea, încurajăm, prin punerea la dispoziţie a microbuzelor,          pentru a ne asigura că sistemul de management de mediu funcţionează
+utilizarea mijloacelor de transport în comun faţă de utilizarea excesivă    aşa cum a fost implementat, organizăm periodic audituri interne ale
+a mijloacelor auto personale sau ale companiei. în 2012 s-au realizat       sistemului de management de mediu. aceste audituri interne sunt
+cca. 3.800 de curse înspre şi dinspre serviciu. am contribuit astfel la     secondate de auditurile anuale efectuate de organismul de certificare,
+reducerea noxelor din atmosferă şi la asigurarea unui transport civilizat   care atestă faptul că în cadrul companiei există un sistem de
+pentru angajaţi.                                                            management de mediu coerent, implementat şi funcţional.
+
+
+
+
+       60
+
+                                                                                     raport anual de dezvoltare sustenabilă
+
+
+
+
+                                                       am evaluat acţiunea de colectare a deşeurilor generate intern:
+                                                        au fost trimise către centrele de reciclare 18 tone de hârtie şi
+                                                                         carton, 4 tone de plastic, 1 tonă de anvelope.
+
+
+                                                                   de asemenea, sistemul de management de mediu
+                                                            reglementează modalitatea de acţiune în cazul în care au
+                                                              fost identificate abateri de la prevederile sistemului de
+                                                       management, dar şi situaţia în care sunt identificate posibilităţi
+                                                                           de îmbunătăţire a sistemului implementat.
+
+
+
+
+am investit în aparatură cu consum energetic redus: computere, servere,
+monitoare, periferice, corpuri de iluminat, aparatură electrică. a fost revizuită
+și reţeaua de cabluri şi sistemele de climatizare instalate.
+
+
+anual, echipa de management a siveco romania se reuneşte pentru:
+
+››a monitoriza performanţa de mediu a companiei;
+
+››a analiza sistemul de management de mediu implementat / certificat;
+
+››a lua măsuri pentru ca acest sistem de management să devină mai eficient în viitor.
+
+
+                                                                                                                61
+
+raport anual de dezvoltare sustenabilă
+
+
+
+vi. etică
+
+da, investim constant în comportamentul
+etic de business. susţinem şi respectăm
+acest principiu de bază în activitatea noastră
+de zi cu zi, avem toleranţă zero faţă de orice
+manifestare care ar putea submina efectele
+pozitive şi beneficiile generate de dezvoltarea
+sustenabilă.
+
+
+
+compania noastră luptă împotriva oricăror forme de corupţie, incluzând mita,
+traficul de influenţă, presiunile externe, şantajul. toate acestea sunt definite clar în
+manualul anticorupţie al companiei, adus la cunoştinţa angajaţilor.
+
+ca în fiecare an, am transmis către united nations global compact raportul
+communication on progress. în calitate de membru al acordului global al națiunilor
+unite, comunicăm progresele făcute în implementarea celor 10 principii.
+
+în calitate de membru al camerei de comerţ româno-americane (amcham) am
+participat la redactarea ghidului anti-corupţie şi anti-mită, precum şi a codului de
+guvernare corporatistă.
+
+
+       62
+
+                                                                      anualanual
+                                                              raportraport       de dezvoltaresustenabilă
+                                                                             de dezvoltare     sustenabilă
+
+
+
+
+în anul 2006, am aderat la parteneriatul pentru combaterea corupţiei - partnering
+        against corruption initiative (paci) – care se bazează pe un set de principii
+     de civism corporatist definite de forumul economic mondial în colaborare cu
+                      transparency international şi basel institute of governance.
+
+        anul trecut am actualizat manualul de etică şi manualul anticorupţie. toţi
+                            angajaţii au fost înştiinţaţi despre aceste documente
+                                                         şi le respectă în totalitate.
+
+                                                                                               63
+
+raport anual de dezvoltare sustenabilă
+
+
+
+vii. angajaţi
+
+se spune că a forma o echipă este doar începutul, a lucra
+împreună este progresul, a rămâne împreună este succesul.
+dar la fel de important este să investeşti permanent
+în propria dezvoltare.
+structura specializărilor:
+
+››operaţional - 75%, dintre care:                          ››eu funds – 1%
+   ››elearning – 30%                                       ››comercial, marketing, bid, presales - 14%
+   ››eas (enterprise application suite) - 14%              ››financiar, administrativ, it – 8%
+   ››ehealth – 9%                                          ››resurse umane și asigurarea calității – 2%
+   ››eagriculture - 8%
+   ››cad (customized application development) – 8%
+   ››nuclear – 3%
+   ››pmo (project management office) - 2%
+   ››oapps (oracle applications) - 1%
+
+
+
+
+competenţa -                                         pe 20 decembrie 2012, în cadrul tradiţionalei noastre festivităţi
+                                                     dedicate “angajatul anului”, cei mai buni dintre colegii noştri
+                                                     au fost premiaţi pentru profesionalismul şi dedicarea dovedite
+
+premiată                                             zi de zi în 2012. cu această ocazie au fost acordate distincţiile
+                                                     angajatul anului 2012 din fiecare departament, angajatul anului
+                                                     pentru managementul calităţii şi resurselor umane, angajatul anului
+                                                     companiei siveco 2012 şi premiile de merit pentru întreaga activitate
+                                                     la împlinirea a 5,10 şi 15 ani de activitate în companie.
+
+
+
+
+       64
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+                           65
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+pe 30 şi 31 martie 2012 am participat la târgul angajatori de top, o
+bună ocazie pentru compania noastră de a identifica şi a alege viitori
+colegi - cei mai buni dintre cei foarte buni.
+                                                                             suntem
+“fie că sunt studenţi sau proaspăt absolvenţi dornici să-şi
+dezvolte o carieră în domeniu sau chiar specialişti cu experienţă,
+                                                                         un angajator
+noii noştri colegi se vor alătura unei echipe de 1.000 de oameni
+care lucrează de 20 de ani în proiecte pentru piaţa naţională
+şi internaţională. cu siguranţă, alături de noi, au şansa
+                                                                               de top
+să-şi construiască o carieră frumoasă”, a declarat dana bichir,
+vicepreşedinte resurse umane şi calitate.
+
+
+
+
+pe perioada verii, am organizat un program de internship la
+care au participat 21 de studenţi care au avut posibilitatea
+să aplice cunoştinţele teoretice dobândite în facultate şi să
+                                                                            pregătire
+folosească această experienţă în viitor. aceştia au lucrat în
+proiecte reale, alături de colegii noştri care le-au împărtăşit din
+cunoştinţele şi expertiza lor, dobândite în proiectele dezvoltate
+                                                                               pentru
+de-a lungul timpului.
+                                                                             studenţi
+
+
+
+pe o piaţă cu o dinamică aparte, cum este it-ul, un diferenţiator puternic îl
+reprezintă calitatea specialiştilor. în 2012 au fost organizate 272 sesiuni de
+cursuri şi certificări interne şi externe, în valoare totală de peste 170.000 euro,
+având un număr de 1.270 participanţi-absolvenţi.
+
+       66
+
+                                                                                               raport anual de dezvoltare sustenabilă
+
+
+
+                                                                                                viii. afilieri
+
+                                am reuşit să dezvoltăm pe termen lung şi
+                                       să extindem la nivel internaţional
+                                                 reţeaua de parteneriate.
+     evoluţia companiei include dezvoltarea modelului de business cu ajutorul partenerilor, atât în cadrul proiectelor locale
+     cât şi al celor internaţionale.
+
+     din 2012 suntem membri într-o nouă asociaţie profesională de prestigiu: camera de comerţ britanică (british chamber of
+     commerce in belgium), care furnizează o platformă de colaborare pentru oamenii de afaceri din toată lumea.
+
+
+
+
+“ne-am afiliat nu la o cameră bilaterală, ci la o organizaţie internaţională, una
+dintre cele mai prestigioase din belgia, care ne ajută să intrăm în legătură cu
+factorii de decizie din uniunea europeană. evenimentele şi întâlnirile organizate
+de camera de comerţ britanică acoperă o gamă largă de subiecte, de la probleme
+politice actuale la cele legislative. este un parteneriat valoros stabilit în inima
+europei”, a declarat ştefan morcov, vicepreşedinte adjunct siveco romania.
+                                                                                                                          67
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+tot în 2012 am aderat la fundaţia europeană pentru calitate în elearning, organizaţie
+care îşi propune să promoveze excelenţa şi inovaţia în educaţie. efquel - european
+foundation for quality în elearning este o organizaţie europeană cu sediul la bruxelles –
+belgia, iniţiată de european institute for elearning, european schoolnet, fim newlearning,
+menon network, university of duisburg-essen şi university of reading, având ca scop
+principal creşterea calităţii studiilor susţinute în mediul online şi schimbul de experienţă
+în domeniul elearning.
+
+efquel are în prezent 120 de membri - universităţi, institute de cercetare,
+companii, fundaţii, diverse organizaţii din europa - şi oferă certificări de calitate în
+implementarea de programe de elearning.
+
+
+
+
+de asemenea, am reînnoit parteneriatul cu microsoft la nivel
+gold pe competenţa independent software vendor, iar cu
+oracle am reînnoit parteneriatul la nivel platinum.
+
+       68
+
+                                                                                                           raport anual de dezvoltare sustenabilă
+
+
+
+
+parteneriate actuale
+››intel premier elite partner                                          ››membru în romania luxemburg business forum asbl (“romlux”)
+››microsoft gold certified partner                                     ››membru în reţeaua europeană de software şi servicii (networked
+                                                                           european software and services initiative nessi)
+››ibm business partner
+                                                                       ››membru în integrating healthcare enterprise (ihe)
+››hp sales and service partner
+                                                                       ››membru în asociaţia luxemburg business forum
+››ventyx
+                                                                       ››membru în camera de comerţ şi industrie românia -tunisia
+››membru în camera de comerţ româno-americană (amcham)
+                                                                       ››membru în pactul regional pentru ocuparea forţei de muncă şi
+››membru în camera de comerţ şi industrie a franţei în românia             incluziune socială bucureşti ilfov
+    ccifer
+                                                                       ››membru în romania belgium business club
+››ish informatika
+                                                                       ››membru în loja de business
+››membru în asociaţia română pentru industria electronică şi
+    software (aries)                                                   ››membru în business software alliance
+››membru în asociaţia patronală a industriei de software şi servicii   ››membru în hr management club
+    (anis)
+                                                                       ››membru în project management institute
+››membru în asociaţia oamenilor de afaceri din românia (aoar)
+                                                                       ››membru în forumul atomic român romatom
+››membru în asociaţia naţională a exportatorilor şi importatorilor
+    din românia (aneir)                                                ››membru în asociaţia pentru dezvoltarea societăţii informaţionale
+››semnatar al partnership against corruption initiative (paci)         ››membru în alianţa digitală pentru românia
+››semnatar al united nations global compact                            ››membru în european association of communication directors
+                                                                           (eacd).
+››membru în grupul consultativ istag al uniunii europene
+    (information society technologies advisory group)
+
+
+
+
+                                                                                                                                      69
+
+ raport anual
+ raport  anual  dezvoltare
+              dede         sustenabilă
+                   dezvoltare   sustenabilă
+
+
+
+
+spune-mi ce proiecte
+faci, ca să-ţi spun ce
+premii o să iei.
+
+
+
+
+        70
+
+                                                                            raport anual de dezvoltare sustenabilă
+
+
+
+                    ix. recunoaştere internaţională
+
+    spune-mi ce proiecte faci, ca să-ți spun ce premii o să iei.
+2012 a fost un an plin, în care am primit diplome şi trofee
+valoroase. felicitări colegilor noştri care au muncit intens
+      şi care au dus faima inteligenţei româneşti în lume!
+
+ianuarie 2012
+                              un număr record de proiecte dezvoltate de echipa siveco au intrat în finala
+                              european it excellence awards. la categoria government solution a fost
+                              selectat proiectul de informatizare a proceselor vamale de la administraţia
+                              vamală din turcia, ce are la bază operaţiuni de tranzit, cu ajutorul soluţiei
+                              new computerized transit system. soluţia ecustoms este implementată, de
+                              asemenea, la autoritatea vamală din românia şi este în curs de implementare
+                              la administraţia vamală din macedonia.
+
+                              tot în cadrul categoriei government solution a fost selectat portalul şcoli
+                              speciale, implementat pentru ministerul educaţiei. proiectul reprezintă o
+                              premieră în românia, permiţând copiilor cu nevoi speciale de educaţie să aibă
+                              acces, printr-o platformă online, la cursuri interactive necesare dezvoltării unor
+                              abilităţi practice, necesare în procesul de incluziune în cadrul societăţii.
+
+                              la categoria enterprise solution a fost selectată soluţia siveco applications,
+                              implementată pentru compania kathrein romania, cel mai mare producător
+                              şi exportator naţional de antene de comunicaţii mobile. soluţia implementată
+                              răspunde necesităţii companiei de a se alinia la standardele internaţionale ale
+                              grupului german din care face parte, kathrein-werke kg. proiectul reprezintă
+                              un exemplu de succes, permiţând managerilor companiei să aibă un control
+                              total asupra întregii activităţi de producţie.
+
+                              la categoria content management solution a fost la categoria content
+                              management solution a fost selectat proiectul implementat pentru ministerul
+                              educaţiei, ce are ca obiectiv îmbunătăţirea procesului educaţional prin
+                              implementarea tehnologiei informaţiei în procesul didactic. portalul eşcoala
+                              pune la dispoziţia elevilor din învăţământul preuniversitar un laborator virtual
+                              performant, prin intermediul căruia pot fi accesate zeci de experimente virtuale
+                              pentru chimie, fizică şi biologie, într-un mediu securizat, fără riscurile asociate
+                              unui laborator clasic.
+
+
+                                                                                                       71
+
+       anual
+raportanual
+raport      dede dezvoltare
+              dezvoltare      sustenabilă
+                         sustenabilă
+
+
+
+
+martie 2012                                 am fost desemnaţi «performerul eprojects » la gala efinance. “recompensăm
+                                            activitatea transfrontalieră a uneia dintre cele mai importante case de software
+                                            din românia, prezentă cu proiecte importante în 4 arii geografice – nordul
+                                            africii (maroc, tunisia, egipt), zona cis (kazahstan, turkmenistan, azerbaijan),
+                                            orientul apropiat şi mijlociu (dubai, quatar, kuweit, oman) şi balcani (bulgaria,
+                                            macedonia, turcia, serbia)” - a fost argumentaţia juriului revistei efinance.
+
+                                            am câştigat medalia de platină a european seal of e-excellence 2012!
+                                            în această competiţie mondială am concurat cu adversari redutabili: 42 de
+                                            companii din 18 ţări. şi am reuşit: siveco romania a urcat pe cea mai înaltă
+                                            treaptă a podiumului, într-o gală de premiere desfăşurată în epicentrul lumii
+                                            digitale, la târgul cebit hanovra 2012.
+
+                                            “această recunoaştere din partea european seal of e-excellence 2012 certifică
+                                            valoarea mondială a oricărui furnizor it. suntem mândri că soluţiile software oferite
+                                            de noi ne recomandă drept unul dintre cei mai importanţi furnizori it din europa. este
+                                            un atu în plus şi pentru clienţii noştri, care beneficiază de produse competitive pe
+                                            plan internaţional, evaluate de către organisme specializate, extrem de exigente”, a
+                                            declarat irina socol, preşedinte şi director general al siveco romania.
+
+                                            european seal of e-excellence este o competiţie internaţională care selectează
+                                            şi recompensează cele mai performante companii din zona tehnologiei
+                                            informaţiei, cu produse şi servicii care excelează din punct de vedere inovativ.
+
+
+
+
+aprilie 2012
+                                            juriul prestigioasei competiţii globale unesco „hamdan bin rashid
+                                            al-maktoum prize” a confirmat rezultatele excepţionale ale programelor
+                                            destinate instruirii profesorilor din românia, dezvoltate de echipa noastră,
+                                            nominalizându-le drept practici excepţionale în îmbunătăţirea eficienţei
+                                            profesorilor.
+
+                                            competiţia este cunoscută drept una de referinţă la nivel mondial, pentru
+                                            contribuţia la îmbunătăţirea calităţii învăţământului şi pregătirii profesorilor,
+                                            prin adoptarea tehnologiei educaţiei.
+
+
+
+
+       72
+
+                                                        raport anual de dezvoltare sustenabilă
+
+
+
+
+mai 2012
+           o nouă şi importantă recunoaştere a excelenţei proiectelor noastre a venit
+           din statele unite ale americii. juriul competiţiei best in biz awards ne oferă
+           medalia de aur pentru proiectele cu impact social major, având milioane de
+           beneficiari în 19 ţări de pe glob.
+
+           “suntem onoraţi să primim medalia de aur din partea unui juriu format din
+           prestigioşi analişti de business şi reprezentanţi ai presei americane de
+           specialitate, foarte avizaţi şi selectivi. suntem mândri că, din cele peste 40 de
+           companii internaţionale care au aplicat în actuala ediţie a competiţiei, juriul a
+           apreciat în mod special proiectele şi rezultatele companiei noastre”, a declarat
+           irina socol, preşedinte şi director general siveco romania.
+
+           juriul „best in biz awards” a oferit siveco romania medalia de aur pentru
+           cel mai bun model de business, după evaluarea proiectelor de către analiştii
+           de business şi jurnaliştii internaţionali, atât din pespectiva rezultatelor de
+           business cât şi a impactului lor social.
+
+
+
+
+           “best in biz awards 2012 emea” este o competiţie internaţională independentă,
+           de mare anvergură, al cărei juriu este format din experți media şi analişti
+           specializaţi pe domenii de business. la ediţia din 2012 a competiţiei au fost
+           înscrise peste 40 de companii private şi publice din peste 20 de ţări din europa,
+           orientul mijlociu şi africa.
+
+           câştigătorii competiţiei best in biz awards 2012 emea au fost selectaţi pe baza
+           punctajului acordat de un juriu format din specialişti media ai unor publicaţii de
+           top din statele unite, precum şi din emiratele arabe unite, germania, elveţia,
+           olanda, marea britanie, franţa, brazilia, irlanda, israel, slovacia şi africa de
+           sud.
+
+
+
+
+                                                                                   73
+
+raport  anual
+raport anual dede dezvoltare
+               dezvoltare      sustenabilă
+                          sustenabilă
+
+
+
+
+iunie 2012
+                                             un nou succes, repurtat la european it excellence awards, competiţie care
+                                             desemnează cele mai bune proiecte de pe continent. de astă dată am
+                                             primit marele titlu „winner” la categoria proiecte guvernamentale pentru
+                                             implementarea soluţiei de management al informaţiei şi de gestiune a
+                                             documentelor şi fluxurilor de lucru – sivadoc la primăria din chişinău şi
+                                             pentru sistemul informatic integrat de la administraţia rezervaţiei biosferei
+                                             delta dunării.
+
+
+
+
+august 2012
+                                             juriul competiţiei globale stevie awards ne-a premiat pentru realizările de
+                                             business şi pentru proiectele cu impact social major, la categoria „compania
+                                             anului”.
+
+                                             câştigătorii stevie awards 2012 au fost nominalizaţi de către un juriu format din
+                                             300 de directori din toate sectoarele economice din 8 ţări (regatul bahreinului,
+                                             polonia, japonia, emiratele arabe unite, malaezia, africa de sud, coreea de
+                                             sud).
+
+                                             “suntem onoraţi să primim această recunoaştere din partea unui juriu format
+                                             din cei mai exigenţi specialişti din domeniu. este o realizare extraordinară şi o
+                                             mare mândrie pentru noi că, din cele peste 3.200 de companii internaţionale
+                                             care au aplicat în actuala ediţie a competiţiei, suntem consideraţi una dintre
+                                             companiile anului”, a declarat irina socol, preşedinte şi director general
+                                             siveco romania.
+
+
+
+       74
+
+                                                                                   raport anual de dezvoltare sustenabilă
+
+
+
+
+decembrie 2012
+
+                                         în cadrul galei asociaţiei naţionale a exportatorilor şi importatorilor din
+                                         românia (aneir), am primit marele trofeu şi diploma de merit pentru exportul
+                                         de soluţii informatice de elearning, ehealth, ecustoms în 26 de ţări.
+
+
+
+
+                                          „oferim clienților tehnologii inovative, produse de calitate, exportăm
+                                        inteligenţă românească. sperăm ca în următorii doi ani să ajungem cu
+                                                                                  soluţiile noastre în 30 de ţări.”
+
+
+
+
+florian ciolacu
+vicepreşedinte vânzări internaţionale
+
+
+
+
+                                                                                                              75
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+       76
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+                           77
+
+ raportanual
+ raport anualde dezvoltare sustenabilă
+                de dezvoltare   sustenabilă
+
+
+
+
+lucrurile bune trebuie continuate.
+ne dorim ca şi în 2013 să construim
+proiecte relevante,
+pe care să vi le putem împărtăşi în
+viitorul nostru raport.
+        78
+
+                                              raport anual de dezvoltare sustenabilă
+
+
+
+              x. obiective pentru 2013
+
+angajați   ››educarea continuă şi dezvoltarea competenţelor
+             profesionale ale angajaţilor;
+           ››conştientizarea şi responsabilizarea angajaţilor privind
+             managementul calităţii şi al mediului - reducerea
+             consumului de hârtie, apă, electricitate;
+           ››construirea unui mediu de lucru competitiv şi inovativ
+             prin atragerea şi formarea celor mai buni profesionişti
+             în domeniu;
+           ››oferirea unui mediu de lucru motivant prin: instruirea
+             adecvată, asigurarea condiţiilor pentru dezvoltarea
+             profesională şi a carierei, recunoaşterea contribuţiei
+             fiecăruia la succesul companiei;
+           ››încurajarea implicării individuale în programe sociale.
+
+
+
+
+mediu      ››evaluarea continuă şi monitorizarea permanentă a
+             aspectelor de mediu în scopul prevenirii poluării;
+           ››optimizarea consumurilor specifice de materiale şi
+             utilităţi şi minimizarea pierderilor;
+           ››încheierea de parteneriate pentru preluarea selectivă a
+             deşeurilor - calculatoare vechi, hârtie, ambalaje plastic.
+
+
+
+
+clienți    ››creşterea numărului de clienţi;
+           ››extinderea si diversificarea colaborării cu clienții actuali;
+           ››îndeplinirea cerinţelor explicit definite şi negociate
+             ale clienţilor şi întâmpinarea nevoilor lor respectând
+             prevederile legislaţiei în vigoare.
+
+
+
+
+                                                                         79
+
+raport anual de dezvoltare sustenabilă
+
+
+
+
+parteneri                                ››extinderea reţelei de distribuţie şi de parteneriate,
+                                           căutând noi companii care doresc să-şi extindă aria de
+                                           activitate şi să-şi îmbunătăţească rezultatele financiare.
+                                         ››certificarea pentru noi competenţe microsoft.
+
+
+
+
+calitate                                 ››menţinerea certificărilor iso 9001:2008, iso 14001:2004
+                                           sisteme de management de mediu, iso 27001 securitatea
+                                           informaţiei.
+                                         ››creşterea satisfacţiei clienţilor noştri prin livrarea
+                                           de produse şi servicii de înaltă calitate şi respectând
+                                           termenele la care ne-am angajat prin contract.
+                                         ››promovarea în relaţiile cu partenerii a standardelor de
+                                           calitate şi de mediu, astfel încât aceştia să cunoască
+                                           şi să respecte cerinţele privind calitatea produselor şi
+                                           protejarea mediului.
+
+
+
+
+etică                                    ››lansarea raportării communication on progress în baza
+                                           indicatorilor conferiți de cele 10 principii ale organizaţiei
+                                           un global compact.
+
+
+
+
+relaţia cu                               ››crearea în mediul universitar şi în societatea civilă a unor
+                                           parteneriate strategice în scopul promovării unor valori
+                                           comune şi a bunelor practici în afaceri.
+
+organizaţiile                            ››încheierea de parteneriate pentru derularea proiectelor
+                                           educaţionale din fonduri structurale.
+
+
+profesionale
+
+
+       80
+
+                       raport anual de dezvoltare sustenabilă
+
+
+
+
+raport anual de dezvoltare sustenabilă 2012
+                        coordonator: anca crahmaliuc
+                         redactor: georgiana capuerde
+   colaboratori: cristina grigorcea, valentina unguroiu,
+                         alina mureşan, dana purcărea,
+                           cristina soldatu, dana oniga.
+                               corectură: elena postole
+                                           tipărit: 2013
+
+
+
+
+                                                  81
+
+                           siveco romania
+victoria park, şos. bucureşti ploieşti 73-81
+                  corp clădire c4, sector 1
+     cod poştal 013685 bucureşti, românia
+                     tel: +40 (021) 302 3300
+                     fax: +40 (021) 302 3391
+               e-mail: marketing@siveco.ro
+
+                   website: www.siveco.ro

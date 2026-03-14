@@ -1,0 +1,1419 @@
+
+índex
+
+1. declaració de la direcció                                                        8
+        1.1     descripció dels principals impactes, riscos i oportunitats          9
+2. perfil i estructura                                                              10
+        2.1     dades bàsiques de l’organització                                    10
+        2.2     òrgans de govern i organigrama de l’organització                    11
+        2.3     principals línies d’actuació                                        12
+        2.4     mercats on opera l’organització                                     13
+        2.5     procediments implantats per evitar conflictes d'interessos en
+                els màxims òrgans de decisió de l'organització                      13
+3. abast de la memòria                                                              14
+        3.1     abast i cobertura de la memòria, i cicle de presentació de les
+                memòries                                                            14
+        3.2     procés de definició del contingut de la memòria                     14
+        3.3     limitacions de l’abast o cobertura de la memòria                    14
+        3.4     tècniques de mesura per realitzar els càlculs, hipòtesis i altres
+        per obtenir els indicadors                                                  15
+4. indicadors                                                                       15
+        4.1     indicadors econòmics                                                15
+                4.1.1    compres i transports del territori / total de compres i
+                         transports realitzats o utilitzats                         15
+                4.1.2    % treballadors residents al territori / total plantilla    15
+                4.1.3    gestió empresarial. missió i pla estratègic                16
+                4.1.4    existència de processos de planificació i gestió
+                         pressupostària                                             16
+                4.1.5    existència d’indicadors sobre variables que afectin
+                         estratègicament l’organització                             16
+                4.1.6    sistemes de gestió. existència de processos que
+                          garanteixin la qualitat dels productes o serveis          17
+                4.1.7    existència de sistemes de control i registres dels
+                          resultats que garanteixin la traçabilitat dels productes
+                          o serveis                                                 17
+                4.1.8    màrqueting responsable. existència d’una persona o
+                         departament responsable dels continguts de la
+
+               informació sobre productes o serveis                     17
+      4.1.9   realització d’accions per promoure l’ús responsable i
+               segur dels productes i serveis                           18
+      4.1.10 noves tecnologies de la informació. % de recursos
+               destinats a ntic / tota inversió de l’empresa            18
+      4.1.11 % de persones treballadores que utilitzen ntic / total
+              plantilla                                                 18
+      4.1.12 innovació. nous productes o serveis oferts al mercat 18
+      4.1.13 objectius de millora                                       18
+4.2   indicadors ambientals                                             18
+      4.2.1   política ambiental. existència d’una política ambiental
+              i descripció dels impactes més significatius de
+              l’activitat                                               19
+      4.2.2   gestió de l'aigua. mesures d’estalvi d’aigua aplicades 19
+      4.2.3   qualitat de l’aigua de sortida i vessament d’aigües
+              residuals segons naturalesa i destí                       20
+      4.2.4   residus. separació en origen dels residus i gestió
+              d’aquests amb gestors autoritzats                         20
+      4.2.5   actuacions realitzades per reduir el volum de residus
+              generats i valoritzar-los                                 20
+      4.2.6   gestió de l’energia. actuacions realitzades per reduir
+              el consum d’energia                                       20
+      4.2.7   objectius de millora                                      21
+      4.2.8   iniciatives per reduir les emissions atmosfèriques i
+              reduccions assolides                                      21
+      4.2.9   integració en l'entorn. ubicació de l’empresa en un
+              entorn adequat per desenvolupar la seva activitat         21
+      4.2.10 conservació de l'entorn. col·laboracions realitzades per
+              al manteniment dels espais naturals i culturals           21
+      4.2.11 objectius o accions de millora                             21
+4.3   indicadors socials                                                21
+      4.3.1   grups d’interès                                           21
+              4.3.1.1       definició d’un mapa dels grups d’interès de
+                            l’organització                              21
+              4.3.1.2       fluxos relacionals existents entre
+                            l’organització i els grups d’interès        23
+
+        4.3.1.3     existència d’una sistemàtica de valoració
+                    de la satisfacció dels grups d’interès           23
+4.3.2   condicions sociolaborals dels treballadors i les
+        treballadores                                                23
+        4.3.2.1     % de personal amb contracte fix / total
+                    plantilla                                        23
+        4.3.2.2     relació entre el salari més baix i el salari
+                    més alt                                          24
+        4.3.2.3     existència d’igualtat salarial dona / home
+                  per a una mateixa categoria professional           24
+        4.3.2.4     índex de permanència del personal a
+                    l’empresa                                        24
+        4.3.2.5     índex de baixes laborals                         24
+        4.3.2.6     existència de mesures de conciliació
+                  de la vida laboral i personal                      24
+4.3.3   participació de les persones treballadores                   25
+        4.3.3.1     nombre de reunions de caràcter
+                    informatiu amb les persones treballadores
+                    de l’empresa                                     25
+        4.3.3.2     accions per promoure la participació,
+                    la consulta i la negociació amb el
+                    personal en l’organització de l’empresa          25
+4.3.4   igualtat d’oportunitats                                      25
+        4.3.4.1     % de contractacions obertes /
+                    contractacions anuals                            25
+    4.3.4.2         % de contractacions amb discriminació
+                    positiva a col·lectius desafavorits / total de
+                    contractacions                                   25
+        4.3.4.3     % de contractes parcials / total de
+                    contractacions anuals                            25
+        4.3.4.4     existència de contractes amb empreses
+                    d’inserció laboral                               25
+        4.3.4.5     % d’homes i dones dins la plantilla              25
+        4.3.4.6     % de llocs de responsabilitat ocupats
+                    per dones / total de llocs de
+                    responsabilitat                                  25
+
+4.3.5   formació de les persones treballadores                   26
+        4.3.5.1     inversió destinada a la formació laboral     26
+        4.3.5.2     existència d’una metodologia d’avaluació
+                    de la formació                               26
+        4.3.5.3     categoria professional de les persones
+                    que reben formació                           26
+        4.3.5.4     llocs coberts per promoció interna           26
+4.3.6   comunitat                                                26
+        4.3.6.1     existència de compromisos amb la
+                    comunitat local a través de definicions
+                    de polítiques i objectius                    26
+        4.3.6.2     adaptació de la identitat cultural i a les
+                    tradicions del territori on s’ubica
+                    l’organització                               27
+        4.3.6.3     prestació d’equipaments a la comunitat       27
+        4.3.6.4     participació en comissions d’organització
+                    d’actes socials o culturals vinculats
+                    al territori                                 27
+        4.3.6.5     proporcionar informació als grups d’interès
+                    sobre els valors del territori               27
+4.3.7   cooperació interempresarial                              27
+        4.3.7.1     nombre d’associacions sectorials a les
+                    qual pertany l’organització                  27
+        4.3.7.2     nombre d’associacions sectorials del
+                    territori a les qual es pertany              27
+        4.3.7.3     nombre de fòrums de caràcter públic als
+                    quals pertany l’organització                 27
+        4.3.7.4     nombre d’accions o programes de
+                    cooperació interempresarials                 28
+        4.3.7.5     nombre d’accions o programes de
+                    cooperació interempresarials dins el
+                    territori                                    28
+        4.3.7.6     nombre de convenis de pràctiques amb
+                    entitats de formació                         28
+4.3.8   satisfacció del col·lectiu client                        28
+    4.3.8.1         existència de mecanismes per al
+
+                                   manteniment de la confidencialitat amb el
+                                   col·lectiu client                           28
+                       4.3.8.2     existència de mecanismes que permetin
+                                   conèixer els nivells de satisfacció del
+                                   col·lectiu client                           28
+                       4.3.8.3     nombre de queixes registrades durant
+                                   l’any                                       28
+                       4.3.8.4     nombre de litigis o reclamacions formals
+                                   per part del col·lectiu client              30
+                       4.3.8.5     proporció anual de clients fidelitzats      30
+                       4.3.8.6     existència de mecanismes de comunicació
+                                   amb els clients                             30
+                       4.3.8.7     informació al client sobre la correcta
+                                   utilització dels béns i serveis oferts      31
+               4.3.9   empreses proveïdores                                    31
+                       4.3.9.1     existència de criteris de selecció
+                                   d’empreses proveïdores i productes
+                                   (socials i mediambientals)                  31
+                       4.3.9.2     termini mitjà de pagament a les empreses
+                                   proveïdores                                 31
+                       4.3.9.3     % d’empreses proveïdores locals / total
+                                 d’empreses proveïdores                        31
+               4.3.10 objectius de millora                                     31
+5. validació                                                                   31
+
+
+1. declaració de la direcció
+la sostenibilitat és un concepte que turisme garrotxa ha cuidat des del moment
+mateix de la seva creació, l’any 1996. els estatuts de l’entitat, l’essència dels quals no
+ha variat al llarg dels darrers anys, recalquen que la tasca de l’associació era “l’impuls
+d’un turisme sostenible i de qualitat a la comarca de la garrotxa”.
+
+turisme garrotxa treballa per a la millora de la competitivitat dels seus socis i
+membres oferint serveis d’informació, orientació, assessorament, formació,
+promoció de l’oferta turística, disseny de productes turístics i suport a la
+comercialització.
+
+turisme garrotxa promou, representa i coordina, de forma participativa, un model
+de desenvolupament turístic sostenible arrelat al territori, que combina el respecte
+pel medi ambient amb les necessitats i expectatives de les entitats, empreses i
+municipis que reben els seus serveis.
+
+aquesta atenció per a la sostenibilitat es va fer encara més palesa a partir de 2001,
+amb l’aplicació de la carta europea de turisme sostenible, un procés que ha suposat
+el desenvolupament d’un gran nombre d’actuacions que responen a aquest criteri.
+
+turisme garrotxa no concep cap altre model de desenvolupament turístic que no
+presti una atenció prioritària a la sostenibilitat del territori, des del punt de vista més
+ampli possible.
+
+turisme garrotxa basa la seva activitat en l’existència d’un territori amb una
+combinació de característiques que el fan únic. és per això que turisme garrotxa
+necessita la preservació de la natura d’aquest territori, la recuperació de la seva
+cultura i el foment de la seva societat.
+
+en definitiva, el desenvolupament turístic d’aquesta comarca passa –i ha de passar-
+pel desenvolupament sostenible de la seva natura, cultura i societat.
+
+
+
+
+                                                                                         8
+
+1.1 descripció dels principals impactes, riscos i oportunitats
+
+turisme garrotxa té per objectiu aconseguir impactes positius en els serveis que
+ofereix, en l’equip humà, en les empreses proveïdores, en la comunitat i en l’entorn
+natural.
+
+la qualitat dels seus serveis està basada en el compliment de les expectatives dels
+clients, per tal d’aconseguir que quedin satisfets, i assegurar així, l’èxit a llarg termini
+de l’entitat. així mateix, i d’acord amb l’objectiu dels seus serveis, intenta ser en tot
+moment una entitat proactiva a l’hora de contribuir al desenvolupament sostenible
+del territori.
+
+en el concepte de responsabilitat social, és prioritari el benestar de l’equip humà, i
+s’emprenen iniciatives per a promoure el desenvolupament laboral i personal dels
+treballadors, així com, per oferir un clima laboral agradable i fomentar la participació
+i comunicació. la igualtat d’oportunitats, la flexibilitat horària i la formació són altres
+aspectes fonamentals en la política de turisme garrotxa.
+
+en el cas de la relació amb les empreses proveïdores, aquesta sempre es basa en
+criteris d’honestedat, comunicació i informació, i s’adquireixen productes i serveis
+locals, sempre que és possible.
+
+respecte a la comunitat i l’entorn natural, és precisament l’objectiu de turisme
+garrotxa el que millor descriu els impactes que els genera l’entitat, doncs, es treballa
+per a incidir en el teixit socioeconòmic vinculat al turisme de la garrotxa i zones
+limítrofes, i fomentar una cultura en les organitzacions que garanteixi un
+desenvolupament sostenible, en el marc de la carta europea de turisme sostenible.
+per tant, turisme garrotxa és una entitat que està directament implicada amb el
+desenvolupament de l’entorn i de la societat del seu territori.
+
+no obstant això, també cal tenir en compte, els riscs que assumeix turisme garrotxa,
+que bàsicament recauen en les dificultats d’aconseguir finançament, tant per al
+manteniment de l’estructura com per al desenvolupament del pla d’actuacions.
+
+l’any 2012 va ser, a aquest nivell, un nou any de continuïtat respecte els anys
+anteriors. cal mencionar que durant el 2012 es va iniciar la tasca de la comissió de
+finançament, per a fer una proposta de reorganització a nivell de quotes i
+contractació de serveis per part de les empreses.
+
+
+
+
+                                                                                          9
+
+2 perfil i estructura
+
+2.1 dades bàsiques de l’organització
+nom: turisme garrotxa (associació la garrotxa terra d’acolliment turístic)
+adreça: av. onze de setembre, 22, 2a planta
+localitat: 17800 olot
+nif g17484916
+forma jurídica: associació privada sense afany de lucre
+nombre de persones treballadores: 4
+telèfon: 972 27 16 00
+fax: 972 27 16 66
+correu electrònic: info@turismegarrotxa.com
+web: www.turismegarrotxa.com
+total pressupost turisme garrotxa any 2012: 203.150,46 euros
+total pressupost extern gestionat per turisme garrotxa : 70.023,24 euros
+total: 273.173,70 euros
+
+les persones treballadores no participen de la titularitat de l’entitat, i tampoc en
+reben dividends, ja que els beneficis es reinverteixen en la pròpia associació.
+
+
+
+
+                                                                                       10
+
+    2.2 òrgans de govern i organigrama de l’organització
+
+                                     assemblea general
+
+   president                vicepresident             secretari                 tresorer       .
+   eduard llorà               gerard xifra           josep m. prats          joan espona
+socis públics:                                     socis privats:
+aj. argelaguer: carles batlle                      ass. hostaleria de la garrotxa: francesc coll
+aj. besalú: lluís guinó                            ass. hostaleria de la garrotxa: llorenç comes
+aj. beuda: margarita pujol                         ass. hostaleria de la garrotxa: gerard xifra
+aj. castellfollit de la roca: gerard planella      ass. turisme rural garrotxa: conxa jufresa
+aj. la vall d'en bas: josep puigvert               ass. allotjaments rurals: jordi fèlix
+aj. la vall de bianya: santi reixach               agrupació de cases de colònies: werner
+aj. les planes d'hostoles: eduard llorà            estellé
+aj. les preses: lluís xancó                        ass. de càmpings la garrotxa: joan masoliver
+aj. maià de montcal: david ollé                    a.cat. empreses senderisme: gonçal
+aj. mieres: sergi picart                           portabella
+aj. montagut i oix: marta mateu                    ass. activitats turístiques: toni colom
+aj. olot: estanis vayreda                          verd volcànic: mireia tresserras
+aj. riudaura: rosa codina                          a.turisme comerç vall d’en bas: isabel
+aj. sales de llierca: llorenç quintana             morera
+aj. sant aniol de finestres: josep m. triadú       centre sostenibilitat territorial: raül valls
+aj. sant feliu de pallerols: joan monteis
+aj. sant ferriol: rosa coll
+aj. sant jaume de llierca: ferran puig
+aj. sant joan les fonts: susanna espona
+aj. santa pau: sílvia domènech (fins 03/07/12)
+pep companys (a partir de 29/10/12)
+aj. tortellà: ramon bañón
+consell comarcal de la garrotxa: joan espona
+pnzvg: josep m. prats
+consorci de l'alta garrotxa: francesc canalias
+
+
+                                       junta de govern
+
+        president         vicepresident          secretari        tresorer            vocals
+        eduard llorà       gerard xifra        josep m. prats     joan espona      estanis vayreda
+                                                                                    lluís guinó   .
+                                                                                  isabel morera .
+                                                                                  conxa jufresa .
+                                                                                  francesc coll .
+                                                                                 werner estellé .
+                                                               sílvia domènech (fins 03/07/2012)
+                                                              mireia tresserras (fins 29/10/2012)
+                                                          pep companys (a partir de 29/10/2012)
+                                                             toni colom (a partir de 29/10/2012)
+
+
+                                             gerència
+                                          turina serra
+                                  tserra@turismegarrotxa.com
+
+
+
+                         equip tècnic                                        administració
+     montse padrosa (aodl)               david curós                            marta ralita
+mpadrosa@turismegarrotxa.com       dcuros@turismegarrotxa.com           info@turismegarrotxa.com
+
+
+                                                                                                   11
+
+2.3 principals línies d’actuació
+turisme garrotxa treballa per a la millora de la competitivitat dels seus socis i
+membres oferint serveis d’informació, orientació, assessorament, formació,
+promoció de l’oferta turística, disseny de productes turístics i suport a la
+comercialització.
+
+turisme garrotxa promou, representa i coordina, de forma participativa, un model
+de desenvolupament turístic sostenible arrelat al territori, que combina el respecte
+pel medi ambient amb les necessitats i expectatives de les entitats, empreses i
+municipis que reben els seus serveis.
+
+
+
+
+les línies estratègiques de turisme garrotxa són:
+
+         1) promocionar l’entorn, la cultura, la societat, les activitats i els serveis
+            turístics de la garrotxa.
+         2) adequar permanentment el catàleg de serveis oferts als membres de
+            l’associació.
+         3) establir mecanismes de coordinació de l’oferta turística de la garrotxa.
+         4) reelaborar el model organitzatiu, personal i social de turisme garrotxa.
+
+d’aquestes quatre línies estratègiques es desprenen totes les actuacions.
+
+turisme garrotxa dóna suport a l’atorgament d’acreditacions de qualitat, com
+l’acreditació d’empreses com a punts d’informació, l’acreditació d’empreses amb la
+carta europea de turisme sostenible (cets) o l’acreditació d’empreses amb el codi
+de gestió sostenible de la garrotxa i el collsacabra.
+
+a nivell de comunicació externa, edita la guia tot garrotxa, el mapa turístic, el mapa
+d’itinerànnia (en col·laboració amb l’editorial alpina), el fulletó de les visites guiades
+descobreix la garrotxa!, envia i proporciona informació turística a tothom qui li’n
+demana, assisteix a fires –tan genèriques com especialitzades-, atén mitjans de
+comunicació, viatges de familiarització, viatges de periodistes i també viatges de
+
+
+                                                                                      12
+
+coneixement del territori. assisteix a workshops i coordina el manteniment de la
+senyalització d’itinerànnia.
+
+pel què fa a la comunicació interna, edita un butlletí semestral i organitza col·loquis
+sempre que sorgeixin temes d’interès.
+
+en referència a la comunicació online externa, és present a internet a
+turismegarrotxa.com i a diverses xarxes socials i edita un butlletí per als visitants. a
+nivell intern, disposa d’un sistema de gestió de continguts del web i edita un butlletí
+setmanal, el flaixos, i coordina els continguts i el manteniment de la xarxa de punts
+digitals d’informació turística de la garrotxa.
+
+pel què fa a la formació, coorganitza el curs de coneixement de la garrotxa el curs
+d’atenció al client, les sessions de formació permanent, el viatge de formació i la
+iniciativa planta’t a internet. a més, ofereix descomptes en cursos i jornades.
+
+pràcticament totes les actuacions que desenvolupa turisme garrotxa s’emmarquen
+en la carta europea de turisme sostenible (cets), un document marc que s’aplica
+des de 2001 per al desenvolupament d’un turisme sostenible i de qualitat a la
+comarca de la garrotxa.
+
+2.4 mercats on opera l’organització
+
+a nivell de prestació de serveis als agents del territori, turisme garrotxa opera a la
+comarca de la garrotxa i a les zones limítrofs, mentre que a nivell de visitants de la
+comarca, turisme garrotxa opera a diversos punts de l’estat espanyol, i a diversos
+països europeus, mercats que varien any a any en funció de les accions promocionals
+a les quals s’estima oportú de participar, i entre les quals n’hi ha de dirigides al gran
+públic i de dirigides a segments específics, com el senderista.
+
+2.5 procediments implantats per evitar conflictes d'interessos en els
+màxims òrgans de decisió de l'organització
+
+en el capítol iii i iv dels estatuts de turisme garrotxa, corresponent als òrgans de
+gestió i govern, s’enumera com a tals l’assemblea i la junta, i es determina per a
+cadascun d’ells la composició, les funcions, la durada del mandat, les competències,
+el règim de les sessions i les majories en les votacions.
+
+així doncs, a través dels estatuts queda regularitzat el procediment en la presa de
+decisions de l’entitat, per bé que resta pendent la redacció d’un reglament intern
+que desenvolupi d’una forma més detallada els preceptes recollits als estatuts.
+
+2.5 procediment de determinació de la capacitació i experiència exigible
+a les persones representants dels màxims òrgan de govern
+
+els procediments d’elecció dels membres dels diversos òrgans de govern de turisme
+garrotxa garanteixen la capacitació i experiència de tots els seus membres.
+
+en el cas de l’assemblea, és cada soci qui determina quina és la millor persona de la
+seva organització que la pot representar. en el cas de la junta, és l’assemblea de
+turisme garrotxa la que elegeix les 6 persones del sector públic i les 6 del sector
+privat amb més vots rebuts d’entre tots els candidats.
+
+
+
+                                                                                     13
+
+3 abast de la memòria de sostenibilitat
+
+                                                            de les memòries
+3.1 abast i cobertura de la memòria, i cicle de presentació de
+de sostenibilitat
+
+     aquesta memòria abasta la totalitat d’activitats desenvolupades per turisme
+     garrotxa durant l’any 2012, i és la quarta de les memòries de sostenibilitat anuals.
+
+                                                       sostenibilitat
+3.2 procés de definició del contingut de la memòria de sostenibilitat
+
+     per tal d’elaborar aquesta memòria s’ha utilitzat el codi de gestió sostenible de la
+     garrotxa i el collsacabra (cgs) que és una eina impulsada per la fundació privada
+     garrotxa líder a partir de l’any 2005, i que té per objectiu promoure la implantació
+     de polítiques de gestió socialment responsables a les organitzacions públiques i
+     privades d’aquest territori com a fórmula per contribuir al seu creixement equilibrat i
+     sostenible.
+
+     el cgs ha estat revisat a través d’un procés participatiu o multistakeholder entre
+     finals de 2008 i principis de 2009, en el qual s’ha previst que la majoria d’indicadors
+     mantinguin correspondència o equivalència amb un o més indicadors de
+     compliment de rse proposats per la guia g3 de global reporting initiative, màxim
+     estàndard internacional en l’elaboració d’eines per fer memòries de sostenibilitat,
+     amb l’objectiu d’afavorir la comparabilitat de les empreses del territori adherides al
+     cgs amb qualsevol altra organització de la resta del món, independentment del seu
+     sector d’activitat o dimensió.
+
+     per a determinar els aspectes inclosos en la memòria s’han tingut en compte els
+     grups d’interès de turisme garrotxa, entenent per grups d’interès aquelles persones,
+     col·lectius o institucions que es veuen afectades per l’organització o la seva activitat i
+     que poden incidir en el seu funcionament i el desenvolupament. per aquest motiu,
+     es considera necessari saber què esperen de l’entitat cadascun d’aquests grups i
+     quines són les seves prioritats, opinions i expectatives.
+
+     els principals grups d’interès identificats són: els òrgans de govern, els treballadors i
+     treballadores, les empreses proveïdores, els socis, les empreses adherides, les
+     empreses solament associades als gremis, els visitants de la garrotxa, els mitjans de
+     comunicació, i la comunitat/territori.
+
+3.3 limitacions de l’abast o cobertura de la memòria de sostenibilitat
+
+     existeixen limitacions de l’abast i cobertura de la memòria en certs impactes
+     ambientals generats pel servei de turisme garrotxa, degut a que l’entitat s’allotja a
+     la seu del consell comarcal de la garrotxa, i per tant, comparteix amb aquesta
+     institució la responsabilitat dels impactes que es generen en aspectes com el consum
+     energètic, consum d’aigua i gestió de residus.
+
+
+                            realitzar els càlculs, hipòtesis i altres per
+3.4 tècniques de mesura per realitzar
+obtenir els indicadors
+
+     el sistema de càlcul utilitzat en els indicadors s’ha extret de la versió 2010 del codi
+     de gestió sostenible de la garrotxa i el collsacabra (cgs).
+
+
+                                                                                           14
+
+4. indicadors
+
+  turisme garrotxa, partint d’una missió i d’un pla estratègic perfectament definits,
+  desenvolupa un segut d’accions que, en el seu vessant econòmic intenten ser el màxim
+  de coherents possible amb l’estratègia de la cets, des de la priorització de l’ús de
+  productes i proveïdors locals –no sempre possible atesa la mancança d’alguns
+  d’aquests elements al territori-, al fet de tenir ben definits els procediments per
+  executar les accions més habituals, a dur un control d’alguns dels principals aspectes
+  que incideixen directament a l’entitat, en fer una aposta radical per un màrqueting
+  responsable, i en prioritzar les actuacions en l’àmbit de les ntic.
+
+  aplicant el principi de materialitat, s’ha determinat que els indicadors relacionats amb
+  la conservació de l’entorn, la gestió de l’energia, la satisfacció del col·lectiu client, la
+  formació de les persones treballadores, l’ús de recursos locals, les noves tecnologies i
+  la innovació són aspectes en els quals caldrà aturar-se per aportar més informació.
+
+  4.1 indicadors econòmics
+
+  4.1.1 ús de recursos locals
+  compres i transports del territori / total de compres i transports realitzats o
+  utilitzats
+
+     55% de la despesa en compres i transports ha estat a proveïdors locals,
+  el 55%                                                                  locals i el 45% a
+  proveïdors de fora la garrotxa, incloent la despesa efectuada amb empreses
+  prestatàries de serveis inexistents a la comarca, com ara caixes d’estalvis, telefonia,
+  correus, rotatives... d’aquesta manera s’ha disminuït 5 punts la compra en proveïdors
+  locals respecte l’any passat.
+  el fet és que periòdicament cal contractar els serveis d’una rotativa per imprimir un
+  volum molt important d’una publicació, fet que suposa una de les despeses més
+  importants del pla d’actuacions.
+  a la garrotxa no hi ha cap rotativa, i els preus de les més properes són ostensiblement
+  superiors al preu d’algunes rotatives més llunyanes. l’escàs marge de maniobra de
+  l’associació a nivell pressupostari fa que cada any s’hagi d’escollir aquesta opció, que
+  és la més econòmica, si bé l’ambientalment menys sostenible per la distància a la qual
+  cal transportar les publicacions.
+  per tant, convé fer notar que cada any que s’ha treballat amb aquest proveïdor, els
+  percentatges acaben indicant que la major part de la despesa s’ha efectuat amb
+  proveïdors forans.
+
+  4.1.2 % treballadors residents al territori / total de la plantilla
+
+  turisme garrotxa tenia, l’any 2012, 4 treballadors, tres dels quals residien a olot i un
+  fora de la comarca. en percentatges, podem dir que el 75% dels treballadors
+                                             l’entitat.
+  resideixen al mateix municipi on té la seu l’entitat
+
+  4.1.3 gestió empresarial
+  missió i pla estratègic
+
+  la missió de turisme garrotxa és la següent:
+
+  “turisme garrotxa és una associació privada sense afany de lucre integrada
+  principalment per representants del sector turístic privat i públic de la garrotxa.
+
+
+                                                                                          15
+
+turisme garrotxa treballa per a la millora de la competitivitat dels seus socis i membres
+oferint serveis d’informació, orientació, assessorament, formació, promoció de l’oferta
+turística, disseny de productes turístics i suport a la comercialització.
+
+turisme garrotxa promou, representa i coordina, de forma participativa, un model de
+desenvolupament turístic sostenible arrelat al territori, que combina el respecte pel
+medi ambient amb les necessitats i expectatives de les entitats, empreses i municipis
+que reben els seus serveis.”
+
+aquest mateix pla estratègic defineix 4 línies estratègiques:
+
+           1) promocionar l’entorn, la cultura, la societat, les activitats i els serveis
+              turístics de la garrotxa.
+           2) adequar permanentment el catàleg de serveis oferts als membres de
+              l’associació.
+           3) establir mecanismes de coordinació de l’oferta turística de la garrotxa.
+           4) reelaborar el model organitzatiu, personal i social de turisme garrotxa.
+
+4.1.4 existència de processos de planificació i gestió pressupostària
+
+des de gerència es controla de forma periòdica l’evolució del pressupost. també es
+disposa d’un assessor comptable extern que supervisa, juntament amb la gerent, el
+pressupost i la tresoreria.
+
+la junta intervé en els processos de planificació en les seves reunions mensuals, amb
+l’assessorament de la comissió de finançament, que es reuneix periòdicament.
+
+                 d’indicadors sobre variables que afectin estratègicament
+4.1.5 existència d’indicadors
+l’organització
+
+turisme garrotxa disposa de diverses fonts de dades que utilitza per a prendre
+decisions relacionades amb actuacions concretes.
+
+una de les principals és l’estudi sobre l’impacte econòmic del turisme a la garrotxa
+2001-2010, elaborat l’any 2011. una altra de les fonts de dades són les estadístiques
+del web també aporten una informació prou valuosa per conèixer el perfil dels visitants
+potencials de la garrotxa i les seves preferències. en funció d’alguns dels paràmetres
+que recullen aquestes estadístiques, s’adapten, es milloren o es canvien parts del web.
+
+un altre cas serien les estadístiques de la xarxa de punts d’informació, que és una de
+les fonts d’informació més importants de què disposa turisme garrotxa, ja que permet
+observar dades comparatives des de 2001 sobre l’evolució dels visitants informats a la
+garrotxa, en les que s’observen fenòmens com l’evolució de l’estacionalitat dels fluxos
+turístics. també són d’utilitat les queixes i suggeriments rebuts pels punts d’informació
+que tractin d’algun tema sobre el qual turisme garrotxa tingui alguna responsabilitat.
+en els casos en què es detecta que el client té raó, s’adopten les mesures necessàries
+per resoldre la incidència o millorar el servei. les queixes i suggeriments referents a
+altres temes, es deriven a l’organisme corresponent.
+
+malgrat que no es tracta de cap font de dades a l’ús, l’existència de la taula de tècnics
+de turisme permet copsar la percepció dels tècnics municipals a nivell de cooperació
+relacionada amb l’estratègia turística de la garrotxa.
+
+
+
+                                                                                     16
+
+també són d’especial importància les dades que aporten els estudis de mercat –bé
+contractats des de turisme garrotxa, bé des de les altres dues comarques integrants
+d’itinerànnia, o bé proporcionats per tercers (centres de promoció de catalunya a
+l’exterior), i totes aquelles dades fornides per entitats com turisme de catalunya, el
+patronat de turisme costa brava girona o la cambra de comerç de girona (calendari
+de vacances escolars d’arreu d’europa), que ajuden a la presa de decisions de turisme
+garrotxa i del sector turístic en general.
+
+4.1.6 sistemes de gestió
+existència de processos que garanteixin la qualitat dels productes o serveis
+
+turisme garrotxa disposa de diversos procediments:
+
+-   administració -factures, reserves,                -   redacció flaixos
+    dietes                                            -   socis i material editat
+-   alta                                              -   tramesa informació
+-   baixa                                             -   ús invitacions descobreix la
+-   comissions                                            garrotxa
+-   cooperació leader plus                            -   viatges coneixement del territori
+-   famtrips i presstrips                             -   workshops
+-   fires                                             -   digitalització de camins
+-   juntes-assamblees-reunions                            d’itinerànnia
+-   accés ftp itinerànnia
+
+4.1.7 existència de sistemes de control i registres dels resultats que garanteixin
+la traçabilitat dels productes o serveis
+
+existeixen diversos sistemes de control i registre:
+
+-   registre de material promocional enviat a les fires
+-   registre de material promocional cedit a les empreses
+-   registre de les estadístiques de visites al web
+-   registre dels formularis de contacte enviats des del web
+-   registre de les reserves de visites guiades fetes des del backoffice
+-   registre de les estadístiques de visitants a la xarxa de punts d’informació
+-   registre de la despesa de publicacions efectuada per les empreses i oficines
+-   registre de les estadístiques del web
+-   registre de les consultes a la xarxa de punts digitals d’informació turística
+-   registre de les queixes i suggeriments rebuts per la xarxa de punts d’informació
+-   enquestes de satisfacció als participants als viatges de coneixement del territori
+
+4.1.8 màrqueting responsable
+existència d’una persona o departament responsable dels continguts de la
+existència
+informació sobre productes o serveis
+
+una comissió formada per la totalitat dels tècnics de turisme dels diversos municipis de
+la garrotxa que en disposen, coordinada i supervisada des de turisme garrotxa, és el
+fòrum de debat sobre els continguts sobre la garrotxa que es difonen a través de la
+principal publicació que edita l’entitat, la guia tot garrotxa.
+
+4.1.9 realització d’accions per promoure l’ús responsable i segur dels
+productes i serveis
+
+
+                                                                                         17
+
+   el web i la guia tot garrotxa incorporen consells de visita al parc natural de la zona
+   volcànica de la garrotxa i a l’espai d’interès natural de l’alta garrotxa, que emfatitzen
+   el civisme en diversos aspectes de la visita en ambdós espais.
+
+   també es difonen aquestes i altres informacions similars a través dels canals de
+   facebook i de twitter de turisme garrotxa, a través de la xarxa de punts digitals
+   d’informació turística de la garrotxa, i també a través de la xarxa de punts i espais
+   d’informació.
+
+   4.1.10 noves tecnologies de la informació
+   % de recursos destinats a ntic / tota inversió de l’empresa
+
+   a banda del centenar d’hores de recursos humans que s’han dedicat a desenvolupar
+   algunes accions sense costos externs, com l’enviament de butlletins o l’actualització
+                                                  74% del pressupost del pla d’actuacions
+   del web, durant l’any 2012 s’han invertit un 1,74%
+         ntic malgrat que la renovació del web no és una despesa imputable a 2012,
+   a les ntic.
+   aquest any es van continuar els treballs de preparació del nou web, enfilant ja la fase
+   de disseny de les seccions.
+
+   4.1.11 % de persones treballadores que utilitzen ntic / total plantilla
+
+   el 100% dels treballadors de turisme garrotxa utilitzen les ntic.
+                                                               ntic
+   4.1.12 innovació
+   nous productes o serveis oferts al mercat
+
+   l’any 2012, recollint la petició de diverses empreses d’activitats, es va reformular el
+   programa de visites guiades descobreix la garrotxa, passant-se a denominar
+   descobreix la garrotxa +activa. el nou programa incorpora oferta d’empreses
+   d’activitats, i és molt més ampli pel que fa a diversitat d’activitats programades.
+
+   a més, a finals d’any es van iniciar els preparatius per oferir un nou servei: la creació i
+   comercialització de productes turístics a través d’agències de viatges.
+
+
+   4.1.13 objectius de millora
+
+   en l’àmbit de la gestió econòmica de turisme garrotxa, s’han establert els següents
+   objectius de millora:
+
+   - acabar la renovació del web de l’associació
+
+4.2 indicadors ambientals
+
+   turisme garrotxa és una entitat singular en un aspecte que afecta directament aquesta
+   memòria de sostenibilitat, que és la seva ubicació. les dependències de l’associació es
+   troben situades en un local cedit pel consell comarcal. això implica que turisme
+   garrotxa no controla directament bona part dels indicadors d’aquest apartat, a banda
+   que molts no li són d’aplicació per diversos motius.
+
+   els que es ressenyen a continuació són indicadors parcialment extrets de la memòria
+   de sostenibilitat de la fundació garrotxa líder de l’any 2012, que està al mateix edifici
+   i comparteix la diagnosi.
+
+
+                                                                                          18
+
+amb tot, turisme garrotxa disposa d’una eina que, tot i que no té una translació
+directa als indicadors ambientals de l’associació mateixa, sí que té uns efectes molt
+concrets sobre la comarca i el seu model de desenvolupament: la carta europea de
+turisme sostenible.
+
+aplicant aquesta estratègia de desenvolupament turístic, que es basa en el foment
+d’un turisme sostenible, de qualitat i respectuós amb el medi ambient, turisme
+garrotxa difon i fomenta uns valors molt determinats sobre el respecte cap al medi
+ambient, valors que incideixen d’una forma directa o indirecta tot el sector turístic, i
+que d’ençà de l’any 2009 comparteixen una vintena d’empreses turístiques
+acreditades amb la cets.
+
+               ambiental. existència d’una política ambiental
+4.2.1 política ambiental.                           ambiental i descripció dels
+impactes més significatius de l’activitat
+
+turisme garrotxa, conseqüent amb els valors que difon a les organitzacions del seu
+àmbit d’actuació, desenvolupa la seva activitat seguint els criteris d’oficina verda.
+
+turisme garrotxa assumeix un compromís amb el medi ambient, en el qual es
+reflecteix la seva intenció de respectar-lo en el disseny i realització dels seus serveis, i la
+voluntat d’anar més enllà del que estableix la normativa vigent. per això, turisme
+garrotxa estableix, declara i assumeix els següents principis en l’àmbit de la gestió
+ambiental:
+
+    • l’organització adoptarà mecanismes que afavoreixin l’estalvi energètic en el si de
+    l’activitat i establirà indicadors de mesura que li permetin analitzar resultats i fixar-
+    se objectius de millora a mitjà i llarg termini.
+    • l’organització afavorirà en el si de la seva activitat la reducció, el reciclatge i la
+    reutilització de materials.
+    • l’organització fomentarà la participació, informació i formació dels treballadors i
+    les treballadores en els processos de millora ambiental de l’activitat.
+    • l’organització establirà una política de compres que prioritzi la qualitat i el
+    respecte al medi ambient (adquisició de productes biodegradables, reciclables o
+    reutilitzables) i que doni prioritat als productes i als serveis locals.
+
+el fet que turisme garrotxa desenvolupi la seva activitat en unes instal·lacions i
+despatxos ubicats a la seu del consell comarcal de la garrotxa, condiciona que les
+dades que es puguin recollir respecte al consum energètic, d’aigua i de generació de
+residus no siguin significatives, degut a que aquestes dades fan referència al consum
+total de l’edifici. no obstant, aquest any s’ha iniciat un procés de redacció d’una
+política ambiental comuna amb les diferents entitats presents a l’edifici per tal
+d’establir mecanismes de control de consums, així com indicadors d’avaluació de les
+millores ambientals que es puguin desenvolupar.
+
+4.2.2 gestió de l'aigua. mesures d’estalvi d’aigua aplicades
+
+el consum d’aigua no és un aspecte ambiental significatiu en l’activitat de la turisme
+garrotxa, degut a que el consum prové dels sanitaris i les tasques de neteja de les
+instal·lacions. aquesta aigua prové de la xarxa pública, i les aigües residuals que es
+generen són d’origen domèstic i es destinen a la xarxa pública de sanejament. no
+obstant això, es disposa de mesures per a l’estalvi d’aigua en les aixetes que hi ha
+instal·lades a les piques dels lavabos.
+
+
+
+
+                                                                                           19
+
+                                                                    segons
+4.2.3 qualitat de l’aigua de sortida i vessament d’aigües residuals segons
+naturalesa i destí
+
+el consum d’aigua no és un aspecte ambiental significatiu en l’activitat de la fundació,
+degut a que el consum prové dels sanitaris i les tasques de neteja de les instal•lacions.
+aquesta aigua prové de la xarxa pública, i les aigües residuals que es generen són
+d’origen domèstic i es destinen a la xarxa pública de sanejament.
+
+no obstant això, es disposa de mesures per a l’estalvi d’aigua en les aixetes que hi ha
+instal·lades a les piques dels lavabos.
+
+      residus. separació en origen dels residus i gestió d’aquests amb gestors
+4.2.4 residus.
+autoritzats
+
+un altre impacte ambiental derivat de l’activitat de la fundació és la generació de
+residus, bàsicament de paper i torners. per aquest motiu, es prioritza la reducció de la
+quantitat generada i la millora de la seva gestió aplicant mesures de reutilització i
+reciclatge. es disposen de petits contenidors per a acumular el paper imprès que pot
+ser reutilitzat, i contenidors per al reciclatge del paper i plàstic que ja no es pot fer
+servir més.
+
+                                                                       valoritzar--
+4.2.5 actuacions realitzades per reduir el volum de residus generats i valoritzar
+los
+
+s'ha fomentat la impressió a doble cara, l'ús de paper imprès per a utilitzar-lo per a
+prendre notes i la impressió en qualitat d'esborrany per reduir el consum de tòner.
+
+                l’energia. actuacions realitzades per reduir el consum d’energia
+4.2.6 gestió de l’energia.
+
+el consum d’energia a les oficines de turisme garrotxa es destina principalment a la
+il·luminació, a la calefacció, a l’aire condicionat i als equipaments informàtics.
+
+totes les lluminàries de l’oficina són de fluorescents tubulars que ofereixen una bona
+relació entre consum i flux lluminós. la il·luminació de les instal·lacions es veu
+afavorida per la gran quantitat d’obertures a l’exterior i una orientació òptima que
+permet aprofitar molt bé la llum del sol. la climatització de les oficines es realitza
+mitjançant un sistema de bombes de calor amb fan-coils. és un sistema de fàcil
+instal·lació que permet disposar de calefacció a l’hivern i refrigeració a l’estiu, amb uns
+consums molt menors que les instal·lacions d’aire condicionat i calefacció amb
+radiadors. en els banys es disposa d’interruptors amb temporitzadors. a la part
+superior de l’edifici del consell comarcal de la garrotxa, on s’ubiquen les
+dependències de la fundació, hi ha instal·lades, des de l’any 2003, 18 plaques
+fotovoltaiques de 160w. aquestes plaques s’utilitzen per a l’autoabastiment energètic
+de l’edifici els dies laborables, aportant fins a un 4,2% de l’energia consumida. els
+caps de setmana, l’energia produïda passa a la xarxa elèctrica, cosa que reporta un
+benefici econòmic que permet reduir aproximadament un 15% la despesa elèctrica
+ordinària de l’edifici. durant l'any 2012 s’han instal·lat làmines de protecció solar als
+finestrals de la cara sud de l’edifici, que han ajudat a reduir l’entrada de radiació solar
+a l’interior de les instal·lacions, de manera que la temperatura interior s’ha aconseguit
+reduir sense necessitat de fer tanta despesa energètica amb l’aire condicionat. també
+s’han instal·lat detectors de moviment a la cuina, que permeten que els llums només
+estiguin encesos en cas de presència humana.
+
+
+
+                                                                                       20
+
+                              l'aire. quilograms equivalents de c02 llançats a
+   4.2.7 contaminació de l'aire.
+   l’atmosfera / unitat de producció
+
+   respecte l’any 2010 no hi ha hagut cap variació significativa en les emissions de co² a
+   l’atmosfera ja que no s’han modificat els hàbits de desplaçament de l’equip de
+   turisme garrotxa ni en horari laboral ni en els desplaçaments al lloc de treball.
+
+                         reduir les emissions atmosfèriques i reduccions assolides
+   4.2.8 iniciatives per reduir                                          assolides
+
+   es fomenta, en la mesura del possible, l'ús del transport públic, compartir cotxe en els
+   desplaçaments per motius laborals entre les persones treballadores de l'entitat i amb
+   als treballadors/treballadores d'altres entitats, i es facilita el teletreball.
+
+                       l'entorn. ubicació de l’empresa en un entorn adequat per
+   4.2.9 integració en l'entorn.
+   desenvolupar la seva activitat
+
+   l'entitat està ubicada en una zona urbana apta pel desenvolupament de les seves
+   activitats i de fàcil accés pels usuaris.
+
+   4.2.10 conservació de l'entorn.
+   4.2.10                   l'entorn. col·laboracions realitzades per al manteniment
+   dels espais naturals i culturals
+
+   d’acord amb la seva missió, turisme garrotxa col·labora a la millora del medi ambient,
+   i al manteniment i promoció dels espais naturals i culturals. durant l'any 2012, s'ha
+   col·laborat en la difusió de les activitats realitzades pel congrés volcandpark.
+
+   4.2.11 objectius o accions de millora
+   4.2.11
+   en el conjunt de l'edifici on s'ubica turisme garrotxa s'han fixat els següents objectius
+   de millora en aspectes ambientals:
+
+      · instal·lar un interruptor general que talli el corrent de tots els ordinadors excepte
+      el del servidor.
+      · instal·lar a la sala de servidors un sistema de refrigeració per aire quan a l'exterior
+      la temperatura sigui menors de 12-14ºc.
+      · ajustar el sistema de climatització de manera que no funcioni els caps de
+      setmana.
+
+4.3 indicadors socials
+   la cura pel vessant social de les accions de turisme garrotxa es fa palesa de forma
+   transversal en el desenvolupament del pla d’actuacions de l’associació.
+
+
+   4.3.1 grups d’interès
+      4.3.1.1 definició d’un mapa dels grups d’interès de l’organització
+
+   turisme garrotxa té dos grups socials d’interès molt diferenciats. per una banda,
+   l’intern (els seus socis i empreses adherides), i per l’altra l’extern (els visitants de la
+   comarca, tan els actuals com els potencials). cadascun d’aquests dos grans grups es
+   podria dividir en subgrups.
+
+   els principals grups d’interès a nivell intern són: els òrgans de govern, els treballadors i
+   treballadores, les empreses proveïdores, els socis, les empreses adherides i les empreses
+   solament associades als gremis; i a nivell extern: els visitants de la garrotxa, els mitjans
+   de comunicació, els operadors turístics i la comunitat/territori.
+                                                                                           21
+
+        grup d’interès           canal de comunicació        periodicitat       sistemàtica de valoració
+òrgans de govern                                                               actes
+assemblea                      reunions                  anuals                focus group i/o entrevistes
+
+junta de govern                reunions                  mensuals              focus group i/o entrevistes
+
+treballadors i treballadores   correu electrònic         periòdic              entrevista amb la direcció
+                               reunions col·lectives     discrecionals
+                               xarxes socials            discrecional
+empreses proveïdores           telefònic                 discrecional
+                               correu electrònic         discrecional
+                               correu ordinari           puntual
+                               xarxes socials            discrecional
+socis                          reunions                  discrecionals         focus group i/o entrevistes
+
+                               jornades                  puntuals
+                               xerrades i conferències   puntuals
+                               butlletins
+                               xarxes socials            setmanal/trimestral
+                                                         discrecional
+empreses adherides             reunions                  discrecionals
+                               jornades                  puntuals
+                               xerrades i conferències   puntuals
+                               butlletins                setmanal/trimestral
+                               xarxes socials            discrecional
+empreses solament              jornades                  puntuals
+associades als gremis          xerrades i conferències   puntuals
+                               butlletí                  setmanal
+visitants de la garrotxa       web                       permanent             estadístiques de visites
+                               xarxes socials            discrecional
+                               butlletí                  trimestral
+                               publicacions              permanent
+                               telefònic                 puntual
+                               correu ordinari           puntual
+                               correu electrònic         puntual
+                               punts d’informació        permanent             nombre de persones informades
+                                                                               nombre d’accessos
+                               punts digitals            permanent
+mitjans de comunicació         correu electrònic         puntual
+                               telefònic                 puntual
+                               rodes de premsa           puntuals
+                               presstrips                puntuals              nombre de presstrips atesos
+
+                               xarxes socials            discrecional          engagement i núm. de seguidors
+
+
+
+                                                                                                 22
+
+operadors turístics         famtrips                   puntuals            nombre de famtrips atesos
+
+                            workshops                  puntuals            nombre de contactes efectuats
+
+comunitat/territori         jornades                   puntuals            focus group i/o entrevistes
+
+                            xarxes socials             discrecional
+
+
+    4.3.1.2 fluxos relacionals existents entre l’organització i els grups d’interès
+
+    en el cas del grup d’interès intern, turisme garrotxa s’hi relaciona a través de
+    l’enviament de butlletins informatius i de l’organització d’assemblees altres accions
+    més puntuals, com sessions informatives, el viatge de formació, les sessions de
+    formació permanent., les taules de treball. a banda, de reunions que es puguin
+    mantenir de forma individual o col·lectiva amb persones d’aquest col·lectiu per a
+    tractar temes puntuals, sense descuidar els mitjans comunicació locals, que ajuden a
+    difondre les accions de turisme garrotxa entre la població local.
+
+    en el cas del grup d’interès extern, turisme garrotxa s’hi relaciona mitjançant el web
+    (donant ressò a les fotografies i vídeos dels visitants), les xarxes socials –l’únic mitjà
+    que permet un feedback, a part dels formularis de contacte del web-, un butlletí
+    informatiu, atenent periodistes i operadors turístics, assistint a workshops i fent ús i
+    col·laborant amb els mitjans comunicació d’àmbit nacional i estatal.
+
+    les xarxes socials ajuden a mantenir un contacte permanent amb part del grup
+    d’interès intern i extern, ja que no tots els seus membres hi són presents.
+
+    4.3.1.3 existència d’una sistemàtica de valoració de la satisfacció dels grups
+    d’interès
+
+    en el cas del grup d’interès intern, la seva satisfacció no s’analitza d’una forma
+    sistemàtica, sinó que és el contacte directe amb el sector el que permet detectar la
+    major part de conflictes.
+
+    4.3.2 condicions sociolaborals dels treballadors i les treballadores
+    4.3.2.1 % de personal amb contracte fix / total plantilla
+
+    el 25% del personal té contracte d’agent per a l’ocupació i el desenvolupament local,
+    modalitat de contractació a través de la qual la generalitat de catalunya assumeix la
+    major part del sou, però que implica que l’agent contractant sigui un ens local públic.
+    en aquest cas, un soci de turisme garrotxa com és consell comarcal de la garrotxa, va
+    arribar a un acord amb turisme garrotxa pel qual contractava una persona per a
+    l’equip tècnic de l’associació, i la cedia a turisme garrotxa, pagant l’associació el
+    percentatge corresponent a l’aportació local. el 75% restant de la plantilla té contracte
+    indefinit en tots els casos és a temps complet.
+    indefinit.
+
+
+
+
+    4.3.2.2 relació entre el salari més baix i el salari més alt
+
+    la retribució salarial de les persones treballadores de turisme garrotxa es regeix per les
+    condicions establertes en el conveni de personal laboral del consell comarcal de la
+    garrotxa, de manera que existeix una definició clara i per escrit dels diferents trams
+    salarials per categoria professional, a l’abast de tothom, segons la qual no existeix
+
+                                                                                             23
+
+discriminació per raó de gènere. la relació entre el salari base dels homes respecte el
+de les dones per una mateixa categoria professional és igual a 1.
+
+d’altra banda, la relació entre el salari més alt i el salari més baix és d’una proporció de
+2,71 propera a la mitjana dels països més desenvolupats de la unió europea i indica
+un nivell de cohesió social dins l’organització prou satisfactori.
+
+4.3.2.3 existència d’igualtat salarial dona / home per a una mateixa categoria
+professional
+
+turisme garrotxa aplica el conveni del consell comarcal de la garrotxa en matèria de
+sous i salaris, que no fa distincions salarials entre sexes per a una mateixa categoria
+professional.
+
+4.3.2.4 índex de permanència del personal a l’empresa
+
+a 31 de desembre de 2012, el 75% del personal feia més de 10 anys que treballava a
+turisme garrotxa, i un 25% en feia menys de 5.
+
+4.3.2.5 índex de baixes laborals
+
+a finals de gener va acabar una baixa per maternitat.
+
+                                                                        al
+                                                                  personal
+4.3.2.6 existència de mesures de conciliació de la vida laboral i person
+
+la flexibilitat horària és una de les mesures principals que s’apliquen per a conciliar la
+vida laboral i personal. també ho són la selecció dels dies concrets de treball a algunes
+fires, les dates de vacances...
+                                  personal i laboral
+mesures de conciliació de la vida personal                               % persones que se
+                                                                           n’han beneficiat
+horari de 37,5 hores setmanals, concentrat majoritàriament al matí                100%
+flexibilitat de l’horari laboral                                                  100%
+flexibilitat espaial                                                               75%
+permisos per assumptes propis no justificables                                    100%
+permisos (maternitat, mort o malaltia greu de familiars, trasllat de               25%
+domicili, funcions sindicals i per adopció)
+reduccions de jornada (per atenció de menors o de persones amb                     25%
+disminució física o psíquica, lactància...)
+llicències per estudis i assumptes propis, i excedències                          100%
+servei de cuina (consell comarcal de la garrotxa)                                  50%
+formació                                                                           75%
+
+4.3.3 participació de les persones treballadores
+4.3.3.1 nombre de reunions de caràcter informatiu amb les persones
+treballadores de l’empresa
+
+
+
+                                                                                         24
+
+tot i que no es realitzen reunions específiques sobre temes laborals, els treballadors de
+turisme garrotxa tenen la possibilitat d’obtenir aquesta informació a través de diverses
+vies: gerència, administració...
+
+4.3.3.1 accions per promoure la participació, la consulta i la negociació amb el
+personal en l’organització de l’empresa
+
+la participació dels treballadors de turisme garrotxa en la presa de decisions que
+afecten l’organització de l’entitat és elevada, i es materialitza en reunions periòdiques
+durant les quals s’aborden tots aquests temes.
+
+4.3.4 igualtat d’oportunitats
+4.3.4.1 % de contractacions obertes / contractacions anuals
+
+durant l’any 2012 no es va produir cap contractació.
+
+4.3.4.2 % de contractacions amb discriminació positiva a col·lectius
+desafavorits / total de contractacions
+
+durant l’any 2012 no es va produir cap contractació.
+
+4.3.4.3 % de contractes parcials / total de contractacions anuals
+
+durant l’any 2012 no es va produir cap contractació.
+
+4.3.4.4 existència de contractes amb empreses d’inserció laboral
+
+durant l’any 2012 no es va signar cap contracte d’aquestes característiques.
+
+4.3.4.5 % d’homes i dones dins la plantilla
+
+la plantilla de turisme garrotxa estava formada, l’any 2012, per un 75% de dones i un
+25% d’homes. comptabilitzant les persones contractades en el marc del pla
+d’ocupació pel consell comarcal de la garrotxa, un 50 % eren dones i un 50 %
+homes. pel què fa als òrgans de govern, les dades són les següents:
+
+junta: 83% homes / 16% dones
+assemblea: 77% homes / 22% dones
+
+la partitat als òrgans de govern ha desminuït respecte anys anteriors. aquest, però, és
+un paràmetre en el qual turisme garrotxa no hi pot intervenir, en ser els representants
+a l’assemblea de lliure designació per part dels socis.
+
+                      responsabilitat ocupats per dones / total de llocs de
+4.3.4.6 % de llocs de responsabilitat
+responsabilitat
+
+els dos llocs de responsabilitat (presidència i gerència) estan ocupats, respectivament,
+per un home i una dona. per tant, el 50%  50% dels llocs de responsabilitat de turisme
+garrotxa està ocupat per un home i el 50% restant per una dona.
+
+4.3.5 formació de les persones treballadores
+4.3.5.1 inversió destinada a la formació laboral
+
+l’any 2012 l’equip tècnic va assistir al següents cursos i jornades:
+                                                                                     25
+
+-   curs d’especialització de direcció de la comunicació d’una institució.
+    del 31 de gener al 29 de març (montse padrosa)
+    del 18 octubre al 20 desembre (david curós)
+-   7 de novembre jornada de com crear ocupació des del sector turístic organitzat per
+    l’escola d’administració pública
+-   18 de desembre update, alfons cornella i antonella broglia. una síntesis àgil de les
+    millors idees, experiències, tecnologies i projectes de negoci en el món, per entendre
+    el que passarà en el propers mesos.
+-   de setembre a maig, curs de francès a l’escola oficial d’idiomes.
+-   cursos 360º del patronat de turisme costa brava girona:
+        o twitter per equips de comunicació, vendes i màrqueting, 21 de nov. de 2012
+        o curs instagram, 11 de desembre de 2012
+        o curs de màrqueting relacional, 18 de desembre de 2012
+
+
+4.3.5.2 existència d’una metodologia d’avaluació de la formació
+
+no s’aplica cap metodologia concreta per a mesurar la qualitat de la formació rebuda,
+més enllà de participar a les enquestes proporcionades pels organitzadors de cada curs
+o jornada.
+
+4.3.5.3 categoria professional de les persones que reben formació
+
+les persones que poden rebre la formació són la totalitat dels treballadors de l’entitat:
+la gerent, els tècnics de l’associació i l’administrativa.
+
+4.3.5.4 llocs coberts per promoció interna
+
+la reduïda dimensió de l’estructura de turisme garrotxa (quatre llocs de treball) fa que
+mètodes com la promoció interna per cobrir vacants no siguin aplicables al cas, sinó
+que en cas d’haver de cobrir una vacant es recorre a mètodes de selecció de personal
+tradicionals.
+
+4.3.6 comunitat
+4.3.6.1 existència de compromisos amb la comunitat local a través de
+definicions de polítiques i objectius
+definicions
+
+la carta europea de turisme sostenible marca, precisament, que cal tenir present la
+població local en el desenvolupament del turisme. es aquest sentit, turisme garrotxa
+col·labora amb associacions de veïns o entitats excursionistes aportant premis en
+espècies per als sortejos o per a les activitats que aquestes entitats realitzen. sempre
+que sorgeix l’oportunitat insereix articles divulgatius en publicacions de caire local, i
+dóna suport al consorci per a la normalització lingüística oferint invitacions gratuïtes
+per a visites guiades a les parelles lingüístiques.
+
+
+
+
+                                                                                     26
+
+4.3.6.2 adaptació de la identitat cultural i a les tradicions del territori on
+s’ubica l’organització
+
+turisme garrotxa és, per definició, una entitat que promou un turisme sostenible i de
+qualitat a la comarca de la garrotxa. per tant, la identitat cultural i les tradicions del
+territori són, de fet, les bases de la seva actuació, elements sense els quals l’existència
+de turisme garrotxa no tindria cap sentit.
+
+4.3.6.3 prestació d’equipaments a la comunitat
+
+turisme garrotxa va cedir, l’any 2012, material per fires i mostres a diverses entitats
+vinculades al sector turístic de la garrotxa, com l’associació d’hostalatge de la
+garrotxa, l’ajuntament de la vall de bianya.
+
+                        comissions d’organització d’actes socials o culturals
+4.3.6.4 participació en comissions
+vinculats al territori
+
+turisme garrotxa és present a la taula de pessebres d’olot, en la qual es debat sobre
+l’organització de la mostra de pessebres d’olot.
+
+4.3.6.5 proporcionar informació als grups d’interès sobre els valors del territori
+
+per definició, en totes les seves accions turisme garrotxa divulga els valors identitaris
+del territori, en especial entre els grup d’interès extern (visitants actuals i potencials de
+la comarca), però també entre els grups d’interès intern, organitzant sessions de
+formació permanent entre els equipaments acreditats com a punts d’informació.
+
+4.3.7 cooperació interempresarial
+4.3.7.1 nombre d’associacions sectorials a les qual pertany l’organització
+
+malgrat que no són exactament associacions, turisme garrotxa forma part del club de
+turisme actiu de turisme de catalunya, al club de turisme natura actiu del patronat
+de turisme coata brava girona, i és present al consell d’administració del mateix
+patronat de turisme costa brava girona (a través del conseller de turisme del consell
+comarcal de la garrotxa, càrrec que també ocupa el president de turisme garrotxa). a
+més, a finals d’any l’assemblea va aprovar entrar a formar part de turebe, el club
+d’ecoturisme promogut per turespaña i que agrupa territoris declarats reserves de la
+biosfera o amb empreses acreditades amb la carta europea de turisme sostenible.
+
+4.3.7.2 nombre d’associacions sectorials del territori a les qual es pertany
+
+per bé que tampoc són pròpiament associacions, turisme garrotxa també pertany a la
+taula de turisme d’olot i a la taula de turisme de santa pau.
+
+4.3.7.3 nombre de fòrums de caràcter públic als quals pertany l’organització
+
+turisme garrotxa és un fòrum, un punt de trobada entre sector públic i sector privat,
+de manera que turisme garrotxa és, ella mateixa, l’espai de trobada de tots dos
+sectors. també forma part de la taula de tècnics de turisme de les comarques
+gironines.
+
+
+
+
+                                                                                         27
+
+                                                      terempresarials
+                                                   interempresarials
+4.3.7.4 nombre d’accions o programes de cooperació in
+
+s’ha continuat essent membre de la xarxa de senders itinerànnia i formant part del seu
+comitè de pilotatge. a través d’adri-noc també s’ha entrat a formar part del projecte
+red verde de turismo rural responsable, que coordinat des del grup leader de
+mallorca, impulsa accions per afavorir la responsabilitat aplicada al fet turístic.
+
+4.3.7.5 nombre d’accions o programes de cooperació interempresarials dins el
+territori
+
+l’acreditació d’empreses com a punts d’informació o amb el codi de gestió sostenible
+de la garrotxa i el collsacabra són dues accions de cooperació interempresarial a les
+quals turisme garrotxa dóna ple suport, i impliquen la cooperació de desenes
+d’empreses per a la consecució d’uns objectius comuns.
+
+4.3.7.6 nombre de convenis de pràctiques amb entitats de formació
+
+turisme garrotxa signa convenis de pràctiques amb les universitats cada vegada que
+algun estudiant s’interessa per fer una estada d’aprenentatge. en concret, durant l’any
+2012 es van acollir una persona en període de pràctiques.
+
+4.3.8 satisfacció del col·lectiu client
+4.3.8.1 existència de mecanismes per al manteniment de la confidencialitat
+amb el col·lectiu client
+
+s’aplica, com és preceptiu, la llei de protecció de dades de caràcter personal.
+
+4.3.8.2 existència de mecanismes que permetin conèixer els nivells de
+satisfacció del col·lectiu client
+
+per una banda, els equipaments acreditats com a punts d’informació disposen d’unes
+bústies de suggeriments, els quals es gestionen i es tramiten per tal de donar resposta
+a totes les apreciacions fetes pels visitants. per l’altra, existeix un registre de queixes i
+suggeriments de socis i empreses adherides.
+
+4.3.8.3 nombre de queixes registrades durant l’any
+
+durant l’any 2012 es van rebre 89 queixes i/o suggeriments a la xarxa de punts
+d’informació del parc natural de la zona volcànica de la garrotxa, la majoria
+relacionats amb deficiències en la senyalització d’itineraris o sobre equipaments
+turístics.
+
+
+
+
+                                                                                         28
+
+la majoria dels suggeriments (més d’un 60% del total), fan referència a:
+
+pagament d’aparcaments de l’àrea de santa margarida i can serra (un 25,84% de
+queixes sobre el total): des del mes d’octubre 2013, el parc natural va posar en marxa
+una prova pilot de pagament (2€/vehicle) per accedir a la zona d’aparcament de la
+fageda d’en jordà i dels volcans santa margarida i croscat. aquesta mesura ha
+provocat més de 22 queixes per part dels visitants que no aprovaven la mesura de
+pagament. la meitat del visitants que es queixaven era perquè no trobaven correcte
+que s’hagués de pagar per aparcar en un aparcament d’un parc natural. l’altra meitat
+es queixava perquè no creien just haver de pagar en els dos aparcaments; molts
+suggerien de fer un preu únic que fos vàlid per les dues àrees. i per últim, hi ha un
+parell de queixes per part de motoristes, els quals no veuen bé que les motos (que
+ocupen menys espai que els cotxes o autocars) hagin de pagar el mateix preu. el
+percentatge de queixes sobre aquesta mesura és un percentatge molt petit respecte al
+número d'usuaris al qual s'ha aplicat el pagament de l'aparcament (inferior al 0,01%).
+el parc natural considera que la gent no hi està acostumada, però ha anat assumint
+
+                                                                                   29
+
+que també cal mantenir els espais naturals i especialment les àrees de serveis, i no
+només s'ha de pagar a nuclis urbans i platges.
+
+neteja d’equipaments (un 20,22% de queixes sobre el total): una quinzena de queixes
+fan referència a la brutícia de les àrees de can serra i santa margarida. això inclou:
+zona de pícnic i papereres plenes i també a la manca de neteja dels wc públics de les
+dues àrees. amb l'experiència pilot de pagament als aparcament, el parc natural ha
+pogut reforçar la neteja a santa margarida i realitzar una reparació a la fossa sèptica
+de santa margarida que periòdicament presentava problemes que repercutien
+negativament en els lavabos. el parc natural espera que aquestes mesures facin
+disminuir substancialment, les incidències sobre lavabos durant el 2013.
+
+senyalització i itineraris (un 20,22% de queixes sobre el total): aquesta tipologia la
+podríem dividir en tres tipus de problemàtiques. una desena de queixes van destinades
+a la senyalització de la xarxa d’itineraris pedestres del parc natural, demanen que es
+millorin punts concrets on manquen rètols per seguir les rutes correctament. en segon
+lloc, hi ha unes 5 o 6 queixes sobre manca de senyalització en un indret concret del
+parc com és el volcà del croscat. durant el 2012, aquest volcà ha patit varis canvis en
+l’accés a les grederes per causes de despreniments i això ha provocat que els visitants
+trobin a faltar senyals que indiquin clarament els nous accessos.
+
+per últim, hi ha entre 3 i 4 queixes sobre la manca de senyalització per accedir a
+indrets d’olot com per exemple el casal dels volcans. realment per falta de
+pressupost, el parc natural no ha pogut fer una supervisió i manteniment adequats de
+la xarxa d’itineraris i és un tema pendent de solucionar. a principis de gener 2013,
+s'estan revisant els itineraris més utilitzats i les cartelleres.
+
+4.3.8.4 nombre de litigis o reclamacions formals per part del col·lectiu client
+
+turisme garrotxa no ha tingut mai cap litigi amb cap soci ni empresa adherida més
+enllà de l’impagament d’algunes quotes, ni tampoc n’ha tingut mai cap amb cap
+visitant.
+
+és previst que l’aprovació, produïda l’any 2011, del reglament de règim intern, ajudi
+a mantenir la tendència actual de no-existència de conflictes de funcionament interns
+de l’entitat.
+
+4.3.8.5 proporció anual de clients fidelitzats
+
+al llarg de 2012 es van registrar 8 altes i 5 baixes d’empreses.
+
+4.3.8.6 existència de mecanismes de comunicació amb els clients
+
+tal com ja s’ha apuntat anteriorment, la comunicació amb els clients depèn en gran
+mesura de cada cas, però cal destacar la multiplicitat de canals a través dels quals es
+comunica turisme garrotxa.
+
+les fórmules van des de reunions a comunicació per correu electrònic, per via
+telefònica, per correu ordinari, durant jornades, xerrades, conferències, a través de
+l’enviament de butlletins, a través del web, mitjançant les xarxes socials, gràcies a
+diverses publicacions, a través dels punts d’informació, en rodes de premsa, i durant
+l’organització de presstrips, famtrips, blogtrips i workshops.
+
+
+
+                                                                                    30
+
+  4.3.8.7 informació al client sobre la correcta utilització dels béns i serveis oferts
+
+  el client final disposa de consells de visita a les publicacions i al web, mentre que als
+  socis i empreses adherides se’ls envien esporàdicament recordatoris als butlletins,
+  tenen l’oportunitat de participar al curs de coneixement de la garrotxa, i poden
+  assistir de forma gratuïta a les sessions de formació permanent que s’organitzen cada
+  any durant les quals s’informa de les darreres novetats en matèria d’informació
+  turística, sempre en el marc de la cets.
+
+         empreses proveïdores
+  4.3.9 empreses
+  4.3.9.1existència de criteris de selecció d’empreses proveïdores i productes
+  (socials i mediambientals)
+
+  turisme garrotxa prioritza les empreses del territori, que tinguin un impacte
+  minimitzat, sempre i quan sigui possible, ja que turisme garrotxa sovint requereix de
+  proveïdors molt especialitzats, inexistents a la garrotxa.
+
+  4.3.9.2 termini mitjà de pagament a les empreses proveïdores
+
+  turisme garrotxa va pagar a una mitjana de 83,08 dies*, millorant la dada respecte
+  l’any passat, que era de 96,89 dies, i complint una proposta de millora prevista pel
+  2011, que era pagar a 90 dies.
+
+  *s’exceptuen del còmput els proveïdors amb els quals es tenen acords específics
+  relacionats amb els terminis de pagament.
+
+                       proveïdores locals / total d’empreses proveïdores
+  4.3.9.3 % d’empreses proveïdores
+
+     48% dels proveïdors són locals,
+  el 48%                       locals mentre que el 52% són de fora la garrotxa, incloses
+  empreses prestatàries de serveis que no existeixen a la comarca (telefonia, rotatives...).
+  malgrat que l’objectiu de turisme garrotxa és treballar sempre que és possible amb
+  proveïdors locals, enguany la proporció de proveïdors locals ha disminuït respecte l’any
+  anterior per les necessitats puntuals de contractació de productes i serveis que només
+  podien oferir empreses o entitats foranes. a banda, aquesta xifra cal analitzar-la tenint
+  present que bona part de les contractacions referents a fires o workshops es fan a
+  entitats com el patronat de turisme costa brava girona o l’agència catalana de
+  turisme, que tenen la seva seu fora de la garrotxa.
+
+  4.3.10 objectius de millora
+
+  en l’àmbit de la gestió social de turisme garrotxa, s’han establert els següents
+  objectius de millora:
+
+  - redacció de la segona part del reglament de règim intern.
+
+5. validació
+  aquesta memòria no ha estat verificada, però cal destacar que turisme garrotxa
+  disposa de la marca gestió sostenible, fet que porta associat una supervisió de la
+  memòria per part de la fundació garrotxa líder.
+
+
+
+
+                                                                                        31

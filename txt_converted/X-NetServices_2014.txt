@@ -1,0 +1,1165 @@
+                     1
+
+
+
+
+gemeinwohlökonomie
+
+bericht
+2013
+
+                                                                                        inhalt
+                                                                                        interview                                                                  seite 4
+                                                                                        das unternehmen und gemeinwohl / testat: peer evaluierung                 seite 10
+                                                                                        das unternehmen x-net                                                     seite 13
+                                                                                        a1 ethisches beschaffungswesen                                            seite 19
+                                                                                        b1 ethisches finanzmanagement                                             seite 25
+                                                                                        c1 arbeitsplatzqualität und gleichstellung                                seite 26
+                                                                                        c2 gerechte verteilung der erwerbsarbeit                                  seite 29
+                                                                                        c3 forderung und förderung ökologischen verhaltens der mitarbeiterinnen   seite 29
+                                                                                        c4 gerechte verteilung des einkommens                                     seite 30
+
+      „getting something right, even though it may get you                              c5 innerbetriebliche demokratie und transparenz
+                                                                                        d1 ethisches verkaufen
+                                                                                                                                                                  seite 30
+                                                                                                                                                                  seite 33
+                                                                                        d2 solidarität mit mitunternehmen                                         seite 35
+                                                                                                                                                                             3
+ nothing, is the spirit of true craftsmanship. and only that                            d3 ökologische gestaltung der produkte und dienstleistungen
+                                                                                        d4 soziale gestaltung der produkte und dienstleistungen
+                                                                                                                                                                  seite 35
+                                                                                                                                                                  seite 37
+                                                                                        d5 erhöhung des sozialen und ökologischen branchenstandards               seite 37
+kind of disinterested commitment — or so i believe — can                                e1 sinn und gesellschaftliche wirkung der produkte / dienstleistungen     seite 39
+                                                                                        e2 beitrag zum gemeinwesen                                                seite 41
+
+lift people up emotionally; otherwise, they succumb in the                              e3 reduktion ökologischer auswirkungen
+                                                                                        e4 gemeinwohlorientierte gewinnverteilung
+                                                                                                                                                                  seite 41
+                                                                                                                                                                  seite 43
+                                                                                        e5 gesellschaftliche transparenz und mitbestimmung                        seite 43
+struggle to survive.“ (richard sennet: 2006: the culture of the new capitalism. 195f)   beschreibung des prozesses der erstellung der gemeinwohl-bilanz           seite 45
+                                                                                        ausblick                                                                  seite 45
+                                                                                        impressum / credits                                                       seite 47
+
+                                                  wieso überhaupt gemeinwohl?
+
+
+                        eines führt zum anderen. nicht automatisch, aber im fall x-net war
+                        es so. der weg vom auf open source setzenden it-unternehmen zur
+                        gemeinwohlökonomie ist ja nicht weit, erklären gleich nikolaus dürk
+                        und roland lehner.
+
+4                                                                                                                                       5
+
+
+
+
+    was bringt den it-unternehmer                 wiedergefunden. die open-source-sache       zündende impuls mit einem peer-audit.
+    zum gemeinwohl?                               passt sehr gut zu gemeinwohl. beides        die gemeinwohlökonomie ist ja in ener-
+                                                  ist auf offenheit aufgebaut, auf nach-      giefeldern aufgeteilt. und im energiefeld
+    nikolaus dürk: wir haben 1999 x-net           haltigkeit, vertrauen. man nimmt nicht      oberösterreich hatte sich plötzlich eine
+    gegründet, roland lehner und ich. das         nur, sondern gibt etwas zurück an die       gruppe gebildet, die gemeinsam, also
+    hat in einem kaffeehaus gestartet, im         gemeinschaft. für uns ist die gemein-       in einem peer-audit, eine bilanz erstel-
+    café meier in linz. unser ansatz war es,      wohlökonomie deshalb das passende           len wollte. in diesen prozess sind wir
+    kleinen und mittleren betrieben open          wirtschaftssystem.                          eingetreten und haben dann die unter-
+    source näherzubringen.                                                                    schiedlichen indikatoren durchgearbeitet
+                                                  nikolaus dürk: wir fanden uns in sehr       – darunter auch welche, die neuland für
+    roland lehner: zuerst gab es eine büro-       vielen indikatoren wieder. die gemein-      uns waren.
+    gemeinschaft mit künstlern und weite-         wohlbilanz besteht ja aus 17 verschie-
+    ren einzelunternehmen im edv-bereich.         denen indikatoren. eigentlich hatten wir    roland lehner: ein großer indikator ist
+    daraus hat sich x-net entwickelt.             gesagt, das haben wir in den letzten zehn   die lieferantenbeziehung. wer sind die
+    mittlerweile sind wir elf leute. und auch     jahren schon so gelebt und das ist jetzt    lieferanten für unser unternehmen?
+    die bürogemeinschaft gibt es noch und         eine messung, wo wir uns den spiegel        die sollte entsprechend den gemein-
+    ist gewachsen.                                vorhalten und schauen, wie läuft es denn    wohlkriterien passend sein. nicht nur
+                                                  wirklich in unserem unternehmen.            den billigstbieter zu nehmen, sondern
+    nikolaus dürk: es gibt drei firmenberei-                                                  zu schauen, passt ein lieferant zu dieser
+    che. einmal die netzwerkbetreuung für         roland lehner: es ist ein wesentliches      idee, ist er nachhaltig unterwegs, schafft
+    firmen. als klassischer it-dienstleister.     selbstreflexionstool für uns gewesen.       er arbeitsplätze in der region? teilt er
+    das machen wir für ein-personen-              man macht etwas, wirtschaftet, und          im weitesten sinne die gleichen wert-
+    unternehmen genauso wie für große un-         durch so eine gemeinwohlbilanz merkt        haltungen? das gilt es immer parat zu
+    ternehmen. das zweite sind individuelle       man erst, wo kann man etwas verbes-         haben, diese kriterien mitzudenken.
+    softwareentwicklung und speziallösun-         sern, wo hat man verantwortung und
+    gen. wir bauen roboter und entwickeln         kann mit kleinen schritten das eigene       nikolaus dürk: in diesem peer-audit-
+    software für robotersysteme, die indi-        unternehmen vorwärtsbringen und für         verfahren kann man auch sehr viel von
+    viduelle medien erzeugen: cds, dvds,          das gemeinwohl etwas tun.                   anderen unternehmen lernen, man
+    blu-rays, compactflash, solid-state-                                                      bekommt tipps und anregungen. es
+    disks. da sind wir international tätig. der   kamen durch die indikatoren                 muss nicht jeder selbst seine lieferan-
+    dritte geschäftsbereich ist forschung         unerwartete anregungen hinzu?               ten abklopfen, welchen stromanbieter
+    und entwicklung, wo wir open-source-                                                      man nimmt, kann auch in der gruppe
+    systeme entwickeln, die sich meist mit        nikolaus dürk: als wir vor drei jahren      entstehen.
+    gemeinwohlthemen beschäftigen.                zum ersten mal probierten, eine gemein-
+                                                  wohlbilanz zu erstellen, sind wir drauf-
+    roland lehner: der zugang zur gemein-         gekommen, dass man sich wesentlich
+    wohlökonomie war für uns naheliegend.         intensiver in diesen prozess hineinden-
+    wir hatten vor vier jahren zum ersten         ken muss. und dass man viele menschen
+    mal davon gehört. wir haben uns in            im unternehmen integrieren muss. uns
+    der grundlegenden philosophie sofort          lief die zeit davon. dann kam dieser
+
+6                                                                                                                                                                                                                                                                      7
+
+
+
+
+ist eine gemeinwohlbilanz wie                aktien besitzen. jeder muss viel geld        eines der projekte des open-source-         sorgen sich manche beruflichen              umgekehrt betrachtet: gibt es                arbeitungsprogramm.“ interessant ist,
+ein zertifikat zu sehen? wie wird            verdienen. wir haben gesehen, dass das       systems erlebt: linux. wir setzen es        partner um die professionalität,            unternehmen und organisati-                  dass diese software innerhalb von zwei
+sie gemessen und kontrolliert?               nicht funktioniert. als unternehmer hat      auch selber ein, sind aber genauso affin    wenn man mit dem gemeinwohl                 onen aus dem gemeinwohlbe-                   jahren selbst alles komplett umstellt
+                                             man eine idee, die verfolgt man sehr         zu windows und können auch mit mac.         argumentiert?                               reich, die durch x-net ein gestei-           – design, funktionen. das akzeptieren
+nikolaus dürk: es gibt indikatoren, die      gerne, ist mit herzblut dabei, aber man      wir haben gesehen, wie man mit open                                                     gertes interesse an open source              die leute. aber nicht, dass man sagt,
+auf zahlen basieren. und solche, die         hat auch verantwortung. die gemein-          source in einer globalen gesellschaft et-   roland lehner: rückmeldungen in diese       entwickelt haben?                            man nimmt etwas freies, wo man kein
+selbst sehr variabel zu definieren sind.     wohlökonomie zeigt diese verantwortung       was schaffen kann, das auf dem prinzip      richtungen haben wir keine bekommen.                                                     anti-viren-programm braucht. das ist
+diese selbsteinschätzung wird von der        wieder auf. in den unterschiedlichsten       des teilens beruht. x-net ist nicht nur     was man aber immer machen muss, ist         roland lehner: das kann man schon            also nicht etwas, das man von heute
+peer-gruppe oder einem externen audi-        bereichen. intern gegenüber mitarbei-        ein versuch, das im realen wirtschaftsle-   zu erklären, was gemeinwohl bedeutet.       so sagen, ja. open source ist bei vielen     auf morgen wieder umstellt. aber die
+tor geprüft. je nachdem werden punkte        tern, nach außen hin gegenüber der           ben zu machen. sondern open source ist      dass es bei diesem wirtschaften nicht       unternehmen nicht ein großes thema.          möglichkeit ist da. und es ist gut, dass
+beziehungsweise prozente vergeben. zur       kommune, hinsichtlich der natur. man         eine philosophie, die uns getrieben hat     um kommunismus oder irgendwelche            es sind vorbehalte da. gleichzeitig zeigen   man sagen kann: „du kannst es gratis
+zeit haben wir in unserer bilanz beinahe     lebt ja nicht in einem glaskasten, son-      und weiter treibt. die gemeinwohlöko-       kruden philosophien geht, sondern um        aber die letzten jahre ganz klar, dass       runterziehen und installieren. es kostet
+500 punkte erreicht. natürlich ist unsere    dern man interagiert und diese interakti-    nomie und diese philosophie haben sehr      gemeinschaftliche orientierung. wenn        gerade lösungen basierend auf open           nichts. du machst nichts illegales.“ wir
+intention später mehr zu haben. das ist      on gehört gut abgestimmt.                    viele parallelen.                           man aber erklärungen schafft, dann wird     source sichere lösungen sind. nur die        weisen die leute darauf hin. seit 13
+wie ein prozess, der begleitend für die                                                                                               das auch akzeptiert. wir haben eher das     gemeinschaft kann sichere lösungen           jahren. und wir beweisen auch, dass das
+zukunft da sein soll. man kann maximal       nikolaus dürk: die frage ist immer, wie      roland lehner: wir werden immer             gegenteilige – dass wir vermehrt kunden     bieten. weil open-source-software nach-      sehr gut funktioniert.
+1000 punkte erreichen.                       man etwas tut. ist man rücksichtslos,        gefragt: wie kann man mit open source       bekommen, die sagen: „ihr schauts da-       vollziehbar ist, kann man auch nachvoll-
+                                             gewinnmaximiert, beutet man mitarbei-        überhaupt geld verdienen? also, wir         rauf, dass ihr ökologisch und nachhaltig    ziehen, welche probleme darin stecken.       roland lehner: open source ist profes-
+roland lehner: man kann annehmen,            ter aus oder schafft man ein miteinan-       beweisen das schon seit geraumer zeit.      agiert, das finden wir gut.“ das ist also   bei proprietärer software ist das ja nicht   sionalität. das wissen sehr viele kunden
+dass in gewissen branchen sicher nicht       der? teilt man mit der konkurrenz den        das ist das gleiche wie mit der gemein-     durchaus thema.                             möglich. man kauft irgendein produkt         anfangs nicht, aber die meisten server-
+1000 punkte erreichbar sind. aber man        markt? spricht man sich ab, nicht illegal,   wohlökonomie. auch mit dieser lässt                                                     und weiß nicht, wie etwas funktioniert       landschaften basieren auf open-source-
+kann sich in schritten verbessern, kann      aber um fair miteinander umzugehen?          sich natürlich erfolgreich wirtschaften.    nikolaus dürk: besonders in der it-         bzw. was funktioniert und was nicht. bei     lösungen. gerade in einem unterneh-
+kleine steine aufeinanderlegen und           diesen fairen umgang hat es früher           das ist kein widerspruch, sondern sogar     branche, wo man sagt, es kommt sowie-       open source hat man eher sicherheit.         men sind die arbeitsplätze vielleicht mit
+versuchen, dem gemeinwohl besser zu          gegeben. er war halt regional abgesteckt     das bessere wirtschaften.                   so die gesamte hardware aus fernost         und das akzeptieren schön langsam die        proprietärer software ausgerüstet, aber
+dienen.                                      und jetzt sind wir globalisiert. durch                                                   und man hat ohnehin keine alternativen.     anderen unternehmen.                         damit das internet überhaupt funktio-
+                                             medien, handel usw. wir müssen erst          nikolaus dürk: man darf auch gewinne        wenn man sich das im detail anschaut,                                                    niert, braucht man open source.
+unternehmertum und gemein-                   wieder lernen, in dieser globalisierten      erzielen und es hat auch nichts mit kom-    kann man aber sehr wohl soft- und           nikolaus dürk: in den letzten 20 jahren
+wohl mag für viele oder einige               welt die richtigen spielregeln zu finden.    munismus zu tun.                            hardware auch von kleinen nehmen.           hat sich eingebürgert hat, dass nur ein      nikolaus dürk: und fast in jedem auto,
+als gegensätzliches begriffpaar              so dass unser gemeinsames wohl nicht                                                     es gibt noch regionale anbieter. natür-     betriebssystem gelernt wird. dass nur        jeder waschmaschine, in jedem flug-
+erscheinen. warum geht das für               auf der strecke bleibt.                                                                  lich können die mit „geiz ist geil“ nicht   ein softwarepaket verwendet wird. das        zeug ticken open-source-systeme.
+euch zusammen?                                                                                                                        konkurrieren. das ist unmöglich. wir        ist ein genialer schachzug dieser firma      außerdem tragen die meisten mit ihrem
+                                             roland lehner: das passt mit der open-                                                   können auch so billig nicht anbieten.       gewesen. es ist sicherlich eine umstel-      smartphone auch ein linux-betriebssys-
+nikolaus dürk: ich weiß nicht, ob das        source-philosophie sehr gut zusammen.                                                    aber wir können mehrwert schaffen. der      lung, zu sagen, ich nehme ein anderes        tem durch die gegend: android ist linux.
+wirklich ein gegensatz ist. in den letzten   man sieht, wenn man gemeinschaftlich                                                     mehrwert ist, dass man bei uns anrufen      programm, wo das icon ein wenig anders
+15-20 jahren ist es vielleicht ein wenig     etwas schaffen möchte, funktioniert das                                                  kann. dass man mit den leuten reden         aussieht und woanders sitzt. das ist
+auseinandergelaufen.                         auch. durch das teilen wird das ding                                                     kann. dass die qualität besser ist. weil    meist nicht das problem der geschäfts-
+                                             größer, besser, jeder kann profitieren.                                                  es nicht um masse geht, sondern um das      führung, sondern es liegt an den mitar-
+roland lehner: in den letzten 15-20                                                                                                   individuelle, spezielle, auf das eingehen   beitern, die sich quer legen und sagen:
+jahren ist die gewinnmaximierung stark       nikolaus dürk: wir sind seit beginn des                                                  von wünschen.                               „nein, ich will dieses bestimmte textver-
+in den vordergrund gerückt. jeder muss       internets dabei. wir haben das durch
+
+8                                                                                                                                        9
+
+
+
+
+roland lehner: zu uns kommen gerade          es wäre toll, wenn entscheider in den           externen berater, der teures geld ge-
+auch kunden, weil sie open-source-           unterschiedlichsten öffentlichen institu-       kostet hat. wenn man sich dem nicht un-
+lösungen möchten. große industriebe-         tionen das auch erkennen würden. wenn           terwirft, ist es sehr einfach, aus diesem
+triebe, die gesagt haben, wir vertrauen      ich hier investiere, investiere ich nicht al-   prozess wieder auszusteigen. wenn man
+der kleinen x-net, entwickelt uns eine       lein in die regionale it-wertschöpfungs-        aber sagt, man hat ein gemeinsames
+software auf open-source-basis, damit        kette, weil wissen geteilt wird, bringt es      ziel, in vier monaten möchte ich diese
+wir unabhängig sind. ein kleines un-         allen etwas. da muss noch ein großer            gemeinwohlbilanz schaffen, dann ist es
+ternehmen kann große kunden nur              umdenkprozess passieren, der gerade             so einfacher. der nächste schritt wird
+dann an land ziehen, wenn es mit open        langsam anläuft.                                sein, einen externen auditor heranzu-
+source arbeitet. dadurch ist der kunde                                                       ziehen, der sich speziell nur das unter-
+unabhängig. die software kann nicht          was habt ihr für tipps an un-                   nehmen anschaut und die bilanz. das ist
+eingestellt werden. er kann auch einen       ternehmen, die eurem beispiel                   etwas, das wir bereits überlegen.
+anderen dienstleister daran weiterar-        folgen möchten? was kann man
+beiten lassen. das wird er nicht machen,     sehr einfach hinsichtlich des
+wenn die leistung gut ist, aber er ist auf   gemeinwohls umstellen?
+der sicheren seite.
+                                             roland lehner: für ein unternehmen,
+nikolaus dürk: wir sehen das auch bei        das sich damit auseinandersetzen möch-
+unseren entwicklern. die kommen alle         te, ist wichtig zu wissen, dass das zeit
+aus einer ecke, das wird in der schule ja    braucht. man kann nicht einfach einen
+nur so gelernt, und sehen dann bei uns,      katalog aufschlagen und sagen: „okay,
+dass es auch etwas anderes gibt. und         das passt und das nicht.“ selbstreflexion
+keiner hat den wunsch zurückzuwech-          bedeutet arbeit an einem selbst. diese
+seln. weil ihm open source viel mehr         zeit muss ich mir nehmen. dann erfährt
+freiheiten gibt, wissen zu tauschen. wo      man sachen, die man verbessern kann.
+nicht überall ein geschäftsmodell dahin-     das braucht auch wieder zeit. das ist
+ter stecken muss. sondern ich gebe der       ein steter prozess. wenn man den weg
+gemeinschaft etwas zurück. ich helfe et-     aber mal eingeschlagen hat, dann macht
+was zu fixen, einen fehler zu finden und     er spaß und es ist super zu erleben, wie
+das system für alle besser zu machen.        man mit dem eigenen unternehmen
+spannend ist, wie entwickelt sich diese      besser agieren kann.
+gesellschaft weiter? wie schaffen wir es,
+dass wir die wertschöpfungskette hier        nikolaus dürk: für uns hat es am meis-
+in europa erhöhen? das kann nicht sein,      ten gebracht, das mit anderen unterneh-
+dass wir alles auslagern. die it-branche     men zu machen. in der gruppe. das war
+ist ein riesengroßer zweig. europa hat       toll. wir möchten diesen unternehmen
+open source maßgeblich mitgeprägt.           auch danken. außerdem hatten wir einen
+
+„an embracing definition of craftsmanship would be: doing something
+well for its own sake. self-discipline and self-criticism adhere in all
+domains of craftsmanship; standards matter, and the pursuit of quality
+ideally becomes an end in itself.“ richard sennet: 2006: the culture of the new capitalism. 104f
+
+
+
+
+10                                                                                                                          11
+
+                                  das unternehmen
+                                  und gemeinwohl
+
+
+
+                                  vor rund drei jahren gab es den ersten        für den gwö bereich bei der x-net sind
+                                  kontakt mit der gemeinwohlökonomie-           verantwortlich:
+                                  idee. die grundphilosophie und werte-
+                                  haltung entsprach in weiten bereichen         • mag.(fh) katharina kloiber, kk@x-net.at
+                                  unserem tun. ein erster versuch, eine           (derzeit in mutterschutz)
+                                  gemeinwohlökonomiebilanz zu erstellen
+                                  mit einer intensiven auseinandersetzung       • mag. roland lehner, rl@x-net.at
+                                  der gwö-dimensionen, wurde begonnen.
+                                  bis zu einer fertigen bilanz schafften wir    • nikolaus dürk, mas, nd@x-net.at
+                                  es damals noch nicht. unser hauptan-
+                                  liegen lag in dieser zeit in der fachlichen   x-net ist im energiefeld oö und im
+                                  unterstützung und beratung. im früh-          verein zur förderung der gemeinwohl-
+                                  jahr 2013 begannen wir schließlich im         ökonomie tätig.
+                                  rahmen einer peer-group unsere bilanz         x-net ist dabei ansprechpartner, berater
+                                  in angriff zu nehmen.                         und umsetzer, v.a. in fragen der it. pro-
+                                                                                fessionalität verbunden mit teils ehren-
+                                                                                amtlichem engagement sind die trieb-
+                                                                                motoren. ziel ist es, den open source
+                                                                                gedanken in der organisationsstruktur
+                                                                                der gemeinwohlökonomie zu verankern.
+                                                                                im vergangenen jahr entstand so ein
+                                                                                neuer mail- und list-server sowie die
+                                                                                umsetzung einer zentralen datenbank
+                                                                                (backoffice).
+
+     „die idee der x-net entspringt dem geiste der großen kaffeehausliteratur.
+     das café und die x-net dienen der inspiration, dem ideenaustausch und
+     der verbreitung von kultur und geist. open source und gemeinwohl sind
+     jene werte, die wir leben und weitergeben.“ mag. roland lehner
+
+
+
+
+12    philosophisches das handwerk                                                                                                13
+
+
+
+
+                                               tätigkeitsbereich
+
+                                               gemeinsam etwas schaffen und das             seit bestehen ist x-net der open source
+                                               gewerk mit allen offen zu teilen - das       philosophie verhaftet und die mitarbeiter
+                                               ist zentrales kennzeichen und zugleich       und mitarbeiterinnen zeigen in ihrem
+                                               triebfeder der open source philoso-          arbeitsalltag dieses gefühl von enga-
+                                               phie. jeder hat teil und kann kreati-        gement und die verpflichtung an der
+                                               vität, ideen, kraft und mut einbringen.      allgemeinheit, am gemeinwohl.
+                                               transparenz und nachvollziehbarkeit
+                                               ist fokus des tuns. der open source
+                                               dienstleister verpflichtet sich dabei mehr
+                                               der klassischen handwerksidee – etwas
+                                               um seiner selbst willen gut zu tun – als
+                                               der modernen globalisierten und dabei
+                                               oftmals abgeschotteten arbeitsteilung.
+                                               die walz des gesellen bildet das vorbild
+                                               für die virtuelle wanderschaft des open
+                                               source handwerkers. im stetigen aus-
+                                               tausch und in hoher selbstverantwor-
+                                               tung perfektioniert er sein können, seine
+                                               werke – auf die er stolz sein kann – sind
+                                               schlussendlich für jedermann sichtbar.
+                                               als handwerker leistet er mit seinem
+                                               gewerk dienst an der gesellschaft und
+                                               fördert das gemeinwohl.
+
+
+
+
+     das unternehmen
+     allgemeine infos
+
+     firmenname: x-net services gmbh
+     • branche: it-dienstleister
+     • anzahl der mitarbeiterinnen: 10
+     • anzahl der mitarbeiterinnen (vollzeitäquivalent): 9,7
+     • umsatz: 1,4 mill. eur (kumulierter umsatz)
+     • tochtergesellschaften / verbundene unternehmen: x-net service gmbh
+       und x-net technologies gmbh sind töchter der x-net holding gmbh
+     • firmensitz: spittelwiese 15, 4020 linz, austria, https://www.x-net.at
+     • berichtszeitraum: kalenderjahr 2013
+
+                                                                                                     15
+
+
+
+
+14
+     musisches die kunst der vielfalt
+
+               unsere produkte und leistungen möch-         die lehrjahre
+               ten wir als werdegang eines handwer-         des handwerkers
+               kers sinnbildlich veranschaulichen. mit
+               der lehre werden die grundkenntnisse         • it-netzwerktechnik
+               angeeignet.                                  • server
+               die grundkenntnisse beschreiben die          • domain- und webhosting
+               basiskompetenzen der modernen it-            • dns
+               technik. als geselle perfektioniert man      • vpn
+               das gelernte und neue fähigkeiten bzw.       • handel
+               neues wissen zeichnen diese phase aus.       • support für alle fragen rund um edv
+               im it-bereich bedeutet dies die erwei-
+               terung der produktpalette, gesamtlö-
+               sungen rücken in den vordergrund. die        der handwerker als geselle
+               aufgaben des meisters liegen u.a. in der
+               weitergabe seines wissens. kreativität,      • virtualisierung
+               unternehmerisches denken und gemein-         • voip
+               schaftliche entscheidungen im team           • gateway / ip fire / tunnel in tunnel
+               bestimmen den arbeitstag.                    • groupware-lösungen
+                                                            • dms/cms
+               für die x-net war der aufbau eines
+               mitarbeiterstammes mit gleichzeitigem
+               eintritt in den geschäftsbereich der indi-   der meister
+               vidualsoftwareprogrammierung bestim-
+               mend für diesen status. das kunsthand-       • individualsoftwareentwicklung
+               werk verwebt künstlerische fähigkeiten       • hardwareentwicklung
+               mit kreativität und handwerklichem             (inkl. steuerungssoftware)
+               geschick. forschungsprojekte, vernetz-       • roboterlösungen
+               tes denken, firmen- und institutsüber-
+               greifende kooperationen sind unser
+               kunsthandwerk.                               das kunsthandwerk
+
+                                                            • vernetzung
+                                                            • forschungsprojekte
+                                                            • förderprojekte
+                                                            • die weitergabe von wissen
+                                                              durch beratungen
+                                                            • nachhaltige weiterentwicklungen
+                                                              durch lizenzierung im open source
+                                                              gedanken
+
+     „der einfachste weg wäre, alles so zu belassen, wie es war. verbesser-
+     ungen bei einem nachhaltigen beschaffungswesen bei den vielen
+     unterschiedlichen bereichen von x-net ist ein permanenter prozess,
+     der das mitwirken aller erfordert“ niki dürk
+                                                                                                                               17
+
+
+
+
+16                               x-net vision
+
+
+     • miteinander intern & extern (kunden/   historisches -                              gemeinschaftliches -
+       partner)                               die unternehmensgruppe x-net                die mitarbeiterinnen
+     • hochwertige it-dienst- und program-
+       mierleistungen                         • gründung 1999                             opensource bedeutet im engeren sinne
+     • open source gedanken umsetzen und      • 2001: umfirmierung in x-net edv-con-      quelloffen. und so verstehen wir auch
+       vermitteln                               sulting & netzwerktechnologien gmbh       unser unternehmen – offen. offenheit
+     • unabhängigkeit der kunden stärken      • 2007: umstrukturierung des unter-         schafft gemeinschaft, schafft vertrauen,
+     • projekte in kooperation durchführen      nehmens: die x-net edv-consulting &       formt ein team. eigenverantwortung ver-
+                                                netzwerktechnologien gmbh wurde in        bunden mit der sicherheit, sich auf den
+                                                x-net services gmbh umbenannt, die        anderen verlassen zu können, zeichnet
+                                                x-net technologies gmbh und die x-        unsere sehr flache organisationsstruk-
+                                                net holding gmbh wurden gegründet.        tur aus.
+                                              • interdisziplinäres gemeinschaftsbüro
+                                                von beginn – genannt xroom
+
+                                              die gemeinwohlbilanz basiert, wenn
+                                              nicht anders detailliert dargestellt, auf
+                                              den aggregierten daten der drei x-net
+                                              gesellschaften.
+
+                                                                                                                                   19
+
+
+
+
+18
+                                          a1 ethisches beschaffungswesen
+
+
+
+     die werkstatt - xroom                       bestand anderer firmen zusammenge-         entsprechend kaufen starke kaffee-
+     als arbeitsmittelpunkt                      stellt. möbel, die anderswo ausgesondert   trinker öfter kaffeebohnen ein, jene mit
+                                                 werden sollten, finden bei uns ein neues   einem geringeren kaffee-konsum eher
+     der großteil des handwerks und der          zuhause. gerade bei möbelstücken und       seltener. bei den kaffee-trinkern selbst
+     vielfältigen dienstleistungen wird vom      einrichtungsgegenständen ist second        gibt es wiederum ein unterschiedli-
+     xroom aus erbracht. dieser befindet         hand für uns bis heute ein wesentliches    ches beschaffungsverhalten: die einen
+     sich im 3. stock und wird angemietet.       thema. im sommer 2013 haben wir            bevorzugen bio- und fairtrade-produkte
+     durch die zentrale lage in linz ist der     neuerlich gebrauchte schreibtische für     und kaufen dementsprechend ein, die
+     xroom für mitarbeiter, kunden, liefe-       besprechungen beschafft.                   anderen legen weniger wert darauf und
+     ranten und projektpartner mit öffentli-     die bürotische der mitarbeiter stammen     kaufen im nächstgelegenen supermarkt.
+     chen verkehrsmitteln erreichbar.            größtenteils von der böhmerwaldwerk-       für die zukunft sind wir bestrebt, auch
+     als arbeitsmittelpunkt ist der xroom        statt, ein geschäftsfeld des vereins       in der beschaffung von lebensmitteln
+     mit der notwendigen infrastruktur, aber     alom (verein für arbeit und lernen         und reinigungsbedarf ein stärkeres
+     auch mit den erforderlichen büromate-       oberes mühlviertel). alom unterstützt      bewusstsein über herkunft und nach-
+     rialien ausgestattet. für die beschaffung   menschen aus der region beim einstieg      haltigkeit der einzelnen produkte zu
+     sind dabei vor allem folgende bereiche      in den arbeitsmarkt sowie menschen,        schaffen.
+     zu beschreiben: energie, büromöbel &        die in ihrem erwerbsleben vor einem
+     einrichtung, lebensmittel & reinigungs-     arbeitsplatzwechsel oder vor beruflicher   büromaterial
+     bedarf sowie büromaterial.                  neuorientierung stehen.
+                                                 weitere einrichtungsgegenstände wie        bei der beschaffung von büromaterialien
+     energie                                     z.b. regale oder bürosessel werden bei     (z.b. papier, ordner, trennblätter, stifte
+                                                 bedarf von diversen möbel-großhändlern     etc.) steht zur zeit der preis im vorder-
+     im mai 2013 haben wir die stromver-         bzw. baumärkten bezogen.                   grund. nachhaltigkeit war in diesem
+     sorgung für den xroom auf ökostrom                                                     bereich bislang kaum ein thema.
+     umgestellt.                                 lebensmittel &                             lediglich in teilbereichen wird regiona-
+     die heizung des gesamten hauses             reinigungsbedarf                           lität berücksichtigt, als beispiel ist der
+     erfolgt über die öl-zentralheizung.                                                    einkauf von vorgedrucktem firmenpa-
+     möglichkeiten auf alternative heizformen    die beschaffung von lebensmitteln wie      pier sowie von briefkuverts zu nennen.
+     allein für den xroom umzusteigen sind       obst, knabbereien, milch, getränken        lieferant hierfür ist eine in oberöster-
+     kaum vorhanden. die umstellung der          und kaffee sowie von reinigungs- und       reich angesiedelte druckerei.
+     gesamten zentralheizung auf eine nach-      sanitärmitteln erfolgt zur zeit nach
+     haltigere lösung müsste vom hausbesit-      bedarf und wird von unterschiedlichen
+     zer initiiert werden.                       personen durchgeführt. statt klaren
+     büromöbel & einrichtung                     zuständigkeiten für den einkauf steht
+     unser zentrales anliegen liegt darin,       das miteinander und die abstimmung
+     dass sich mitarbeiter und gäste im          untereinander an erster stelle, wobei
+     xroom wohlfühlen. dies spiegelt sich        eigenverbrauch und umweltbewusstsein
+     im facettenreichen bürodesign wieder,       der einzelnen xroom-handwerker eine
+     dessen einrichtung und möblierung von       große rolle spielen.
+     unterschiedlichen lieferanten bezogen       dies ist am besten an einem beispiel
+     wird. die erste einrichtung wurde mit       zu erklären: der kaffee-konsum der
+     gründung des xrooms aus dem alt-            einzelnen personen schwankt. dem-
+
+                                                                                                                                     21
+
+
+
+
+20
+
+
+     die maschinenhäuser –                       in der beschaffung achten wir daher vor      allem bei innerstädtischen lieferungen
+     rechenzentren für                           allem darauf, dass die wertschöpfung im      setzen wir auf den service von veloteam
+     das server-housing                          europäischen raum liegt. wenn möglich,       – mittels fahrrad und lastenrad werden
+                                                 sollte die hardware im europäischen          pakete in ganz linz verteilt.
+     wir betreiben zahlreiche server bzw.        raum zusammengebaut werden. auf
+     server-farmen, welche in mehreren           der suche nach neuen lieferanten, z.b.       betriebsstoffe –
+     rechenzentren untergebracht sind.           für spezielle entwicklungshardware,          open source im einsatz
+     obwohl wir diese rechenzentren bereits      suchen wir den kontakt zu europäischen
+     seit mehreren jahren nutzen, haben wir      unternehmen mit spezialisierung auf          software-seitig setzen wir auf den
+     uns erst 2013 genauer mit dem umgang        den jeweiligen bereich. jede hardware        einsatz von open source komponenten,
+     mit energie und nachhaltigkeit dieser       soll dabei so robust sein, dass diese eine   sowohl in unserem unternehmen als
+     lieferanten auseinander gesetzt und         möglichst lange laufzeit hat.                auch bei unseren kunden. als betriebs-
+     recherchiert. wir konnten feststellen,      unsere lieferanten sind zumeist kleine       system wird linux verwendet, in der
+     dass green-it ein wesentliches thema        oder mittelständische unternehmen, die       netzwerk-betreuung und in der entwick-
+     darstellt und von unseren lieferanten       im deutschsprachigen raum (österreich,       lung kommt freie software zum einsatz.
+     gefördert wird. dies bestätigt uns in der   deutschland, schweiz) angesiedelt sind       proprietäre systeme werden nur heran-
+     fortsetzung der bisherigen zusammen-        und einen wertschöpfungs-prozess             gezogen, wenn diese wirklich erforder-
+     arbeit.                                     haben.                                       lich sind. programme wie z.b. libreoffice
+     ergänzend zu den rechenzentren gibt es      vor allem im bereich der handelswaren        oder gimp werden für texterstellung und
+     auch im xroom einen eigenen maschi-         ist uns allerdings bewusst, dass unsere      grafikbearbeitung eingesetzt.
+     nenraum. die darin betriebenen server       lieferanten selbst nur zwischenhändler
+     werden vor allem für lokale dienste (z.b.   sind und die waren direkt aus fernost        die wanderarbeiter
+     fileserver, telefonanlage) herangezogen.    importiert werden. allerdings gibt es
+     dies hat wiederum auswirkungen auf          dazu oft keine alternativen. auch sind       dienstleister aus diversen bereichen
+     den energieverbrauch bzw. erfordert vor     wir mit sich ändernden produktionsstät-      (z.b. design-entwicklung, steuerbera-
+     allem im sommer bei außentempera-           ten konfrontiert. bis zum frühjahr 2013      tung) stammen zumeist aus dem lokalen
+     turen von über 35°c eine kühlung des        haben wir cds und dvds zum beispiel          umfeld. eine persönliche nähe sowie ein
+     raums.                                      bei einem österreichischen hersteller        vertrauensvolles verhältnis sind wesent-
+                                                 bezogen. dieser hat allerdings seine         liche faktoren für die zusammenarbeit,
+     maschinerie & handelsware                   niederlassung geschlossen und bie-           die sich über viele jahre erstreckt. daher
+                                                 tet nun ausschließlich ware aus china        gibt es im bereich der herangezogenen
+     als maschinerie kommen server, note-        und indien an, die zudem qualitativ          wiederkehrenden dienstleistungen kaum
+     books, pcs, switches etc. zum einsatz,      schlechter ist. bei der suche nach einem     fluktuationen bei der beschaffung.
+     handelsware umfasst zusätzliches            neuen lieferanten spielt gerade der          für projekte und spezialanfertigungen
+     elektronisches zubehör, netzteile, cd-      qualitätsanspruch eine wichtige rolle,       werden immer wieder dienstleister
+     medien, hüllen und koffer aus kunst-        wir berücksichtigen aber auch arbeits-       herangezogen, die zum teil direkt im
+     stoff, tintenpatronen, druckerbänder,       bedingungen und nachhaltigkeit in der        xroom mitwirken, aber auch in der
+     software-lizenzen etc. viele dieser         zusammenarbeit.                              region angesiedelt sind. dabei handelt
+     produkte bestehen aus komponenten,          der einsatz von alternativer maschinerie     es sich meist um kleine betriebe bzw.
+     die im asiatischen raum gefertigt wer-      ist uns ein großes anliegen und wir sind     einzelunternehmen, deren unterneh-
+     den. gerade wenn es um elektronische        permanent auf der suche nach nachhal-        menskultur den grundprinzipien der
+     bauteile geht, ist sehr schwer nachzu-      tigen produkten.                             gemeinwohl-ökonomie entsprechen.
+     vollziehen, woher diese stammen und         maschinerie und handelsware wird über
+     unter welchen arbeitsbedingungen diese      dienstleister zu unseren nationalen und
+     erzeugt wurden.                             internationalen kunden versandt. vor
+
+                                                                                                                                    23
+
+
+
+
+22
+
+
+
+     das fuhrwerk
+
+     der größte teil der fahrten wird mit        • museumsapotheke (6,0%): die zentrale      • softpoint (4,7%): regionaler anbie-
+     öffentlichen verkehrsmitteln, vor allem       lage ist einer der wichtigsten punkte       ter von hard- und software in stey-
+     mit der bahn, zurückgelegt.                   für das gemeinschaftsbüro xroom,            regg (nachbarort von linz). softpoint
+     unser fuhrpark besteht aus einem gas-         das x-net gemeinsam mit den anderen         konfektioniert arbeitsplatzrechner
+     betriebenem 7-sitzigen firmenauto, das        bürokollegen vor 12 jahren gegründet        auf kundenwunsch. es wird versucht,
+     vor allem für lieferungen und fahrten         hat. dies ermöglicht allen mitarbeitern     viele bereiche der wertschöpfungs-
+     mit einem größeren team genutzt wird.         und untermietern mit öffentlichen           kette regional zu halten. x-net ist
+     für weite strecken bzw. wenn mehrere          verkehrsmitteln oder per rad bzw. zu        nicht nur kunde von softpoint sondern
+     fortbewegungsmittel gleichzeitig benö-        fuß bequem anzureisen. vermieter            auch langjähriger partner im it-net
+     tigt werden, greifen wir auf carsharing       ist die museumsapotheke, zu der ein         austria, einem regionalen zusam-
+     bzw. mietautos zurück.                        sehr gutes verhältnis besteht. x-net        menschluss von ikt-unternehmen in
+                                                   ist hauptmieter der bürogemeinschaft        oberösterreich mit dem ziel, gemein-
+     die wichtigsten                               und ermöglicht kleinen kmu/epus             sam mit den unterschiedlichen kompe-
+     beschaffungspositionen                        einen günstigen arbeitsplatz. es wer-       tenzen der mitglieder den kunden
+                                                   den das miteinander gepflegt und auch       regionale dienstleistungen anzubieten.
+     nachstehend werden die fünf größten           gemeinsam projekte realisiert. der
+     positionen der gesamtbeschaffung der          xroom begleitet seit jeher die philoso-   die für den einkauf verantwortlichen
+     x-net gelistet. x-net legt besonderen         phie von x-net und ist ein wunderbarer    mitarbeiter (geschäftsführung und netz-
+     wert auf regionalität und lokale wert-        ort zum arbeiten.                         werktechnik) klären miteinander regel-
+     schöpfungsketten. so wird schon seit                                                    mäßig den einkauf und versuchen, auch
+     jeher versucht, regionale betriebe und      • thomas krenn (6,0%): ist lieferant für    die vorteile von regionalen produkten
+     dienstleister zu bevorzugen und lang-         serversysteme und durch den firmen-       den kunden zu vermitteln. dies ist leider
+     fristige partnerschaften zu pflegen. die      sitz in der nähe von passau einer der     aufgrund der hohen konkurrenz von bil-
+     wichtigsten lieferanten sind der x-net        regionalsten serveranbieter. x-net und    ligstanbietern in der ikt-branche sehr
+     über jahre gut bekannt, die zusam-            thomas krenn verbindet die gemein-        schwierig. trotzdem vertrauen die kun-
+     menarbeit basiert auf gegenseitigem           same vision von open source (thomas       den meist den regionalen empfehlun-
+     vertrauen. die reihung ist absteigend, in     krenn ist im deutschsprachigen raum       gen von x-net und wir können klar die
+     klammer nach dem firmennamen befin-           der führende anbieter von linux ser-      vorteile von produkten mit einem hohen
+     det sich der entsprechende prozentsatz        versystemen). das macht, gemeinsam        regionalen wertschöpfungsanteil sehen.
+     gemessen am gesamtbeschaffungswert:           mit dem hohen grad der regionalen         x-net steht für zuverlässige systeme –
+                                                   wertschöpfung (verglichen mit ande-       eine sichtweise, die nicht in einklang mit
+     • adr ag (33,3%): zählt seit über 10          ren am markt anbietenden server-          billigstprodukten zu bringen ist.
+       jahren zu einem der wichtigsten part-       herstellern), diesen anbieter zu einem
+       ner von x-net. adr ist ein deutsches        langjährigen partner von x-net.
+       familienunternehmen und fertigt cd-/
+       dvd-roboter sowie verpackungsma-          • ingramm micro (5,8%): in münchen
+       schinen. großer wert wird auf regiona-      ansässiges unternehmen und lieferant
+       le wertschöpfungsketten und ein faires      für diverse ikt komponenten.
+       miteinander gelegt. x-net ist speziali-
+       siert auf sonderlösungen und veredelt
+       die systeme von adr durch individuell
+       an den kunden angepasste lösungen.
+
+     „in einem team arbeiten zu dürfen, das die gemeinschaft nach innen
+     und nach außen fördert und die bedürfnisse des einzelnen beachtet und
+     unterstützt, ist mehr wert als es geld je sein könnte. das vertrauen und
+     die verbundenheit innerhalb der x-net sind die größte motivation. schon
+     beim betreten der räumlichkeiten fällt auf, dass die mitarbeiter ihrem
+     handwerk mit freude nachgehen. der damit einhergehende erfolg ist für
+     alle spürbar.“ katharina kloiber
+
+
+
+
+24
+                                        b1 ethisches finanzmanagement
+
+                                                                                                                                   25
+
+
+
+
+     die überzeugung                            die veranlagung                             die partner
+
+     von der unternehmensgründung bis           kapital wird in weitgehend risikofreie      vertrauen, regionalität, persönliche
+     heute verfolgen wir eine eher konserva-    formen (z.b. sparbuch) veranlagt bzw.       kontakte, gemeinsame lösungen auch
+     tive finanzphilosophie. die erstinvesti-   direkt wieder in unser unternehmen in-      bei schwierigen themen - das sind
+     tionen kamen von den gesellschaftern       vestiert. diese investitionen ermöglichen   dimensionen guter partnerschaft mit
+     selbst. bis heute finanzieren wir neue     eine ständige weiterentwicklung unserer     banken und finanzdienstleister. als
+     mitarbeiter bzw. die erweiterung unserer   produkte und dienstleistungen sowie des     hausbank vertrauen wir der oberös-
+     infrastruktur durch das erwirtschaftete.   know-hows im unternehmen und führt          terreichischen oberbank ag. neben
+     die gewinne der x-net verbleiben im        zu einer stärkeren festigung am markt.      den firmenkonten unterstützt uns die
+     unternehmen.                               unser größtes kapital sind unsere mitar-    oberbank bei exportfinanzierungs- (ex-
+     für den aufbau der x-net holding und       beiterinnen, es gibt keine veranlagung in   portfondskredit) und investitionsfragen
+     x-net technologies gmbh konnten wir        risikokapital.                              (erp-kleinkredit). zusätzlich sind wir
+     auf unterstützung der familie und der                                                  kunde der bawag p.s.k.
+     gesellschafter zurückgreifen.                                                          als mitarbeitervorsorgekasse (mvk)
+                                                                                            wählten wir die bonus vorsorgekasse
+     ethisches finanzmanagement hat einen                                                   ag, welche uns empfohlen wurde. ein
+     hohen stellenwert in unserem unterneh-                                                 vergleich der verfügbaren mvk hat nicht
+     men, wobei vor allem drei überzeugun-                                                  stattgefunden. erst im zuge der erstel-
+     gen hervorzuheben sind:                                                                lung dieses berichts haben wir begon-
+                                                                                            nen, uns in diesem bereich genauer zu
+     • ausgaben bzw. neuanschaffungen                                                       informieren und die einzelnen mvk zu
+       werden getätigt, wenn der cash-flow                                                  betrachten.
+       diese zulässt. sind neuanschaffungen                                                 in der auswahl der partner lag der
+       essenziell erforderlich oder können                                                  schwerpunkt bislang vor allem darin,
+       nicht verschoben werden, so werden                                                   dass dieser uns in allen fragen des
+       investitionskredite für die gezielte                                                 finanzmanagements (auch im hinblick
+       beschaffung herangezogen.                                                            auf investitionskredite etc.) unterstützen
+                                                                                            kann. dies wäre auch eine anforde-
+     • kredite werden nicht verwendet, um                                                   rung an eine gemeinwohl-bank, die in
+       spekulationen zu finanzieren.                                                        österreich bislang allerdings noch nicht
+                                                                                            existiert.
+     • wir versuchen, den kunst- und kultur-
+       bereich sowie bildungseinrichtungen
+       so weit als möglich zu unterstützen.
+
+26                                     c1 arbeitsplatzqualität
+                                          und gleichstellung
+
+
+                                                                                                                                                                                      27
+
+flexible arbeitszeitmodelle                   jahr 2013 durchgeführten mitarbeiterge-       die entlohnung erfolgt weitgehend nach       die arbeitsplatzgestaltung
+                                              spräche haben dabei eine hohe zufrie-         kollektivvertrag und ist für die einzelnen   in der werkstatt und zu-
+jeder mitarbeiter kann sich die arbeits-      denheit aufgezeigt. problemstellungen         mitarbeiter transparent und nachvoll-        hause
+zeit flexibel einteilen und frei gestalten.   aus der vergangenheit (z.b. zu wenig          ziehbar. mitarbeiterinnen sind in der
+unser handwerk sieht allerdings vor,          information über projekte) konnten            entlohnung den männlichen kollegen           die mitarbeiter haben freie gestaltungs-
+dass wir für unsere kunden zu kern-           erfolgreich durch neu eingeführte maß-        gleichgestellt.                              möglichkeit ihres arbeitsplatzes. aller-
+zeiten erreichbar sind. daher ist eine        nahmen (z.b. die internen x-news, die         bei der entlohnung ergibt sich im jahr       dings ist diese mit den rahmenbedin-
+abstimmung untereinander erforder-            regelmäßig über aktuelles informieren)        2013 folgende lohnspreizung:                 gungen in der werkstatt verbunden und
+lich, um in diesen zeiten den bedarf der      gelöst werden.                                                                             bietet nicht immer alle möglichkeiten
+kunden auch erfüllen zu können. diese         in der unternehmenskultur sehen wir            inkl. lehrling im 3. lehrjahr: 1 : 3,64     (z.b. durch lichteinfall, raumaufteilung).
+abstimmung erfolgt in eigenverantwort-        auch wissensvermittlung und -aus-                        exklusive lehrling: 1 : 1,89      für pausen steht der besprechungs-
+lichkeit und gibt den mitarbeitern die        tausch als wichtige faktoren. einerseits                                                   raum (sofern keine besprechungen
+notwendige flexibilität, um z.b. kin-         legen wir großen wert auf eine gute           die fluktuation im betrieb ist sehr ge-      stattfinden) inklusive balkon zur verfü-
+derbetreuungszeiten mit arbeitszeiten         kommunikationsbasis, durch welche             ring, wobei ausgeschiedene mitarbeiter       gung. eine couch im bereich des vor-
+vereinen zu können.                           problemstellungen gemeinsam gelöst            auf eigenes bestreben hin ihre arbeitssi-    raums sowie ein flipper zur pausenge-
+alle mitarbeiter haben die möglichkeit,       werden. durch fragen und die erar-            tuation verändern wollten. als arbeitge-     staltung kann von den mitarbeitern jeder
+auch vom homeoffice aus zu arbeiten.          beitung von lösungen im team kann             ber hat x-net seit seinem bestehen noch      zeit genutzt werden. wir können aller-
+die technischen voraussetzungen wer-          auch dazugelernt werden. andererseits         keinem mitarbeiter gekündigt. ein lang-      dings beobachten, dass sich mitarbeiter
+den vom unternehmen zur verfügung             möchten wir unser wissen auch wei-            sames wachstum in der vergangenheit          kaum im vorraum aufhalten. ein eigener
+gestellt. die diesbezügliche koordination     tergeben – unter diesem gesichtspunkt         hat dazu beigetragen, dass der zusam-        raum ist nicht vorhanden. es gibt keine
+unter den mitarbeitern erfolgt in eigen-      haben wir 2011 unseren ersten lehrling        menhalt im team ein großer ist und die       festen zeiten für pausen, diese können
+verantwortung.                                aufgenommen. im sommer vergrößern             arbeitsplatzqualität als hoch empfunden      individuell eingeteilt werden.
+                                              praktikanten regelmäßig unser team,           wird. das gute betriebsklima und diese       betriebliche gesundheitsförderung ist
+die unternehmenskultur –                      seit herbst erhält ein volontär einblick in   hohe zufriedenheit schlägt sich auch in      vorrangig mit unserer gelebten firmen-
+zusammenarbeit und                            das handwerk it.                              fehlzeiten nieder. die krankenstände         philosophie in einklang zu sehen. bgf
+wissensaustausch                              die beschäftigungsperspektiven für die        sind im vergleich zu statistischen durch-    bedeutet für uns rahmenbedingungen
+                                              mitarbeiter werden durch ein ständig          schnittswerten sehr gering.                  für alle mitarbeitern zur verfügung zu
+die interne zusammenarbeit ist mitar-         größeres netzwerk, insbesondere mit           einher mit der gleichstellung der mitar-     stellen, die sie in ihrem alltag – auch
+beiterorientiert und durch gemeinsame         universitären und außeruniversitären          beiter gehen auch die überlegungen zur       außerhalb des unternehmens – unter-
+entscheidungen geprägt. mitarbeiter           forschungseinrichtungen nachhaltig            beteiligung im unternehmen. zur zeit ist     stützen. die philosophie wird vorgelebt
+sind dazu angehalten, ihre meinungen          gesichert. überbetriebliche kooperati-        ein mitarbeiter mit gesellschaftsanteilen    (z.b. kinderbetreuung durch führungs-
+zu diversen themen zu äußern und mit          onen – ganz im sinne des open source          direkt an der x-net services beteiligt.      kräfte) und unterstützt. kennzeichen für
+zu diskutieren. entscheidungen werden         gedanken – werden täglich gelebt.             um eine ausgewogene und faire lösung         unsere gelungene betriebliche gesund-
+gemeinsam getroffen. dadurch gibt es                                                        auch für alle anderen mitarbeiter zu fin-    heitsförderung ist die hohe motivation
+einen offenen austausch zwischen mit-         gleichstellung der                            den haben wir bereits unterschiedliche       der mitarbeiter verbunden mit extrem
+arbeitern und vorgesetzten. gleichzeitig      handwerkerinnen und                           beteiligungsmöglichkeiten recherchiert.      geringen krankenstandstagen.
+haben alle mitarbeiter die möglichkeit,       handwerker                                    diese müssen in einem nächsten schritt
+die eigene arbeit selbst zu organisieren                                                    strukturiert und mit allen beteiligten
+und übernehmen dabei auch die verant-         im jahr 2013 beschäftigen wir 10 mit-         diskutiert werden.
+wortung für aufgaben.                         arbeiter, wobei der frauenanteil mit 3
+in jährlichen mitarbeitergesprächen           mitarbeiterinnen gegenüber den jahren
+steht vor allem das feedback im zent-         zuvor gestiegen ist. gerade in einem
+rum – in einer vertrauensvollen atmo-         handwerk, in dem tendenziell weniger
+sphäre sollen alle gesprächspartner das       frauen tätig sind, werden stellenaus-
+gefühl haben, über alle anliegen und          schreibungen oft nur von männern
+probleme sprechen zu können. die im           beantwortet.
+
+                                           c2 gerechte verteilung
+                                              der erwerbsarbeit
+
+     die erwerbsarbeit teilt sich im jahr 2013     abwechselnd übernimmt jeweils ein           unternehmen. im sommer wurde unser
+     auf 10 mitarbeiter auf, wobei aktuell         mitarbeiter den nachmittagsdienst bis       team durch zwei praktikanten unter-
+     zwei mitarbeiter teilzeit beschäftigt sind.   17:00 uhr, die einteilung wird durch die    stützt. diese haben die möglichkeit, ihre
+     das entspricht einem vollzeitäquivalent       mitarbeiter selbst in abstimmung ge-        kenntnisse und fähigkeiten in eigenen
+     von 9,73 mitarbeitern. die regelar-           troffen. dadurch anfallende plusstunden     projekten zu vertiefen. die betreuung
+     beitszeit beläuft sich auf 38,5 stunden,      werden durch zeitausgleich abgebaut.        erfolgt durch den projektverantwort-
+     wird von jedem mitarbeiter eingehalten        überstundenpauschalen sind in unserem       lichen mitarbeiter. seit oktober 2013
+     und kann im rahmen der gleitzeitrege-         unternehmen nicht vorgesehen.               verstärkt ein volontär das team, um die
+     lung in eigenverantwortung eingeteilt         für die erfassung der erwerbsarbeit wur-    erfordernisse in der it kennenzulernen.
+     werden. verpflichtungen gegenüber der         den bislang listen selbstständig durch      zeitarbeiter werden nicht eingesetzt. es
+     kunden müssen bei der einteilung der          die mitarbeiter geführt. seit novem-        gibt allerdings wiederkehrende koope-
+     arbeitszeit berücksichtigt werden. dazu       ber erfolgt die zeiterfassung über das      rationen mit externen fachkräften, mit
+     zählt zum beispiel die erreichbarkeit         unternehmensinterne erp, wodurch die        denen gemeinsam projekte über einen
+     an freitagen bis 17:00 uhr. durch das         erfassung von urlaubsansprüchen und         längeren zeitraum durchgeführt werden.
+     gleitzeitmodell wird arbeitszeit durch        plus- bzw. bei bedarf auch minusstunden     die zusammenarbeit ist dabei stark
+     die mitarbeiter gerne so verteilt, dass       für die mitarbeiter vereinfacht wird.       durch gegenseitigkeit gekennzeichnet
+     diese am freitag den dienst mittags bzw.      im jahr 2013 gab es keine neueinstel-       und nicht wie herkömmliche kunden-
+     am frühen nachmittag beenden können.          lungen sowie keine kündigungen im           lieferanten-beziehungen zu bewerten.
+
+
+
+
+28                                         c3 forderung und förderung                                                                29
+
+                                              ökologischen verhaltens
+                                              der mitarbeiterinnen
+     die ernährung                                 die mobilität                               verfügbarkeit der öffentlichen verkehrs-
+                                                                                               mittel können die mitarbeiter auch im
+     nachhaltige ernährungsgewohnheiten,           der xroom befindet sich in zentraler        home office remote arbeiten. durch
+     aber auch gemeinsamer einkauf und             lage in der linzer innenstadt. die innen-   diese gewählte lösung können mitarbei-
+     küche sind bislang kaum ein thema.            stadtlage wurde von beginn an bewusst       ter auch ihre notwendigen privaten wege
+     regelmäßige gemeinsame pausenzeiten           so gewählt, da das gemeinschaftsbüro        am heimatort durchführen, ohne sofort in
+     sind z.b. aufgrund von unterschieden in       von innenstadtlinzern gegründet wurde       urlaub gehen zu müssen.
+     arbeitsbeginn und arbeitsrythmus der          und ein erreichen per fuß, fahrrad oder     bei kurzen anfahrtswegen werden zudem
+     mitarbeiter nicht vorhanden.                  öffentlichen verkehrsmittel vorausset-      zum teil fahrräder genutzt.
+     um frühstück und mittagessen küm-             zung war. 2008 jahr wurde der xroom         am standort sind kaum gratisparkmög-
+     mert sich jeder mitarbeiter selbst. obst,     auf den heutigen standort verlagert. die    lichkeiten vorhanden.
+     kuchen oder naschereien werden immer          wahl des büros wurde ebenso von diesen      für betriebliche fahrten wird ein mix
+     wieder basierend auf freiwilligkeit           überlegungen getragen.                      aus firmenauto, carsharing und privat-
+     mitgebracht, wobei es keine regelmä-          der arbeitsweg kann von allen leicht        auto sowie öffentlichen verkehrsmitteln
+     ßigkeiten gibt.                               mit öffentlichen verkehrsmitteln zu-        eingesetzt.
+     eine kleine küche im büro ist vorhanden,      rückgelegt werden. eine mehrheit der
+     allerdings bietet diese wenig platz. da-      mitarbeiter kommt auch mit öffentlichen     die organisationskultur
+     her wird sie hauptsächlich zum aufwär-        verkehrsmittel zum arbeitsplatz, wobei
+     men bzw. aufbacken, in seltenen fällen        manche mitarbeiter zum teil sehr lange      das bewusstsein über ökologisches
+     auch zum kochen von kleinen speisen,          anfahrtswege haben. um diese kom-           verhalten ist innerhalb des unterneh-
+     genutzt.                                      fortabel zurücklegen zu können, wird        mens sehr unterschiedlich, ebenso die
+     eine gruppe von mitarbeitern geht             zum teil das eigene auto genutzt, das in    sensibilisierung, sich mit entsprechen-
+     gemeinsam essen, selbst mitgebrachtes         p&r-anlagen in der nähe zum wohn-           den themen auseinanderzusetzen. eine
+     wird meist direkt am eigenen arbeits-         ort abgestellt wird. das gleitzeitmodell    gezielte thematisierung von ökologi-
+     platz oder im besprechungsraum                unterstützt dabei alle mitarbeiter, die     schem verhalten in gesprächen ist nicht
+     verzehrt.                                     idealen verkehrsmöglichkeiten zu wäh-       erfolgt, dieses wird allerdings von der
+                                                   len. bei „ausfall“ oder eingeschränkter     geschäftsführung vorgelebt.
+
+                                     c4 gerechte verteilung
+                                        des einkommens
+
+bei der entlohnung ergibt sich im jahr     die entlohnung liegt über dem er-          die innerbetriebliche transparenz im
+2013 folgende lohnspreizung:               forderlichen mindesteinkommen. als         bereich der entlohnung ist gegeben.
+                                           grundlage für die entlohnung dient der     die mitarbeiter kennen einerseits jeweils
+inkl. lehrling im 3. lehrjahr 1 : 3,64     it-kollektivvertrag, welcher, im ver-      die einstufungen der kollegen und kol-
+                exkl. lehrling 1 : 1,89    gleich zu anderen kollektivverträgen und   leginnen, andererseits die entlohnungen
+                                           branchen sehr gute einkommen sichert.      der geschäftsführung.
+
+
+
+
+                                                                                                                                  31
+
+
+30
+
+
+
+
+                                      c5 innerbetriebliche demokratie
+                                         und transparenz
+
+die zusammenarbeit zeichnet sich           arbeitsbereiche ergänzt werden bzw. die    die eigentumsverhältnisse sind al-
+durch eine flache hierarchie sowie einen   betroffen sind (z.b. netzwerk, software    len mitarbeitern bekannt. neben den
+kooperativen führungsstil aus. diskus-     etc.). die vorstellung von neuen mitar-    firmengründern ist noch ein mitarbeiter
+sionen sind in jedem bereich erwünscht     beitern ist ein wesentlicher bestandteil   an der x-net services als gesellschafter
+und die meinung weitgehend aller           der einführung in das unternehmen und      beteiligt. die unternehmerischen kenn-
+mitarbeiter wird eingeholt, um entschei-   erfolgt zumeist durch durchgehen und       zahlen bzw. die jährlichen bilanzzahlen
+dungen soweit als möglich demokratisch     erklärungen. die entscheidung, ob neue     sind für alle mitarbeiter zugänglich.
+zu treffen. diese offenheit und trans-     mitarbeiter aufgenommen werden kön-
+parenz ist vor allem durch die kleinheit   nen, erfolgt durch die geschäftsführung.   für eine bessere interne transparenz
+des unternehmens möglich, aber auch                                                   wurde vergangenes jahr ein interner
+die offenen räume ermöglichen den          das unternehmen wird von den eigentü-      newsletter eingeführt, der mindestens
+fließenden austausch.                      mern, welche die x-net auch gegründet      alle 14 tage erscheint. von allen mitar-
+                                           haben, geführt. miteigentum der mitar-     beitern werden aktuelle projektinfor-
+auch bei der einstellung von neuen         beiter bzw. beteiligung am unterneh-       mationen und themen bzw. bedürfnisse
+mitarbeitern können und sollen die         men wird seit längerem als möglichkeit     gesammelt und via internem newsletter
+mitarbeiter mitbestimmen. in der praxis    diskutiert, und es werden auch immer       verteilt. inbesondere profitieren von
+sind vor allem jene mitarbeiter in die     wieder recherchen dazu durchgeführt.       diesem tool unsere teilzeitarbeitskräfte
+entscheidung eingebunden, deren            allerdings konnte bislang noch kein pas-   bzw. mitarbeiter im home office.
+                                           sendes modell identifiziert werden.
+
+                                                 „coming together is a beginning; keeping together is progress;
+                                                 working together is success.“ henry ford
+
+
+
+
+32                                                                                    d1 ethisches verkaufen                                                                 33
+
+
+
+
+     unser kundenstamm besteht vorrangig          produkten und lösungen als wichtiger       der kunde eine übersicht über den          agilen programmierung umgesetzt, bei
+     aus b2b-kunden. unser vorrangiges ziel       bestandteil herangezogen, sondern          geschätzten aufwand. meist erfolgt die     welcher regelmäßige feedbackschlei-
+     liegt im aufbau von langfristigen und        fließt auch in maßnahmen zu verbesse-      angabe in personentagen und stunden,       fen über grad der umsetzung und
+     stabilen kundenbeziehungen. wir setzen       rungen von produkten ein. ein direktes     die hardware ist getrennt aufgelistet.     weitere planung gemeinsam erfolgen.
+     dabei auf unterschiedliche faktoren, die     gespräch mit dem kunden ist dabei ein      schriftliche erläuterungen und details     hardware, aber auch produkte wie
+     ein vertrauensvolles verhältnis ermögli-     wesentliches instrument, das auch im       zu den einzelnen positionen sollen         z.b. software-lizenzen oder domains
+     chen sollen:                                 falle von reklamationen gesucht wird.      zudem den inhalt des angebots für den      werden bei bedarf zugekauft. diese
+                                                                                             kunden besser verständlich machen.         produkte werden dem kunden auch
+     • umfangreiche betreuung der kunden         • vorausschauender service innerhalb        kalkulationen selbst werden nicht          kommuniziert. allerdings erfolgt keine
+       unser anspruch liegt darin, unseren         unserer geschäftszeiten stehen wir        offengelegt.                               überprüfung dieser produkte im sinne
+       kunden die bestmögliche betreu-             unseren kunden jeder zeit für service                                                von produkttransparenz.
+       ung in allen bereichen zu bieten und        und beratung zur verfügung. eine          jeder kunde weiß weitgehend darüber
+       ohne zeitliche verzögerungen auf ihre       optimale servicequalität soll dabei vor   bescheid, wie viel zeit installatio-      • marketing- und verkaufsstrategien
+       anliegen zu reagieren. dies erfordert       allem durch ein vorausschauendes          nen, entwicklungen etc. in anspruch         der kunde soll bestmöglich informiert
+       oft hohen personellen einsatz. unse-        service gewährleistet werden. systeme     genommen haben und welche punkte            werden, sodass dieser über die mög-
+       re dienstleistungen sind daher keine        und lösungen werden vorab so geplant      tatsächlich umgesetzt wurden. fällt         lichkeiten bescheid weiß bzw. sich über
+       „billigst-angebote“, sondern basieren       und umgesetzt, dass sie stabil und        für die umsetzung eines projektes           seinen eigenen bedarf stärker gedan-
+       auf umfangreicher betreuung, die beim       sicher laufen und den kunden langfris-    mehr aufwand an als ursprünglich            ken macht. unser fokus liegt auf indi-
+       mitbewerb oftmals eingespart wird.          tig nutzen.                               angenommen, so wird zunächst intern         viduell angepassten lösungen, die oft
+                                                                                             evaluiert, wodurch dieser mehrauf-          längere vorlaufzeiten sowie entschei-
+     • anforderungen und feedback wir ver-       • solidarität mit den kunden wir unter-     wand entstanden ist. grundsätzlich gibt     dungs- und beratungswege bedingen.
+       stehen uns als klassischer dienstleis-      stützen unsere kunden in schwierigen      es eine deckelung von jedem projekt,        geht die anbahnungsphase über einen
+       ter im edv-bereich, der nicht vorrangig     phasen und versuchen ihnen je nach        mehraufwand, der z.b. durch ungenaue        längeren zeitraum, versuchen wir
+       versucht, ein produkt zu verkaufen,         situation entgegen zu kommen bzw. die     kalkulationen entstanden ist, geht          trotzdem, unsere kunden bestmöglich
+       sondern das beste produkt bzw. die          bestmögliche lösung erarbeiten. ein       nicht zu lasten des kunden.                 zu betreuen und zu beraten. bei der
+       beste software für einen kunden zu          kunde wird nicht fallen gelassen, wenn                                                kommunikation verzichten wir dar-
+       finden. die wünsche und anforderun-         dieser in einer schwierigen phase zu      die kommunikation von dienstleistung        auf, mitbewerber gezielt schlecht zu
+       gen der kunden werden bereits bei           bestehen versucht.                        und aufwand stellt sich in der edv oft      machen.
+       der ersten kontaktaufnahme erhoben                                                    als schwierig heraus, da die vorstel-       diese werte sind im zentralen marke-
+       und laufend berücksichtigt. daneben       • transparente kundenbeziehungen um         lungen von funktionalitäten und hand-       tingkonzept thematisiert, mit der gwö-
+       ist auch feedback in unserer zusam-         transparente kundenbeziehungen zu         ling oft mit der technischen machbar-       bilanz sollen sie verstärkt kommuni-
+       menarbeit wesentlich. unsere unter-         ermöglichen, ist für uns eine umfang-     keit bzw. der vom kunde angegebenen         ziert werden.
+       nehmensentwicklung ist stark dadurch        reiche kommunikation wesentlich.          preisdeckelung nicht identisch sind.
+       gekennzeichnet, dass wir auf die            bereits in der anbahnungsphase sind       inhalte von angeboten und dienst-         alle genannten punkte werden in der
+       anforderungen und das feedback der          z.b. stundensätze klar kommuniziert.      leistungen werden daher so weit als       praxis gelebt und umgesetzt. allerdings
+       kunden reagieren und im bedarfsfall         entwicklungs- und installationsauf-       möglich in gesprächen erklärt. kommt      sind die dahinter liegenden maßnahmen
+       optimale lösungen für unsere kunden         wand wird nach besten möglichkei-         es zu missverständnissen oder konflik-    im umgang mit kunden nicht festge-
+       entwickeln (z.b. openrc, careclick)         ten geschätzt und die tatsächlich         ten, werden die ebenfalls in persön-      schrieben. die werte selbst sind in der
+       bzw. weiterentwickeln. feedback wird        gebrauchte zeit in der umsetzung          lichen gesprächen behoben. größere        unternehmensphilosophie angedeutet.
+       dabei nicht nur für die evaluierung von     evaluiert. bei angebotslegung erhält      projekte werden mit der methodik der
+
+                                          d2 solidarität mit mitunternehmen
+
+
+
+
+     die kooperation                                                                         das werkzeug open source
+
+     bei der entwicklung von produkten            diese weiter (z.b. webdesign).             aus der philosophie des open source
+     und dienstleistungen arbeiten wir mit        auch kooperatives marketing wird mit       leitet sich unser leitbild ab, dieses ist
+     entsprechenden partnern zusammen.            langjährigen kooperationspartnern und      z.b. auf der webseite auch öffentlich
+     diese kommen sowohl aus der eigenen          mitunternehmen genutzt, z.b. gemeinsa-     festgeschrieben. der einsatz von open
+     als auch aus anderen branchen (z.b.          me auftritte bei messen.                   source technologie begründet unser un-
+     maschinenbau). entwicklungen können          kalkulationen werden auch mit mitunter-    ternehmerisches tun. die solidarität mit
+     dabei direkt für einen kunden als auftrag    nehmen so fair wie möglich erstellt und    der open source community ist bei allen
+     vorgenommen werden oder in form von          bei langjähriger zusammenarbeit (z.b.      projekten bestandteil, die zur verfügung
+     forschungsprojekten mit bis zu acht          mit dem deutschen mitunternehmen           stehenden tools werden eingesetzt. 35
+34
+     projektpartnern aus wirtschaft und wis-      adr) auch an diese weitergegeben.          gleichzeitig versuchen wir im rahmen
+     senschaft erfolgen. wichtig ist uns dabei,   in der eigenen branche tauschen wir        unserer möglichkeiten, tools und erfah-
+     gute beziehungen mit unseren mitun-          uns v.a. im netzwerk it-net austria aus,   rungen auch wieder an die community
+     ternehmen zu haben. dies zeigt sich          wobei neben know-how- und wissen-          zurückzugeben.
+     durch wiederkehrende kooperationen in        stransfer auch unterstützung (z.b. bei     open source bedeutet gemeinsamkeit
+     diversen projekten.                          schwierigen kunden, problemstellun-        und nicht in konkurrenz handeln. wir
+     die kooperationen können unterschiedli-      gen, ressourcenknappheit) angeboten        setzen open source entwicklungen
+     che ausmaße (kleine bis große projekte)      wird. eine gemeinsame website bietet       ein und schaffen dadurch verbreitung.
+     haben. zudem kooperieren wir mit un-         den mitgliedern eine übergreifende         eigenentwicklungen werden zum teil
+     mittelbar in der nähe angesiedelten mit-     werbeplattform. ergänzt werden die         wiederum als open source auf kollabo-
+     unternehmen (im xroom wird nicht nur         kooperativen werbemaßnahmen durch          rationsplattformen (wie github, source
+     der raum miteinander geteilt, sondern        gemeinsame veranstaltungen (event im       forge ...) zum freien download mit damit
+     auch projekte werden gemeinsam rea-          messeformat), gegenseitiges weiteremp-     verbundener einladung zur gemeinsa-
+     lisiert) genauso, wie mit regionalen und     fehlen entsprechend der jeweiligen kom-    men weiterentwicklung veröffentlicht.
+     internationalen kooperationspartnern.        petenz der mitglieder und gemeinsame       open source lebt von kooperation.
+     können anforderungen von anderen             vertretung bei veranstaltungen.
+     unternehmen besser umgesetzt werden,         des weiteren geben wir in beratungsge-
+     geben wir entsprechende anfragen an          sprächen unsere erfahrungen an andere
+                                                  unternehmen weiter.
+
+
+
+
+                                          d3 ökologische gestaltung
+                                             der produkte und
+                                             dienstleistungen
+
+     langlebigkeit und ökologisch sinnvolle       bei entwicklungen und software achten      jeder zeit durchgeführt werden können.
+     nutzung müssen gegenübergestellt             wir darauf, komponenten und tools          zu den ökologischen auswirkungen der
+     werden und sind oft schwer zu bewerten,      einzusetzen, die weiterentwickelt werden   produkte, aber auch von entwicklun-
+     da sich die ökologische gestaltung auf       und den aktuellen stand der technik        gen, gibt es kaum überlegungen. jede
+     mehrere bereiche auswirkt (z.b. alte         unterstützen. open source vereinfacht      dienstleistung wird aber bewusst so
+     vs. neue technologie, lebensdauer vs.        dabei das teilen und weiterentwickeln      geplant und mit dem kunden vereinbart,
+     energieeffizienz). wir versuchen, unsere     von neuen komponenten, die laufend         dass diese remote durchgeführt werden
+     geräte so gut als möglich zu nutzen und      getestet und optimiert werden. soll-       kann. damit können dienstfahrten auf
+     nachnutzungskonzepte zu etablieren           bruchstellen bzw. ablaufdaten sind dabei   ein minimum reduziert werden. netz-
+     (z.b. alte server als backup-server wei-     dezidiert nicht erwünscht und werden       werkservicierung, software-entwick-
+     ter zu nutzen, ausgegliederte hardware       vermieden. gleichzeitig liegt ein fokus    lung, fehlerbehebung etc. können damit
+     wird non-profit organisationen zur           immer darauf, dass schnittstellen vor-     zeitlich schneller, kostengünstiger und
+     verfügung gestellt).                         handen sind und damit erweiterungen        ohne fahrtaufwand realisiert werden.
+
+                                          d4 soziale gestaltung der produkte
+                                             und dienstleistungen
+
+
+     wir sind großteils im b2b-bereich tätig.    bzw. non-profit-organisationen und kul-     vestitionen notwendig sind, existiert eine
+     kunden gelangen an informationen, pro-      turinitiativen wird versucht, entgegen-     überschaubare mindestlaufzeit. unser
+     dukte und dienstleistungen über persön-     zukommen. großunternehmen erhalten          motto „high end for small business“ im-
+     liche kontakte und gespräche. auf der       keine besseren konditionen.                 pliziert unsere haltung zu einer sozialen
+     barrierefrei gestaltet und navigierbaren    der service ist für epu und kmu genau-      gestaltung unserer produkte. wir bieten
+     webseite sind allgemeine informationen      so gestaltet wie für großunternehmen,       it-lösungen um überschaubare und ge-
+     zu den produktgruppen, aber auch zum        unterschiede können sich durch die          deckelte kosten an. zudem unterstützen
+     unternehmen und unserer philosophie         art des projekts ergeben (softwareent-      wir unsere kunden, wenn probleme mit
+     zu finden. im gespräch kann der tatsäch-    wicklung, netzwerk-dienstleistung,          einer zahlung auftreten sollten (zah-
+     liche bedarf besser abgefragt werden        umsetzung von spezialanwendungen vs.        lungsziele werden zum beispiel gemein-
+     und die entsprechenden informationen        mehrheitlich standardisierter lösung)       sam vereinbart).
+36   bzw. dienstleistungen werden individuell
+                                                                                                                                    37
+     aufbereitet.                                durch einsatz von open source produk-       des weiteren organisieren wir gebrauch-
+                                                 ten, ohne jegliche „knebelverträge“,        te hardware für ngos und sammeln bei-
+     grundsätzlich ist die gestaltung von pro-   hat der kunde maximale entschei-            speilsweise von öffentl. organisationen
+     dukten und dienstleistungen unabhängig      dungsfreiheit. der kunde kann unsere        hardware ein, um diese unentgeltlich an
+     von der größe der unternehmen gleich        dienstleistung jederzeit kündigen. nur in   ngos zu verteilen.
+     – gemeinwohlorientierte unternehmen         ausnahmefällen, zum beispiel wenn in-
+
+
+
+
+                                          d5 erhöhung des sozialen
+                                             und ökologischen
+                                             branchenstandards
+
+     die anforderung von kooperation mit         • durch diverse f&e-projekte, zum           österreich etc.) betonen und erklären.
+     mitwerberinnen und partnern der               beispiel backmeup und themis (zur         wir sind nicht parteipolitisch verankert.
+     wertschöpfungskette trifft bei x-net in       bewusstseinsschaffung über die            durch das aktive umsetzen der open
+     zweiterlei hinsicht zu:                       eigenen daten), opensecurity (soll den    surce philosophie erzielen wir eine
+                                                   (unbewussten) missbrauch von daten        vorbildwirkung. der einsatz von open
+     • durch den einsatz, der förderung und        reduzieren) etc.                          source produkten und die schulung
+       der pflege von open source projekten                                                  dieser produkte auch in schulen ist für
+       in unterschiedlichen bereichen (wsdb,     wir setzen insofern zeichen, als wir un-    uns ein wesentlicher bestandteil unse-
+       einsatz und empfehlung von open           sere teilnahme an der gwö sowie an der      res handelns. wir nutzen, schaffen und
+       source, entwicklung mit tools auf         open source bewegung an unterschied-        optimieren gemeinsam mit der commu-
+       open source baisis, rückmeldungen         lichen stellen (sei es in gesprächen oder   nity im opensource bereich standards.
+       an open source communities etc.)          auch gegenüber der wirtschaftskammer
+
+                                      e1 sinn und gesellschaftliche
+                                         wirkung der produkte /
+     it-produkte und dienstleistungen
+     decken vorrangig nicht grundbe-
+                                         dienstleistungen
+     dürfnisse des täglichen lebens ab,
+     können aber in vielen fällen zu bes-
+     seren arbeitsbedingungen, erhöhter         top 5 angebotene     deckt das p/d einen       positive wirkung          negative mögliche/
+     sicherheit und schutz von arbeitneh-               produkte/    grundbedarf (suffizi-     auf mensch/               tatsächliche
+     mern etc. beitragen.                        dienstleistungen    ent) und ist lebensnot-   gemeinschaft/erde         folgewirkung
+                                             (in % des umsatzes)     wendig?                                             des p/d
+     wir versuchen durch den einsatz                                 (dient es dem einfa-
+     von opensource diese offene philo-                              chen leben, einem
+                                                                     guten leben, oder ist
+     sophie zu stärken und zu unterstüt-
+                                                                     es luxus?)
+     zen. abhängigkeiten von oligopolen,
+     proprietären softwareanbietern              netzwerktechnik     der computer und          x-net versucht durch      keine
+     können reduziert und der einsatz von       (inkl.handel hard/   netzwerke sind heut-      den einsatz von open-
+     hardware verlängert werden. open       software/domains, ...)   zutage unabdingbar in     source produkten und
+38   source bietet eine alternative, die                     45 %    jedem unternehmen.        maßgeschneiderten                          39
+     auf der idee des gemeinsamen tuns                               moderne kommunika-        systemen den nach-
+     basiert. neben der freien wahl steht                            tion und elektronische    haltigen einsatz von
+     vor allem der datenschutz und schutz                            datenverarbeitung         hard- und software zu
+     der privatsphäre im zentrum dieser                              bestimmt v.a. den         ermöglichen.
+     idee.                                                           büroalltag
+
+                                                 cd/dvd roboter      mit hilfe von cd/dvd/     der einsatz von           rückgang der
+     x-net forscht und entwickelt gemein-
+                                                           34 %      br - robotersystemen      optischen medien im       papier- und
+     sam in interdisziplinären konsortien                            werden individuelle       dokumentationsbe-         druckindustrie
+     it-dienstleistungen und hardware,                               datenträger für           reich spart vor allem
+     die den menschen mehr sicherheit                                 industrielle güter       papier- und strom-
+     und unabhängigkeit ermöglichen                                  (messgeräte, flugzeu-     kosten. dokumention
+     sollen.                                                         ge etc.) gefertigt.       auf optischen medien
+                                                                                               erlaubt zudem ziel-
+                                                                                               gerichtete informati-
+                                                                                               onsweitergabe (genau
+                                                                                               jene informationen, die
+                                                                                               das jeweilige produkt
+                                                                                               betreffen).
+
+                                               schnittstellen-box    mit hilfe dieses sys-     der lebenszyklus der      keine
+                                                              8%     tems werden steu-         steuerungsrechner der
+                                                                     erungsrechner von         produktionsmaschinen
+                                                                     produktionsmaschinen      wird durch den einsatz
+                                                                     mit aktueller software    der schnittstellen-box
+                                                                     versehen. dies kann       wesentlich verlängert.
+                                                                     sehr einfach auch         verringerung der fahr-
+                                                                     durch den eigentümer      und flugzeiten der
+                                                                     der produktionsanlage     servicetechniker, da
+                                                                     erfolgen.                 auch remote serviciert
+                                                                                               werden kann.
+
+                                                     individuelle    individuelle software-    durch einsatz von         keine
+                                                programmierung       programmierung für        opensource und einer
+                                                   (ohne cd/dvd      geschäftskunden im        klaren kostenstruk-
+                                                 roboterprojekte)    bereich der prozessab-    tur (ohne langfristige
+                                                             7%      laufsteuerung, web-       vertragsbindungen)
+                                                                     seiten und shops bzw.     können kunden ihre
+                                                                     für den kulturbereich     geschäftsmodelle
+                                                                     (wettbewerbsplattfor-     mittels ihrer individu-
+                                                                     men)                      alsoftware umsetzen
+
+                                                     forschung &     x-net forscht und ent-    die forschungspro-        keine
+                                                     entwicklung     wickelt in unterschied-   jekte beschäftigen
+                                                             5%      lichen bereichen.         sich vorrangig mit
+                                                                     zudem berät x-net         problemstellungen
+                                                                     andere firmen im f&e      der allgemeinheit
+                                                                     bereich und fördert die   (sicherheitsforschung,
+                                                                     regionale kreativwirt-    digitales erbe etc.).
+                                                                     schaft
+
+     „democracy requires that citizens be willing to make some effort to
+     find out how the world around them works. ... the citizen-as-craftsman
+     would make the effort in either case to find out; when democracy
+     becomes modeled on consumption, becomes user-friendly, that
+     will to know fades.“ richard sennet: 2006: the culture of the new capitalism. 171
+
+
+
+
+40                                       e2 beitrag zum gemeinwesen                                                               41
+
+
+
+
+                                                 x-net macht im beitrag zum gemeinwe-       wir machen in diesem bereich die ersten
+                                                 sen seine ersten schritte und versucht,    schritte. es gibt vereinzeltes eingage-
+                                                 diesen kontinuierlich zu erhöhen. in den   ment der mitarbeiter und mitarbeiterin-
+                                                 letzten jahren spendete x-net jähr-        nen, ngos mit unseren möglichkeiten zu
+                                                 lich an den linzer sozialverein b37 für    unterstützen. dies hat noch keinen sys-
+                                                 das projekt „einmal das meer sehen“.       tematischen ansatz und ist eher zufällig.
+                                                 mit diesem projekt wird obdachlosen
+                                                 ermöglicht, einmal in ihrem leben eine
+                                                 reise an das meer zu unternehmen.
+
+
+
+
+                                         e3 reduktion ökologischer
+                                            auswirkungen
+
+
+     x-net hat bis jetzt noch keine co2-bilanz   verkehrsmitteln gereist. bevorzugt wird    durch den einsatz von open source kann
+     erstellt, versucht aber durch unter-        die bahn (nachtzug) eingesetzt, auch       die einsatzzeit von hardware wesentlich
+     schiedliche maßnahmen die ökologi-          wenn höhere kosten zu erwarten sind.       verlängert werden, da mit den ressour-
+     schen auswirkungen des unternehmens         dem ökologischen fußabdruck wird           cen wesentlich sparsamer umgegangen
+     sehr gering zu halten. so wurde im          eindeutig mehr beachtung gestellt, als     wird. x-net sieht sich daher hinsichtlich
+     vergangenen jahr der stromanbieter des      den kosten. innerstädtische transporte     dieser ökologischen auswirkungen über
+     büros auf ökostrom gewechselt. x-net        werden mit dem fahrradbotendienst          dem branchendurchschnitt.
+     kommt mit seinen 10 mitarbeitern ledig-     durchgeführt.                              x-net kennt seine verbesserungspoten-
+     lich mit einem auto aus. hier wurde auf     intern wird versucht, durch virtuali-      tiale und wird versuchen, kennzahlen zu
+     ein gas betriebenes auto gesetzt.           sierung der serverstrukturen energie       erheben und auszuwerten.
+     wenn möglich, wird mit öffentlichen         einzusparen.
+
+                                        e4 gemeinwohlorientierte
+                                           gewinnverteilung
+42                                                                                                                                   43
+
+
+
+     das unternehmerische ziel der x-net          die oben genannten investitionen dienen       damit gewährleisten wir einerseits
+     ist ein organisches wachstum. ge-            dem aufbau des x-net teams bzw. dem           personelle beständigkeit, andererseits
+     winne wurden daher bis dato immer            infrastrukturausbau. neue mitarbeiter         infrastrukturrelle sicherheit.
+     reinvestiert und nicht ausgeschüttet.        und ferial-praktikanten können im team
+     da es auch keine externen bzw. nicht-        aufgenommen werden. die firmeneig-
+     mitarbeitenden eigentümer an unserem         nene it-infrastruktur (serverlandschaft
+     unternehmen gibt, finden sich auch           nicht zugemietet, sondern im besitz der
+     keine gewinnausschüttungen an solche         x-net mit standorten in österreich) wird
+     personenkreise.                              sukzessive erweitert und abgesichert.
+
+
+
+
+     e5 gesellschaftliche transparenz
+        und mitbestimmung
+
+
+           im vergangenen bilanzjahr wurde            gen bzw. neuaufnahmen miteinander           beständigkeit der xroom-bewohner
+           keine gwö bilanz erstellt.                 besprochen. kooperationen und syner-        ist ein wesentliches zeichen der ge-
+           seit beginn unserer tätigkeit bildet       gien in diversen projekten wird gelebt.     meinschaft. in den 13 jahren der ge-
+           der xroom (bürogemeinschaft) un-           die x-net als xroom-maintainer              meischaft sind die hauptakteure gleich
+           sere basisberührungsgruppe. dieser         unterstützt auch die xroom-mitbe-           geblieben. das konzept des xrooms
+           vereint unterschiedliche firmen (von       wohner in schwierigen zeiten (stun-         besticht durch nachhaltigkeit.
+           epus bis kmus) mit komplimentä-            dung der zahlungen) bzw. vermittelt
+           ren kompetenzen. der xroom wird            projekte.
+           gemeinschaftlich gestaltet, änderun-
+
+     x beschreibung des prozesses
+       der erstellung der
+       gemeinwohl-bilanz
+
+      die gwö-bilanz wurde maßgeblich von
+      unserer innovationsmanagerin kathariana
+      kloiber und der geschäftsführung roland
+      lehner und nikolaus dürk erstellt.
+      die bilanz wurde in einem peer audit ver-
+      fahren mit nachstehenden firmen im zeit-
+      raum vom 16.10.2013 bis 11.03.2014 erstellt.
+
+      • schachinger logistik -
+        www.schachinger.com
+44                                                                                              45
+      • x-net services - www.x-net.at
+
+      • sattler energie consulting -
+        www.energie-consulting.at
+
+      • engineer m.e. - www.engineer-me.at
+
+      • fairleben - www.fairleben.at
+
+      für die erstellung unseres ersten
+                                                x ausblick
+      gwö-berichts wendeten wir ca. 8-10
+      personentage auf.
+                                                     kurzfristige ziele
+      der bericht wird intern durch eine eigene
+      präsentation vor allen mitarbeitern und        wir beabsichtigen in den kommenden mo-
+      extern durch die publikation auf der firmen-   naten, die erstellte bilanz und die ausprä-
+      homepage und einer eigenen pressekon-          gungen der unterschiedlichen indikatoren in
+      ferenz gemeinsam mit den anderen peer-         unsere unternehmensstruktur zu integrie-
+      audit firmen der öffentlichkeit präsentiert.   ren. so sollen in den nächsten 24 monaten
+                                                     verbesserungsschritte in folgenden berei-
+                                                     chen erzielt werden:
+
+                                                     • ernährung der mitarbeiter
+                                                     • mitarbeiterbeteiligung
+                                                     • beitrag zum gemeinwesen
+                                                     • reduktion ökologischer auswirkungen
+
+                                                     langfristige ziele
+
+                                                     unser langfristiges ziel ist es, in der nächs-
+                                                     ten bilanzperiode das audit durch einen
+                                                     externen auditor prüfen zu lassen. wenn
+                                                     möglich, würden wir dies gerne in verbin-
+                                                     dung mit einer peer-gruppe tun, da wir in
+                                                     der erstellung dieser bilanz das miteinander
+                                                     und den austausch unter den unternehmen
+                                                     in einem peer-audit schätzen und lieben
+                                                     gelernt haben.
+
+                                                           +
+
+
+                                                           credits
+
+            „kommunikation ist teil der unterneh-          x-net sind…
+                                                           nikolaus dürk, geschäftsführung s. 4/1
+              menskultur, diese kultur zu wecken,          roland lehner, geschäftsführung s. 4/2
+                                                           carina waidhofer, software s. 20/1
+         für andere erlebbar machen – schafft mir          monika kerschbaumer, software s. 20/2
+                                                           michaela rosenauer, backoffice s. 20/6
+                    ein erfolgserlebnis.“ erich goldmann   alexander ebner, netzwerk & it-technik s. 22
+                                                           katharina kloiber, innovationsmanagerin s. 27
+                                                           wolfgang eibner, projektmanagement &
+                                                             software s. 31
+                                                           philipp schlosser, lehrling informationstechnologe
+                                                             technik & informatik s. 34
+     +                                                     thomas aiglesberger, software s. 40
+                                                           frank treichl, software & netzwerk s. 42
+     bilder                                                                                                    47
+46   s. 1: ulf kossak. vogel auf dem fahrrad. 2011
+     s. 4: nikolaus dürk, geschäftsführer &                erich goldmann
+            roland lehner, geschäftsführer                 kommunikationsdesign
+     s. 9: blick auf die „werkstatt“ im xroom              und photografie
+     s. 11: testat von x-net services gmbh                 kommunikationsdesigner und medienkünstler;
+     s. 12: roland lehner, geschäftsführer &               liebt es geschichten über unternehmen und
+            michaela rosenauer, backoffice                 produkte zu finden und kommunizierbar zu ma-
+     s. 14: ortstafel als kultureller beitrag              chen. arbeitet gemeinsam mit den menschen an
+            zu linz09 auf dem balkon                       der kommunikativen interpretation ihrer visionen.
+     s. 16: nikolaus dürk, geschäftsführer                           erich@goldrush.at
+            vor florian schramm. big pig. öl/leinwand
+     s. 18: „nicht gießen“ zum wohl der pflanze
+            (überwässerung war eine zeitlang das
+            thema)                                         andreas kump
+     s. 20: carina waidhofer, software; thomas             interview
+            aiglesberger, software & monika kersch-        andreas kump ist frei schaffender werbetexter
+            baumer, software; karikatur von ulf kossak     und journalist, wohnsitz wien.
+            zu snogg.me; frank treichl, software /
+            netzwerk; ältestes voip-telefon; michaela
+            rosenauer, backoffice
+     s. 22: alexander ebner, netzwerk / it-technik
+            vor ulf kossak. göttin. 2004
+     s. 24: ausgegliederte pcs und bildschirme für
+            non-profit organisationen
+     s. 27: katharina kloiber, innovationsmanagerin
+     s. 28: ulf kossak. karikatur zum thema finanzen       druck
+            bei der frankfurter buchmesse                  level 2 digitale kommunikation gmbh /
+     s. 31: wolfgang eibner, projektmanagement,            druckerei & it-firma
+            software                                       versucht, eine schnittstelle zwischen der digita-
+     s. 32: wohlfühlambiente durch farbige akzente         len welt (internet, datenbanken, crm systeme,
+     s. 34: philipp schlosser, lehrling informations-      eshop‘s) und der gedruckten analogen welt zu
+            technologe technik & informatik vor            finden und dadurch intelligente und vor allem
+            andreas burkardt. gasmasken. öl auf            individuelle druckprodukte mit einem hohen
+            leinwand, 2005                                 nutzfaktor zu kreieren.
+     s. 36: sicherheit seit 1999                                    www.level-two.at
+     s. 38: blick ins büro
+     s. 40: thomas aiglesberger, software &
+            cd-produktion                                  +
+     s. 42: frank treichl, software / netzwerk
+     s. 44: ulf kossak. göttin. 2004
+     s. 46: flipper zur pausengestaltung
+
+
+     +
+
+48
+
+
+
+
+     x-net services gmbh
+     spittelwiese 15
+     4020 linz
+     austria
+     www.x-net.at

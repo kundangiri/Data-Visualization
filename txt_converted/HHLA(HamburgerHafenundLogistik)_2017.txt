@@ -1,0 +1,1099 @@
+nachhaltigkeits-
+bericht 2016 hamburger hafen und logistik
+             aktiengesellschaft
+
+
+
+
+transport-
+    kette
+
+1    überblick
+
+
+
+
+    inhalt
+
+      2	statement der vorstandsvorsitzenden                     bei dem vorliegenden nachhaltigkeitsbericht handelt es sich
+      3          nachhaltigkeitsstrategie                        um einen auszug der wesentlichen nachhaltigkeitsrelevanten
+      3          nachhaltigkeitsorganisation und dialog          themen aus dem hhla-geschäftsbericht 2016.
+      3          grundsätze und berichtsstandards                der vollständige bericht inkl. gri-index wird ausschließlich
+      4          wesentlichkeitsanalyse                          im internet veröffentlicht.
+      7          nachhaltige leistungsindikatoren
+                                                                   http://bericht.hhla.de/geschaeftsbericht-2016
+      7	ökologie
+      9            soziales
+     10            wirtschaft
+     10          personal
+     14          forschung und entwicklung
+     14          einkauf und materialwirtschaft
+     16          berichtsprofil
+
+
+
+
+    impressum                                                    kennzahlen 2016
+
+    herausgeber
+
+                                                                       27,3 %
+    hamburger hafen und logistik ag
+    bei st. annen 1
+    20457 hamburg                                                      weniger co2-emissionen ggü. 2008
+    telefon +49 40 3088 – 0
+    fax +49 40 3088 – 3355
+    info@hhla.de
+    www.hhla.de
+
+
+    nachhaltigkeit
+    telefon +49 40 53309 – 2453
+                                                                       4,5 mio. €
+                                                                       in aus- und fortbildung investiert
+    fax +49 40 53309 – 2449
+    nachhaltigkeit@hhla.de
+
+
+    fotografie
+    nele martensen (vorstand)
+
+                                                                       605,3 mio. €
+    design und umsetzung                                               nettowertschöpfung erwirtschaftet
+    nexxar gmbh, wien
+    online-geschäftsbericht und online-nachhaltigkeitsberichte
+
+
+
+
+    hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                           statement der vorstandsvorsitzenden   2
+
+
+
+
+                                                                                                                                      angela titzrath
+                                                                                                                                      vorstandsvorsitzende
+
+
+
+
+sehr geehrten damen und herren,
+wir verfolgen durch verantwortungsvolles, zukunftsgerechtes unter-
+nehmerisches handeln unser nachhaltig ausgelegtes geschäfts-
+modell. denn wir sind überzeugt, dass profitables wachstum und
+zukünftige geschäftserfolge ganz maßgeblich auf vorausschauen-
+dem und verantwortungsvollem handeln beruhen. unsere nachhal-
+tigkeitsleistungen konnten wir durch die erfolgreiche umsetzung von
+ökonomischen, ökologischen und sozialen maßnahmen steigern.
+der einsatz modernster technologien, die einhaltung vorbildlicher       sichtlich, unser selbst gestecktes klimaschutzziel bis 2020 zu errei-
+sozialstandards, die implementierung hocheffizienter geschäftspro-      chen. bezogen auf das basisjahr 2008 haben wir uns vorgenom-
+zesse sowie eine werteorientierte unternehmensführung sind die          men, bis 2020 die co2-emissionen je umgeschlagenen container
+kernelemente unserer nachhaltigkeitsstrategie. kurzum: nachhalti-       um mindestens 30 % zu reduzieren. bis ende 2016 haben wir
+ges denken und handeln steht bei der hhla im mittelpunkt der            bereits eine reduzierung von 27,3 % erreicht. durch die zuneh-
+unternehmerischen entscheidungen.                                       mende elektrifizierung reduzieren wir nicht nur die klimaschädlichen
+                                                                        co2-emissionen, sondern auch die lokalen schadstoff- und lärm-
+durch ökologisch vorbildliche transportketten schaffen wir die basis    emissionen. damit leistet die hhla einen messbaren beitrag zur
+für unseren ökonomischen erfolg. deshalb haben wir unsere inves-        verbesserung der lokalen luftqualität.
+titionen in intermodale verkehre verstärkt. durch wertschöpfende
+investitionen in hocheffiziente hinterlandterminals, umweltfreundli-    die hhla ist in elf ländern europas tätig und beschäftigt rund ein
+che e-streckenlokomotiven, hybrid-rangierloks und leise                 drittel der mitarbeiterinnen und mitarbeiter außerhalb deutschlands.
+containertragwaggons setzen wir maßstäbe für umweltfreundliche          unseren mehr als 5.500 mitarbeitern bieten wir vielfältige sozialleis-
+transporte. güterverkehr wurde so erfolgreich von der straße auf        tungen und arbeitsplätze, die höchste standards bei der arbeitssi-
+die schiene verlagert und ladung an unseren seehafenterminals           cherheit und beim gesundheitsschutz erfüllen. unsere arbeitswelt
+gebunden. im jahr 2016 haben wir den bahnhof unseres container          befindet sich in einem herausfordernden wandel. deshalb qualifizie-
+terminals altenwerder um zwei auf nunmehr neun gleise erweitert.        ren wir unsere mitarbeiterinnen und mitarbeiter kontinuierlich weiter.
+die kapazität des bahnhofs erhöhte sich um 140.000 auf 930.000          entsprechende aus- und weiterbildungsprogramme vermitteln
+standardcontainer. die hhla hat damit erneut einen wichtigen            dabei das notwendige wissen. unsere mitarbeiterinnen und mitar-
+beitrag zur stärkung des hamburger hafens geleistet, dem größten        beiter sind die basis für nachhaltig zu erzielenden erfolg. dieser
+„bahnhafen“ europas.                                                    anspruch drückt sich unter anderem in einem personalmanage-
+                                                                        ment aus, das die vereinbarkeit von familie und beruf ebenso
+neben der verlagerung des güterverkehrs von der straße auf den          berücksichtigt wie diversity kriterien.
+umweltfreundlichen verkehrsträger schiene bestimmen die
+geschäftsprozesse auf den terminals unser handeln bei der               die zum unesco-weltkulturerbe zählende hamburger speicher-
+umsetzung unserer nachhaltigkeitsstrategie. automatisierte, elektri-    stadt wird von unseren immobilienexperten unter berücksichtigung
+fizierte prozesse und geräte sind die voraussetzung für die errei-      des denkmalschutzes und der spezifischen eigenschaften dieses
+chung unserer umwelt- und klimaschutzziele. sie leisten zudem           quartiers nachhaltig weiterentwickelt.
+einen wichtigen beitrag zur verbesserung der flächeneffizienz. der
+trend zu immer größeren schiffen und damit verbundenen spit-            gesellschaftliche verantwortung übernimmt die hhla durch die
+zenbelastungen auf unseren anlagen erfordert einen höheren ener-        unterstützung verschiedener projekte zur maritimen wirtschaft und
+gieeinsatz. dem wirken wir entgegen, indem wir energieeffiziente        zu umweltthemen an hamburger grundschulen. denn bildung, das
+geräte einsetzen und prozesse weiter optimieren. darüber hinaus         hat das jahr 2016 gezeigt, ist eine wichtige voraussetzung für den
+ersetzen wir dieselbetriebene geräte und anlagen durch elektrisch       gesellschaftlichen diskurs und den zusammenhalt in einem demo-
+betriebene. wir nutzen strom aus erneuerbaren energien und              kratischen gemeinwesen.
+senken so die co2-emissionen. angesichts positiver erfahrungen
+mit batteriebetriebenen automated guided vehicles (agv’s) haben
+wir im jahr 2016 grundsätzlich entschieden, die noch verbliebenen
+dieselbetriebenen agv’s durch elektrisch betriebene agv’s zu erset-
+zen. der ausbau der e-mobilität in deutschland schreitet langsamer
+voran als geplant, nicht jedoch bei der hhla. unsere flotte mit e-
+                                                                        angela titzrath
+pkw wurde im berichtszeitraum um 10 % auf 77 fahrzeuge erwei-
+                                                                        vorstandsvorsitzende
+tert. wir nutzen damit die größte e-fahrzeugflotte aller europäischen
+häfen. vor dem hintergrund der im abgelaufenen geschäftsjahr
+durchgeführten und beschlossenen maßnahmen sind wir zuver-
+
+
+                                                                                                        hhla-nachhaltigkeitsbericht 2016
+
+3     nachhaltigkeitsstrategie
+
+
+
+
+    nachhaltigkeitsstrategie                                                       die hhla steht in regelmäßigem austausch mit ihren interes-
+                                                                                   sengruppen, zu denen kunden (z. b. reedereien), kunden von
+    nachhaltiges wirtschaften ist seit jeher fest im geschäftsmodell               kunden (z. b. versender), beschäftigte, lieferanten, potenzielle
+    der hhla verankert: auf ökologisch vorbildliche weise                          und bestehende aktionäre und investoren, verbände und insti-
+    verknüpft das unternehmen hafenterminals mit hinterlandnetz-                   tutionen, wissenschaftliche einrichtungen, politische entschei-
+    werken zu klima- und ressourcenschonenden transportketten                      dungsträger, ngos, nachbarn der terminals sowie die inter-
+    für globale warenströme. auch die unternehmensführung ist                      essierte öffentlichkeit zählen. der geschäftsbericht ergänzt als
+    am prinzip der nachhaltigen wertschöpfung ausgerichtet. mit                    etabliertes medium den regelmäßigen dialog und berücksich-
+    ihr belegt die hhla, wie ökologische und wirtschaftliche ziele                 tigt die interessen der anspruchsgruppen.  hhla-
+    in einklang gebracht werden können.                                            gesch?tsbericht 2016, siehe wesentlichkeitsanalyse
+
+    die nachhaltigkeitsstrategie basiert auf drei säulen: umwelt,
+                                                                                   grundsätze und berichtsstandards
+    soziales und wirtschaft. in der hhla-nachhaltigkeitsinitiative
+    werden zehn handlungsfelder und leitlinien definiert und                       die hhla gestaltet ihr engagement für nachhaltigkeit verbind-
+    umgesetzt. schwerpunkte der handlungsfelder sind ökologi-                      lich, transparent, mess- und vergleichbar. das unternehmen
+    sche transportketten, klimaschutz und flächenschonung.                         wendet die richtlinien der global reporting initiative (nach gri
+    damit schaffen wir die voraussetzungen, dass die hhla auch                     berichtsstandard 4) zur nachhaltigkeitsberichterstattung an,
+    beim thema nachhaltigkeit eine führende position einnehmen                     des in diesem zusammenhang weltweit meistverbreiteten stan-
+    kann.                                                                          dards. dadurch sorgt die hhla auch im internationalen
+                                                                                   maßstab für vergleichbarkeit.
+    nachhaltigkeitsorganisation und dialog
+                                                                                   zusätzlich gab die hhla als erstes unternehmen des mari-
+    ein nachhaltigkeitsrat unter vorsitz der vorstandsvorsitzenden                 timen sektors eine entsprechenserklärung zum deutschen
+    verantwortet die nachhaltigkeitsstrategie. er besteht aus                      nachhaltigkeitskodex (dnk) ab. die entsprechenserklärung ist
+    führungskräften des konzerns sowie dem externen experten                       unter www.nachhaltigkeitsrat.de abrufbar. der dnk beschreibt
+    prof. schaltegger von der leuphana universität lüneburg. in                    in 20 kriterien mit je bis zu zwei leistungsindikatoren aspekte
+    diesem gremium werden konzernweit nachhaltigkeitsrelevante                     der ökologie, des sozialen und der unternehmensführung.
+    themen und maßnahmen diskutiert und verabschiedet sowie                        themen wie ressourcenverbrauch, compliance, chancenge-
+    die bestehende stakeholder-struktur regelmäßig geprüft und                     rechtigkeit oder gesundheitsschutz der beschäftigten spielen
+    aktualisiert. auf konzernebene berichtet die stabstelle nach-                  hier eine wichtige rolle. auch konkrete nachhaltigkeitsziele
+    haltigkeit direkt an die vorstandsvorsitzende.                                 werden abgefragt.
+
+
+
+
+    nachhaltigkeitsinitiative
+                                 handlungsfelder               leitlinien
+    ökologie                     ökologische transportketten   aktive vernetzung mit anderen akteuren der logistik und gestaltung nachhaltiger,
+                                                               umweltfreundlicher transportketten
+                                 flächenschonung               steigerung der effizienten nutzung von hafen- und logistikflächen
+                                 naturschutz                   minimierung der eingriffe in die natur und aktive bewahrung der natürlichen
+                                                               lebensgrundlagen
+                                 klimaschutz                   ausschöpfen technisch sinnvoller und wirtschaftlich vertretbarer möglichkeiten zur
+                                                               co2-reduzierung
+    soziales                     arbeitsschutz /               sicherheit, menschengerechte arbeitsbedingungen und förderung gesundheitsbewussten
+                                 gesundheitsförderung          verhaltens
+                                 mitarbeiterentwicklung        aus-, fort- und weiterbildung sowie individuelle förderung der beschäftigten
+                                 gesellschaftliche             intensivierung des dialogs mit der gesellschaft sowie informationen und diskussionen zu
+                                 verantwortung                 themen der hafenlogistik
+    wirtschaft                   wertschöpfung                 leistung eines dauerhaften und wesentlichen beitrags zur wertschöpfung und damit zum
+                                                               wohlstand an allen standorten
+                                 geschäftspartner              angebot maßgeschneiderter kundenlösungen und zuverlässige zusammenarbeit mit
+                                                               lieferanten
+                                 aktionäre                     dauerhafte steigerung des unternehmenswerts und transparenz für anleger
+
+
+
+    hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                                   wesentlichkeitsanalyse   4
+
+
+
+
+wesentlichkeitsanalyse                                                   führungskräfte aus verschiedenen funktionen des unterneh-
+                                                                         mens teilgenommen haben. insgesamt bewerteten rund
+die hhla ist inmitten einer vielzahl von interessengruppen               100 personen die für die hhla potenziell relevanten themen,
+mit vielfältigen verschiedenen erwartungen und anforderungen             insbesondere kunden, geschäftspartner und lieferanten sowie
+unternehmerisch tätig. um diese erwartungen und anforde-                 beschäftigte der hhla. alle interessengruppen haben an der
+rungen noch besser zu verstehen, führte die hhla 2015 im                 befragung teilgenommen. darüber hinaus hatten die stakehol-
+kontext nachhaltiger unternehmensführung eine wesentlich-                der die möglichkeit, die themen zu gewichten, zu ergänzen
+keitsanalyse durch, in der potenziell relevante nachhaltigkeits-         und zu kommentieren. die ergebnisse der stakeholder-befra-
+themen der internen und externen stakeholder untersucht                  gung wurden im rahmen einer sitzung des nachhaltigkeitsrats
+wurden. der prozess der datenerhebung und bewertung orien-               diskutiert und dem vorstand vorgestellt.
+tierte sich dabei an den vorgaben der global reporting initiative
+(gri). die hhla führt alle zwei jahre eine stakeholder-befra-            ergebnisse der stakeholder-umfrage
+gung durch, um die ergebnisse der wesentlichkeitsanalyse zu              die wesentlichkeitsmatrix zeigt die einordnung aller nachhal-
+überprüfen und frühzeitig veränderte stakeholder-erwartungen             tigkeitsthemen. in der matrixdarstellung werden die bewertun-
+zu erkennen.                                                             gen der externen stakeholder mit den bewertungen der inter-
+                                                                         nen stakeholder kombiniert. das ergebnis ist eine priorisierung
+prozess der stakeholder-umfrage                                          der themen. wesentliche aspekte gelten dann als wesentlich,
+zunächst wurden im rahmen einer sitzung des nachhaltig-                  wenn sie aus sicht der internen stakeholder und/oder aus
+keitsrats die für die hhla wesentlichen stakeholder identifiziert.       externer stakeholder-sicht von bedeutung sind.
+ausgangspunkt hierfür waren interne quellen, wie z. b. aufstel-
+lungen der größten kunden. als wesentliche stakeholder                   als sehr wesentlich eingeschätzt wurden insbesondere die
+wurden kunden (z. b. reedereien), kunden von kunden (z. b.               gewährleistung eines hohen datenschutzes, hohe arbeitssi-
+versender), beschäftigte, geschäftspartner und lieferanten, die          cherheitsstandards, nachhaltiges handeln, compliance, ener-
+medien, potenzielle und bestehende aktionäre, verbände und               gieeffizienz, kontinuierliche qualitätssteigerung, langfristige
+institutionen, wissenschaftliche einrichtungen, politische               ausrichtung der geschäftsstrategie und die etablierung eines
+entscheidungsträger, non-governmental organizations (ngos)               verhaltenskodex, der einen diskriminierungsfreien umgang der
+sowie nachbarn der terminals identifiziert.                              beschäftigten untereinander und mit konzernfremden personen
+                                                                         gewährleistet. co2-minderung, arbeitssicherheit und gesund-
+im zweiten schritt wurde eine bestandsaufnahme der sowohl                heitsschutz bei lieferanten, abfallvermeidung und umweltge-
+für die externen als auch für die internen stakeholder relevanten        rechte entsorgung sowie flächenschonung und aktiver dialog
+themen erstellt. in die erhebung flossen u. a. ergebnisse aus            zu themen der hafenwirtschaft bewerteten die teilnehmer als
+der hhla-nachhaltigkeitsinitiative „auf kurs“ ein, in deren              wesentlich. als zentrale gründe für ein nachhaltiges handeln
+rahmen bereits relevante themen ermittelt und zentrale hand-             der hhla wurden mit deutlicher mehrheit eine langfristig solide
+lungsfelder abgeleitet wurden.  siehe nachhaltigkeitsstrate-            wirtschaftliche entwicklung sowie minderung der umweltaus-
+gie                                                                      wirkungen genannt. der großteil der befragten fühlte sich
+                                                                         insgesamt gut über die nachhaltigkeitsthemen informiert.
+anschließend wurde anhand eines einheitlichen fragebogens
+eine weltweite zweiwöchige online-befragung durchgeführt, an
+der externe stakeholder aus allen interessengruppen sowie
+
+prozess der wesentlichkeitsanalyse
+
+
+                                    stakeholderbefragung                             interne bewertung durch den nachhaltigkeitsrat
+zweijährliche
+prüfung und
+anpassung
+
+                                                                     wesentlichkeitsanalyse
+
+
+
+                                      ableitung                                                                gewichtung
+
+
+                                   nachhaltigkeitsinitiative                                         berichtsinhalte
+
+
+
+
+                                                                                                      hhla-nachhaltigkeitsbericht 2016
+
+5     wesentlichkeitsanalyse
+
+
+
+
+    wesentlichkeitsmatrix
+    einschätzung der relevanz von nachhaltigkeitsthemen für die hhla
+
+
+
+
+    aufgrund der hohen korrelation bei der bewertung potenziell        lungsfelder wurden von den ergebnissen im wesentlichen
+    relevanter themen von externen und internen stakeholdern           bestätigt: keines der potenziell relevanten themen wurde in der
+    bestand bei der themengewichtung im vergleich zu früheren          befragung als unwesentlich bzw. weniger wesentlich eingestuft.
+    berichten nur wenig anpassungsbedarf. auch die im rahmen
+    der hhla-nachhaltigkeitsinitiative definierten zentralen hand-
+
+
+
+
+    hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                                              wesentlichkeitsanalyse   6
+
+
+
+
+wesentlichkeitsanalyse
+im rahmen der neuen g4-richtlinien der global reporting initiative (gri) wurde erstmals eine umfassende wesentlichkeitsanalyse durchgeführt. die
+ergebnisse sind in der nachfolgenden übersicht tabellarisch aufbereitet. die themen sind den handlungsfeldern des hhla-
+nachhaltigkeitsprogramms „auf kurs“ zugeordnet. als bedingt wesentlich wurden die themen „stabile dividendenausschüttung“ und „bedeutung
+von nachhaltigkeit“ für investoren eingeschätzt. keines der als potenziell relevant abgefragten themen wurde als unwesentlich bzw. kaum wesentlich
+bewertet.
+
+
+                          handlungsfelder                 bedeutung für die befragten stakeholder
+                                                          wesentlich                                     sehr wesentlich
+allgemeines                                               informationsqualität bzgl. nachhaltigkeit      relevanz von nachhaltigem handeln
+ökologie                  ökologische transportketten     relevanz ökologischer transportketten
+                          flächenschonung                                                                flächenschonung
+                          naturschutz                     minimierung des ressourcenverbrauchs           abfallvermeidung und umweltgerechte
+                                                                                                         entsorgung
+                                                          einsatz nachhaltiger materialien
+                                                          minimierung von lärmemissionen
+                                                          minimierung von lichtemissionen
+                          klimaschutz                                                                    klimaschutz durch reduzierung von
+                                                                                                         co2-emission
+                                                                                                         energieeffizienz
+soziales                  arbeitsschutz/gesundheits-      förderung von gesundheitsbewusstem             arbeitssicherheit und gesundheitsschutz bei
+                          förderung                       verhalten durch die hhla                       der hhla
+                                                                                                         arbeitssicherheit und gesundheitsschutz bei
+                                                                                                         lieferanten
+                          mitarbeiterentwicklung          förderung der vereinbarkeit von beruf und
+                                                          familie
+                                                          regelmäßige aus- und weiterbildungs-
+                                                          angebote
+                          compliance                      verhaltenskodex für beschäftigte (über         diskriminierungsfreier umgang
+                                                          gesetzliche standards hinaus)                  datenschutz
+                                                          anwendung von einkaufsbedingungen, die wettbewerbsrechtlich konformes verhalten
+                                                          bei lieferanten entlohnungs- und
+                                                          sozialstandards sicherstellen
+                          gesellschaftliche               engagement als „guter bürger“ für die          aktiver dialog zu themen der
+                          verantwortung                   zivilgesellschaft                              hafenwirtschaft
+wirtschaft                wertschöpfung                   setzen technologischer maßstäbe                langfristige ausrichtung der
+                                                          integration extern prozessbeteiligter in die   geschäftsstrategie sowie solides
+                                                          transportkette                                 wirtschaftliches handeln
+
+                          geschäftspartner                                                               kontinuierliche verbesserung der
+                                                                                                         prozessqualität
+                                                                                                         kontinuierliche verbesserung der
+                                                                                                         servicequalität
+                          aktionäre                       umfassende und transparente                    langfristige steigerung des
+                                                          kommunikation über die geschäfts-              unternehmenswerts
+                                                          entwicklung
+
+
+
+
+                                                                                                                hhla-nachhaltigkeitsbericht 2016
+
+7     nachhaltige leistungsindikatoren
+
+
+
+
+    nachhaltige leistungsindikatoren                                                direkter und indirekter energieverbrauch
+                                                                                                                                 2013       2014       2015      2016
+    wirtschaftlich orientiertes handeln und die verantwortung                                                                                                    25,6
+                                                                                    diesel und heizöl in mio. liter               26,8       28,5       25,7
+    gegenüber den beschäftigten, der gesellschaft und der
+                                                                                    benzin in mio. liter                           0,1        0,1        0,1          0,1
+    umwelt prägen seit jeher die aktivitäten der hhla. wer hafen-                                       3
+                                                                                    erdgas in mio. m                               3,1        1,8        2,3          2,4
+    und hinterlandterminals, intermodalnetzwerke und logistikzen-
+    tren aufbaut und betreibt, muss angesichts hoher kapitalin-                     strom1 in mio. kwh                          148,7      154,4      138,3     139,6
+
+    tensität und langer nutzungsdauer in großen zusammenhän-                            davon strom aus
+    gen denken und seine geschäftstätigkeit auf langfristigen, über                     erneuerbarer energie                      78,2       84,0       76,0     73,1
+
+    einzelne konjunkturzyklen hinausreichenden erfolg ausrichten.                   fahrstrom in mio. kwh                         37,9       51,7     130,3     150,0
+    seit seinem bestehen legt das unternehmen daher größten                         fernwärme in mio. kwh                          4,6        3,7        3,2          3,6
+    wert auf nachhaltiges handeln.                                                  energieverbrauch 2016 für erdgas, fahrstrom und fernwärme geschätzt (vorläufig)
+                                                                                    1   strom ohne fahrstrom
+    ökologie
+    emissionen und energie
+                                                                                    die hhla hat sich zum ziel gesetzt, bis zum jahr 2020 die
+    bereits seit 2008 berichtet die hhla regelmäßig im rahmen
+                                                                                    spezifischen co2-emissionen – also die co2-emissionen je
+    des internationalen carbon disclosure projects (cdp) über die
+                                                                                    umgeschlagenen container – um mindestens 30 % zu verrin-
+    co2-bilanz. das cdp ist eine gemeinnützige initiative, die im
+                                                                                    gern. als basisjahr wurde 2008 festgelegt. im zeitraum 2008
+    namen institutioneller investoren eine der weltweit größten
+                                                                                    bis 2016 konnten die co2-emissionen je umgeschlagenen
+    datenbanken für unternehmensbezogene treibhausgasemis-
+                                                                                    container um 27,3 % gesenkt werden. die spezifischen
+    sionen führt und diese informationen der öffentlichkeit zur
+                                                                                    co2-emissionen stiegen im berichtsjahr um 2,2 prozent-
+    verfügung stellt.
+                                                                                    punkte.
+
+    bei der berechnung der co2-emissionen orientiert sich die
+                                                                                    die absoluten co2-emissionen erhöhten sich im jahresver-
+    hhla am greenhouse gas protocol corporate standard (revi-
+                                                                                    gleich um 5,5 % oder 9.378 t auf 178.468 t. dieses ist insbe-
+    sed edition), einem weltweiten standard zur erfassung von
+                                                                                    sondere auf die gestiegene eigentraktionsleistung der elektrisch
+    treibhausgasemissionen. die maßgeblichen emissionen
+                                                                                    betriebenen, umweltfreundlichen mehrsystemlokomotiven
+    konzentrieren sich im hhla-konzern auf den ausstoß von
+                                                                                    zurückzuführen. so stiegen die traktionsbedingten emissionen
+    co2. dieser wird vor allem von den umschlag- und transport-
+                                                                                    um 9,2 % bzw. von 73.369 t um 6.760 t auf 80.129 t an. die
+    mengen, der mit eigenen lokomotiven durchgeführten trakti-
+                                                                                    absoluten emissionen aller von der hhla betriebenen contai-
+    onsleistung sowie dem einsatz von strom aus erneuerbaren
+                                                                                    nerterminals erhöhten sich im berichtsjahr um 4,6 % bzw.
+    energien beeinflusst. der separate bezug von strom aus erneu-
+                                                                                    3.004 t auf 68.161 t.
+    erbaren energien wurde nach maßgabe des greenhouse gas
+    protocols als emissionsfrei klassifiziert. der energiebedarf eines
+                                                                                    die hhla führte im berichtszeitraum verschiedene minde-
+    terminals hängt maßgeblich von den wasserseitig umgeschla-
+                                                                                    rungsprojekte zur senkung der co2-emissionen innerhalb
+    genen und mit den verkehrsträgern bahn und lkw landseitig
+                                                                                    der einzelnen gesellschaften durch. hierbei sind zum beispiel
+    transportierten containern ab. als bezugsgröße zur bestim-
+                                                                                    die optimierung von energierelevanten systemeinstellungen
+    mung der spezifischen co2-emissionen verwendet die hhla
+                                                                                    oder die modernisierung vorhandener beleuchtungsanlagen zu
+    im einklang mit den empfehlungen der eeeg-arbeitsgruppe
+                                                                                    nennen. weitere projekte wurden vorbereitet und werden ihre
+    (european economics environment group) die aussagekräftige
+                                                                                    wirkung im jahr 2017 entfalten.
+    wasser- und landseitige umschlagleistung in containern.
+
+    senkung der spezifischen co2-emissionen seit 2008                               direkte und indirekte co2-emissionen
+    klimaschutzziel: senkung um 30 % bis 2020                                       in tsd. t
+
+       100                                                -27,3 %       - 30,0 %
+                                                                                                                                              direkte
+                                                                                                                                     74       co2-emissionen
+             - 3,9                                                                                                     74
+                              +0,9                                                                                                            indirekte
+                                                                                                            82                       26       co2-emissionen
+                     - 17,9                                           72,7   70,0           81                         22
+                                     - 3,6 - 0,5 - 0,8
+                                                         - 3,7 +2,2                                                                           indirekte
+                                                                                            25              25         73            80       co2-emissionen
+                                                                                            21              28                                durch fahrstrom
+      2008 2009 2010 2011 2012 2013 2014 2015 2015 2016                      2020          2013          2014         2015          2016
+
+
+
+
+    hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                                  nachhaltige leistungsindikatoren   8
+
+
+
+
+ein langfristig höherer stromanteil am energieträgermix des        das im vorjahr für die hamburger hafen und logistik ag sowie
+konzerns ermöglicht den verstärkten einsatz von strom aus          für die hhla personal service gmbh nach din iso 50001
+erneuerbaren energien und damit substanzielle co2-redu-            zertifizierte energiemanagementsystem wurde auf zusätzli-
+zierungen. hierfür setzt die hhla auf eine weitere elektrifizie-   che hhla-gesellschaften erfolgreich erweitert.
+rung ihrer geräte und maschinen auf den terminals. damit
+werden die anlagen nicht nur emissions- und lärmärmer,             wasserverbrauch
+sondern benötigen auch weniger wartungsaufwand. der                wasser wird im hhla-konzern hauptsächlich für die reinigung
+strombedarf für alle selbst genutzten bürogebäude und werk-        von großgeräten und containern sowie für die hygiene der
+stätten in hamburg sowie für den container terminal alten-         beschäftigten verbraucht. der wasserverbrauch des operati-
+werder (cta) und das rein elektrisch betriebene lagerkransys-      ven betriebs blieb 2016 in deutschland, polen, der slowakei,
+tem am container terminal burchardkai (ctb) wird aus erneu-        tschechien und der ukraine im vergleich zum vorjahr mit einer
+erbaren energien gedeckt. durch diese maßnahmen wurden             veränderung von 0,5 % auf 97.766 m3 (im vorjahr: 97.305 m3)
+die co2-emissionen im berichtsjahr um 23.190 t verringert (im      nahezu konstant. wasser wird an den hhla-standorten in
+vorjahr: 24.108 t). am container terminal tollerort (ctt) produ-   hamburg aus dem öffentlichen versorgungsnetz bezogen.
+zierte eine durch den energieversorger hamburg energie solar
+errichtete und betriebene photovoltaikanlage im berichtsjahr       entwicklung des wasserverbrauchs
+111.910 kwh co2-freien strom.                                      in dam3
+
+                                                                                    111
+neben dem aktiven ausbau der erneuerbaren energien fördert                                         103            97             98
+die hhla besonders den einsatz von energieeffizienten
+und schadstoffarmen maschinen und geräten. im
+berichtsjahr wurde die flotte von rein elektrisch betriebenen
+pkws um weitere 13 fahrzeuge auf 77 fahrzeuge ausgebaut.
+die e-fahrzeuge der hhla werden mit strom aus erneuerba-
+ren energien betrieben und fahren lokal emissionsfrei, leise und                    2013          2014           2015           2016
+wartungsarm. jährlich werden rund 500.000 km mit den elek-
+                                                                   hhla-standorte in deutschland, polen, tschechien, der slowakei und der ukraine
+trofahrzeugen zurückgelegt und so etwa 160 t weniger co2
+emittiert. die it-gestützte optimierte stellplatzzuweisung für
+                                                                   abfälle und recycling
+container minimiert darüber hinaus fahrstrecken für geräte,
+                                                                   die hhla setzt so weit wie möglich auf abfallvermeidung bzw.
+senkt damit den energieverbrauch und vermindert lärmemis-
+                                                                   abfalltrennung, um wiederverwendbare abfälle dem ressour-
+sionen. die verwendung runderneuerter reifen für verschie-
+                                                                   cenkreislauf zuzuführen. die abfallmenge ohne boden und
+dene umschlaggeräte verbessert ebenfalls die ressourcennut-
+                                                                   bauschutt sank im berichtsjahr an den standorten in deutsch-
+zung.
+                                                                   land im vergleich zum vorjahr um 9,6 % auf 8.629 t (im vorjahr:
+                                                                   9.544 t). dieser rückgang ist insbesondere auf eine senkung
+der ctb hat im berichtsjahr vier neue van-carrier (portalhub-
+                                                                   der entsorgungsmenge von nicht mehr zum verzehr oder zur
+wagen) in betrieb genommen, die die strengen vorgaben der
+                                                                   verarbeitung geeigneten lebensmitteln wie bananen, ananas
+europäischen union nach der schadstoffgrenzwert-stufe 4
+                                                                   oder kartoffeln um 30,5 % zurückzuführen. auf diese mengen
+erfüllen. diese modernen fahrzeuge leisten mit ihrem äußerst
+                                                                   hat die hhla keinen einfluss, da diese zu entsorgenden abfall-
+niedrigen schadstoffausstoß einen wichtigen beitrag zur redu-
+                                                                   arten bereits ungeeignet in hamburg ankommen. bereinigt um
+zierung der schadstoffemissionen auf dem containerterminal.
+                                                                   diese mengen stieg die abfallmenge der hhla im berichtsjahr
+auf den gleisen der hamburger hafenbahn verkehrt seit
+                                                                   leicht um 1,7 % auf 6.307 t an (im vorjahr: 6.200 t). die als
+sommer 2016 die weltweit erste hybridlokomotive im schwe-
+                                                                   gefährlich klassifizierten abfälle sanken um 1,6 % auf 1.311 t
+ren güterzug-rangierverkehr. die lokomotive wird durch die
+                                                                   (im vorjahr: 1.322 t). die menge reduzierte sich damit um 60 %
+hhla-tochtergesellschaft metrans eingesetzt. der moderne
+                                                                   im vergleich zu 2010. die senkung der gefährlichen abfälle ist
+hybridantrieb aus elektro- und dieselmotor führt zu einer
+                                                                   im wesentlichen auf die inbetriebnahme einer chemisch-physi-
+verbrauchsminderung um mehr als 50 %.
+                                                                   kalischen wasseraufbereitungsanlage am ctb zurückzuführen.
+                                                                   in der anlage wird das zur reinigung der großgeräte genutzte
+auch im bereich energieeffiziente beleuchtung wurden
+                                                                   wasser aufbereitet und dem reinigungskreislauf wieder zuge-
+diverse projekte fortgeführt. am cta wurde die umstellung
+                                                                   führt. überreife bananen und andere nicht zur verarbeitung
+der lagerkranbeleuchtung auf bedarfsgerechte led-beleuch-
+                                                                   oder zum verzehr geeignete nahrungsmittel stellten 2016 die
+tung an allen 52 lagerkranen abgeschlossen. neben verringer-
+                                                                   größte abfallmenge dar. im vergleich zum vorjahr sank sie auf
+ten lichtemissionen sinkt bei diesem system der stromver-
+                                                                   2.233 t (im vorjahr: 3.343 t). ein großer anteil davon wurde
+brauch um rund 90 % gegenüber dem vorherigen, konventio-
+                                                                   der stofflichen wiederverwertung zur herstellung von biogas
+nellen beleuchtungssystem.
+                                                                   zugeführt. auf diese weise wurden 2016 rund 210.000 kwh
+
+                                                                                                          hhla-nachhaltigkeitsbericht 2016
+
+9        nachhaltige leistungsindikatoren
+
+
+
+
+    entwicklung der abfallmenge                                         regionale verantwortung
+    in tsd. t                                                           etwa jeder zehnte arbeitsplatz in hamburg ist mit dem waren-
+                                                                        umschlag im hamburger hafen verbunden. der hafen und
+    10                                                    nicht
+                                                          gefährliche   die damit verflochtenen wirtschaftszweige sind somit zentrale
+     8                                                    abfälle       arbeitgeber für die metropolregion hamburg. die hhla wickelt
+     6                                                                  rund drei viertel des containerumschlags bzw. mehr als die
+     4                                                                  hälfte des gesamtumschlags in tonnen in hamburg ab. die
+                                                          gefährliche   hhla versteht sich daher als integraler teil der wirtschaftlichen
+     2                                                    abfälle
+     0
+                                                                        entwicklung in der metropolregion hamburg und ist sich ihrer
+             2013            2014           2015   2016                 gesellschaftlichen verantwortung, auch an allen anderen stand-
+                                                                        orten, bewusst.
+
+    strom co2-frei erzeugt und damit rund 90.000 kwh weniger            gesellschaftlicher dialog
+    als im vorjahr, was auf den rückgang dieser abfallmengen            die hhla steht in regelmäßigem austausch mit ihren inter-
+    zurückzuführen ist. im berichtszeitraum fielen zudem 0,3 %          essengruppen.  siehe auch hhla-gesch?tsbericht 2016,
+    weniger gewerbeabfälle an. diese abfallart stellte mit 1.823 t      berichtsprofil darüber hinaus fördert das unternehmen eine
+    die zweitgrößte abfallmenge dar (im vorjahr: 1.828 t). die 3 %      reihe von bildungsprojekten zu den themen hafen und logis-
+    unter dem vorjahr liegenden 1.105 t metallschrott (im vorjahr:      tik.
+    1.139 t) wurden vollständig dem recycling zugeführt. alt- und
+    bauholz verzeichnete eine signifikante steigerung um 71 % auf       die zusammenhänge von hafen, logistik und wasser zu erken-
+    691 t, verpackungen aus papier und pappe stiegen um 10,9 %          nen führt zum verstehen der weltweiten arbeitsteilung und der
+    auf 675 t an (im vorjahr: 609 t).                                   bedeutung nachhaltigen handelns. die hhla konzentriert sich
+                                                                        bei der unterstützung von bildungsprojekten auf zwei projekte:
+    ressourcenschonendes handeln auf den terminals spiegelte            das von der hhla mitinitiierte bildungsangebot „hafen scouts“
+    sich auch in der verwendung von insgesamt 31.000 t (im              vermittelt schülerinnen und schülern den transport von gütern
+    vorjahr: 58.300 t) recyceltem baumaterial bei der instandhal-       rund um die welt, die funktionsweise des hafens und berufs-
+    tung der terminalflächen im jahr 2016 wider. hiervon entfielen      bilder im hafen. neben den „hafen scouts“ zählt das von
+    mit jeweils 11.000 t die wesentlichen anteile auf schlacken aus     der michael otto stiftung für umweltschutz initiierte projekt
+    müllverbrennungsanlagen sowie aus asphaltrecycling. zudem           „aqua-agenten“ zu den eckpfeilern des hhla-engagements
+    wurden 7.000 t elektroofenschlacken wiederverwertet, die            für bildung. dieses bereits mehrfach ausgezeichnete projekt
+    beim einschmelzen von stahlschrott und mineralischen                (u. a. als offizielles projekt der un-weltdekade „bildung für eine
+    zuschlägen im elektrolichtbogenofen entstehen und nun als           nachhaltige entwicklung“ und als „ort der ideen“) vermittelt
+    tragmaterial auf den terminals eine weitere verwendung finden.      dritt- und viertklässlern auf spielerische weise die bedeutung
+    durch die verwendung dieses recycelten baustoffs müssen             von wasser für mensch, natur und wirtschaft. den schulklas-
+    weniger natursteine abgebaut werden. zusätzlich wurden              sen wird auf den containerterminals der hhla die bedeu-
+    2.000 t recycelte betonmineralgemische zur flächensanierung         tung der schifffahrt und der häfen für den welthandel nahe-
+    eingesetzt.                                                         gebracht. im berichtsjahr kamen mehr als 1.200 schülerinnen
+                                                                        und schüler durch diese bildungsprojekte auf die hhla-anla-
+    soziales                                                            gen. seit beginn des aqua-agenten-projekts im jahr 2009
+    neben der wahrnehmung ihrer gesellschaftlichen verantwor-
+                                                                        wurde mehr als 10.000 schülerinnen und schülern die bedeu-
+    tung zählen auch die personalentwicklung sowie der arbeits-
+                                                                        tung von wasser und hafen vermittelt.
+    und gesundheitsschutz der mitarbeiterinnen und mitarbeiter
+    zu den zentralen handlungsfeldern der hhla.  siehe auch            compliance
+    hhla-gesch?tsbericht 2016, personal                                 compliance, d. h. die einhaltung gesetzlicher bestimmungen
+                                                                        und unternehmensinterner richtlinien, ist ein wesentlicher
+                                                                        bestandteil der hhla-corporate-governance. kern der hhla-
+                                                                        compliance ist ein verhaltenskodex, der übergeordnete grund-
+                                                                        sätze zu compliance-relevanten themen, z. b. verhalten im
+                                                                        wettbewerb, vermeidung von korruption und interessenkon-
+                                                                        flikten sowie umgang mit sensiblen unternehmensinformatio-
+                                                                        nen, formuliert.  siehe auch hhla-gesch?tsbericht 2016,
+                                                                        corporate-governance-bericht und erklärung zur unterneh-
+                                                                        mensführung
+
+
+
+    hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                        nachhaltige leistungsindikatoren    10
+
+
+
+
+entstehung der wertschöpfung                                        verwendung der wertschöpfung
+produktionswert 2016: 1.240 mio. € = 100 %                          nettowertschöpfung 2016: 605 mio. € = 100 %
+
+
+
+                                  49 % wertschöpfung
+                                                                                                     75 % beschäftigte
+                                  28 % materialaufwand
+                                                                                                     17 % gesellschafter
+                                  13 % sonstige betriebliche
+                                                                                                      7 % öffentliche hand
+                                       aufwendungen
+                                                                                                      1 % darlehensgeber
+                                  10 % abschreibungen
+
+
+
+
+wirtschaft                                                          organisation und steuerung
+wertschöpfung im hhla-konzern                                       das personalmanagement ist auf vorstandsebene verankert
+in mio. €                              2016       2015    veränd.   und wird dort als zentrale ressortfunktion wahrgenommen.
+beschäftigte                           451,9     409,0    10,5 %
+                                                                    diese organisationsstruktur stellt sicher, dass konzernweit stra-
+                                                                    tegische vorgaben auch personalwirtschaftlich abgedeckt
+gesellschafter                         105,1       95,8    9,6 %
+                                                                    werden können. die fachabteilung stellt für alle berufsgruppen
+öffentliche hand                        41,0       32,0   28,0 %
+                                                                    und hierarchiestufen der deutschen gesellschaften zugeschnit-
+darlehensgeber                           7,3        8,7 - 16,0 %
+                                                                    tene angebote zur personal- und organisationsentwicklung
+gesamt                                 605,3     545,5    10,9 %    bereit. die förderung und entwicklung der leistungsfähigkeit
+                                                                    der fach- und führungskräfte erfolgt dabei systematisch und
+die nettowertschöpfung erhöhte sich im geschäftsjahr 2016           wird kontinuierlich durch das personalmanagement begleitet.
+um 10,9 % auf 605,3 mio. €. die wertschöpfungsquote lag mit         gleiches gilt für alle maßnahmen zur organisationsentwicklung.
+48,8 % leicht über vorjahresniveau. die nettowertschöpfung
+dient als indikator für den volkswirtschaftlichen mehrwert der      diversity-management
+geschäftstätigkeit. sie errechnet sich aus dem produktionswert      das diversity-management ist seit mehreren jahren im strate-
+abzüglich sämtlicher vorleistungen und abschreibungen. die          gischen personalmanagement verankert. die hhla ist über-
+wertschöpfung verteilt sich auf mitarbeiterinnen und mitarbei-      zeugt, dass ein ausgewogenes verhältnis der verschiedenen
+ter, gesellschafter, öffentliche hand (steuern) sowie darlehens-    kulturen, geschlechter und altersgruppen die voraussetzung
+geber. der größte teil entfiel mit 451,9 mio. € und einem anteil    für ein erfolgreiches unternehmerisches handeln bildet. ziel ist
+von 74,7 % auf die beschäftigten.                                   es, diese vielfalt in allen gesellschaften abzubilden. dies gilt
+                                                                    insbesondere auch bei der bildung von temporären gesell-
+                                                                    schaftsübergreifenden arbeits- bzw. projektgruppen.
+personal
+strategisches personalmanagement                                    entwicklung des personalbestands
+personalstrategie                                                   zum jahresende 2016 beschäftigte die hhla insgesamt
+mensch und organisation stehen im zentrum der personal-             5.528 mitarbeiterinnen und mitarbeiter. gegenüber dem vorjahr
+arbeit. kompetente und leistungsstarke führungskräfte sowie         erhöhte sich die zahl um 183 personen bzw. um 3,4 %.
+mitarbeiterinnen und mitarbeiter sind die basis unseres erfolgs.    darüber hinaus setzte die hhla im jahresmittel durchschnitt-
+langfristige qualitative und quantitative personalplanungs- und     lich 558 mitarbeiterinnen und mitarbeiter der gesamthafenbe-
+personalentwicklungsstrategien sind am standort hamburg             triebs-gesellschaft (ghb) ein (im vorjahr: 562).
+gesellschaftsübergreifend angelegt. die kontinuierliche weiter-
+entwicklung der fach-, führungs- und projektkarrieren und der       beschäftigte
+mögliche wechsel zwischen den unterschiedlichen karrierepfa-        nach segmenten                         2016          2015     veränd.
+den sind ein zentrales ziel der personalstrategie. ebenso bilden    container                             2.945         2.957     - 0,4 %
+die vielfältigen optionen zur lebensphasenorientierten gestal-      intermodal                            1.687         1.449     16,4 %
+tung des verhältnisses von privat- zu berufsleben sowie die         holding/übrige                          651           668     - 2,5 %
+kontinuierliche weiterentwicklung der arbeitszeitsysteme eine       logistik                                214           232     - 7,8 %
+wesentliche grundlage der dauerhaften betriebszugehörigkeit
+                                                                    immobilien                                31            39 - 20,5 %
+der hhla-beschäftigten.
+                                                                    hhla-konzern                          5.528         5.345       3,4 %
+
+
+
+
+                                                                                                  hhla-nachhaltigkeitsbericht 2016
+
+11     personal
+
+
+
+
+     personalbestand nach regionen                                       seit 2013 setzt die hhla ein eigens entwickeltes strukturiertes
+     der geografische schwerpunkt lag mit 3.625 beschäftigten in         auswahlverfahren (assessment center) ein, das neben der
+     deutschland (im vorjahr: 3.656), von denen die überwiegende         persönlichen und fachlichen eignung auch diversity-aspekte
+     zahl am standort hamburg tätig war. dies entspricht einem           berücksichtigt. die verfahren werden seit ende 2013 im
+     anteil von 65,6 % (im vorjahr: 68,4 %). die anzahl der arbeits-     gewerblichen bereich eingesetzt und seit 2014 an allen contai-
+     plätze im ausland ist um 214 auf 1.903 gestiegen (im vorjahr:       nerterminals am standort hamburg einheitlich angewendet. die
+     1.689). dies ist zum größten teil auf einen anstieg der mitar-      mitarbeiterinnen und mitarbeiter in den auswahlgremien
+     beiterzahlen in den intermodalgesellschaften in tschechien, der     werden speziell geschult. außerdem nimmt bei allen auswahl-
+     slowakei, ungarn und slowenien zurückzuführen, wo die zahl          verfahren, bei denen frauen im bewerberpool vertreten sind,
+     der mitarbeiterinnen und mitarbeiter um 17,3 % auf 1.282            mindestens eine frau im auswahlgremium teil.
+     anstieg (im vorjahr: 1.093). in der ukraine reduzierte sich die
+     belegschaft um 1,1 % auf 440 beschäftigte (im vorjahr: 445).        neueinstellungen 2016
+     die übrigen 181 mitarbeiterinnen und mitarbeiter (im vorjahr:                                                               davon       anteil
+     151) verteilten sich auf tochterunternehmen in österreich,                                                       gesamt    frauen frauen in %
+     polen, georgien und der türkei.                                     < 30 jahre                                       49        13         26,5
+                                                                         30 – 50 jahre                                    35        11         31,4
+     personalbestand nach segmenten                                      > 50 jahre                                       13         1          7,7
+     die anzahl der beschäftigten im segment container bewegte           hhla-konzern                                     97        25         25,8
+     sich zum 31. dezember 2016 nahezu auf vorjahresniveau.
+     insgesamt waren dort 2016 zwölf personen weniger beschäf-
+                                                                         die fluktuationsquote (ohne konzerninterne wechsel) in
+     tigt als im vorjahr (im vorjahr: 2.957). dagegen verstärkte sich
+                                                                         deutschland ist mit 4,8 % im vergleich zum vorjahr nahezu
+     das segment intermodal im rahmen der leistungsausweitung
+                                                                         konstant geblieben (im vorjahr: 4,7 %). 41,7 % der insgesamt
+     und erhöhung der wertschöpfungstiefe deutlich um insgesamt
+                                                                         175 austritte waren altersbedingt.
+     238 beschäftigte bzw. 16,4 % auf 1.687 (im vorjahr: 1.449). in
+     allen anderen segmenten entwickelte sich der personalstand
+     rückläufig. die belegschaft der strategischen management-
+                                                                         personalstruktur
+                                                                         der überwiegende teil der arbeitsplätze bei der hhla befindet
+     holding verringerte sich um 2,5 % auf 651 beschäftigte (im
+                                                                         sich in einem segment des arbeitsmarkts, in dem traditionell
+     vorjahr: 668). im segment immobilien ging die beschäftigten-
+                                                                         männer beschäftigt und frauen unterdurchschnittlich vertreten
+     zahl um 20,5 % auf 31 mitarbeiterinnen und mitarbeiter zurück
+                                                                         sind. 2016 hat sich der positive trend aus den vorjahren fortge-
+     (im vorjahr: 39). die mitarbeiteranzahl im segment logistik sank
+                                                                         setzt und der anteil der bei der hhla in deutschland beschäf-
+     im berichtszeitraum auf 214 (im vorjahr: 232). dies resultiert im
+                                                                         tigten frauen (inkl. auszubildender) weiter erhöht. mit einer
+     wesentlichen aus der einstellung des operativen geschäfts des
+                                                                         quote von 15,4 % liegt der frauenanteil 0,2 prozentpunkte
+     bereichs projekt- und kontraktlogistik.
+                                                                         über dem vorjahresniveau (im vorjahr: 15,2 %).
+     neueinstellungen
+                                                                         auf der grundlage des gesetzes für die gleichberechtigte teil-
+     bei den 97 neu eingestellten beschäftigten, die vorher nicht
+                                                                         habe von frauen und männern an führungspositionen hat der
+     über die gesamthafenbetriebs-gesellschaft (ghb) o.ä. bei der
+                                                                         vorstand bereits im vorjahr für den frauenanteil der ersten
+     hhla in deutschland eingesetzt waren, betrug der frauenanteil
+                                                                         führungsebene unterhalb des vorstands eine zielgröße von
+     25,8 %. über die hälfte der neueinstellungen war unter
+                                                                         25 % festgelegt (aktueller stand zum 31. dezember 2016:
+     30 jahre alt.
+                                                                         17 %; im vorjahr: 15 %). für die zweite führungsebene wurde
+
+
+
+
+     entwicklung der beschäftigtenzahl                                   beschäftigtenanteil nach regionen
+     im hhla-konzern zum 31.12.                                          zum 31.12.2016
+
+
+                            5.194       5.345      5.528
+                  4.924
+                                                                                                                     66 % deutschland
+                                                                                                                     23 % südosteuropa1
+                                                                                                                      8 % ukraine
+                                                                                                                      3 % restliches ausland
+
+                  2013       2014       2015       2016
+
+                                                                         1 tschechien, slowakei, ungarn, slowenien
+
+
+     hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                                         personal     12
+
+
+
+
+eine zielgröße von 30 % ausgegeben (zum 31. dezember                plätze für ein duales studium wurden für den studienbeginn
+2016: 26 %, im vorjahr: 21 %). beide zielgrößen sollen jeweils      2016 an frauen vergeben. im gewerblichen bereich lag die
+bis zum 30. juni 2017 erreicht werden.  siehe auch hhla-           quote der weiblichen auszubildenden für den ausbildungsbe-
+gesch?tsbericht 2016, corporate governance                          ginn 2016 bei 30 %.
+
+altersstruktur                                                      um weiterhin geeignete bewerberinnen und bewerber in den
+das durchschnittsalter der belegschaft in deutschland lag im        sogenannten mint-berufen (mathematik, informatik, naturwis-
+berichtszeitraum bei 43,9 jahren (im vorjahr: 43,2). das durch-     senschaften und technik) zu gewinnen, wurden die koopera-
+schnittsalter der männer betrug 44,6 jahre, während die             tionen mit technikerschulen und fachgymnasien weiter inten-
+frauen durchschnittlich 40,1 jahre alt waren. über die hälfte       siviert. praktikumsplätze wurden insbesondere für schülerinnen
+aller beschäftigten ist zwischen 30 und 50 jahre alt.               in den technischen ausbildungsberufen angeboten. die berufs-
+                                                                    felder, in denen ausgebildet wird, werden auf ausbildungsmes-
+altersstruktur der beschäftigten                                    sen und in diskussionen in schulklassen durch die fachbe-
+                                       anteil            anteil     reiche mit beteiligung von auszubildenden vorgestellt. im jahr
+in %                     31.12.2016   frauen 31.12.2015 frauen      2016 wurden zehn messen im großraum hamburg mitgestal-
+< 30 jahre                     12,0     27,5          13,4   26,5   tet.
+30 – 50 jahre                  53,1     16,0          54,0   15,5
+> 50 jahre                     34,9     10,1          32,5    9,7   gemeinsam mit anderen hamburger unternehmen nimmt die
+                                                                    hhla an dem pilot-projekt avm dual zur ausbildungsvorberei-
+hhla-konzern                  100,0     15,4      100,0      15,2
+                                                                    tung für migrantinnen und migranten des hamburger ausbil-
+                                                                    dungszentrums e.v. (haz) teil. das konzept, das die hhla
+die betriebszugehörigkeit der mitarbeiterinnen und mitarbeiter      maßgeblich mitentwickelt hat, stellt einen wegweisenden und
+in deutschland betrug wie auch im vorjahr durchschnittlich rund     zielorientierten ansatz zur integration von geflüchteten in die
+15 jahre.                                                           technische berufsausbildung dar. mit dem projekt wird sowohl
+                                                                    der sozialen und gesellschaftlichen verantwortung zur integra-
+durchschnittliche betriebszugehörigkeit der beschäftigten
+                                                                    tion von geflüchteten als auch der herausfordernden aufgabe,
+in jahren                               31.12.2016 31.12.2015
+                                                                    geeignete bewerberinnen und bewerber für technisch
+< 30 jahre                                      4,9           6,0   anspruchsvolle ausbildungsberufe zu finden, rechnung getra-
+30 – 50 jahre                                  10,9          10,9   gen. neben einer schulischen vorbereitung sieht das konzept
+> 50 jahre                                     24,7          25,2   bis august 2018 auch drei praktikumsphasen vor. begleitet
+hhla-konzern                                   15,0          14,9   werden die jungen migrantinnen und migranten zudem von
+                                                                    auszubildenden der teilnehmenden unternehmen, die speziell
+                                                                    hierfür geschult wurden.
+die beschäftigungsquote von mitarbeiterinnen und mitarbeitern
+mit schwerbehinderung (inkl. gleichgestellter) lag zum ende
+des berichtszeitraums bei 8,7 % (im vorjahr: 7,9 %).
+                                                                    weiterbildung und qualifizierung
+                                                                    im berichtszeitraum wurden über 700 ein- bis mehrtägige
+                                                                    veranstaltungen realisiert. davon wurden durch die eigenen
+aus- und weiterbildung
+                                                                    ausbilderinnen und ausbilder über 600 qualifizierungen als
+im jahr 2016 investierte die hhla am standort hamburg
+                                                                    interne gewerbliche weiterbildungen mit 2.335 ausbildungsta-
+insgesamt 4,5 mio. € (im vorjahr: 5,4 mio. €) in die aus- und
+                                                                    gen durchgeführt. im rahmen des internen segmentübergrei-
+weiterbildung von mitarbeiterinnen und mitarbeitern.
+                                                                    fenden seminarangebots wurden zusätzlich über 100 ein- bis
+                                                                    mehrtägige veranstaltungen mit 1.800 teilnehmertagen organi-
+berufsausbildung und studium
+zum 31. dezember 2016 wurden in deutschland 77 auszubil-            siert. der frauenanteil lag wie im vorjahr bei ca. 40 %.
+dende in zehn unterschiedlichen berufen und 20 studierende in
+                                                                    das interne seminarangebot der hhla dient der weiterent-
+neun dualen studiengängen ausgebildet. 28 % aller 97 auszu-
+                                                                    wicklung der inhaltlichen, methodischen und sozialen kompe-
+bildenden und studierenden waren frauen. bei den studieren-
+                                                                    tenz der fach- und führungskräfte. alle internen seminare
+den lag der frauenanteil 2016 bei 50 % (im vorjahr: 42 %).
+                                                                    werden abteilungs- und gesellschaftsübergreifend angeboten.
+von den 40 auszubildenden (davon neun in einem dualen               unter anderem wird so das verständnis der belegschaft für
+studiengang), die im jahresverlauf ihre ausbildung erfolgreich      die unterschiedlichen aufgaben sowie rollen und funktionen in
+abgeschlossen haben, wurden alle in ein arbeitsverhältnis über-     den unterschiedlichen geschäftsfeldern im konzern gefördert.
+nommen. insgesamt wurden am standort hamburg im ausbil-
+dungsjahr 2016 26 neue ausbildungsverträge geschlossen, der
+frauenanteil lag bei 31 %. vier von sechs der angebotenen
+
+
+                                                                                                 hhla-nachhaltigkeitsbericht 2016
+
+13      personal
+
+
+
+
+     verträge, vergütung und zusatzleistungen                           der arbeitszeit unterstützt die beschäftigten bei der vereinbar-
+     tarifverträge                                                      keit von familie und beruf, der pflege von nahen angehörigen
+     für ca. 89,5 % der mitarbeiterinnen und mitarbeiter in deutsch-    oder beim ausüben von ehrenamtlichen tätigkeiten. im jahr
+     land sind die entgelt- und arbeitsbedingungen in tarifverträgen    2016 wurde von insgesamt 170 beschäftigten die möglichkeit
+     geregelt (im vorjahr: 88,0 %).                                     einer teilzeitbeschäftigung in anspruch genommen, dies sind
+                                                                        20 beschäftigte mehr als noch 2015 (im vorjahr: 150). die teil-
+     im mai 2016 einigten sich die tarifvertragsparteien – der          zeitquote der hhla in deutschland erhöhte sich somit zum
+     zentralverband der deutschen seehafenbetriebe e. v. (zds)          jahresende 2016 auf 4,7 % (zum 31. dezember 2015: 4,1 %).
+     und die gewerkschaft ver.di – auf tabellenwirksame anhebun-        der anteil der männer mit einer teilzeitbeschäftigung ist auf
+     gen ab 1. juni 2016 um 2,5 % bei einer 12-monatigen laufzeit       28,8 % gestiegen (im vorjahr: 26,0 %). in der kaufmännisch
+     für die hafenarbeiter der deutschen seehafenbetriebe.              geprägten holding (ohne auszubildende) betrug der anteil an
+     abschlüsse ähnlicher größenordnung wurden auch für weitere         teilzeitkräften 15,4 % (im vorjahr: 13,7 %).
+     entgelttarifverträge des hhla-konzerns vereinbart. ein
+     element der tarifverträge ist ein kollektiver demografiefonds,     lebensarbeitszeitkonten
+     den die hhla speist, um dem demografischen wandel aktiv zu         neben verschiedenen möglichkeiten der betrieblichen alters-
+     begegnen und alters-, alterns- und leistungsgerechte arbeits-      vorsorge bietet die hhla ihren beschäftigten in acht konzern-
+     bedingungen zu ermöglichen. ab dem jahr 2021 können aus            gesellschaften die führung eines lebensarbeitszeitkontos. ziel
+     dem fonds erstmals mittel entnommen werden.                        ist es, den beschäftigten einen vorzeitigen ausstieg aus dem
+                                                                        aktiven erwerbsleben zu ermöglichen, ohne dass sie dafür
+     beurteilungs- und vergütungssysteme                                abschläge in der gesetzlichen altersrente in kauf nehmen
+     die beurteilungssysteme in den deutschen gesellschaften            müssen. die hhla bietet damit im wettbewerb um neue mitar-
+     bestehen aus bottom-up- und top-down-komponenten. sie              beiterinnen und mitarbeiter attraktive möglichkeiten, die eigene
+     sind zum teil durch tarifverträge geregelt, enthalten variable     lebensarbeitszeit aktiv zu gestalten. für mitarbeiterinnen und
+     vergütungsbestandteile und sind mit qualifizierungs-               mitarbeiter, die nach dem 1. januar 2005 ins unternehmen
+     verpflichtungen für das unternehmen und die beschäftigten          eingetreten sind, war die teilnahme verpflichtend. im jahr 2016
+     verbunden.                                                         wurde dies tarifvertraglich modifiziert, die teilnahme kann
+                                                                        nunmehr auf entsprechenden antrag der mitarbeiterin bzw. des
+     die rendite auf das eingesetzte kapital (roce) ist auch eine       mitarbeiters ausgesetzt werden. von den berechtigten
+     wesentliche bestimmungsgröße für die variablen vergütungs-         beschäftigten haben ca. 60 % von der möglichkeit gebrauch
+     bestandteile der führungskräfte und außertariflichen mitarbeite-   gemacht, die verpflichtende einbringung von zusätzlichen
+     rinnen und mitarbeiter. die ermittlung erfolgsabhängiger vergü-    arbeitstagen auszusetzen. die anzahl der mitarbeiterinnen und
+     tungskomponenten auf leitungsebenen erfolgt auf mehrjähri-         mitarbeiter, die ein lebensarbeitszeitkonto führen, betrug zum
+     ger basis. dadurch wird der fokus auf nachhaltige, langfristige    31. dezember 2016 1.134 (im vorjahr: 1.121). dies entspricht
+     ziele zusätzlich verstärkt.                                        einer teilnahmequote in deutschland von 31,3 % (im vorjahr:
+                                                                        30,7 %).
+     flexible arbeitszeitmodelle
+     die möglichkeit, in teilzeit zu arbeiten, wird zunehmend von       arbeitssicherheit und gesundheitsförderung
+     allen beschäftigtengruppen und hierarchieebenen in deutsch-        arbeitssicherheit
+     land in anspruch genommen, um die individuelle arbeitszeit         die körperliche unversehrtheit der mitarbeiterinnen und mitar-
+     an die unterschiedlichen lebensphasen anzupassen. teilzeit ist     beiter, der beschäftigten von fremdfirmen sowie der kunden,
+     damit ein wesentliches instrument zur bindung der mitarbei-        lieferanten und gäste ist vorrangiges anliegen der hhla und
+     terinnen und mitarbeiter an das unternehmen. die anpassung         wird durch umfangreiche präventionsmaßnahmen und -richtli-
+                                                                        nien sichergestellt. das arbeitsschutzniveau soll kontinuierlich
+     entwicklung der beschäftigtenzahl in teilzeit                      weiter verbessert werden und wird als eine wesentliche
+     der hhla in deutschland zum 31.12.                                 führungsaufgabe betrachtet. die maßnahmen orientieren sich
+                                                                        dabei am standortspezifischen bedarf. die anliegen aller
+                                                   170
+                                 141      150                           beschäftigten in hamburg werden in arbeitsschutzausschüs-
+                          120                                           sen vertreten. wesentliche maßnahmen werden durch die
+                                 3,9      4,1
+                                                    4,7                 gesetzlich vorgeschriebenen sitzungen der arbeitsschutzaus-
+                          2,9                                           schüsse evaluiert, die viermal im jahr stattfinden.
+
+                                                                        im rahmen der steten verbesserung setzt die hhla moderne
+                          2013   2014     2015     2016                 technologien ein: so nutzt die hhla ein arbeitsschutzma-
+                                                                        nagementsystem als kontrollinstrument zur überprüfung aller
+     teilzeitquote in %
+
+
+     hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                           forschung und entwicklung   14
+
+
+
+
+gesetzten ziele. mit dem ziel, das unfallrisiko weiter zu senken    im geschäftsjahr 2016 konzentrierte die hhla ihren ressour-
+und das bewusstsein der beschäftigten für den arbeitsschutz         ceneinsatz und verfügbare kapazitäten im wesentlichen auf
+zu vertiefen, wurde 2016 damit begonnen, einen großteil der         die fortsetzung der forschung im bereich batteriebetriebener
+verpflichtenden unterweisungen auf ein e-learning-system            containerfahrzeuge für den horizontaltransport.
+umzustellen.
+                                                                    batteriebetriebene containerfahrzeuge
+zur erstellung einer aussagekräftigen unfallstatistik werden die    im nachhaltigen geschäftsmodell der hhla ist die erforschung
+unfälle aller hhla-betriebe in hamburg berücksichtigt und in        und entwicklung ökoeffizienter antriebe ein kernthema. im
+einem einheitlichen berichtssystem erfasst. hierzu zählen auch      berichtsjahr wurde erfolgreich das vom bundesministerium für
+die unfälle, die in keinem direkten zusammenhang mit dem            wirtschaft und energie geförderte forschungsprojekt für elek-
+containerumschlag stehen (z. b. werkstattbetriebe). die ursa-       tromobilität besic (batterieelektrische schwerlastfahrzeuge im
+chen für veränderungen und/oder schwankungen werden                 intelligenten containerterminalbetrieb) abgeschlossen, das in
+sorgfältig analysiert, um rechtzeitig strukturierte maßnahmen       zusammenarbeit mit gottwald port technology, vattenfall
+zur vorbeugung ergreifen zu können. um die untersuchung             europe innovation und mehreren forschungsinstituten von der
+von unfällen sowie das verfahren zur meldung von unfällen an        hhla am container terminal altenwerder (cta) durchgeführt
+behörden zu verbessern, wurde 2016 in mehreren betrieben            wurde. im rahmen des projekts wurde ein batterieverwal-
+mit der erstellung und versendung von papierlosen unfallanzei-      tungssystem entwickelt, das durch gezielten datenaustausch
+gen begonnen.                                                       zwischen energielieferant und terminal dafür sorgt, dass die
+                                                                    batterien für die batteriebetriebenen automated guided vehi-
+im jahr 2016 ereigneten sich in den gesellschaften am stand-        cles (agvs) immer zum sowohl operativ als auch ökologisch
+ort hamburg, bei denen die hhla eine beteiligung von mehr           optimalen zeitpunkt geladen werden.
+als 50 % hält, 99 meldepflichtige unfälle ohne wegeunfälle.
+dies entspricht einem rückgang von 10,8 % (im vorjahr: 111).        zertifizierung der leistungsfähigkeit
+                                                                    zur dokumentation ihrer leistungsfähigkeit führten der cta
+gesundheitsmanagement                                               und der ctt im berichtsjahr erneut die zertifizierung nach dem
+im rahmen des durch das bundesministerium für bildung und           standard container terminal quality indicator (ctqi) durch.
+forschung geförderten verbundprojektes gesiop (gesund-              der vom global institute of logistics und vom germanischen
+heitsmanagement aus inter-organisationaler perspektive durch        lloyd entwickelte standard prüft kriterien wie die sicherheit,
+die einbeziehung von kunden und kooperationspartnern)               das leistungsniveau und die effizienz eines terminals auf der
+entwickelt die hhla gemeinsam mit den universitäten                 wasser- und der landseite sowie dessen anbindung an vor-
+hamburg und kiel sowie weiteren kooperationspartnern aus            und nachlaufsysteme. mit der erfolgreichen zertifizierung konn-
+der wirtschaft unter dem motto „präventive maßnahmen für die        ten die terminals abermals ein hohes leistungsniveau und die
+sichere und gesunde arbeit von morgen“ ein konzernübergrei-         einhaltung aller qualitätsstandards bestätigen.
+fendes betriebliches gesundheitsmanagement. ziel des projek-
+tes ist es, die bereits stattfindenden und die ggf. neu hinzukom-   weitere forschungsprojekte
+menden maßnahmen der betrieblichen gesundheitsförderung             im berichtsjahr wurde zudem das fundament für ein weiteres
+systematisch zu gestalten und zu lenken. damit wird das große       forschungsprojekt am cta gelegt, welches im rahmen des
+engagement der hhla im betrieblichen gesundheitsschutz ein          neu aufgelegten förderprogramms für innovative hafentech-
+bestandteil des bereits konsequent betriebenen nachhaltig-          nologien (ihatec) des bundesministeriums für verkehr und
+keitsmanagements.                                                   digitale infrastruktur (bmvi) unterstützt wird. im rahmen des
+                                                                    projekts sollen lösungen für die interaktion von mensch und
+forschung und entwicklung                                           maschine in gemeinsam genutzten arbeitsbereichen entwickelt
+                                                                    werden.
+eine strategische zielsetzung der hhla besteht darin, die effizi-
+enz ihrer operativen systeme und damit ihre wettbewerbsfähig-       einkauf und materialwirtschaft
+keit durch die entwicklung anwendungsorientierter technolo-
+gien stetig zu verbessern. der schwerpunkt der aktivitäten liegt    der einkauf des hhla-konzerns ist zentral in der manage-
+daher auf ingenieurwissenschaftlichen und it-orientierten inno-     ment-holding in hamburg organisiert. vorrangiges ziel ist die
+vationsprojekten. durch eine enge kooperation mit technischen       bündelung und harmonisierung von einkaufsprozessen, so
+hochschulen, instituten sowie industriepartnern und bundes-         dass die anforderungen der internen kunden an service und
+behörden werden verbundprojekte in arbeitskreisen geplant,          leistung bestmöglich erfüllt werden. dabei fokussiert sich der
+gesteuert und weiterentwickelt.                                     einkauf auf die vereinheitlichung der lieferantenbasis zur
+                                                                    gewährleistung einer zuverlässigen und termingerechten
+                                                                    versorgung mit industriegütern, roh-, hilfs- und betriebsstof-
+
+
+                                                                                                 hhla-nachhaltigkeitsbericht 2016
+
+15     einkauf und materialwirtschaft
+
+
+
+
+     fen, dienstleistungen und sonstigen produkten unter kosten-,         führen, beispielsweise einträge im landeskorruptionsregister,
+     qualitäts- und nachhaltigkeitsaspekten. in enger zusammen-           insolvenzverfahren, die unterschreitung des mindestlohns oder
+     arbeit mit betrieb und technik werden die marktentwicklungen         einschränkungen bei der geschäftstätigkeit (fehlende lizenzen
+     bzgl. neuer technologien, innovationen und die servicefähigkeit      etc.).
+     spezifischer lieferanten berücksichtigt.
+                                                                          die registrierung ist für alle lieferanten verbindlich, die sich im
+     der einkauf wirkt aktiv darauf ein, die konzernvorgaben und          rahmen von ausschreibungen, marktanfragen oder eigenmoti-
+     -richtlinien für einkaufsprozesse zu überprüfen, anzupassen          vation neu bei der hhla bewerben. bereits bestehende liefe-
+     und für deren verbindliche einhaltung zu sorgen. alle mitarbei-      ranten aus dem unternehmenseigenen pool werden sukzes-
+     terinnen und mitarbeiter des einkaufs sind dem hhla-verhal-          sive aufgefordert, den registrierungsprozess zu durchlaufen.
+     tenskodex verpflichtet. die einhaltung dieser vorgaben wird          hierbei erfolgt eine priorisierung nach strategischer bedeutung
+     u. a. durch die compliance-rate und die bestellanforderungs-         der lieferanten in abhängigkeit von umsatz, markt und/oder
+     quote (banf-quote) geprüft. die compliance-rate misst den            produkt- und leistungsspektrum.
+     anteil der beschaffungsvorhaben, die über den bereich einkauf
+     realisiert wurden. im jahr 2016 lag diese bei 95,2 % (im vorjahr:    in der folge ermöglicht ein nachgelagertes lieferantenmanage-
+     94,5 %). die banf-quote, die den anteil der anforderungen            ment eine kontinuierliche interne bewertung. die strategischen
+     angibt, die regelkonform über das genutzte warenwirtschafts-         lieferanten werden von den bedarfsträgern und fachabtei-
+     system sap eingingen und freigegeben wurden, lag 2016 mit            lungen jährlich bewertet. in diese bewertungen fließen erfah-
+     99,6 % in etwa auf vorjahresniveau (im vorjahr: 99,7 %). die         rungen bei erstkontakten ein, auch projektbeschaffungen und
+     automatisierung von einkaufsprozessen und somit die gestal-          -verlauf werden bewertet und dokumentiert. inhalte und
+     tung effizienter, transparenter und einheitlicher prozessabläufe     umfang der bewertungskriterien werden kontinuierlich anhand
+     war auch 2016 ein zentrales ziel in der beschaffung. so konn-        gesetzlicher grundlagen, unternehmensrichtlinien und -vorga-
+     ten im berichtszeitraum rund 14 % (im vorjahr: rund 13 %) aller      ben sowie ihrer bedeutung für die leistungserbringung geprüft
+     einkaufsprozesse vollautomatisiert über die e-procurement-           und angepasst.
+     systeme abgewickelt werden. vor dem hintergrund einer ziel-
+     gerichteten realisierung der beschaffungsaktivitäten bei gleich-     ein weiteres wesentliches vorhaben war die einführung einer
+     zeitiger optimierung der lieferantenbasis waren im geschäfts-        elektronischen vergabeplattform. mit inkrafttreten der novelle
+     jahr 2016 ebenso wie im vorjahr weder auf konzern- noch auf          des vergaberechts im april 2016 hat der einkauf eine elektroni-
+     segmentebene materielle abhängigkeiten von einzelnen liefe-          sche vergabeplattform in betrieb genommen, deren einführung
+     ranten zu verzeichnen. ebenso waren im berichtszeitraum              erst im april 2018 verbindlich ist. mit dieser plattform können
+     keine lieferengpässe zu verzeichnen. das beschaffungsvolu-           zum einen die vergabeprozesse im einkauf vereinheitlicht und
+     men verteilte sich 2016 konzernweit zu 44,5 % auf die waren-         transparent dokumentiert sowie prozessqualität, -sicherheit
+     gruppe anlagen und energie, 22,5 % auf bau, 14,0 % auf               und -effizienz deutlich gesteigert werden. zum anderen bietet
+     instandhaltung (ersatzteile, reparatur und betrieb) sowie            das elektronische verfahren den bietern umfänglichen mehr-
+     19,0 % auf den bereich informationstechnologie (it).                 wert im hinblick auf die verfahrenssicherheit innerhalb einer
+                                                                          internetgestützten plattform sowie auf die gewährleistung des
+     um die realisierung von ausbau- und modernisierungsprojek-           wettbewerbs im verfahren selbst. die frühzeitige einführung
+     ten und die damit verbundene termingerechte beschaffung von          gibt lieferanten die möglichkeit, sich rechtzeitig auf das neue
+     anlagegütern, betriebsstoffen und ersatzteilen zu gewährleis-        verfahren vorzubereiten und einzustellen.
+     ten, wird die strategische und partnerschaftliche einbindung
+     der lieferanten in die entwicklung und optimierung von
+     produkten, anlagen und prozessen unter berücksichtigung
+     wettbewerbsrechtlicher vorgaben systematisch weiterentwi-
+     ckelt. im vordergrund stehen dabei die analyse und die bewer-
+     tung der lieferantenbeziehungen hinsichtlich zuverlässigkeit,
+     qualität, innovationskraft, kostenstruktur, wirtschaftlicher
+     stabilität und compliance. zur unterstützung wird dazu 2017
+     ein it-basiertes lieferantenmanagement implementiert. die
+     registrierung der lieferanten erfolgt über ein internetportal, das
+     mittels fragebögen z. b. angaben über arbeitsschutz, nach-
+     haltigkeit und compliance abfragt. alle inhalte sind dabei
+     sowohl mit dem einkauf als auch mit den fachabteilungen
+     abgestimmt und werden im anschluss ausgewertet. dabei
+     können bestimmte kriterien zum ausschluss der lieferanten
+
+
+     hhla-nachhaltigkeitsbericht 2016
+
+                                                                                                                            berichtsprofil   16
+
+
+
+
+berichtsprofil                                                         der einzelabschluss der hhla ag (ag-abschluss) folgt den
+                                                                       rechnungslegungsvorschriften des deutschen handelsgesetz-
+berichtsrahmen                                                         buches (hgb). grundlage für die gewinnverwendung ist allein
+der berichtszeitraum umfasst das geschäftsjahr 2016                    der ag-abschluss.
+(1. januar bis 31. dezember 2016). die ermittelten daten
+beziehen sich in der regel auf diesen zeitraum oder auf den            nachhaltige leistungsindikatoren
+stand am ende der berichtsperiode. falls einzelnen informa-            nachhaltigkeitsrelevante kennzahlen werden auf monatlicher
+tionen andere zeiträume zugrunde liegen, wird dies explizit            basis in das interne managementinformationssystem einge-
+angegeben. der bericht wird jährlich veröffentlicht. der letzte        pflegt und halbjährlich ausgewertet. der vorstand erhält dazu
+geschäftsbericht erschien am 30. märz 2016.                            einen bericht. jährlich werden die leistungsindikatoren der
+                                                                       nachhaltigkeit berechnet und im durch wirtschaftsprüfer attes-
+sofern nicht anders vermerkt, umfassen kennzahlen und infor-           tierten lagebericht des geschäftsberichts veröffentlicht.
+mationen im vorliegenden bericht den gesamten konzern                  dadurch ist eine zuverlässigkeit der daten gegeben. eine
+einschließlich der beteiligungsgesellschaften mit mehrheitsbe-         vergleichbarkeit und konsistenz der daten ist durch die beach-
+teiligungen. einige angaben enthalten zukunftsbezogene                 tung gängiger internationaler berichtsstandards gewährleistet
+aussagen. diese einschätzungen und angaben wurden nach                 (z. b. greenhouse gas protocol).  siehe nachhaltige leis-
+bestem wissen und gewissen vorgenommen. zukünftige                     tungsindikatoren
+globale wirtschaftsbedingungen, gesetzliche vorschriften,
+marktbedingungen, aktivitäten der mitbewerber und andere               risiken- und chancenmanagement
+faktoren liegen außerhalb der kontrolle der hhla.                      die chancen und risiken werden durch ein umfangreiches
+                                                                       risikomanagementsystem analysiert. die einhaltung der rele-
+bestimmung der berichtsinhalte                                         vanten und anerkannten branchenspezifischen, nationalen und
+die inhaltliche struktur des geschäftsberichts ist grundsätzlich       internationalen standards sowie unternehmensinterner richt-
+durch die vom deutschen handelsgesetzbuch (hgb) festge-                linien wird bei der hhla als wesentlicher teil der corporate
+legte publizitätspflicht für kapitalgesellschaften geregelt. neben     governance verstanden. arbeitsabläufe und prozesse sind im
+angaben zur finanziellen und ökonomischen entwicklung des              einklang mit diesen regelungen gestaltet. externe audits in
+unternehmens finden auch inhalte aus dem hhla-nachhal-                 verschiedenen hhla-gesellschaften (u. a. zu iso 14001, iso
+tigkeitsprogramm „auf kurs“ eingang in die berichterstattung.          9001, iso 50001, ctqi [container terminal quality indicator])
+das konzept eines integrierten berichts umfasst die jährliche          bestätigen die einhaltung anerkannter internationaler stan-
+finanz- und nachhaltigkeitsberichterstattung. es verdeutlicht          dards.  siehe hhla-gesch?tsbericht 2016, risiko- und
+die wechselwirkungen zwischen ökonomischen, ökologischen               chancenbericht
+und sozialen faktoren und ihre bedeutung für den langfristigen
+unternehmenserfolg.                                                    externe prüfung
+                                                                       der zusammengefasste lagebericht von hhla-konzern und
+zur ermittlung der wesentlichen nachhaltigkeitsthemen führt            hhla ag sowie der konzernabschluss und -anhang wurden
+die hhla im zweijahresrhythmus eine wesentlichkeitsanalyse             von pricewaterhousecoopers geprüft.
+durch. dazu fand im herbst 2015 eine internationale online-
+befragung von stakeholdern statt. aus den ergebnissen der              der geschäftsbericht 2016 wurde in übereinstimmung mit den
+umfrage wurden die inhaltlichen schwerpunkte der nachhal-              internationalen g4-leitlinien der global reporting initiative (gri)
+tigkeitsberichterstattung abgeleitet. sie greift alle als wesentlich   erstellt und erfüllt die option „comprehensive“.
+identifizierten themen auf.  siehe wesentlichkeitsanalyse
+                                                                       gri-index
+datenerhebung und berechnungsmethoden                                  der gri-index verweist auf die stellen innerhalb dieses
+abschlüsse und berichte                                                geschäftsberichts bzw. auf der hhla-website, an denen
+sämtliche daten und informationen wurden von den jeweils               auskunft zu den einzelnen gri-indikatoren gegeben wird, und
+fachlich zuständigen einheiten mit repräsentativen methoden            ist ausschließlich online unter www.bericht.hhla.de/gri abrufbar.
+für den berichtszeitraum erhoben. die hhla erstellt den
+konzernabschluss und die zwischenberichte nach den interna-
+tional financial reporting standards (ifrs). nähere erläuterun-
+gen zu den ifrs enthält dieser geschäftsbericht im konzern-
+anhang.  siehe hhla-gesch?tsbericht 2016, textziffer 2:
+konsolidierungsgrundsätze
+
+
+
+
+                                                                                                      hhla-nachhaltigkeitsbericht 2016
+
+hamburger hafen und logistik aktiengesellschaft
+bei st. annen 1, 20457 hamburg
+telefon: +49 40 3088-0, fax: +49 40 3088-3355, www.hhla.de, info@hhla.de

@@ -1,0 +1,812 @@
+rapport de développement durable                 2015
+
+
+
+
+                    materiality-reporting
+                    we speak reporting ﬂuently
+
+
+
+
+savoir restituer
+apprendre à communiquer
+pouvoir partager
+
+rapport de développement durable                             2015
+
+
+
+       gri data partner pour la france
+       materiality-reporting a été choisi par le global
+       reporting initiative (gri) pour occuper
+       la fonction d'unique gri data partner pour la
+       france.
+
+       notre mission est de recueillir et d'analyser
+       l'information extra-financière des rapports rse/
+       développement durable publiés en france.
+       notre rôle nous permet également d'identifier les
+       tendances du reporting dans les pays et régions, et
+       d'en rendre compte.
+
+       nous représentons aussi l'état d'avancement
+       français de la transition vers le reporting extra-
+       financier, le reporting gri-g4, la responsabilité
+       sociétale des entreprises (rse) et le développement
+       durable.
+
+       16 pionniers de la gri-g4 en france à ce jour.
+       ces entreprises ont piloté un processus de
+       recherche de pertinence pour produire un
+       index g4.
+
+
+       http://www.database.globalreporting.org
+
+
+
+materiality-reporting
+                                                                    2
+
+rapport de développement durable                                                                                         2015
+
+
+
+
+  sommaire
+
+                 materiality-reporting présente son rapport développement durable pour l’exercice 2014.
+
+                 il s’appuie sur les lignes directrices du référentiel gri-g4 de la global reporting initiative (gri).
+
+
+                 sommaire
+
+                 eléments d’information
+
+                        généraux				page 4
+
+                  spécifiques			 page 14
+                 		- économiques			 page 14
+                 		- environnementaux		 page 15
+                 		- sociaux				page 17
+
+
+
+
+materiality-reporting
+                                                                                                                                3
+
+rapport de développement durable                                                                                                                                         2015
+
+   sommaire             elements d’information generaux       elements d’information specifiques
+
+
+
+               g4-1                editorial
+
+
+                                                                                                                «
+ message de la directrice
+ de materiality-reporting                                                                                                  un reporting
+
+
+                                                                                                                                                          »
+ dolores larroque
+ experte en responsabilité sociétale et reporting extra financier                                                          plus durable
+
+ ensemble, chaque jour, avec l’ensemble du personnel de materiality-reporting, nous parlons le reporting. ce leitmotiv est constamment au coeur de mes préoccupations
+ et de chaque service que materiality-reporting rend à ses clients et partenaires. la qualité de nos services vise à favoriser la confiance entre l’ensemble des parties
+ prenantes de l’économie locale, régionale et internationale. entreprise dynamique construite autour de jeunes talents, l’expertise partagée est sûrement notre apport le
+ plus durable pour les générations de professionnels à venir.
+
+
+
+ nous pensons que chaque acte que nous faisons, chaque service que nous
+ rendons, chaque échange avec une partie prenante, doit rendre meilleur
+                                                                                           « notre objectif ? permettre un reporting
+ l’environnement professionnel et social que nous partageons. en quelques mots:
+ un meilleur environnement professionnel ne peut qu’être bénéfique au monde
+                                                                                           universellement comparable. »
+ dans lequel nous vivons.
+                                                                                           l’année 2014 aura été très riche en innovations et en développements de produits
+ notre credo « we speak reporting fluently » est simple. pour nous, il signifie : savoir   et services toujours plus adaptés aux besoins de l’environnement professionnel.
+ partager des enjeux, limiter ses impacts et respecter des objectifs durables. il
+ reflète aussi le rôle unique qu’à materiality-reporting en tant que prestataire           notre avons respecté et développé notre relation avec la gri et notre statut de
+ de services professionnels dans la création, la communication et le partage de            gri data partner pour la france, en augmentant de plus de 100% le nombre de
+ valeurs sociales, économiques et environnementales.                                       rapports d’entreprises françaises publiés sur la plateforme internationale de la
+                                                                                           gri.
+ ma décision de créer materiality-reporting en 2013 est née du simple
+ constat que le développement durable ne peut plus se cantonner à un objet de              100% des entreprises du sbf 120 ont vu leur rapport développement durable
+ communication mais doit être un pivot de la stratégie d’entreprise et un levier de        / rse publié par nos soins sur le site de la gri. la france a obtenu une visibilité
+ la création de valeur commune et propre à l’entreprise.                                   accrue au point de vue international, ce qui portera ses fruits, j’en suis sûre, au
+                                                                                           cours de l’année 2015.
+ j’ai vu naviguer beaucoup d’experts de l’approche théorique du développement
+ durable, et au moins autant de directeurs développement durable ou rse. ma
+ volonté est de donner à chacun une voix au chapitre, et de diffuser les discours
+ avec harmonie.
+                                                                                           dolores larroque
+
+
+materiality-reporting
+                                                                                                                                                                                 4
+
+rapport de développement durable                                                                 2015
+
+   sommaire             elements d’information generaux     elements d’information specifiques
+
+
+
+               g4-2                principaux impacts, risques et opportunités
+ materiality-reporting est un société de conseil qui applique les nouvelles
+ technologies de l’information et de la communication (ntic) au reporting de
+ développement durable.
+
+ cette optique de développement d’entreprise vise deux objectifs, partagés par les
+ collaborateurs et les clients de materiality-reporting:
+
+ 1. virtualisation et dématérialisation des supports de communication interne et
+ externe, ainsi que des supports de préparation de ladite communication ;
+
+ 2. accessibilité et ergonomie des applications afin de permettre le partage des
+ informations à l’ensemble des parties prenantes, en prenant en compte, d’une
+ part, leurs capacités d’accès et, d’autre part, leurs attentes spécifiques.
+
+
+ de plus, cette stratégie est portée par le besoin de réductions des impacts, en
+ particulier environnementaux, produits par la rédaction, la publication et le partage
+ des documents légaux et stratégiques de l’entreprise.
+
+ en 2014, materiality-reporting a développé une solution applicative de reporting
+ en ligne, en s’appuyant sur le référentiel gri-g4.
+ cette solution a été mise à disposition du groupe tf1, client partenaire de
+ l’entreprise.
+ elle est accessible à l’adresse suivante :
+ www.materiality-reporting.com/reporting/tf1
+
+ cette application est le fruit du partage de compétences entre les collaborateurs
+ de materiality-reporting, mais aussi entre materiality-reporting et ses clients
+ et partenaires.
+
+ elle est aujourd’hui à disposition de toutes les entreprises qui souhaitent rendre
+ leur reporting extra-financier plus pertinent, dynamique et innovant, ainsi qu’en
+ faire un outil de pilotage stratégique performant.
+
+ en 2015, materiality-reporting continuera de faire progresser cet outil et d’y
+ adjoindre de nouvelles fonctionnalités.
+
+
+
+materiality-reporting
+                                                                                                        5
+
+rapport de développement durable                                                                                                                                2015
+
+   sommaire             elements d’information generaux         elements d’information specifiques
+
+
+
+               g4-3                nom de l’organisation                                                     g4-6                    marchés géographique
+ materiality-reporting
+                                                                                               les activités de
+                                                                                               materiality-reporting
+                                                                                               s’exercent :
+                                                                                               - en france métropolitaine,
+                                                                                               - au maroc
+               g4-4               marques, produits et services                                - en afrique de l’ouest.
+ materiality-reporting propose des solutions pour aider les organisations à
+ convertir leur reporting de responsabilité sociétale en une pratique pertinente
+ et standard dans le respect des réglementations et référentiels internationaux
+ reconnus.
+
+       compétence                     matérialité                    reporting
+                                                                                               carte des zones géographiques
+                                                                                               d’activité de materiality-reporting
+
+
+     connaître les exigences         identifier ses impacts,
+       réglementaires et les      risques et opportunités des   feuille de route stratégique
+    initiatives internationales              activités
+                                                                                                             g4-7                    forme juridique
+         se former à la
+                                   identification des parties       indicateurs et kpis        forme juridique : société par actions simplifiée.
+     responsabilité sociétale
+                                   prenantes et cartographie         bonnes pratiques
+    selon son secteur/métier                                                                   date de constitution : 23 septembre 2013.
+
+                                                                         reporting
+      centre de ressources          matrice de matérialité       plan de communication et
+         pédagogiques                                                  d’engagement
+                                                                                                             g4-9                    taille de l’organisation
+                                                                                               . nombre total de salariés :          2
+                                                                                               . nombre total de sites :             1
+               g4-5                siège de l’organisation
+
+ 19, chemin des vignes - 78990 elancourt - france
+
+
+
+
+materiality-reporting
+                                                                                                                                                                       6
+
+rapport de développement durable                                                                                2015
+
+   sommaire             elements d’information generaux   elements d’information specifiques
+
+
+
+              g4-8                 marchés, secteurs et clients
+
+
+
+
+                                                                            stratégie
+
+
+
+                                                                      matérialité
+                                communication                                                       formation
+
+
+
+
+                                                 reporting                                     management
+
+
+
+
+materiality-reporting
+                                                                                                                       7
+
+rapport de développement durable                                                                                                                                                                          2015
+
+   sommaire             elements d’information generaux         elements d’information specifiques
+
+
+             g4-10                   effectifs                                                                g4-12             chaîne d’approvisionnement
+
+                                        au 31 décembre 2014, l’effectif de l’entreprise
+                                        est de 2 dirigeants et 1 employé.                        achats à destinations des                                ressources pour le
+                                                                                                   activités principales                                    coeur de métier
+   2 dirigeants          1 employé      l’ensemble des collaborateurs opère en france.
+
+
+ 100% des recrutements sont des contrats d’alternance proposés
+                                                                                                                hébergement
+ à des jeunes en tant qu’opportunité d’accession à l’emploi et à                               comptabilité          &        fournitures    employés                  partenaires              stagiaires
+ l’environnement professionnel.                                                                                     sav
+
+
+
+
+                             dolores larroque, experte en reporting extra-financier sur la
+                             base de référentiels reconnus, apporte son expertise et son           critères de sélection                    partenariats gagnant-gagnant
+                             expérience de plus de 30 ans aux entreprises afin de leur         comprenant l’engagement rse                       basés sur la qualité
+                             permettre de développer leur reporting extra-financier et de
+                             le convertir en outil de pilotage à travers le développement
+                             de procédés innovants, tels que l’étude de matérialité.
+
+
+
+
+                                                                                                                                                                                 solution web
+                                                                                                                                             formations
+
+
+
+
+                                                                                                                                                              consulting
+
+
+
+
+                                                                                                                                                                                                      analyse
+                             vincent wartelle, expert en nouvelles technologies de
+                                                                                                        services généraux
+                             l’information et de la communication (ntic) propose des
+                             systèmes digitaux de support à l’information, en particulier la
+                             technologie epub 3 qui vise à rendre toujours plus interactifs
+                             les ouvrages ebook.
+                                                                                               materiality-reporting applique une politique d’engagement rse auprès de ses
+                                                                                               fournisseurs.
+
+                                                                                               l’entreprise non-seulement applique des critères de rse dans le choix de ses
+              g4-11                  accords collectifs                                        fournisseurs, mais choisi aussi de s’impliquer aux côtes desdits fournisseurs,
+ tous les employés sont couverts par la convention collective nationale applicable             afin de partager des expériences et de progresser de manière conjointe dans la
+ au personnel des bureaux d’études techniques, des cabinets d’ingénieurs-                      réduction de ses impacts, l’optimisation de la prise en compte des risques et le
+ conseils et des sociétés de conseils (syntec).                                                développement des opportunités.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                                                                 8
+
+rapport de développement durable                                                                                                                                              2015
+
+   sommaire             elements d’information generaux            elements d’information specifiques
+
+
+              g4-15                   chartes, principes et autres initiatives                           g4-17               périmètre
+ materiality-reporting s’est engagé à respecter un certain nombre de chartes                    le périmètre rse couvre l’ensemble de l’entreprise materiality-reporting,
+ afin de démontrer son engagement auprès de l’ensemble des parties prenantes.                   consolidée dans le périmètre financier.
+
+ 		                pacte mondial des nations unies                                              materiality-reporting tisse un réseau d’experts au niveau international. l’objectif
+ 		                signataire à partir de 2015                                                  de cette démarche et le partage entre entreprises spécialistes du conseil en
+                                                                                                développement durable.
+
+ 		                global reporting initiative                                                  ce réseau favorise un maillage des compétences et des expériences et offre la
+ 		                gri data partner pour la france depuis 2013                                  possibilité de projets et réalisations en commun.
+ 		                gri organizational stakeholder depuis 2013
+                                                                                                ces relations sont basées sur un principe d’égalité et d’équité, de manière
+                                                                                                transparente.
+ 		                gri g4
+ 		                expert en gri-g4
+                                                                                                materiality-reporting a établi de nombreuses collaborations avec des entreprises
+                                                                                                du secteur, telles que :
+
+                                                                                                			                    - ecosysmis
+              g4-16                   affiliations
+                                                                                                			                    - acumen
+ materiality-reporting s’implique dans de nombreuses organisations afin de
+ partager les meilleures pratiques et soutenir les initiatives les plus pertinentes.
+                                                                                                			                    - les leaders de la rse
+ 		                membre du c3d (collège des directeurs de développement durable)
+ 		
+ 		                membre de l’add (agence des conseils en développement durable)
+ 		
+ 		                membre de l’acidd (association pour la communication, l’information & 		              g4-18               processus de reporting
+ 		                l’innovation pour le développement durable)
+                                                                                               une étude de matérialité est actuellement en cours d’éxécution, et accessible à
+ 		                membre du comité de labellisation de lucie                                  l’adresse suivante : www.materiality-reporting.com/reporting/mr .
+                                                                                               cette étude vise à déterminer les enjeux principaux et à adapter la stratégie de
+                                                                                               l’entreprise suivant les résultats.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                                      9
+
+rapport de développement durable                                                                2015
+
+   sommaire             elements d’information generaux    elements d’information specifiques
+
+
+
+              g4-19               enjeux pertinents
+ suivant les informations indiquées dans l’indicateur g4-18, les enjeux pertinants de
+ materiality-reporting seront établis selon les résultats de l’étude de matérialité
+ actuellement en cours.
+
+ les enjeux pré-sélectionnés ont été choisis suivant les référentiels suivants :
+ - «2014 sustainability yearbook» de robecosam
+ - référentiel gri-g4 de la global reporting initiative
+ - analyse concurrentielle du marché des agences conseil en reporting
+ développement durable, en france et à l’international.
+
+
+
+
+             g4-22                reformulation d’informations
+ ce rapport étant le premier de l’entreprise materiality-reporting, aucune
+ reformulation n’a été effectuée.
+
+
+
+
+              g4-23                changements substantiels
+ aucun changement dans le périmètre de reporting au cours de l’exercice 2014.
+
+
+
+
+materiality-reporting
+                                                                                                       10
+
+rapport de développement durable                                                                                                 2015
+
+    sommaire            elements d’information generaux   elements d’information specifiques
+
+
+
+             g4-24                groupes de partie prenantes
+
+
+
+        partenaires                                                                                               autorités de
+        économiques                                         clients                    global reporting          normalisation
+                                                       consommateurs                      initiative (gri)
+                                                         fournisseurs                pacte mondial des nations
+                                                        sous-traitants                         unies
+                                                          partenaires                  autres référentiels et
+                                                   evaluateurs/certificateurs                  cadres
+                                                             pairs                             syntec
+                                                           banque                     organismes sociaux et
+                                                                                                taxes
+
+
+
+
+                                                                                        communautés locales
+                                                                                            associations
+                                                           dirigeants
+                                                                                          professionnelles
+                                                           employés
+                                                                                                ong
+                                                          actionnaires
+                                                                                               presse
+                                                                                            société civile
+
+
+       parties prenantes                                                                                          influenceurs
+       internes                                                                                                        sociaux
+
+
+materiality-reporting
+                                                                                                                                        11
+
+rapport de développement durable                                                                                                                                           2015
+
+   sommaire             elements d’information generaux    elements d’information specifiques
+
+
+
+             g4-25                identification des parties prenantes                            g4-30                 cycle de reporting
+ les quatre groupes d’interlocuteurs classifiés suivant le schéma présenté dans         a compter de l’exercice 2014, exercice de publication du premier rapport de
+ l’indicateur g4-24 constitue le mode d’identification des parties preantes.            développement durable de materiality-reporting, le rythme de parution dudit
+                                                                                        rapport est annuel.
+ les interactions entre les parties prenantes internes et externes, leur mode
+ d’implication et de dialogue sont étudiés dans le cadre de l’étude de matérialité
+ actuellement en cours de réalisation.
+
+                                                                                                   g4-31                personne à contacter
+                                                                                        la personne assumant la responsabilité du reporting est madame dolores
+             g4-27                thèmes soulevés                                       larroque, directrice de materiality-reporting.
+
+ dans le cadre de sa politique de dialogue avec les parties prenantes dont l’étude      elle peut être jointe par email : dolores.larroque@materiality-reporting.com
+  de matérialité en cours de réalisation est la clef de voûte, materiality-reporting
+ a soulevé un certain nombre de thématiques, dont les suivantes, citées à titre         les services de materiality-reporting peuvent aussi être contactés via l’adresse
+ d’exemple:                                                                             email suivante : contact@materiality-reporting.com .
+
+ - fédérer les bonnes pratiques et les généraliser
+ - suivre et faire connaîtres les évolutions en matière de lois et de réglementations
+ - promouvoir les question de rse en collaborant avec les actions gouvernementales
+ - soutenir l’émergence de l’entrepreunariat dans le tissu économique local                        g4-32                conformité
+ - développer la diversité et l’égalité des chances
+                                                                                        materiality-reporting édite son premier rapport de responsabilité sociétale au
+                                                                                        titre de l’exercice 2014. cet exercice est le premier depuis la création de l’entreprise
+                                                                                        en 2013.
+
+             g4-28                période de reporting                                  ce rapport est disponible sur le site internet de l’entreprise :
+                                                                                        www.materiality-reporting.com
+ période du 01/01/2014 au 31/12/2014 pour l’ensemble du rapport.
+
+
+
+
+             g4-29                date du dernier rapport publié
+ le présent rapport est le premier réalisé et publié par materiality-reporting.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                                   12
+
+rapport de développement durable                                                               2015
+
+   sommaire             elements d’information generaux   elements d’information specifiques
+
+
+
+             g4-33                pratiques de vérification
+ materiality-reporting s’engage en faveur de la vérification, la labellisation et
+ la certification. cet engagement s’inscrit dans la politique de transparence et de
+ comparabilité de l’entreprise.
+
+ materiality-reporting déploie cet engagement de diverses manières :
+ - certification afnor ica : evaluateur responsabilité sociétale iso 26000 : 2010
+ - maîtrise de la norme iso 20120
+ - membre du comité national de labellisation de lucie depuis sa création.
+
+
+
+
+             g4-34                structure de la gouvernance
+ l’administration de la société est confiée aux deux actionnaires de materiality-
+ reporting : madame dolores larroque, actionnaire majoritaire, et monsieur
+ vincent wartelle.
+
+
+
+
+             g4-56                valeurs, principes, normes et règles
+ dans l’ensemble de ses relations avec les parties prenantes, materiality-
+ reporting s’engage à assurer fiabilité et transparence.
+
+ en 2014, materiality-reporting s’est d’ailleurs doté d’une charte éthique,
+ scrupuleusement appliquée. cette charte a pour vocation de rassembler
+ l’ensemble des collaborateurs de l’entreprise autour de valeurs et de règles de
+ conduite communes.
+
+
+
+
+materiality-reporting
+                                                                                                      13
+
+rapport de développement durable                                                                                                                                              2015
+
+   sommaire             elements d’information generaux      elements d’information specifiques                                            économique   environnemental   social
+
+
+
+
+ aspect : performance économique
+
+            g4-ec1                valeur économique directe créée et distribuée
+ materiality-reporting accompagne ses fournisseurs en matière de responsabilité sociétale et les accompagne pour faire évoluer leurs pratiques. l’entreprise applique
+ une politique d’achat basée sur l’optimisation du partage de valeur dans la collaboration, et le partenariat autour de l’innovation et de la mesure de la performance.
+
+ materiality-reporting favorise le l’economie sociale et solidaire (ess) a chaque occasion le permettant. l’entreprise projette d’ailleurs pour 2015 le développement d’une
+ solution de livre numérique en collaboration avec une entreprise partenaire locale.
+
+ materiality-reporting applique une politique de totale transparence sur ses impôts et taxes versées. les attestations de régularité fiscales, relatives à la direction des
+ finances publiques, et de vigilance sociale, relatives à l’urssaf, sont d’ailleurs mises à disposition.
+ une attestation d’assurance en responsabilité civile est aussi mise à disposition.
+
+
+ l’ensemble de ces documents peut être obtenu sur la plateforme:
+ www.e-attestations.com .
+
+
+
+
+            g4-ec3                engagements envers les collaborateurs
+
+
+                                materiality-reporting se projette en 2015 dans l’optique d’un partage de valeur en interne et souhaite intéresser ses collaborateurs au profit
+                                de l’entreprise dans un futur proche.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                                     14
+
+rapport de développement durable                                                                                                                                                   2015
+
+   sommaire                   elements d’information generaux      elements d’information specifiques                                           économique   environnemental   social
+
+
+
+
+ aspect : énergie
+
+               g4-en6                   réduction de la consommation énergétique
+ materiality-reporting a adopté une politique interne de dématérialisation des supports depuis sa création. un investissement en matériel informatique,
+ la proximité des collaborateurs et l’utilisation de technologies innovantes telles que le cloud computing ou la mise en réseau des systèmes d’information
+ a permis de limiter au maximum l’emploi de supports matériels, et donc les principales émission de l’entreprise (ges).
+
+
+
+
+ aspect : produits et services
+
+              g4-en27                   attenuation des impacts environnementaux des produits et services
+ materiality-reporting a basé :
+ - sa recherche et innovation, et
+ - sa politique d’offre commerciale
+ sur la création, le développement, l’amélioration et la mise à disposition d’une solution technologique de rédaction de reporting développement durable et rse (responsabilité
+ sociétale de l’entreprise) / rso (responsabilité sociétale de l’organisation).
+ cette solution permet de réduire l’utilisation de ressources épuisables et les émisssions de gaz à effet de serre (ges).
+
+        teriability
+      ma
+                                        pour se faire, l’entreprise a engagé un investissement en capital travail et capital humain afin de créer un plateforme web dématérialisée,
+                                        nommée solution «materiability».
+
+        do
+                                        materiality-reporting continue le développement de cette plateforme et projette l’intégration d’outils analytiques ainsi que d’une solution
+                               f
+             repo           sel         de réalisation d’une étude de matérialité durant l’exercice 2015.
+                  rting your
+
+          saas
+
+ aspect : conformité
+
+              g4-en29                    respect des législations et réglementations en matière d’environnement
+ materiality-reporting diffuse des messages auprès de ses collaborateurs afin de les sensibiliser et les former au respect de l’environnement.
+
+
+
+materiality-reporting
+                                                                                                                                                                                          15
+
+rapport de développement durable                                                                                                                        2015
+
+   sommaire             elements d’information generaux     elements d’information specifiques                       économique   environnemental   social
+
+
+
+
+ aspect : transport
+
+           g4-en30                impacts des déplacements du personnel
+ materiality-reporting encourage l’ensemble de ses collaborateurs à utiliser les transports en commun.
+
+
+                                        l’entreprise rembourse les pass navigo à hauteur de 50% pour ses salariés.
+
+                                        100% des frais de transport * des stagiaires de materiality-reporting sont pris en charge par
+                                        l’entreprise
+
+                                        * transports en commun uniquement
+
+
+
+
+materiality-reporting
+                                                                                                                                                               16
+
+rapport de développement durable                                                                                                                                             2015
+
+   sommaire             elements d’information generaux      elements d’information specifiques                                          économique    environnemental   social
+
+
+
+
+ aspect : santé et sécurité au travail
+
+            g4-la7                conditions de travail des salariés
+ materiality-reporting veille à maintenir une atmosphère de travail bienveillante et sereine.
+ l’épanouissement des équipes de travail est l’objectif principal de l’entreprise au quotidien. des méthodes managériales innovantes sont mises en place afin d’optimiser
+ le partage de compétences des employés dans leur univers de travail, en open space, suivant les besoins nouveaux créés par le développement de solutions numériques.
+
+ de plus, la cohésion du groupe de travail est favorisée par des événements informels offerts aux employés, tels que des déjeuners à l’extérieur.
+
+ le télétravail est autorisé afin d’apporter une certaine flexibilité aux employés.
+ cette pratique est même encouragée lors de tâches ou missions qui ne nécessitent pas une présence dans les bureaux, à la demande des salariés.
+
+ les horaires journaliers et hebdomadaires sont flexibles afin proposer les meilleures conditions de travail possibles et de s’adapter aux conditions environnementales ou
+ propres aux besoin des salariés (absences personnelles).
+
+ cette flexibilité vise aussi à permettre d’optimiser la masse travail et mieux la répartir lors de périodes intenses d’activité.
+
+
+
+
+            g4-la8                thèmes de santé et sécurité couverts par des accords formels
+ materiality-reporting a tenu à confirmer sa politique à travers la mise en place d’un document unique d’evaluation des risques (duer).
+ il prend en compte l’ensemble des risques en matière d’hygiène, de santé et de sécurité au travail.
+
+
+
+
+ aspect : formation et éducation
+
+            g4-la11               evolutions de carrière des salariés
+ materiality-reporting propose des stages et emplois apportant une perspective réelle d’évolution des compétences et de partage de valeur
+ avec l’entreprise. des contrats de professionnalisation en alternance sont proposés à certains stagiaires afin de leur permettre de poursuivre leur
+ développement personnel et professionnel au sein de materiality-reporting.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                                    17
+
+rapport de développement durable                                                                                                                                      2015
+
+    sommaire            elements d’information generaux      elements d’information specifiques                                     économique   environnemental   social
+
+
+
+
+ aspect : diversité et égalité des chances
+
+           g4-la12                répartition des salariés
+ le recrutement de materiality-reporting est uniquement effectué selon les compétences des candidats. ces dernières doivent correspondre aux besoins de l’entreprise
+ et, si possible, proposer un potentiel d’évolution et d’approfondissement au sein de l’entreprise.
+
+ les collaborateurs, stagiaires, etc. recrutés le sont sans aucune discrimination, d’aucune sorte : âge, origine, genre, etc.
+
+
+
+
+ aspect : egalité de rémunération entre les femmes et les hommes
+
+            g4-la13               egalité des salaires de base
+ comme indiqué dans les contenus de l’indicateur g4-la12, les collaborateurs et stagiaires de materiality-reporting sont recrutés en fonction de leurs compétences, et
+ pour aucune autre raison. aucune discrimination de quelque ordre n’est faite.
+
+ la mise en place de fiches de poste adjointes d’une base de rémunération réalisées prélablement à l’embauche assure l’égalité homme/femme au sein de l’entreprise.
+
+
+
+
+ aspect : liberté syndicale et droit de négociation collective
+
+            g4-hr4                droit de négociation individuelle et collective
+ materiality-reporting veille à développer et maintenir un relationnel de qualité basé sur l’ouverture et le dialogue.
+ ce dialogue est ouvert de manière permanente.
+ la direction permet à ses collaborateurs de prendre contact à tout moment.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                             18
+
+rapport de développement durable                                                                                                                                         2015
+
+    sommaire            elements d’information generaux   elements d’information specifiques                                           économique   environnemental   social
+
+
+
+
+ aspect : lutte contre la corruption
+
+            g4-so3                risques substantiels évalués
+ materiality-reporting a défini un code de conduite dans les affaires garantissant son intégrité, son indépendance et le respect des lois et réglementations.
+
+ materiality-reporting se veut être exemplaire en matière d’éthique. le code de conduite de materiality-reporting s’appuie sur les valeurs suivantes :
+ - independance (pas de conflit d’intérêt)
+ - integrite (honnêteté)
+ - exemplarite (un modèle de gouvernance)
+ - respect des lois et reglementations (application stricte et respect des lois)
+ - solidarite (valeur d’entraide et d’appui).
+
+ les représentants de materiality-reporting doivent toujours agir en tant que gestionnaires d’un patrimoine qui appartient aux actionnaires et apporteurs de capitaux.
+ c’est pourquoi la gestion doit être honnête et efficace, toujours en faveur des intérêts de l’entreprise.
+
+ toute action d’un représentant de materiality-reporting, aussi bien dans des tâches de gestion que de représentation, doit servir, uniquement et exclusivement, aux
+ intérêts de l’entreprise.
+
+
+
+
+            g4-so4                communication sur l’éthique
+ materiality-reporting suit les évolutions des cadres réglementaires et normatifs et anime un blog sur lequel des informations sont
+ partagées avec ses parties prenantes et la société civile.
+
+ a ce jour, 399 abonnés de manière permanente reçoivent des informations régulières et le site blog-materiality-reporting.com accueille
+ plus de 20 000 visites virtuelles à l’année en provenance de plus de 40 pays.
+
+
+
+
+materiality-reporting
+                                                                                                                                                                                19
+
+rapport de développement durable                                                                  2015
+
+
+
+
+       rapport de responsabilité sociétale
+       2015
+       réalisé par materiality-reporting
+
+       www.materiality-reporting.com
+
+
+
+
+                                                     contact
+                                                     dolores larroque
+                                                     directrice
+                                                     materiality-reporting
+                        materiality-reporting
+                                                     dolores.larroque@materiality-reporting.com
+                        we speak reporting ﬂuently
+                                                     +33 (0)6.86.20.19.74
+
+
+
+
+materiality-reporting

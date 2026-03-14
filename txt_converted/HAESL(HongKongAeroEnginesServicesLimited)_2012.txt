@@ -1,0 +1,1758 @@
+                                                                                                                                   sustainable development
+                                                                                                                                                    report 2011
+
+
+
+
+                                                                                                                                                             hkqaa
+                                                                                                                                                             verified
+                                      best in the world                          best for the world                                                          gri b+
+contents • statement • governance • environment • health & safety • people • community • economic performance • future • performance data • gri • verification
+
+
+                                                                                                            contents
+                                                                                                            3      about this report
+                                                                                                            4      company profile
+                                                                                                            6      director & general manager’s statement
+                                                                                                            8      governance and stakeholder engagement
+                                                                                                            12     environment
+                                                                                                            18     health & safety
+                                                                                                            26     our people
+                                                                                                            36     charitable and community programmes
+                                                                                                            40     purchasing policy and economic performance
+                                                                                                            43     planning for the future
+                                                                                                            44     performance data summary
+                                                                                                            46     gri indicators
+                                                                                                            48     hkqaa verification statement
+                                                                                                            50     contacts and feedback
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   1
+
+2
+
+                                                                         about this report
+
+                                                                         this document is hong kong aero engine services limited’s (haesl’s) sustainable development report –
+                                                                         which is in line with the policy of the global reporting initiative’s (gri) sustainability reporting guidelines.
+
+
+                                                                         haesl published an annual environmental, health and safety report in 2004, 2005, and 2006, before
+                                                                         migrating to a corporate social responsibility report in 2007, and a sustainable development report from
+                                                                         2008 onwards. this sustainable development report covers the calendar year from 1st january, 2011 to
+                                                                         31st december, 2011 and met the gri’s application level b+ (reference refers to p.46-48).
+
+
+                                                                         the information presented in this report covers the activities of haesl’s business, which operates at a single
+                                                                         site in hong kong, s.a.r., china. it does not include information relating to singapore aero engine services
+                                                                         pte ltd, in which haesl holds a 20% shareholding. this report covers information on haesl’s governance
+                                                                         procedures, economic, safety, environmental and social performance; as well as key initiatives undertaken
+                                                                         by the company.
+
+
+                                                                         the report focuses on the gri performance indicators that are most relevant to haesl’s activities. whilst
+                                                                         we have endeavoured to provide the most accurate view possible of the company’s performance, we
+                                                                         acknowledge that further improvements can be made with respect to data collection.  we will continue to
+                                                                         refine and improve the accuracy of in future reports.   
+
+
+                                                                         any feedback on our performance and initiatives, or suggestions as to how we may be able to improve the
+                                                                         content and presentation of this report, would be most welcome. please contact our sustainable development
+                                                                         manager, mr. kenny tsang by email at sd@haesl.com or through our website at www.haesl.com.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification        3
+
+     company profile
+    hong kong aero engine services ltd (haesl) provides repair and overhaul services             haesl first began operations in 1997, initially taking over from haeco’s own engine
+    for ‘large fan’ civil aero engines and their components to airlines based in hong kong,      overhaul operations, and is now a leading repair and overhaul facility for rolls-royce’s
+    mainland china, the middle east and other locations in the world. a joint-venture            range of rb211 and trent aero engines. located at tseung kwan o, in hong kong’s
+    company between hong kong aircraft engineering company limited (haeco) (45%),                new territories, haesl currently employs over 1,000 staff, operating from an advanced
+    rolls-royce (45%) and sia engineering company (10%), haesl combines the skill and            us$222 millions facility with 52,000sqm of floor space, with an overhaul capacity in
+    experience of two of asia’s most successful aircraft maintenance, repair and overhaul        excess of 250 engines and modules per year. the company is also equipped with one
+    companies, with a world-leading name in the development and manufacture of gas               of the largest test cells in asia – capable of testing engines generating up to 130,000
+    turbine engines.                                                                             pounds of thrust.
+
+
+
+
+4     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+the company possesses a significant component repair capability –
+up to 90% of the components from engines that it overhauls – and
+has developed six ‘centre of excellence’ facilities supporting fan
+blade, turbine blade, hp/ip bearing support, honeycomb, seal fin
+and engine mount repairs on components from rolls-royce engines
+from around the globe.
+
+
+haesl also provides an ‘on-wing care’ capability to its customers
+through services such as engine boro-scope inspection and blade
+repairs - using advanced boro-blending repair techniques – either
+on location at various airports, or off-site at aircraft maintenance
+facilities.
+
+
+over 2,500 rolls-royce rb211 and trent aero engines have been
+serviced by haesl since the company commenced operations in
+1997. haesl also continues to plan for the future, with the ongoing
+development of its capability readiness program in order to support
+servicing of the trent xwb engine. this engine has been designed
+for use on all variants of the airbus a350 xwb aircraft and will have
+the lowest carbon emissions of any wide-body aero engine. in
+addition, it will be the most environmentally-efficient engine thus far
+in the trent family.
+
+
+haesl remains committed to being an environmentally responsible
+company that makes significant contributions to sustainable
+development – this is reflected in the company’s vision statement:
+“best in the world, best for the world”
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   5
+
+    director & general manager’s statement
+    as this report was being written in early 2012, haesl celebrated
+    15 years since the company commenced its operations in
+    january 1997. haesl’s progress since that time, when it was
+    transformed from being just a division of haeco to a stand-
+    alone joint venture, has been remarkable.  however, in order to
+    fulfil the company’s vision of being “best in the world; best for
+    the world” we have to go beyond the principles of operational
+    excellence on which the company was founded, and live up to
+    best-in-class practices of sustainable development.
+
+
+    in the area of employee safety, the company has made
+    significant progress during 2011 through the implementation
+    of the “i care, i report” near-miss reporting system into our
+    organisation.   this programme was initiated in september
+    2010, and 2011 saw its first full year of operation with 625
+    reports being filed throughout the year.  with the large influx
+    of new employees over the last year   (bringing haesl’s
+    headcount to in excess of 1,000 persons for the first time
+    at the end of 2011, a number that is still growing fast),
+    ensuring that the principles of safety in the workplace are
+    embedded in the company’s culture is a key focus for the
+    company’s management.  unfortunately, the number of lost-
+    time injuries (ltis) rose by one incident in 2011, compared to
+    the year before, to a total of nine incidents. however, the two
+    measurements used to determine the intensity of these – the
+
+
+
+
+6     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+number of ltis per 200,000 man hours; and the number of lost days per injury -                 haesl’s employees continue to engage actively with the community in volunteering
+both showed an improvement over 2010.  in 2012 haesl will enhance the “i care,                 for various charitable, community and sporting events.  it is heartening to see the
+i report” reporting system by adding a focus on “+ i resolve”.  with an increase in            enthusiasm with which these activities are pursued, and the generosity that our
+employee headcount of 20% during 2012, the main challenge for the company will                 staff demonstrates in contributing their time and money to the organisations which
+be to continue to limit the level of harm to our employees in the workplace.                   haesl support.  during 2012, in cooperation with the swire group (of which haesl
+                                                                                               is an associate), the company will develop further opportunities for its employees
+in addition to these improvements in employee safety, haesl continues to make                  and their families to contribute to sustainability.
+strenuous efforts to improve its environmental performance.  while the company’s
+total energy consumption increased during 2011, particularly with the opening of the           i believe we have made significant progress in 2011. but the road ahead is long,
+new ‘phase v’ component repair workshop earlier in the year, haesl has continued               and one down which we are committed to proceeding - with our goal of continuous
+to make progress with regards to reducing the intensity of its energy usage and,               improvement along the way.  i would like to thank all of haesl’s stakeholders, and
+therefore, its carbon footprint.   haesl is working closely with other interested              in particular our employees, for their support to haesl as we pursue this important
+stakeholders in developing the prospect of using a blend of sustainable biofuel in its         journey of sustainable development.
+engine test cell, and is also involved in a potential project to generate a large portion
+of its electricity requirements from waste gas from a nearby landfill. both of these           richard kendall
+projects will move forward during 2012.                                                        director & general manager
+                                                                                               april 2012
+stakeholder engagement remains a central feature of haesl’s activities.   in
+particular, the supplier code of conduct and sustainability policy were both
+successfully rolled-out in 2011. engagement with employees continues to be
+followed closely, with various channels and opportunities for communication and
+feedback.   training and development for staff – whether newcomers or existing
+employees – is continually being developed, and an opportunity for celebration of 15
+years of haesl was marked by most of our employees and their families attending
+an evening’s entertainment at hong kong disneyland in early january 2012.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   7
+
+    governance
+    and stakeholder
+    engagement
+
+
+
+
+8
+
+                                                                         governance and stakeholder
+                                                                         engagement
+                                                                         governance
+                                                                         haesl is committed to operating with the utmost            regular   sustainable   development     performance
+                                                                         integrity and to the highest ethical standards.            data to its shareholders and participates in regular
+                                                                         ultimate responsibility for company’s decisions,           meetings regarding this across the swire / haeco
+                                                                         policies and direction lies with its board of directors.   and rolls-royce group of companies.
+                                                                         the board, made up of seven non-executive
+                                                                         directors and one executive director, meets four           within    the    business,   haesl’s     sustainable
+                                                                         times a year. it is comprised of three members from        development issues are governed by a combination
+                                                                         haeco, three members from rolls-royce, one                 of the environmental and health and safety
+                                                                         member from siaec, and the director & general              committee, the haesl executive committee
+                                                                         manager of haesl. the board members are                    (comprising the director & general manager, gm
+                                                                         british, chinese and singaporean with one female           operations, gm commercial and gm finance &
+                                                                         member. all the non-executive directors, those             administration), and the haesl staff committee
+                                                                         with no involvement in the day of day business             (haesl     executive    committee      and   human
+                                                                         management, are appointed by the shareholders              resources manager). each committee meets on a
+                                                                         according to business expertise and qualification.         monthly basis.
+
+
+                                                                         in addition to providing the board with information        both the management and the wider workforce
+                                                                         on the company’s key issues, strategies and risk           engage in regular monthly dialogue through the two
+                                                                         management, the director & general manager                 main staff representative bodies - the general staff
+                                                                         presents a sustainable development paper at each           consultative committee, and the contract staff
+                                                                         meeting. outside of board meetings, haesl submits          association.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification       9
+
+     environmental, health and safety                        representatives at this meeting include the haesl
+     and risk management governance                          sustainable development manager, the facility
+     haesl’s,   health    &   safety   (h&s)     steering    manager and the company’s energy/environmental
+     committee is chaired by the company’s director          consultant.    an    environmental    and    facility
+     & general manager, richard kendall, and includes        committee meeting is held every 2 months.
+     representatives from each of the main departments
+     within the company. the role of the committee is        in 2011, haesl introduced a new ‘deep-dive’
+     to cover the company’s strategy and policy setting,     risk assessment process as part of its continued
+     project governance, legislative compliance, and         efforts to identify proactively and reduce hazards
+     reviews of performance against current h&s              related to h&s and product integrity and safety.
+     objectives as a cross-department workgroup. the         this process scrutinises each step, or activity,
+     committee meets every month.                            within the maintenance process to help identify
+                                                             h&s and product safety risks (such as manual
+     the company believes that listening to, and             handling risks, or storage issues) through a
+     communicating with, the frontline workforce is          combination of visual monitoring and thorough
+     crucial for the advancement of its health and           assessment of best working practices. data is
+     safety policies. the h&s workgroup is made up of        collated and actions are identified that can help
+     elected representatives from various departments        to reduce the degree of risk faced by employees
+     from within the company, and is chaired by the          to an acceptable level. a monthly product safety
+     h&s coordinators, meeting on a monthly basis.           governance meeting is currently in place to
+     the workgroup provides a forum for the elected          underpin this process. this meeting is chaired by
+     representatives to present their ideas, gather          the company’s director and general manager,
+     feedback and assist the steering committee in the       richard kendall, and includes representatives
+     implementation of h&s policy.                           from    each    relevant   department,      covering
+                                                             similar topics as the h&s steering committee.
+     haesl’s environmental and facility committee            throughout 2012, the management aims to
+     is chaired by the company’s general manager             progressively combine and develop h&s and
+     of operations, and focuses on facility repairs,         product safety governance into a single haesl
+     maintenance projects, energy-saving initiatives         safety management governance.
+     and    addresses    environmental-related     risks.
+
+
+
+
+10     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+stakeholder engagement
+following a comprehensive review of haesl’s key stakeholders in 2010, the company engaged with eleven stakeholder organisations and three employee focus groups to investigate
+their views on environmental and social performance within the organisation. haesl remains fully committed to engaging in dialogue and activity with key stakeholders.
+
+
+during 2011 haesl has implemented its supplier code of conduct and sustainability policy to enhance the level of awareness and engagement within its supply chain. this will remain
+a key initiative in 2012 as the haesl sustainable development strategy continues to evolve.
+
+
+
+
+          haesl continues to engage with stakeholders from different levels of seniority and operational functions in hong kong and beyond.
+
+             stakeholders                                 profile                              our engagement / activities
+
+             customers                                    airlines                             customer satisfaction surveys and focus group meetings
+
+             employees                                    approximately 1,100 haesl            company story board, regular department briefing and focus group
+                                                          employees (currently)                meetings: contract staff association (csa) and general staff
+                                                                                               consultative committee (gscc)
+
+
+             suppliers                                    local and international              purchasing policy survey and self-assessment
+
+             business partners                            international                        regular dialogue with our joint venture partners
+
+             government and regulators                    hong kong sar government             ongoing dialogue and business associations
+
+             investors and their advisors                 local and international              quarterly meeting on different sustainability functions: h&s, csr
+                                                                                               and environment in sharing and learning best practices
+
+
+             non-governmental organisations and           business forums, and                 focus group meetings, ongoing dialogue and activities through various
+             local communities                            academic institutions                associations (e.g. evangel home, school tours), csr conference
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   11
+
+     environment
+
+
+
+
+12
+
+                                                                         environment
+                                                                         our commitment
+                                                                         as part of our commitment to building a greener future, we continually work on new initiatives aimed at
+                                                                         conserving and improving the environment. it is our responsibility to manage and improve our environmental
+                                                                         performance. reducing our environmental impact and incorporating sustainable practices into our operations
+                                                                         are important elements of our development. our approach is guided by the haesl sustainable development
+                                                                         policy, which ensures environmental considerations are an integral part of our decision-making, management
+                                                                         and culture. we take care to assess the impact that our activities have on the environment, focusing on key
+                                                                         areas such as:
+
+
+                                                                         • energy consumption          •   material consumption             •   waste disposal
+                                                                         • water usage                 •   greenhouse gas emissions
+
+
+
+                                                                                main sources of energy consumption in haesl’s operations:
+
+
+
+
+                                                                                       electricity                        towngas                          aviation fuel
+                                                                                       purchased                         consumed                           consumed
+                                                                                  24,622,949 kwh                       753,312 mj                           2,263 t
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   13
+
+              2011 objectives                                                      progress against 2011 objectives                               objectives for 2012
+
+              review the potential scope to reinforce resilience against water                                                                    continuation of project “flame” (utilisation of
+              supply failure, and investigate environmental benefits of                         on going                                          landfill gas extraction to supplement / replace
+              additional water recycling and water conservation measures                                                                          energy usage)
+
+              maintain and enhance separate energy reporting mechanisms                                                                           continue to explore opportunities to undertake
+              for core building services and production equipment with                          on going                                          engine testing using sustainable bio-fuels as a
+              appropriate weighting given for the effects of production output                                                                    replacement for traditional jet a-1 aviation fuel
+
+              develop and procure further energy efficiency improvements                        on going                                          bms integration in data collection, in terms of
+                                                                                                                                                  water and electricity consumption
+
+              progress co2 management systems                                                   on going
+
+
+
+
+                                              electricity is mainly consumed in the company’s day-to-day operations.                             total electricity consumption vs electricity consumed
+                                                                                                                                                                   per worked manhour
+                                              the total purchased electricity in 2011 was 24,623 mwh, an increase
+                                                                                                                                                 25,000                                              10,700
+                                              of 16% compared to 2010. this increase is due to the expansion in
+           electricity                                                                                                                           24,000                             24,600           10,600
+
+
+
+
+                                                                                                                                                                                                              per worked manhour
+                                                                                                                          electricity consumed
+
+
+
+
+                                                                                                                                                                                                              electricity consumed
+                                              business volume and operations attributed to the new center of                                     23,000                                              10,500
+     consumed per worked
+
+
+
+
+                                                                                                                              (1000 kwh)
+                                              excellence building. the average electricity consumption per worked                                22,000
+
+
+
+
+                                                                                                                                                                                                                    (1000 hr)
+          manhours                                                                                                                               21,000        10,288
+                                                                                                                                                                                                     10,400
+                                              hour is 10.2kw/h, which represents a slight decrease of 0.6% from the                              20,000                             10,224           10,300
+                                                                                                                                                                                                     10,200
+
+                 0.6%
+                                              previous year.                                                                                     19,000
+                                                                                                                                                               21,300
+                                                                                                                                                 18,000                                              10,100
+                                                                                                                                                 17,000                                              10,000
+                                              in order to continuously improve energy efficiency, we have implemented                                           2010                2011
+                                              an upgraded building management system (bms), which allows us                                                  electricity consumed     electricity consumed
+                                                                                                                                                                                      per worked manhour
+                                              a more accurate control and allow us to better monitor electricity
+                                              consumption at the facility. we measure electricity consumption across
+                                              our workshops and offices in order to facilitate a more targeted approach
+                                              to our energy reduction initiatives. one example is the installation of
+                                              motion detection systems to replace manual lighting controls.
+
+
+
+
+14   contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                           a reduction in gas usage can be observed in 2011. towngas                                               towngas consumption vs towngas consumed per meal
+
+                                           consumption reduced from 846,144 mj in 2010 to 753,312 mj in
+
+
+
+
+                                                                                                                            towngas consumed (1000 mj)
+
+
+
+
+                                                                                                                                                                                                                           towngas consumed per meal
+                                                                                                                                                         860                                                        4
+                                           2011. haesl has undertaken several initiatives to achieve a reduction
+                                                                                                                                                         840          3.49                                          3.5
+                                           in gas consumption. the implementation of project “gas consumption                                            820                                                        3
+                                                                                                                                                                                                     2.58
+
+
+
+
+                                                                                                                                                                                                                                   (1000 mj)
+                                           reduction in the staff canteen”, with the aid of our catering services                                        800              846                                       2.5
+                                                                                                                                                         780                                                        2
+                                           provider, has significantly cut down gas consumption within our canteen.                                      760                                                        1.5
+                                           this project focuses on reducing gas consumption by reviewing current                                         740                                      753               1
+                                           cooking processes and methods, identifying and eliminating waste,                                             720                                                        0.5
+                                                                                                                                                         700                                                        0
+                                           and developing a process for more effective and efficient use of gas.
+     aviation fuel                                                                                                                                                       2010                     2011
+
+   consumed per engine                                                                                                                                           towngas consumed             towngas consumed per meal
+
+         tested
+                                           we have previously ascertained that one of our major contributions                                              net aviation fuel consumption vs aviation fuel
+
+              3.9%                         to greenhouse gas emissions is the consumption of aviation fuel in
+                                                                                                                                                                    consumed per tested engine
+                                                                                                                                                                                                        13.00
+
+
+
+
+                                                                                                                                                                                                                           aviation fuel per tested engine
+                                                                                                                        net aviation fuel consumed
+                                                                                                                                                         2,400
+                                           our engine testing operations. this consumption is directly related to                                                                                       12.50
+                                           the number of engines serviced, the engine type and extent of repairs                                                                                                   12.00
+                                                                                                                                                         2,100          11.58
+
+
+
+
+                                                                                                                                                                                                                                      (tonnes)
+                                                                                                                                  (tonnes)
+                                           needed. consumption of aviation fuel increased in 2011, something                                                                                    2,263
+                                                                                                                                                                                                                   11.50
+                                           which can be attributed to an increased workload. haesl is working
+                                                                                                                                                         1,800                                                     11.00
+                                                                                                                                                                                                11.12
+                                           on reducing aviation fuel usage by recycling unused fuel for further
+                                                                                                                                                                                                                   10.50
+                                           engine tests – trials of this have resulted in an improvement in the                                                         1,985
+                                                                                                                                                         1,500                                                     10.00
+                                           average consumption per tested engine, with a decrease of 3.93%                                                              2010                     2011
+                                           compared to 2010 data.                                                                                                net aviation fuel consumed          aviation fuel consumed
+                                                                                                                                                                                                     per tested engine
+
+
+
+
+                                           carbon footprint
+                                           our carbon footprint is a measure of the impact our activities have on the environment; and in particular on climate change. haesl’s carbon
+                                           footprint is mainly attributed to the following factors: consumption of electricity by production processes equipment, the compressed air
+                                           plant, air-conditioning and lighting; towngas consumption by the staff canteen for catering services; and the burning of aviation fuel
+                                           in engine tests. reducing our carbon footprint is one of the biggest challenges we face. in order to gauge the success of carbon
+                                           footprint reduction initiatives, our carbon footprint is measured in units of tonnes of carbon dioxide equivalents.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification                                                                         15
+
+     in the year 2011, a total amount of 20,716 tonnes of carbon dioxide equivalents was recorded – for the most
+     part, this can be attributed to electricity and aviation fuel consumption. an increase is observed compared to
+     the previous year, which is due to an expansion in business volume and an escalating workload in year 2011.
+     the average carbon dioxide equivalent emission per worked manhour was recorded at 8.6 tonnes/hour, a
+     0.1% reduction on the previous year.
+
+                                                         total co2 emissions vs total co2 emissions
+                                                                    per worked manhour
+                                                                                                                 9.00
+                                                    20,000                                                       8.90
+                           co2 emissions (1000kg)
+
+
+
+
+                                                                                                                          worked manhour (kg/hr)
+                                                                                                                           total co2 emissions /
+                                                                                                                 8.80
+                                                    15,000         8.61                      13,500              8.70
+                                                                                                                 8.60
+                                                                 11,500                      8.60                8.50
+                                                    10,000
+                                                                                                                 8.40
+                                                                                                                 8.30
+                                                     5,000                                                       8.20
+                                                                  6,300                      7,200
+                                                                                                                 8.10
+                                                        0                                                        8.00
+                                                                  2010                        2011
+                                                             total indirect co2 + other relevant indirect co2 emissions
+                                                             total direct co2
+                                                             total co2 emissions / worked manhour
+
+
+
+
+     material recycling
+     we consider recycling an important aspect of our sustainable development. our recycling plan has been
+     implemented in daily practice since 2003. recycled materials, including metals, paper products and printer
+     cartridges are collected from our workshops and offices and sent to a recognised recycling company.
+     approximately 300 tonnes of paper products have been sent for recycling in total.
+
+
+     waste disposal management
+     our daily operations generate a significant amount of solid and chemical waste. by initiating a variety of waste
+     management programs, we strive to reduce all waste to an absolute minimum, especially waste destined to
+     end up in landfill sites. our initiatives include promoting the use of reusable cups during tea breaks in order to
+     reduce usage of disposable paper cups.  source separation of waste is also implemented at all of our facilities
+     to encourage employees to separate their waste for recycling.
+
+
+
+
+16     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                                                         for chemical waste, haesl has two waste water treatment plants in order to deal with waste water generated
+                                                                         during production operations. harmful substances are separated from the wastewater before this is released
+                                                                         into the sewers. disposal of sludge, resins and paints which may contain heavy metals is handled by an
+                                                                         approved disposal company. in 2011, we did not receive any fine or sanction related to environmental laws
+                                                                         and regulations.
+
+
+                                                                         water
+                                                                         haesl’s water usage has increased both in absolute terms and per operation in 2011. efforts are underway
+                                                                         to monitor and reduce the level of water consumption across our business. with an integrated building
+                                                                         management system and sub-metering for different water supply pipes, we are able to monitor our water
+                                                                         consumption within individual process and function. we also collect rainwater that can be used for chilling in
+                                                                         the air-conditioning system. in addition, water used for cooling is stored and recovered to support the lavatory
+                                                                         flushing system within the facility.
+
+
+                                                                         in 2011, the total amount of water consumed increased to 94,517m3. this was attributed to operations of
+                                                                         the new centre of excellence and refurbishment of an existing water tank.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification        17
+
+     health and safety
+
+
+
+
+18
+
+                                                                         health and safety
+                                                                         our journey to zero tolerance
+                                                                         health & safety performance has always been a top priority within our business. we will continue to adhere to
+                                                                         a policy of zero tolerance for unsafe working practices, and make haesl a better workplace for our staff and
+                                                                         everyone within the premises. we believe that a zero tolerance approach to health & safety is a fundamental
+                                                                         sustainability objective within haesl.
+
+
+                                                                         there were nine reported cases of accidents (lost time injuries, lti) in 2011, with an average accident rate
+                                                                         of 0.75 incidents per 100 employees within the total number of hours worked. this represents a decrease
+                                                                         of 3.5% when compared with figures from 2010. these injuries accounted for 118 man-days lost, with five
+                                                                         minor injuries (injuries that required simple first aid treatment). among these accidents, all injured person are
+                                                                         male employees. no occupational illnesses were reported in 2011.
+
+
+                                                                                                                                               accident rate
+                                                                                                                                   1
+                                                                              decrease in                                         0.8
+                                                                                                                                            0.77                      0.75
+                                                                             accident rate
+
+
+
+
+                                                                                                                  accident rate
+                                                                             compared with 2010                                   0.6
+
+                                                                                                                                  0.4
+
+                                                                                        3.5%                                      0.2
+
+                                                                                                                                   0
+                                                                                                                                            2010                      2011
+
+                                                                                                                          accident rate (per 100 employees):
+                                                                                                                         (number of lti’s / total worked hours) x 200,000 work hours#
+                                                                                                                    #200,000 work hours = 100 full-time employees x 40 hours per week
+                                                                                                                                              x 50 weeks per year (swire)
+
+                                                                                                                    note: data shown to 2 decimal places only
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification         19
+
+            decrease
+           in man-day
+            lost rate
+        compared with 2010
+
+
+                   18%
+
+
+                                                                                  manday lost rate                                                                 minor injury rate
+             decrease                                                  18.0
+                                                                                   16.0                                                                0.7
+              in minor                                                 16.0
+                                                                                                                                                       0.6
+
+
+
+
+                                                                                                                                   minor injury rate
+                                                                                                                                                                  0.48
+                                                    manday lost rate
+
+
+
+
+                                                                                                               13.1
+            injury rate
+                                                                       14.0
+                                                                                                                                                       0.5                                   0.42
+                                                                       12.0
+                                                                                                                                                       0.4
+        compared with 2010                                             10.0
+                                                                                                                                                       0.3
+                                                                        8.0
+                                                                                                                                                       0.2
+                   14%                                                  6.0
+                                                                        4.0
+                                                                                                                                                       0.1
+                                                                                                                                                        0
+                                                                        2.0
+                                                                                                                                                                  2010                       2011
+                                                                        0.0
+                                                                                   2010                        2011                            minor injury rate: (cumulative no. of minor injuries reported /
+                                                                                                                                                                  total worked hours) x 200,000 work hours #
+                                                                manday lost rate:
+                                                                (cumulative no. of man-days lost / total number of ltis) (swire)      #200,000 work hours = 100 full-time employees x 40 hours per week
+                                                                                                                                                                    x 50 weeks per year (swire)
+
+                                                                                                                                      note: data shown to 2 decimal places only
+
+     in-depth investigations and accident reviews were carried out following each incident, in order to identify the root cause of these and corresponding corrective actions to prevent such
+     incidences from occurring in future. our goal for 2012 is to continue our policy of zero tolerance, while at the same time implement further safety measures to gain recognition as a
+     world class company.
+
+
+
+
+20    contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                                                         the ehs organisation
+                                                                         haesl has a well-developed and comprehensive environmental, health and safety (ehs) system, which
+                                                                         is tasked with ensuring all company activities are in compliance with local government health & safety
+                                                                         and environmental regulations. within the ehs structure, the ehs steering group, composed of senior
+                                                                         management and management representatives from the main departments, represents a decision-making
+                                                                         body that regularly reviews and implements ehs policies from a company-wide perspective; on the other
+                                                                         hand, the ehs workgroup, made up of elected representatives from various departments, is responsible for
+                                                                         assisting the steering committee to realise ehs policies and to promote health & safety awareness within
+                                                                         haesl.
+
+
+                                                                         health and safety risk assessment
+                                                                         as a dependable aero maintenance, repair & overhaul provider, the h&s impact of haesl’s products and
+                                                                         services is continually assessed to ensure that risks are being minimised to an acceptable level. performed by
+                                                                         a properly trained team, haesl adopts an intensive risk assessment process which aims to identify risks for
+                                                                         both product safety and health & safety at a detailed working level. the assessment process is continuously
+                                                                         being reviewed and improved to ensure our products and services are in compliance with all procedures
+                                                                         specified by local governments and oems.
+
+
+                                                                         i care, i report (icir)
+                                                                         in 2011, haesl took a major step towards improving the safety precaution reporting mechanism - the i
+                                                                         care, i report (icir) scheme moved to another level through the encouragement of proactive reporting and
+                                                                         resolution of issues. the reporting mechanism aims to encourage our staff to report unsafe actions, unsafe
+                                                                         conditions and near misses within their normal routine work, and also to promote a message that caring for
+                                                                         our working environment is an essential part of haesl’s culture.
+
+
+                                                                         the initial icir scheme was introduced in september, 2010. during april, 2011, the icir reporting mechanism
+                                                                         was further evolved into a more robust scheme, where everyone, including all contractors and third
+                                                                         parties were fully engaged into the system. precaution reporting became everyone’s duty. in 2011,
+                                                                         there were 625 icir reports raised and problems were identified and solutions adopted accordingly.  
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification      21
+
+     since a growing number of reports have been filed on unsafe situations, there has been a large increase
+     in corrective actions to be taken. during 2011, it was recognised that solving these issues would be more
+     effective if the problem can be solved by the reporter himself/herself, or if a suitable solution can be suggested
+     by the reporter/frontline staff. in the coming year, the icir scheme will be escalated to a more complete
+     system; not only encouraging staff to report incidences/unsafe situations, but also encouraging employees to
+     resolving problems more proactively at source.
+
+
+
+                                                                                               625 icir
+                                                 2011                2010
+                                                                                              received with
+         number of reports received               625                 110                   close out rate of
+
+        percentage of reports closed            65.1%                 43%
+                                                                                              65.1%
+     safety campaigns and training programs
+     prescription safety glasses programme
+     continuing from the success of last year’s programme, haesl will continue to provide appropriate eye
+     protection for staff who could be exposed to eye hazards. assessments were made to identify staff that
+     required prescription safety glasses. 96 members of staff have enrolled in this programme, and we will ensure
+     that personal protective equipment (ppe) is made available as appropriate for all staff members.
+
+
+     subcontractors monitoring procedures
+     along with providing a safe environment to our visitors and subcontractors, monitoring them is also crucial
+     to keeping the workplace safe. in 2011, there was an increase in the number of cases of subcontractors
+     speeding within haesl premises or using improper tools/unsafe methods to perform their jobs at haesl.
+     we will further reinforce our monitoring procedures for subcontractors to ensure all subcontractors obey the
+     same rules regarding h&s as our haesl staff, in order to maintain a safe working environment at haesl.
+
+
+
+
+22    contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                                                         guardsafe
+                                                                         guardsafe was introduced mainly within the component repair workshops to help our staff reduce the
+                                                                         chances of injury occurring whilst operating machinery. guards/shields were installed on various machines to
+                                                                         minimise the risk of injury. after a detailed assessment by the cr engineers, eighty-six machines were identified
+                                                                         as being in need of additional safety guards, and of these, the re-configuration of thirty-two machines has
+                                                                         already been achieved successfully. a comprehensive plan was implemented in 2011 with high-use machines
+                                                                         being scheduled as the highest priority. we will continue to proceed with this ongoing project in 2012.
+
+
+                                                                         handsafe
+                                                                         haesl regards employees’ each and every employee as a valuable asset to the company. as an engineering
+                                                                         company, keeping our employees’ hands safe is one of the major concerns under our zero tolerance
+                                                                         approach. in 2010 and 2011, various activities to create awareness of health and safety in the workplace
+                                                                         were undertaken, most especially at workplaces in the component repair, engine overhaul, material control
+                                                                         and stores departments.
+
+
+                                                                         orchestrated by six coordinators and forty-five hand safe champions, participants had the opportunity to
+                                                                         learn and build awareness about keeping their hands safe through a series of activity sessions under the five-
+                                                                         themed handsafe programme. through these five themes, handsafe increased staff understanding of
+                                                                         how and why hand injuries occurred in the past, and the measures that can be taken to reduce the likelihood
+                                                                         of these kinds of injuries from occurring in the future. handsafe also stresses an important message - how
+                                                                         important our hands are in our daily lives, and how difficult life can be after experiencing a hand injury. during
+                                                                         these sessions, employees were encouraged to identify hazards in the workplace, promote solutions for
+                                                                         active risk mitigation, and practice safe working procedures.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification          23
+
+     safety training
+     safety training is one of the key elements within our ehs policy, the goal
+     being to strengthen staff awareness in matters of safety, and ultimately
+     to help our staff consolidate necessary skills into practice. along with
+     basic safety training to be given at the beginning of employment,
+     frontline staff will also receive specific h&s training subjectively relevant
+     to their job area, such as chemical safety, workplace safety, fire safety
+     etc. training is arranged for our staff according to a training matrix with
+     no regard to their gender. additionally, all ehs workgroup members are
+     required to receive further training from the occupational health and
+     safety department, in order to qualify as an occupational safety and
+     health supervisor.
+
+
+     the following is the list of training courses that our ehs workgroup
+     members attended to attain this qualification:
+
+
+         occupational safety supervisor (manufacturing)
+
+         basic accident prevention
+         safety in manufacturing industry
+         basic occupational health
+         basic safety management
+         occupational safety, health and environment supervisor
+         workplace hygiene & environment (manufacturing)
+         reference: https://eform.oshc.org.hk/course/eng/course/
+         showpackage.asp?packid=15
+
+
+     safety q&a game
+     to help our staff gain better awareness in matters of health & safety, a
+     safety q&a game was launched on a quarterly basis. questions were
+     prepared based on articles from newspapers and awards were given
+     for the best answers.
+
+
+
+
+24     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+progress against actions and performance in 2011/ our goals for 2012
+
+
+
+         our actions and performance in 2011                                             progress                                    our goals for 2012
+
+         make i care i report (icir) scheme to become a best practice within haesl                            to maintain accident (lti) occurrences at nine incidents per year or
+                                                                                             ✔
+                                                                                                              even less
+
+         continue with prescription of safety glasses programme for frontline staff                           to maintain the man-day lost rate, while haesl expects a 20%
+                                                                                             ✔
+         members                                                                                              increment in staff levels in 2012
+
+         launch of the guardsafe programme                                                                    to include the element of “i resolve” to the icir scheme, and to
+                                                                                             ✔
+                                                                                                              promote reporters to be more proactive with devising solutions for
+                                                                                                              unsafe issues
+
+         launch of the handsafe programme at different workplaces to gain                                     improve our subcontractor monitoring procedures
+                                                                                             ✔
+         awareness of hand safety
+
+         implement a comprehensive risk assessment programme across the                                       manual handling/lifting procedure to mitigate the risk of
+                                                                                             ✔
+         company                                                                                              handling/lifting heavy objects. safety campaigns were introduced
+                                                                                                              to promote better handling procedure --> improve the safety
+                                                                                                              culture among workshops
+
+         raise awareness of using suitable ppe by placing standardised                                        review all previous accident (lti) cases to prevent similar cases
+                                                                                             ✔
+         guidelines/messages among the workshop                                                               from occurring again
+
+         maintain zero prosecution on h&s related issues from the government                                  being audited by hkqaa on factory & industrial undertaking
+                                                                                             ✔
+                                                                                                              (f&iu) with acceptable outcomes
+
+         safety f&iu (factory & industrial undertaking) audit with acceptable outcomes       ✔
+         “good class” indoor air quality certificate obtained for the administrative
+                                                                                             ✔
+         building
+
+         to incorporate relevant requirements of ohsas 18001 to existing safety          ongoing
+         management system (sms)*
+
+       * our original target of achieving ohsas 18001 certificated was suspended in 2011. integrating relevant requirements into the existing sms are deemed to be
+       more efficient and appropriate to our operation.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   25
+
+     our people
+
+
+
+
+26
+
+                                                                          our people
+                                                                          at haesl, we believe that our workforce has always been and will continue to be one of the company’s most
+                                                                          valuable assets. we utilise our experience, ability and long-term relationships to maintain our core values
+                                                                          in our operations. during 2011, our workforce increased gradually in a healthy, sustainable manner, and by
+                                                                          december the workforce population rose to a record 1,025 personnel – a number that continues to increase
+                                                                          in 2012. although our industry has always been regarded as male dominated, we saw an increasing number
+                                                                          of female employees join the workforce at haesl in 2011.
+
+
+
+
+                                                                          employee statistics
+                                                                                                                          years of service
+                                                                                          300
+
+                                                                                          250
+
+
+
+                                         100%                              no. of staff   200
+
+
+                                          of 2011                                         150
+
+
+                                        new recruits                                      100
+
+                                       attended ehs                                        50
+                                          training
+                                                                                            0
+                                                                                               less       1-5    6-10   11-15   16-20   21-25   26-30   31-35     36-40     41-45
+                                                                                            than 1 year   year   year    year    year    year    year    year      year      year
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification    27
+
+                                                    staff age group
+
+                    300
+
+                    250
+
+                    200
+     no. of staff
+
+
+
+
+                    150
+
+                    100
+
+                     50
+
+                      0
+                          less than 20   20 to 30        31 to 40         41 to 50        51 to 60     more than 60
+                                                                age
+
+
+
+
+                                                            gender
+
+
+
+                                                                    11%
+                                                                    female
+
+
+
+
+                                                        89%
+                                                          male
+
+
+
+
+28            contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                                                          workforce by employment type
+
+                                                                                        9%
+                                                                                        indirect staff - female
+
+
+
+                                                                                  23%                                                                          65%
+                                                                                  indirect staff - male                                                        direct staff - male
+
+                                                                                                                                                                          direct staff - male
+                                                                                   3%                                                                                     direct staff - female
+                                                                                   direct staff - female
+                                                                                                                                                                          indirect staff - male
+                                                                                                                                                                          indirect staff - female
+
+
+                                                                               remarks: direct staff - staff whose work are directly charged as man-hours to the customers
+                                                                                        indirect staff - staff whose work are not directly charged as man-hours to the customers
+
+
+
+                                                                          workforce by type of employment contract
+
+                                                                                                 8%                                                     2%
+                                                                                                 contract staff - male                                  contract staff - female
+                                                                               10%
+                                                                               general staff - female
+
+
+                                                                                 80%                                                                                      contract staff - male
+                                                                                 general staff - male
+                                                                                                                                                                          contract staff - female
+                                                                                                                                                                          general staff - male
+                                                                                                                                                                          general staff - female
+
+
+
+
+                                                                               remarks: contract staff are defined as staff who is engineer/officer grade or above with different benefit
+                                                                                        scheme.
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification                29
+
+     staff development
+     training
+     in response to the company’s business growth, we anticipated increasing the number of personnel to meet
+     our operational needs. to achieve the best outcome, by the end of 2011 we decided to centralise our staff
+     recruitment process. in addition, we have established a comprehensive 160-hour training plan to set recruits
+     on the right path before they begin receiving on-the-job training in their designated workplaces.
+
+
+     training covers an introduction to the company, basic health and safety training, basic engine concepts,
+     cd manual reading, parts handling and protection principles, introduction to 5s, a plant tour, etc. new staff
+     members destined to be deployed to either of the production departments – component repair or engine
+     overhaul workshop - have to attend additional sessions for specific skill training.
+
+
+     staff benefits
+     employee health program
+     in today’s busy world, the trend is for individuals to spend more time working and consequently, less time
+     concerned about their health. for a long time, haesl has held the belief that an excellent wellness program is
+     essential for the health of employees and their families. the haesl heath care scheme covers hospitalisation,
+     network clinical visits and primary dental care. at the same time, haesl also provides regular health checks
+     for employees aged 40+.
+
+
+     haesl wellness day 2011
+     in addition to the health program that covers employee and dependent sickness, haesl have also tried to
+     identify methods to proactively address unhealthy lifestyles, and to promote wellness and reduce illness.
+
+
+     in october 2011, we invited our medical services provider, quality healthcare, to organise a one-day onsite
+     health assessment, which took place on october 14. two assessments were offered to staff members,
+     including spinal assessment and chinese medical consultation.
+
+
+     spinal assessment is a preliminary test pertaining to spinal health that can detect misalignments of the spine
+
+
+
+
+30     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                                                          under proper observation, so as to correct a proper sitting and daily working posture. specific exercises
+                                                                          would then be introduced by the physiotherapist for postural corrections.
+
+
+                                                                          for chinese medical consultation, a chinese medicine practitioner provided consultation and verbal advice on
+                                                                          the health condition of participants. staff response to this activity was extremely positive, and the registration
+                                                                          numbers exceeded the provider’s assessment capacity.
+
+
+                                                                          altogether, a total of 126 staff members participated in this event.
+
+
+
+                                                                          haesl disney night
+                                                                          to celebrate its 15th anniversary, haesl organised a staff function “haesl family night” at hong kong
+                                                                          disneyland. in order to recognise the company’s achievements over the years, all staff and their families were
+                                                                          invited to join the event. with about 97% of staff and their family members attending the event, a total of
+                                                                          2,900 participants shared a memorable evening together. the function started in the afternoon during which
+                                                                          the participants enjoyed the facilities and exciting rides in the park. a stage show – “festival of the lion king”
+                                                                          was arranged exclusively for haesl employees after the fireworks. despite the cool weather, disneyland was
+                                                                          kept warm by our laughter. everyone at the company is eagerly looking forward to the next celebration party.
+
+
+                                                                          employee’s children scholarships
+                                                                          the haesl employees’ children scholarships programme is designed to reward and encourage the children
+                                                                          of staff members that have achieved outstanding academic results in local schools or universities. we aim to
+                                                                          support talented future leaders in their intellectual and personal growth. the scheme was warmly appreciated
+                                                                          by our company’s workforce, and numerous applications were received from staff members nominating their
+                                                                          children for the available scholarships. assessment is primarily based on the academic results of nominees
+                                                                          and their personal backgrounds. in 2011, two university scholarships and one school scholarship was
+                                                                          granted, amounting to a total award of $36,000. the scholarship presentation ceremony was held on the day
+                                                                          of our christmas party so everyone could celebrate with the winning families.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification           31
+
+     transportation subsidies
+     located in tseung kwan o industrial estate, haesl understands traveling to work can be a headache for
+     staff members. therefore, we have instituted a comprehensive plan regarding transportation arrangements for
+     our staff. we are cooperating with staff transport company to provide inbound and outbound shuttle services
+     connecting different districts in hong kong. regular meetings with staff transport company representatives
+     are held to ensure a better service and bus safety. inflationary pressure of transportation costs on our staff has
+     also been taken into consideration by the company. in 2011, in addition to the ongoing transportation subsidy
+     provided to employees, the company also provided further subsidies to support the increased coach fare.
+
+
+     recreational facilities
+     we are encouraging our staff to participate in recreational activities within the company during breaks,
+     lunch hours or after work. the majority of our staff members enjoy playing sports such as tennis, basketball
+     and table tennis during their lunch breaks. our activity clubs also organise different sporting events and
+     competitions in order to build a stronger bond between colleagues. in addition to these activities, the haesl
+     library encourages reading and self-learning habits among staff members. there is also a mini-garden within
+     the haesl facility, maintained by volunteers. this has proven to be a popular spot for employees to take a
+     walk after lunch.
+
+
+     haesl encourages staff to have social gatherings to improve work relations, sharing and communication.
+     during summer, the company provides free coffee and tea during tea breaks to encourage closer
+     communication. in addition, haesl provides a meal discount for all employees to enjoy lunch and late night
+     supper on the premises at a low cost.
+
+
+
+
+32     contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+                                                                                                                       communication
+                                                                                                                       to maintain effective communication with employees, haesl’s
+                                                                                                                       management conducts regular meetings with the general
+                                                                                                                       staff consultative committee (gscc) and the contract staff
+                                                                                                                       association (csa) to address staff concerns and solicit their
+                                                                                                                       opinions on employee welfare services. to keep our staff
+                                                                                                                       updated with the company’s business, up-to-date information
+                                                                                                                       is relayed through staff briefings, staff flat screen tvs and staff
+                                                                                                                       notices on the company portal. a regular publication, known as
+                                                                                                                       haesl.com, is also distributed to staff members on a frequent
+                                                                                                                       basis.
+
+
+                                                                                                                       storyboard
+                                                                                                                       haesl holds regular q&a briefings with all employees. these
+                                                                                                                       briefings are known as “storyboard”, and are designed to
+                                                                                                                       raise staff awareness of the company’s strategies. by dividing
+                                                                                                                       staff members into smaller groups, department managers can
+                                                                                                                       present a wide variety of management concepts and share
+                                                                                                                       background on decisions. the advantage of having storyboard
+                                                                                                                       is to provide a platform where discussions can be held between
+                                                                                                                       staff members and the company’s management. a storyboard
+                                                                                                                       database was set-up in 2011 to record all complex questions
+                                                                                                                       for management to follow up on.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification         33
+
+                                                                            yk li
+
+                                                                            yk li, also known as “superman”, joined haesl at its inception in 1997. he is currently a supervisor in the
+                                                                            component repair department. “superman” is a member of the health & safety committee and also the
+                                                                            volunteer team.
+
+
+                                                                            his motivation for his selfless dedication to volunteering is, “i am happy to be responsible for helping others;
+                                                                            it is a blessing to me.” superman volunteers his time visiting homes for the elderly, working with non-profit
+                                                                            organisations, and participating in various fund-raising events.
+
+
+                          yk li
+                          supervisor                                           “     i really want to encourage my colleagues to take up volunteer work with me -
+
+
+                                                                                                                                                                 ”
+                                                                                     this could have a positive impact on haesl’s sustainability.
+
+
+
+
+                                                                            sam wong
+
+                                                                            sam wong, a component inspector in the component repair department, has a passion for engineering.
+                                                                            after achieving his higher diploma certificate in aircraft maintenance engineering in 2008, he began his
+                                                                            engineering career as an inspector trainee at haesl.
+
+
+                                                                            being a front liner in the workshop, sam values the company’s health and safety policies. he also makes an
+                                                                            active contribution as a first-aider at the workshop.
+
+
+
+                   sam wong
+                           inspector
+                                                                               “     haesl is a successful and sustainable world-class company. to me, sustainable
+                                                                                     development covers a wide range of aspects, including conservation of the
+                                                                                     environment, responsibility to society, health and safety of employees,
+
+
+                                                                                                                                                             ”
+                                                                                     and should ensure that none of these will be neglected.
+
+
+
+
+34   contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+jonathan shih and oliver cheung
+
+jonathan and oliver both joined haesl’s engineering graduate trainee programme back in 2010. they
+are currently receiving cross-functional training and gaining experience in various departments within the
+company.
+
+
+jonathan and oliver explain that “sustainable development of the company is not only about business -
+social responsibility and environmental concerns are of equal importance.”
+
+
+jonathan shih
+
+
+
+   “     i know haesl has invested a huge amount of capital in our chemical waste
+         treatment plant and i am so proud that we have done our part as a responsible
+                                                                                                                                   jonathan shih &
+                                                                                                                                    oliver cheung
+                             ”
+         waste producer.
+                                                                                                                                     engineering graduate
+                                                                                                                                           trainees
+oliver cheung
+
+
+
+   “     simply doing things for your own good will not make the business more
+         sustainable; people need to also contribute to their organisation, their
+
+
+                                                      ”
+         environment and their community.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   35
+
+     charitable and
+     community
+     programmes
+
+
+
+
+36
+
+charitable and
+community programmes
+haesl retains its vision of not only being the “best in the world”, but also acting “best for the world”. we are
+the first to realise that our prosperity originates from the community where we live and work. as such, we are
+100% committed to supporting our community’s development. collectively and individually, our employees
+dedicate their time and talent, involving themselves in various charitable and community programs for the
+benefit of our community at large.
+
+
+we are convinced that our prosperity is tied with our community. therefore, it is our responsibility to make a
+positive contribution to the place where we live and work.
+
+
+    community engagement
+
+    twist and turn                   twenty staff participated in the ‘twist and turn’ – environmental
+                                     protection workshop organised by wwf in january 2011, enhancing
+                                     their understanding of hong kong’s ecological environment. they also
+                                     had the chance to explore, learn and adopt an environmentally-friendly
+                                     lifestyle in a practical way.
+
+    innovation technology            haesl supported the innovation technology award scheme, which
+    award scheme                     aims to provide recognition to outstanding undergraduates from local
+                                     universities, as well as opportunities to widen their exposure, with a
+                                     view to encourage them to pursue a lifelong career in the field of
+                                     science and technology.
+
+    plant visit for sarda            a group of sarda rehabilitees and social workers visited haesl on
+                                     2 april 2011. the visit provided an opportunity for rehabilitating
+                                     teenagers to get a feel for the aviation maintenance industry and to
+                                     gain an understanding of the academic path towards this industry.
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   37
+
+                                                                            the haesl volunteer team consists of not only our staff members, but also many of their family members.
+                                                                            both staff members and their families contribute towards various volunteer programs in order to help the local
+                                                                            community.
+
+
+                                                                                volunteer work
+
+                                                                                visit mai po nature reserve    haesl organised a visit to mai po natural reserve for a group of
+                                                                                with evangel children’s        children from the evangel children’s home on 26 november 2011.
+                                                                                home                           this event not only provides a meaningful activity for the children but
+                                                                                                               also helps them to understand more about environmental
+                                                                                                               conservation; as well as hong kong’s ecology.
+
+                                                                                elderly visit                  around 30 retirees from the tseung kwan o king lam home for the
+                                                                                                               elderly took a tour of haesl’s factory floor on 27 august 2011, led by
+                                                                                                               volunteers from haesl. following the visit, the volunteers organised
+                                                                                                               games and activities for the elderly. this event provided a great
+                                                                                                               opportunity for the retirees to have a closer look at the aero engines,
+                                                                                                               something that was appreciated as most of them have never been on
+                                                                                                               a plane before.
+
+
+
+
+38   contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+haesl continues to support numerous charitable organisations. besides financial support, we also give
+away useful materials like screens and computers to people in need.
+
+
+    charitable events
+
+    trailwalker                  on 18-19 november 2011, three haesl staff took part in the trailwalker
+                                 event, in order to raise money for oxfam. our general manager of
+                                 finance and administration, our quality & improvement manager and our
+                                 sustainable development manager completed the 100 km maclehose
+                                 trail, in the process raising hk$46,000 in support of oxfam’s various
+                                 poverty alleviation and emergency relief projects in africa and asia.
+
+    bochk outward bound          three haesl teams participated in the bochk outward bound
+    corporate challenge          corporate challenge. this fund raising event not only nurtures growth
+                                 and development for the underprivileged youth, it is also a good platform
+                                 for our staff to demonstrate teamwork, communication, strategy and
+                                 physical strength.
+
+    hiking day                   a haesl hiking day was organised on 17th april 2011 to raise money
+                                 for the victims of japan’s earthquake and tsunami. to support this
+                                 activity, the company made a donation for each participant completing
+                                 the trip. the swire group also committed a matching donation for
+                                 every dollar raised. together with swire’s donation, we raised a total of
+                                 hk$138,080, which will go to the hong kong red cross. a total of 65
+                                 staff and family members participated in the event.
+
+    dragon boat race             a mixed team that saw staff members from haesl, rolls-royce,
+                                 cathay pacific and haeco participate in the annual dragon boat race
+                                 at discovery bay, lantau island in june 2011. besides having a
+                                 fun-filled day, the team turned the event into a fund raising activity for
+                                 the evangel children’s home, and managed to raise hk$20,000.
+
+    recycling computer and       in 2011, haesl participated in conscientious recycling charter. we
+    display screens              have donated numbers of used but well maintained computer and
+                                 display screens to people in need. at the same time, haesl is also
+                                 committed to deliver our used computers, electrical waste and
+                                 electronic equipment to the recycling channels that we monitored by
+                                 environmental protection department (epd).
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification   39
+
+     purchasing policy
+     and economic
+     performance
+
+
+
+
+40
+
+                                                                         purchasing policy and
+                                                                         economic performance
+                                                                         haesl places a high value in doing business with partners that are socially responsible. at the end of 2011,
+                                                                         haesl conducted a self-assessment survey that mapped out the social performance of the company’s suppliers.
+
+
+                                                                         80% of our suppliers had completed the assessment by the end of the data cut-off date. haesl will conduct
+                                                                         on-going reviews with suppliers that have non-compliance annually.
+
+                                                                                                                            supplier code of conduct compliance levels
+
+                                                                              documentation & inspection
+                                                                           subcontractors & other service
+                                                                                 discrimination and rights
+                                                                         compensation and working hours
+                                                                               environmental performance
+                                                                               environmental management
+                                                                                       environment policy
+                                                                                    environment manager
+                                                                                     environmental issues
+                                                                                        health and safety
+                                                                                             child labour
+                                                                                           forced labour
+                                                                            legal & regulatory compliance
+
+                                                                                                             0%         10%       20%        30%       40%          50%         60%        70%          80%   90%   100%
+
+                                                                                                                  yes, complied   take 6 months    take 12 months         take 24 months   not comply
+
+                                                                            remarks: the supplier code of conduct compliance level was measured by conducting a self-assessment survey. in
+                                                                            total, 80 suppliers participated in this survey program, with 65 feedback received by the cut-off date
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification                                       41
+
+     business performance
+     haesl is one of the leading aero engine mro companies within the rolls-royce aero engine repair network.
+     it continuously strives to be the best, and takes a lead in the dynamic aero engine repair market. although
+     the tragic tsunami that struck japan in april 2011 greatly affected our material supply and logistics, haesl
+     continues to generate positive outcomes and maintain excellent progress in its economic performance.
+
+
+     in 2011, there were 203 engines tested by haesl, while the company received an increased number of third
+     party component contracts and on-wing support services.
+
+
+     not only are we maintaining a good rate of progress with our current workload, but haesl is continuously
+     evolving towards specialisation. our component repair centre of excellence building – phase 5, went into
+     full service, while more and more specialised cells obtained professional recognition by rolls-royce.
+
+
+     results
+      during 2011, we generated us$ 1.2 billion in revenue
+
+         economic performance                                                                       2011                        2010
+
+         revenues generated                                                                us$ 1,205.6m                us$ 932.0m (1)
+
+         dividends paid to shareholders                                                    us$ 108.3m (2)              us$ 84.7m (3)
+
+         taxation                                                                          us$ 19.8m (4)               us$ 17.9m (4)
+
+         charitable donations made directly by haesl during 2011                           us$ 33,602                  us$ 36,100
+
+         employee cost                                                                     us$ 42m                     us$ 36m
+      (1) values corrected after audit adjustment
+      (2) value shown represents the dividends paid to shareholders adjusted to exclude the dividends received from investments outside
+         haesl’s operations
+      (3) value adjusted to exclude the dividends received from investments outside haesl’s operations, which are passed directly to shareholders
+      (4) value shown represents the total taxation cost including taxations from investments outside haesl’s operations
+      remarks: for full information of our operational and economic performance, please refer to the haeco 2011 annual
+      report.
+
+
+
+
+42   contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+planning for the future
+in 2009, haesl adopted the global
+reporting    initiative    (gri)       as   an
+                                                 sustainable alternative fuels
+international standard on reporting and
+                                                 in accordance with haesl’s sustainable development policy,             community and respect local culture and heritage. in 2012 we will
+were delighted to progress from a c+ to
+                                                 opportunities have been identified to reduce our carbon footprint.     further develop our sustainable development strategy with key
+a b+ rating in 2010. in 2011, we have also
+                                                 in conjunction with rolls-royce, we are now looking deeper into        local ngos in order to make a positive, sustainable impact in our
+adopted the most updated gri 3.1 index
+                                                 the various issues about using biofuel instead of conventional jet     local community.
+for this sustainable development report.
+                                                 a-1 when undertaking post-overhaul pass-off testing.
+this demonstrates our commitment
+                                                                                                                        building a safety culture
+towards stakeholder engagement in a
+                                                 we have begun communications with a biofuel company                    “safety is everybody’s business and getting hurt isn’t fun!” at
+structural and systematic way.
+                                                 focusing on the overall sustainability chain in using biofuel from     haesl, we strongly believe safety is a culture and it takes time
+                                                 jatropha (one of the more suitable candidates for a future biofuel     and effort to build it. in 2011, we put the “i care i report” near miss
+over the years, we have been identifying
+                                                 plant). these issues include sourcing materials sustainably, social    reporting program into action internally. with the positive results
+areas to blend sustainable development
+                                                 compliance during the farming process, any agricultural impact,        observed in 2011, we will continue to look for ways to establish
+into our business model. these areas are
+                                                 ngo concerns, challenges in refinery, and production costs.            the culture of safety into our overall safety schemes, triggering
+full of opportunities as well as challenges
+                                                 we are convinced that fuel sustainability is the future, not only in   discussions about health and safety amongst our colleagues.
+–and    therefore    require       a    strong
+                                                 aviation, but also in many other industries.
+commitment from the management
+                                                                                                                        landfill gas extraction
+team as well as stakeholders. some of
+                                                 in conjunction with discussions with the biofuel company, haesl        we have been looking for ways to reduce energy consumption as
+these opportunities are:
+                                                 will continue to communicate with our stakeholders, gaining trust      well as finding alternative sources for sustainable energy. haesl’s
+                                                 and understanding of the addition of greener fuel into our future      location at the tseung kwan o (tko) industrial estate - close to
+                                                 business model.                                                        the tko landfill appears to be advantageous. haesl has been
+                                                                                                                        engaged in studying the opportunity to capture tko landfill gases
+                                                 sustainable development strategy                                       to generate electricity. in 2012, further progress is expected as
+                                                 in accordance with the haesl sustainable development policy,           technical and commercial solutions evolve further, hopefully
+                                                 we will seek ways to promote good relationships with our local         allowing us to achieve the use of this neighbouring resource.
+
+
+
+
+                                                                                                                                                                                                  43
+
+     performance data summary
+                                                                                                                                                     %difference between
+                                                                          unit               2011                         2010                         2010 and 2011
+     energy and fuel usage
+     electricity purchased                                                kwh              24,622,949                  21,259,842                              16%
+     towngas consumed                                                      mj               753,312                      846,144                               -11%
+     aviation fuel consumed (1)                                            t                 2,263                        1,985                                -11%
+     greenhouse gas
+     total co2e emissions (indirect) (2)                                   t                 13,296                      11,480                                16%
+     total co2e emissions (direct) (3)                                     t                 7,189                        6,302                                14%
+     other relevant indirect co2e emissions (4)                            t                  231                           -                                    -
+     water usage
+     seawater used for flushing                                            m3                13,550                      10,258                                32%
+                                                                                3
+     water used for cooling                                                m                 24,469                      26,930                                 -9%
+     water consumed for facility use                                       m3                9,918                        8,442                                17%
+     water consumed in operations                                          m3                60,130                      38,440                               56% (5)
+     materials usage
+     printing cartridges purchased                                        pcs                 686                          593                                 16%
+     paints consumed                                                       l                 17,382                      12,950                                34%
+     chemicals consumed in operations - liquid                             l                 49,091                      29,719                               65% (6)
+     chemicals consumed in operations - solid                              kg                44,982                      26,145                               72% (7)
+     chemicals consumed in wastewater treatment - liquid                   l                  740                          960                                 -23%
+     chemicals consumed in wastewater treatment - solid                    kg                70,515                      84,185                                -16%
+     acetylene consumed                                                    kg                4,389                        3,808                                15%
+     solid waste
+     commercial / industrial waste                                          t                 509                          380                                 34%
+     grease trap waste                                                     m3                  88                           38                               132% (8)
+     materials recycled
+     paper recycled                                                        kg                15,480                      11,360                                36%
+     cardboard recycled                                                    kg                17,820                      11,870                                50%
+     aluminum recycled                                                     kg                  42                          164                                 -74%
+     metal recycled - titanium alloy                                       kg                1,528                        2,363                                -35%
+     metal recycled - steel                                                kg                4,731                        3,854                                22%
+     metal recycled - others                                               kg                1,965                        1,643                                -26%
+     printing cartridges recycled                                         pcs                 349                          341                                  2%
+                                                                                                                                                     %difference between
+                                                                          unit               2011                         2010                         2010 and 2011
+     chemical waste
+     lubrication oil disposed                                              l                 14,744                       2,878                              412% (9)
+44   contents  •  statement  •  governance  •  environment  •  health & safety  
+     paints disposed                                                        l
+                                                                                •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+                                                                                               9,770                      3,473                            181% (10)
+     other chemical concentrates disposed (liquid)                         l                 17,663                      14,205                                24%
+
+ paper recycled                                                                                            kg                          15,480                                      11,360                                                  36%
+ cardboard recycled                                                                                        kg                          17,820                                      11,870                                                  50%
+ aluminum recycled                                                                                         kg                             42                                           164                                                -74%
+ metal recycled - titanium alloy                                                                           kg                           1,528                                      2,363                                                  -35%
+
+
+performance data summary
+ metal recycled - steel                                                                                    kg                           4,731                                      3,854                                                   22%
+ metal recycled - others                                                                                   kg                           1,965                                      1,643                                                  -26%
+ printing cartridges recycled                                                                              pcs                           349                                           341                                                 2%
+                                                                                                                                                                                                                           %difference between
+                                                                                                          unit                         2011                                            2010                                  2010 and 2011
+ chemical waste
+ lubrication oil disposed                                                                                   l                          14,744                                      2,878                                                412% (9)
+ paints disposed                                                                                            l                           9,770                                      3,473                                               181% (10)
+ other chemical concentrates disposed (liquid)                                                              l                          17,663                                      14,205                                                  24%
+ heavy metal concentrated disposed - hexagonal chromium                                                     l                           2,321                                          644                                             260% (11)
+ heavy metal concentrates disposed - cadmium                                                                l                              0                                            0                                                  0%
+ heavy metal concentrates disposed - nickel                                                                 l                            328                                           225                                                 46%
+ heavy metal concentrates disposed - others                                                                 l                            670                                           372                                                 80%
+ sludge / resin disposed (heavy metal contaminated)                                                         l                           2,966                                      4,615                                                  -36%
+ chemicals recycled
+ waste lubrication oil recycled                                                                             l                          12,000                                      12,000                                                  0%
+ health and safety
+ number of employees                                                                                       no.                        974 (15)                                         900                                                 8%
+ number of lost time injuries (12)                                                                         no.                             9                                            8                                                  13%
+ number of minor injuries (13)                                                                             no.                             5                                            5                                                  0%
+ number of lost hours (14)                                                                                 hrs                           952                                       1,024                                                   -7%
+ number of fatalities                                                                                      no.                             0                                            0                                                  0%
+ general legal compliance
+ air pollution - number of warning letters received                                                        no.                             0                                            0                                                  0%
+ water pollution - number of warning letters received                                                      no.                             0                                            0                                                  0%
+ water pollution - number of prosecution actions                                                           no.                             0                                            0                                                  0%
+ water (msw) pollution - number of warning letters received (16)                                           no.                             0                                            0                                                  0%
+ water (msw) pollution - number of prosecution actions                                                     no.                             0                                            0                                                  0%
+ notes:
+ recalculated values may be slightly different from figures provided in the previous publications.
+ (1) net aviation fuel consumed for engine test                                                                                                                                         (6) operation of additional cleaning and ndt section in new phase 5 building
+ (2) co2e emissions (indirect) = electricity consumed (kwh) x co2e emission factor (0.54 kg co2e/kwh is adopted as advised by clp)                                                      (7) operation of additional cleaning and ndt section in new phase 5 building
+ (3) co2e emissions (direct) = [towngas consumed (mj) x emission factor (0.0651 kg/mj is adopted as advised by towngas)] + [aviation fuel consumed (kg) x emission factor               (8) operation of additional cleaning section in new phase 5 building
+     (3.154)] + [acetylene consumed (kg) x emission factor (3.38)] + [co2e emitted from petroleum used on inland travel] *co2e emission in production of towngas is included            (9) drainage and disposal of oil due to relocation of machines to new phase 5 building
+     in the calculation. *inland travel is defined as business travel by the company owned car. co2e emitted from petroleum was calculated based on equations extracted from            (10) operation of additional painting facility in new phase 5 building
+     "guidelines to account for and report on greenhouse gas emissions and removals for buildings (commercial, residential or institutional puldings (commercial,                       (11) regular chemical replacement
+     residential or institutional purposes) in hong kong, 2010 edition" note: co2 emission factor (2.360 kg co2/litre); ch4 emission factor = 0.253 g co2 /litre; n2o emission          (12) lost time injuries are events that involve injuries leading to sick leave
+     factor = 1.105 g/litre; relative global warming potential (gwp) of ch4 is 21 while it is 310 for n2o                                                                               (13) minor injuries are events that involve injuries not leading to sick leave
+ (4) other relevant indirect co2e emissions only accounts for co2 emssion from air business travel. air travel emission figures are given from swire based on the distance travelled    (14) lost hours = days of sick leave in lti x 8 hous
+     with the chosen seating class. co2e emissions from sub-conractors are excluded from this calculation. *note: this figure was not shown in the previous sd report, no other         (15) this represents the 2011 average headcount number
+     relevent data can hence be presented as a reference in 2010.                                                                                                                       (16) msw means municipal solid waste
+ (5) operation of additional cleaning and ndt section in new phase 5 building
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification                                                                                             45
+
+     gri indicators                                                                    reference chapter                            gri indicators                                                                     reference chapter
+ profile disclosures:
+ 1. strategy and analysis                                                                                                           4. governance, commitments and engagement
+ 1.1     statement from the most senior decision-maker of the organisation             d&gm’s statement                             4.1    governance structure of the organisation, including committees under the    governance & stakeholder engagement
+ 1.2     description of key impacts, risks, and opportunities                          planning for the future                             highest governance body responsible for specific tasks, such as setting     governance & stakeholder engagement
+                                                                                       governance & stakeholder engagement                 strategy or organizational oversight
+                                                                                       d&gm’s statement                             4.2    indicate whether the chair of the highest governance body is also an        governance & stakeholder engagement
+ 2. organisational profile                                                                                                                 executive officer
+ 2.1    name of the organisation                                                       company profile                              4.3    for organizations that have a unitary board structure, state the number     governance & stakeholder engagement
+ 2.2    primary brands, products, and/or other services                                company profile                                     and gender of members of the highest governance body that are
+ 2.3    operational structure of the organisation, including main divisions,           company profile                                     independent and/or non-executive members
+        operation companies, subsidaries and joint ventures                                                                         4.4    mechanisms for shareholders and employees to provide                        governance & stakeholder engagement
+ 2.4    location of organisation’s headquarters                                        company profile                                     recommendations or direction to the highest governance body
+ 2.5    number of countries where the organisation operates, and names of              company profile                              4.5    linkage between compensation for members of the highest governance          governance & stakeholder engagement
+        countries with either major operations or that are specifically relevant to                                                        body, senior managers, and executives
+        the sustainability issues covered in the report                                                                             4.6    processes in place for the highest governance body to ensure conflicts of   governance & stakeholder engagement
+ 2.6    nature of ownership and legal form                                             company profile                                     interest are avoided
+ 2.7    markets served (including geographic breakdown, sectors servedm and            company profile                              4.7    process for determining the composition, qualifications and expertise       governance & stakeholder engagement
+        types of customers/beneficiaries)                                                                                                  of the members of the highest governance body and its committees,
+ 2.8    scale of the reporting organisation                                            company profile                                     including any consideration of gender and other indicators of diversity
+ 2.9    significant changes during the reporting period regarding size, structure or   company profile                              4.8    internally developed statements of mission or values, codes of conduct,     governance & stakeholder engagement
+        ownership                                                                                                                          and principles relevant to economic, environmental, and social
+ 2.10 awards received in the reporting period                                          governance & stakeholder engagement                 performance and the status of their implementation
+                                                                                       company profile                              4.9    procedures of the highest governance body for overseeing the                governance & stakeholder engagement
+ 3. report parameters                                                                                                                      organisation’s identification and management of economic, environmental,
+ 3.1    reporting period (e.g. fiscal/calendar year) for information provided          about this report                                   and social performance, including relevant risks and opportunities, and
+ 3.2    date of most recent previous report (if any)                                   about this report                                   adherence or compliance with internationally agreed standards, codes of
+ 3.3    reporting cycle (annual, biannial, etc.)                                       about this report                                   conduct, and principles
+ 3.4    contact point for questions regarding the report of its contents               about this report                            4.10 processes for evaluating the highest governance body’s own                    governance & stakeholder engagement
+ 3.5    process for defining report content                                            about this report                                   performance, particularly with respect to economic, environmental, and
+ 3.6    boundary of the report (e.g., countries, divisions, subsidiaries, leased       about this report                                   social performance
+        facilities, joint ventures, suppliers)                                                                                      4.11 explanation of whether and how the precautionary approach or principle is     governance & stakeholder engagement
+ 3.7    state any specific limitations on the scope or boundary of the report          about this report                                   addressed by the organisation
+ 3.8    basis for reporting on joint ventures, subsidiaries, leased facilities,        about this report                            4.12 externally developed economic, environmental, and social charters,            governance & stakeholder engagement
+        outsourced operations, and other entities that can significantly affect                                                            principles, or other initiatives to which the organisation subscribes or
+        comparability from period to period and/or between organisations                                                                   endorses
+ 3.9    data measurement techniques and the bases of calculations, including           environment                                  4.13 memberships in associations (such as industry associations) and/or            governance & stakeholder engagement
+        assumptions and techniques underlying estimations applied to the               health & safety                                     national/international advocacy organisations
+        compilation of the indicators and other information in the report              our people                                   4.14 list of stakeholder groups engaged by the organisation                        governance & stakeholder engagement
+                                                                                       economic performance                         4.15 basis for identification and selection of stakeholders with whom to engage    governance & our stakeholders
+                                                                                       performance data                             4.16 approaches to stakeholder engagement, including frequency of                  governance & stakeholder engagement
+ 3.10     explanation of the effect of any re-statements of information provided       purchasing policy and economic performance          engagement by type and by stakeholder group
+          in earlier reports, and the reasons for such restatement (e.g., mergers/     performance data                             4.17 key topics and concerns that have been raised through stakeholder             governance & stakeholder engagement
+          acquisitions, change of base years/periods, nature of business,                                                                  engagement, and how the organisation has responded to those key
+          measurement methods)                                                         purchasing policy and economic performance          topics and concerns, including through its reporting
+ 3.11     significant changes from previous reporting periods in the scope,            performance data
+          boundary, or measurement methods applied in the report                       gri indicators
+ 3.12     table identifying the location of the standard disclosures in the report     about this report
+ 3.13     policy and current practice with regard to seeking external assurance for    hkqaa verification statement
+          the report
+
+
+
+46                                 contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification
+
+standard disclosures: performance indicators                                       reference chapter                            standard disclosures: performance indicators                                      reference chapter
+economic performance
+ec1 direct economic value generated and distributed, including revenues,           purchasing policy and economic performance   social: labour practices and decent work
+     operating costs, employee compensation, donations and other                                                                la1 total workforce by employment type, employment contract, and region           our people
+     community investments, retained earnings, and payments to capital                                                               broken down by gender                                                        performance data
+     providers and governments                                                                                                  la2 total number and rate of new employee hires and employee turnover by          our people
+                                                                                                                                     age group, gender, and region                                                performance data
+environmental performance                                                                                                       la3 benefits provided to full-time employees that are not provided to temporary   our people
+en1 materials used by weight or volume                                             environment                                       or part-time employees, by major operations
+                                                                                   performance data                             la6 percentage of total workforce represented in formal joint management-         governance & our stakeholders
+en3    materials used by weight or volume                                          environment                                       worker health and safety committees that help monitor and advise on          health & safety
+                                                                                   performance data                                  occupational health and safety programs
+en4    indirect energy consumption by primary source                               environment                                  la7 rates of injury, occupational diseases, lost days, and absenteeism, and       health & safety
+                                                                                   performance data                                  number of work-related fatalities by region and gender
+en5    energy saved due to conservation and efficiency improvements                environment                                  la10 average hours of training per year per employee by gender and by             performance data
+                                                                                   performance data                                  employee category                                                            health & safety
+en8    total water withdrawal by source                                            environment                                  la11 programs for skills management and lifelong learning that support the        our people
+                                                                                   performance data                                  continued employability of employees and assist them in managing career      health & safety
+en10 percentage and total volume of water recycled and reused                      environment                                       endings
+                                                                                   performance data                             la13 composition of governance bodies and breakdown of employees per              our people
+en16 total direct and indirect greenhouse gas emissions by weight                  environment                                       employee category according to gender, age group, minority group
+                                                                                   performance data                                  membership, and other indicators of diversity
+en17 other relevant indirect greenhouse gas emissions by weight                    environment
+                                                                                   performance data                             social: human rights
+en18 initiatives to reduce greenhouse gas emissions and reductions achieved        environment                                  hr2 percentage of significant suppliers, contractors, and other business          purchasing policy and economic performance
+                                                                                   performance data                                  partners that have undergone human rights screening and actions taken
+en21 total water discharge by quality and destination                              environment
+                                                                                   performance data                             social: society
+en22 total weight of waste by type and disposal method                             environment                                  so1 percentage of operations with implemented local community engagement,         charitable and community programmes
+                                                                                   performance data                                  impact assessments, and development programs
+en26 initiatives to mitigate environmental impacts of products and services, and   environment                                  so3 percentage of employees trained in organisation’s anti-corruption policies    our people
+     extent of impact mitigation                                                   performance data                                  and procedures
+en28 monetary value of significant fines and total number of non-monetary          environment
+     sanctions for non-compliance with environmental laws and regulations          performance data                             social: product responsibility
+                                                                                                                                pr1 life cycle stages in which health and safety impacts of products and          health & safety
+                                                                                                                                     services are assessed for improvement, and percentage of significant         charitable and community programmes
+                                                                                                                                     products and services categories subject to such procedures
+
+
+
+
+contents  •  statement  •  governance  •  environment  •  health & safety  •  people  •  community  •  economic performance  •  future  •  performance data  •  gri  •  verification                                                                       47
+
+     verification statement
+     scope and objective                                                                            conclusion
+     hong kong quality assurance agency (hkqaa) was commissioned by hong kong                       based on the outcome of the verification process, the verification team determined that
+     aero engines services limited (hereinafter referred to as “haesl”) to undertake an             the report fulfills the b+ application level of the gri g3.1 guidelines.
+     independent verification of the sustainable development report 2011 (hereinafter called
+                                                                                                    the information presented in the report provided a material and complete representation
+     “the report”). the report stated haesl’s sustainability performance and efforts made
+                                                                                                    of the performance of haesl in the context of sustainable development. the verification
+     for the period from 1st january 2011 to 31st december 2011. the verification team did
+                                                                                                    team confirmed that the report was prepared based on factual statements and that
+     not partake in the compilation of the data and information of the report.
+                                                                                                    the data contained within the report are accurate. it is a fair and honest representation
+     the aim of this verification was to provide assurance on the completeness and accuracy         of initiatives, targets, progress and performance on haesl’s sustainable development
+     of the information stated in the report. the report’s coverage of indicators defined in        achievements.
+     the global reporting initiative (gri) sustainability reporting guidelines version 3.1 (g3.1)
+                                                                                                    opportunities for improvement on the reporting structure and content are separately
+     was also assessed to confirm if the b+ application level had been achieved.
+                                                                                                    submitted to haesl for their consideration on the compilation of future sustainable
+                                                                                                    development reports. it does not affect our opinion on the report.
+     methodology
+     the process used in this verification was based on current best practices. the report          signed on behalf of hong kong quality assurance agency
+     was reviewed based on the following criteria:
+
+     • the principles of completeness, accuracy, neutrality, comparability and responsiveness,
+       as set out in the institute of social and ethical accountability standard aa1000, and
+     • the global reporting initiative (gri) g3.1 guidelines.
+
+     the verification procedure included reviewing relevant documentation, interviewing
+                                                                                                    jorine tam
+     responsible personnel with accountability for preparing the report and verifying the
+                                                                                                    assistant director
+     selected representative sample of data and information consolidated in the report. raw
+                                                                                                    may 2012
+     data and supporting evidence of the selected samples were thoroughly examined.
+
+
+
+
+48    contents • statement • governance • environment • health & safety • people • community • economic performance • future • performance data • gri • verification
+
+
+                                                                                                                                                                                                                                                                                                    sustainable development
+                                                                                                                                                                                                                                                                                                                     report 2011
+
+
+
+
+                                                               tell us what you think!
+                           your comments would be very much appreciated, whether on this report or on our sustainability performance overall.
+                please contact our sustainable development manager, mr. kenny tsang by email at sd@haesl.com or through our website at www.haesl.com
+
+
+                                                           hong kong aero engine services limited
+                                                                   2/f administration building
+                                                                       70 chun choi street                                                                                                                                                                                                                                    hkqaa
+                                                               tseung kwan o industrial estate
+                                                                          tseung kwan o
+                                                                                                                                                                                                                                                                                                                              verified
+                                                                          n.t. hong kong
+                                                                                                                                                                                                       best in the world                          best for the world                                                          gri b+
+                                                                                                                                                                 contents • statement • governance • environment • health & safety • people • community • economic performance • future • performance data • gri • verification
+contents • statement • governance • environment • health & safety • people • community • economic performance • future • performance data • gri • verification

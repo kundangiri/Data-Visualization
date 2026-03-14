@@ -1,0 +1,2135 @@
+
+presentació.....................................................................................................................................................................................1
+
+gestió dels residus
+1. introducció................................................................................................................................................................................................2
+2. generació total de residus domèstics.............................................................................................................................................2
+3. tractament de la fracció resta............................................................................................................................................................4
+4. fraccions recollides selectivament
+4.1. la matèria orgànica............................................................................................................................................................................6
+4.2. el paper/cartó........................................................................................................................................................................................9
+4.3. el vidre.....................................................................................................................................................................................................10
+4.4. els envasos lleugers.............................................................................................................................................................................11
+5. el dipòsit en un abocador controlat.................................................................................................................................................13
+6. el forn incinerador..................................................................................................................................................................................14
+7. xarxa deixalleries....................................................................................................................................................................................15
+8. recollides complementàries
+8.1. la recollida separada de plàstics agrícoles..................................................................................................................................16
+8.2. la recollida separada d'aparells elèctrics i electrònics.............................................................................................................17
+8.3. la recollida d'olis usats d'origen vegetal......................................................................................................................................18
+9. estat d'assoliment dels objectius establerts a la llei 22/2011, de 28 de juliol, de residus i sòls contaminats.......19
+10. obres de la fase i d'ampliació de l'abocador de residus no perillosos de milà ii..........................................................20
+
+
+sensibilització
+11. sensibilització
+11.1. modernitza't, recicla!........................................................................................................................................................................22
+11.2. per nadal, també recicla, com nosaltres!...................................................................................................................................23
+
+
+energia
+12. energia
+12.1. operació del parc eòlic de milà
+         12.1.1. energia generada..........................................................................................................................................................25
+         12.1.2. incidents i pèrdues de generació..............................................................................................................................27
+         12.1.3. reducció d'emissions de contaminants a l'atmosfera........................................................................................30
+12.2. generació i consum d'energia elèctrica a menorca
+         12.2.1. incidència de la generació d'energia elèctrica d'origen renovable a menorca..........................................31
+
+
+gestió econòmica
+13. gestió econòmica.................................................................................................................................................................................33
+
+
+responsabilitat social empresarial
+14. responsabilitat social empresarial
+        14.1. àmbit econòmic................................................................................................................................................................34
+        14.2. àmbit ambiental..............................................................................................................................................................35
+        14.3. àmbit social.......................................................................................................................................................................35
+
+                                                                           presentació
+
+aquesta és la segona vegada que em puc dirigir a        així doncs, el 24 d'octubre de 2012 es féu efectiu
+tots vosaltres com a president d'aquesta entitat        l'inici de les obres d'ampliació de la fase i de
+que tenc el privilegi i l'honor de representar; una     l'abocador de residus no perillosos de milà ii,
+entitat que és fruit de la unió de totes les            finançades en un 80% pel programa operatiu de
+administracions locals de l'illa de menorca.            fons de cohesió-feder 2007-2013 i amb una
+                                                        durada prevista de set mesos.
+en matèria de residus, durant l'exercici 2012 hem
+de destacar la consolidació de nous contractes          en matèria d'energia, enguany ha estat un any de
+dintre del consorci, com ara el del servei públic de    rècords per al parc eòlic de milà, ja que s'han
+recollida i tractament d'olis vegetals usats o el de    generat 6.463.079 kwh. els factors que han
+les deixalleries municipals. amb l'organització         propiciat aquesta nova marca són diversos, encara
+d'aquests serveis, el consorci aposta fermament         que el principal deriva de la reforma del sistema de
+per la recollida separada dels residus per tal de       protecció general del parc, en el seu punt de
+facilitar-ne el tractament.                             connexió a la xarxa de distribució elèctrica de
+                                                        mitjana tensió. des de la seva instal·lació, s'ha
+un dels objectius específics de preparació per a la     observat una disminució molt important dels
+reutilització, reciclatge i valorització previst en     temps de desconnexió, que s'ha reduït de manera
+l'article 22 de la llei 22/2011, de 28 de juliol, de    considerable. això repercuteix en un augment de
+residus i sòls contaminats, és que abans de 2020 la     les hores de generació, 2.020 h l'any 2012 davant
+quantitat de residus domèstics i comercials             les 1.774 de l'any 2011, i també en una disminució
+destinats a la preparació per a la reutilització i el   important de les avaries associades a les
+reciclatge per a les fraccions de paper, metalls,       desconnexions intempestives, en total quaranta-
+vidre, plàstic, bioresidus o altres fraccions           cinc incidències que han representat un temps de
+reciclables ha d'arribar, en conjunt, com a mínim al    8 h i 25 min d'aturada.
+50% en pes. si feim aquest càlcul per primer cop
+per a tota l'illa de menorca, obtenim un                un altre factor prou important ha estat el
+percentatge del voltant del 35%.                        comportament del vent durant alguns mesos de
+                                                        l'any. és el cas del rècord aconseguit el mes de
+aquesta dada ens marca quina és la nostra situació      febrer, que ha permès que el valor mitjà de vent de
+actual, a partir de la qual hem de definir una          l'any (5,72 m/s) es mantingués tot i que durant els
+estratègia de futur que possibiliti augmentar, com      mesos de maig, juny, agost i octubre el vent bufés
+a mínim en un 15%, les quantitats recollides            per davall de la mitjana.
+separadament d'aquí a l'any 2020. un dels pilars
+d'aquesta estratègia, a banda de definir les noves      us convid, idò, a aprofundir en tots aquests temes
+tecnologies de tractament que s'han de                  a través d'aquest document.
+desenvolupar a l'àrea de gestió de residus de
+milà, és l'ampliació de l'abocador de residus no        fernando villalonga bordes
+perillosos, que s'ha iniciat aquest any.                president del consorci de rue
+
+                                                                         gestió de residus
+
+1       introducció
+
+el model de gestió de residus de menorca és un model ambientalment avançat que estableix uns objectius
+d'acord amb la normativa vigent i amb les particularitats de l'illa.
+
+la llei 22/2011, de residus, defineix els residus domèstics com els generats a les llars a conseqüència de les
+activitats domèstiques, que també inclouen aparells elèctrics i electrònics, roba, piles, acumuladors, mobles,
+estris, així com els residus procedents d'obres menors de construcció i demolició. a més, s'hi afegeixen els
+residus procedents de la neteja de les vies públiques, zones verdes, àrees recreatives i platges, així com els
+animals domèstics morts i els vehicles abandonats.
+
+per tal de donar una sortida a aquesta tipologia de residus, les administracions locals, juntament amb
+l'empresa privada, conjuminen esforços i posen a disposició de la ciutadania, entre altres, les instal·lacions
+següents a l'illa de menorca:
+
+    •    l'àrea de gestió de residus de milà
+    •    planta de tractament mecanicobiològic
+    •    planta de selecció i condicionament de recollida separada
+    •    forn incinerador d'animals morts i materials específics de risc
+    •    abocador controlat de residus no perillosos
+    •    set centres de la xarxa de deixalleries de menorca
+    •    una planta de pretractament de residus voluminosos
+    •    tres plantes de tractament de residus de construcció i demolició
+
+
+
+2       generació total de residus domèstics
+
+per poder fer els càlculs d'aquest apartat hem considerat només les fraccions domèstiques que es generen
+majoritàriament a les llars, com són:
+
+    •    matèria orgànica separada en origen (cer1 20 01 08)
+    •    paper/cartó separat en origen (cer 20 01 01)
+    •    vidre separat en origen (cer 20 01 02)
+    •    envasos lleugers separats en origen (cer 20 01 39/20 0140)
+    •    residus domèstics mesclats (cer 20 03 01/20 03 03)
+
+
+
+
+1   codi de la llista europea de residus. ordre mam/304/2002, de 8 de febrer, per la qual es publiquen les
+    operacions de valorització i eliminació de residus i la llista europea de residus.
+
+
+                                                                                                             2
+
+                                                                              gestió de residus
+
+a continuació adjuntam una taula amb la generació total de residus domèstics des de l’any 1995.
+
+                                evolució de la generació total de residus
+
+                                                 envasos                                          generació
+             paper i cartó       vidre                            matèria orgànica fracció resta
+      any                                        lleugers                                        total residus
+                 (t)              (t)                                    (t)            (t)
+                                                    (t)                                               (t)
+      1995                                                                            30.905        30.905
+      1996                                                                            41813         41.813
+      1997        649            1.132                                                45.629        47.410
+      1998       2.919           1.474                                                48.884        53.277
+      1999       3.256           1.510                                                51546         56.312
+      2000       5.446           1.727              501                               55.425        63.099
+      2001       5.621           1.988              732                1.716          58.390        68.447
+      2002       6.591           1.828              900                2.191          57.758        69.268
+      2003       4.923           1.927             1.076               2.683          55.476        66.085
+      2004       4.906           1.883             1.239               2.753          54.812        65.593
+      2005       5.504           2.052             1.161               2.836          53.396        64.949
+      2006       5.929           2.236             1.326               2.011          51.913        63.415
+      2007       6.207           2.448             1.550               1.979          51.752        63.936
+      2008       6.686           2.627             1.735               1.996          46.908        59.952
+      2009       5.599           2.539             1.842               1.446          45.468        56.894
+      2010       5.886           2.420             1.896               1.584          46.591        58.376
+      2011       5.942           2.526             1.731               1.514          45.257        56.970
+      2012       5.468           2.638             1.693                1.427              43.821         55.047
+
+
+
+l’any 2012 la generació total de residus domèstics disminueix un 3,37% respecte de l'any anterior. d'aquesta
+manera es manté la tendència a la disminució dels residus des de l'any 2002, i deu anys després generam un
+20,53% menys de les principals fraccions de residus domèstics.
+
+d'altra banda, com es pot observar en la figura següent, mentre que la tendència de la fracció resta, és a dir
+la fracció dels residus mesclats, ha anat decreixent durant els deu darrers anys, les fraccions de recollida
+separada de residus s'ha mantingut o fins i tot s'ha incrementat.
+
+
+                           80000
+
+                           70000
+
+                           60000
+
+                           50000                                                       fraccions
+                                                                                       separades (t)
+                           40000                                                       fracció resta
+                                                                                       (t)
+                           30000
+                                                                                       generació
+                           20000                                                       total (t)
+
+                           10000
+
+                                 0
+                                 1990     1995    2000     2005    2010    2015
+
+
+                   fig.1 evolució de la fracció resta i del total de fraccions recollides separadament.
+
+
+                                                                                                                   3
+
+                                                                               gestió de residus
+
+
+
+   resum de dades de la generació total de residus 2012
+
+         tones totals generades de residus municipals: 55.047
+         % variació de tones totals generades respecte de l'any anterior: -3,37
+         tones de residus municipals separades en origen: 11.226
+         % residus municipals separats en origen respecte del total generat: 20,39%
+
+
+
+
+    3         tractament de la fracció resta
+
+   la fracció resta la constitueixen els residus domèstics barrejats, o bé la part dels nostres residus per als quals
+   no es preveu una recollida separada.
+
+   durant aquest any 2012 han arribat a l’àrea de gestió de residus de milà 43.820,89 t de fracció resta.
+   aquests residus s'han tractat a la planta de tractament mecanicobiològic, d’on s’han recuperat els materials
+   següents:
+
+          •    150,98 t de paper i cartó
+          •    31,14 t d’envasos metàl·lics
+          •    8.296 t de material bioestabilitzat
+
+   igual que la generació total de residus, la fracció resta ha disminuït un 3,17% respecte de la quantitat
+   generada l'any 2011. a continuació, detallam les quantitats de fracció resta generades als municipis de
+   menorca l’any 2012.
+
+
+                             fracció resta tractada a la planta de milà l’any 2012 (t)
+                                         es migjorn   es
+                ciutadella   ferreries                           alaior      maó       es castell   sant lluís   total
+                                            gran    mercadal
+ gener            900,88      113,38       71,10      98,04     225,46      857,33      175,22       192,86       2.634,27
+ febrer           852,42      133,32       73,78     102,50     197,32      714,30      157,18       165,86       2.396,68
+ març             958,00      124,76       67,94     147,12     245,08      851,64      180,38       214,94       2.789,86
+ abril            994,56      126,90       62,84     180,08     250,52      876,64      190,52       225,00       2.907,06
+ maig            1.432,16     178,98       98,98     259,66     352,90     1.027,30     222,78       360,82       3.933,58
+ juny            1.664,90     170,28      133,88     357,86     423,26     1.001,58     230,14       467,52       4.449,42
+ juliol          2.057,92     183,82      178,46     513,28     515,04     1.148,04     276,02       594,68       5.467,26
+ agost           2.300,16     198,14      198,38     651,34     582,56     1.271,12     289,84       685,60       6.177,14
+ setembre        1.656,78     157,32      145,22     375,14     431,98     1.044,02     225,56       475,56       4.511,58
+ octubre         1.205,04     158,24       87,96     219,02     316,72      949,52      202,70       307,68       3.446,88
+ novembre         929,44      128,30       67,46     113,72     225,58      839,96      165,78       209,26       2.679,50
+ desembre         808,14      118,88       59,58      96,06     204,22      802,32      162,52       175,94       2.427,66
+ total          15.760,40    1.792,32    1.245,58    3.113,82   3.970,64   11.383,77   2.478,64     4.075,72     43.820,89
+  generació
+ kg/habitant       1,46        1,05        2,22        0,84       1,09       1,08        0,85         1,06         1,16
+    * dia
+* el nombre d'habitants per municipi s'ha extret de la població generadora per a 2012 d'ecoembes.
+
+
+
+                                                                                                                             4
+
+                                                                                                                          gestió de residus
+
+
+ 2,5                                                                                                    7000
+
+                                                                                                        6000
+    2
+
+                                                                                                        5000
+ 1,5
+                                                                                                        4000
+
+    1                                                                                                   3000
+
+                                                                                                        2000
+ 0,5
+
+                                                                                                        1000
+    0
+                                                                                                           0
+                                                                              es castell
+                                                 es mercadal
+           ciutadella
+
+
+
+
+                                    es migjorn
+
+
+
+
+                                                                        maó
+                                                               alaior
+                        ferreries
+
+
+
+
+                                                                                           sant lluis
+
+
+
+
+                                                                                                                                                             juliol
+                                                                                                                                       abril
+
+
+
+
+                                                                                                                                                                                         octubre
+
+                                                                                                                                                                                                   novembre
+
+                                                                                                                                                                                                              desembre
+                                                                                                                                                                      agost
+                                                                                                                                               maig
+
+
+
+
+                                                                                                                                                                              setembre
+                                                                                                               gener
+
+                                                                                                                       febrer
+
+
+
+
+                                                                                                                                                      juny
+                                                                                                                                març
+        fig .2 generació municipal de fracció resta per habitant                                                        fig.3 generació mensual fracció resta (t)
+               (kg/hab*dia)
+
+
+
+el caràcter turístic de l’illa de menorca es tradueix en una major generació de residus durant els mesos de
+juliol i agost. si la mitjana mensual de fracció resta és de 3.651,74 t, durant els mesos de juliol i agost és un
+49,72% i un 69,16% superior, respectivament.
+
+
+resum de dades del tractament de la fracció resta 2012
+
+       tones tractades: 43.820,89
+       % variació de tones tractades respecte de l’any anterior: -3,17
+       tones bioestabilizades de la fracció resta (segons balanç de masses teòric): 8.295,73
+       kg/hab*dia: 1,16
+       nre. d'habitants de la població generadora (ecoembes-2012): 103.381
+       tones de compost venut: 1.038,85
+       tones de subproductes recuperats: 182,12 (paper: 150,98; acer: 31,14)
+
+
+
+
+en la figura següent representam els diferents fluxos de masses que s'obtenen del procés de tractament
+mecanicobiològic de la fracció resta.
+
+
+
+
+                                                                                                                                                                                                                         5
+
+                                                                              gestió de residus
+
+
+                                        rebuig voluminós (5.014 t)
+
+
+                                        rebuig no voluminós (20.056 t)
+entrades fracció           1a línia
+resta (45.581 t)         tractament
+                                        material bioestabilitzar (20.511 t)
+
+
+                                                                                            rebuig refinat (8.660 t)
+                                                                                2a línia
+                                                                              tractament
+                                                                                            pèrdues fermentació (3.555 t
+
+
+
+                                                                                            bioestabilitzat (8.296 t)
+
+
+
+
+                     fig. 4. balanç de masses del tractament mecanicobiològic de la fracció resta
+
+
+
+4     fraccions recollides separadament
+
+entenem per recollida separada aquella en què un flux de residus es manté per separat, segons el tipus i la
+naturalesa, per tal de facilitar-ne un tractament específic.
+
+4.1   la matèria orgànica
+
+la matèria orgànica és la fracció de residus biodegradables procedents de cuines, parcs i jardins susceptible
+de transformar-se per l’acció de microorganismes i donar lloc a una esmena orgànica anomenada compost.
+
+el compost ve definit per la llei 22/2011 com l'esmena orgànica obtinguda a partir del tractament biològic
+aerobi i termòfil de residus biodegradables recollits separadament. a més, incideix que no es considera
+compost el material orgànic obtingut de les plantes de tractament mecanicobiològic de residus mesclats,
+que es denomina material bioestabilitzat.
+
+segons la procedència de la matèria orgànica que ha arribat durant l’any 2012 a la planta de tractament
+mecanicobiològic hem obtingut les dades que reflectim en les figures que reproduïm a continuació.
+
+
+
+
+                                                                                                                        6
+
+                                                                                                                              gestió de residus
+
+
+
+
+                matèria orgànica (cuina) recollida separadament l’any 2012 (t)
+
+                                       es migjorn
+              ciutadella ferreries        gran    es mercadal                                   alaior                    maó                        es castell sant lluís   total
+gener           0,00       10,56               6,60                     14,62                    6,92                         5,86                     19,64      17,48        81,68
+febrer          0,00       8,66                5,82                     13,96                    4,24                         5,26                     11,64       8,54        58,12
+març            0,00       8,80                5,74                     19,52                    4,72                         0,00                     15,40      12,54        66,72
+abril           0,00       10,56               6,38                     23,82                    3,94                         0,00                     17,68      10,30        72,68
+maig            0,00       15,36               8,56                     23,52                   27,06                         0,00                     28,82      13,36       116,68
+juny            0,00       15,94           11,16                        17,30                   46,00                         0,00                     29,94      24,60       144,94
+juliol          0,00       16,70           15,20                        24,94                   64,74                         1,82                     40,54      41,62       205,56
+agost           0,00       19,36           17,56                        50,36                   60,66                         0,00                     42,04      42,98       232,96
+setembre        0,00       16,56           13,04                        34,92                   49,98                         0,00                     36,38      31,72       182,60
+octubre         0,00       16,30           11,40                        21,42                   31,88                         0,00                     23,90      18,22       123,12
+novembre        0,00       11,08               7,22                     15,00                   18,28                         0,00                     16,22       5,98        73,78
+desembre        0,00       9,86                6,48                     15,12                   14,56                         0,00                     15,12       7,24        68,38
+  total         0,00      159,74         115,16                         274,50                  332,98                  12,94                         297,32     234,58      1.427,22
+ generació
+kg/habitant     0,00       34,21           74,83                        26,89                   33,41                     0,45                         37,51      22,37      13,81
+   *any
+
+
+
+
+                              250
+
+
+                              200
+
+
+                              150
+
+
+                              100
+                                                                                                                                                          columna 1
+
+                                  50
+
+
+                                   0
+                                                                abril
+
+
+
+
+                                                                                       juliol
+                                                                         maig
+
+
+
+
+                                                                                                         setembre
+
+
+
+
+                                                                                                                                          desembre
+                                                                                                 agost
+
+
+                                                                                                                    octubre
+                                                                                                                               novembre
+                                       gener
+                                                febrer
+                                                         març
+
+
+
+
+                                                                                juny
+
+
+
+
+                               fig. 5. generació mensual de matèria orgànica
+
+
+
+
+                                                                                                                                                                                        7
+
+                                                                  gestió de residus
+
+
+             matèria orgànica (jardineria) recollida separadament l’any 2012 (t)
+
+                                          tones restes vegetals
+                      gener                          684,38
+                      febrer                         535,78
+                      març                           632,30
+                      abril                          552,18
+                      maig                           601,92
+                      juny                           545,38
+                      juliol                         503,99
+                      agost                          359,86
+                      setembre                       338,50
+                      octubre                        493,15
+                      novembre                       506,97
+                      desembre                       322,16
+                             total                  6.076,57
+
+
+
+
+resum de dades de la recollida separada de matèria orgànica 2012
+
+   tones recollides de matèria orgànica (cuina): 1.427,22
+   tones recollides de restes vegetals (jardineria): 6.076,57
+   tones totals recollides de matèria orgànica: 7.503,79
+   kg/hab*any: 72,58
+   nre. d'habitants de la població generadora (ecoembes-2012): 103.381
+
+
+a partir de la matèria orgànica seleccionada en origen, tant de cuina com de jardineria, es produeix un
+compost tipus a o b (rd 824/2005), les recomanacions d’ús del qual són les següents:
+
+
+          aplicació                         període                           quantitat
+hort                             2 mesos abans de plantar 4 l/m           2
+
+
+arbres fruiters                  després de la recol·lecció 5 l/m2 (gruix de 2 cm)
+arbres ornamentals               tardor                          2 cm (superfície de la copa)
+gespa                            primavera                       5 l/m2
+plantes i flors                  primavera                       2 cm de gruix
+                                                                 una part de        compost      per
+trasplantaments                                                  dues de terra
+restauració                                                      30 l/m2
+millorador de sòl                cada 2 o 3 anys                 12-18 l/m2
+
+
+
+
+                                                                                                       8
+
+                                                                        gestió de residus
+
+   4.2    el paper i el cartó
+
+  la indústria paperera espanyola és líder en reciclatge a la unió europea; recicla tot el paper usat que es
+  recupera a l'estat espanyol i, a més, importa quasi un milió de tones d'altres països.
+
+  a menorca, l'any 2012 s'ha recollit paper i cartó separadament dels contenidors de la via pública, dels
+  generadors singulars i de la recollida comercial. concretament, s'han recollit les quantitats següents:
+
+
+
+
+                            paper i cartó que s'ha recollit separadament l'any 2012 (t)
+
+                                        es migjorn   es
+                 ciutadella ferreries      gran    mercadal   alaior    maó       es castell sant lluís   total
+gener              86,75       19,47      4,11      15,33     25,94    116,00       13,48      27,53      308,60
+febrer             75,47       18,39      2,98      15,13     25,06     86,91       9,33       29,51      262,78
+març               91,66       19,82      3,91      18,27     25,62    165,08       10,55      37,62      372,52
+abril             100,90       17,65      4,43      18,79     27,18    103,45       16,97      33,64      323,00
+maig              128,75       19,77      13,11     30,71     44,03    145,66       16,14      46,39      444,54
+juny              140,77       18,40      14,12     37,60     40,53    160,78       17,43      51,92      481,56
+juliol            170,53       20,83      16,34     44,92     46,24    199,49       17,23      53,55      569,14
+agost             165,66       23,43      15,12     51,93     45,31    234,41       16,67      43,77      596,30
+setembre          124,98       18,40      14,24     30,50     30,26    165,69       16,25      36,92      437,24
+octubre           109,04       15,44      9,02      21,71     30,64    156,33       14,68      25,24      382,10
+novembre           85,87       17,62      3,02      15,50     22,70    114,19       11,42      15,92      286,22
+desembre           87,55       19,99      4,37      20,46     33,15    125,45       10,57      16,78      318,32
+  total          1.367,93     229,19     104,76    320,85     396,66   1.773,44    170,71     418,79      4.782,32
+   mitjan a
+    an u al
+con ten idors       145         29         16        69        38        93          28         46          464
+ via pú blica
+   mitjan a
+    an u al
+con ten idors       62          18         11        37        28        74          12         26          268
+ gen eradors
+  sin gu lars
+  gen eració
+kg/h abitan t*     46,25       49,08      68,07     31,43     39,81     61,21       21,44      39,94       46,26
+      an y
+
+
+
+
+                                                                                                                  9
+
+                                                                       gestió de residus
+
+
+                                           recollida comercial 2012 (t)
+
+                                     es migjorn   es
+              ciutadella ferreries      gran    mercadal    alaior     maó      es castell sant lluís   total
+gener            6,52      0,49         0,41      1,97       3,04      27,64       3,98       3,38       47,42
+febrer           5,34      0,30         0,70      1,60       2,70      32,26       3,06       2,24       48,20
+març             8,40      0,28         0,70      2,86       5,28      38,76       4,14       3,54       63,96
+abril            6,44      0,57         0,62      2,22       3,36      34,50       3,78       2,96       54,44
+maig             6,30      0,52         0,83      2,35       3,26      38,40       4,04       3,66       59,36
+juny             7,86      0,34         0,67      3,01       3,62      39,96       3,76       5,06       64,28
+juliol           7,30      0,95         0,71      3,23       3,66      40,86       5,26       4,59       66,56
+agost            7,68      0,57         1,07      4,06       4,42      41,58       4,80       6,06       70,24
+setembre         6,22      0,60         0,83      3,37       4,22      35,66       3,90       4,20       59,00
+octubre          6,82      0,47         0,70      2,52       3,74      31,86       4,30       4,02       54,42
+novembre         5,85      0,65         0,85      2,37       4,48      31,60       4,34       4,82       54,96
+desembre         4,37      0,34         0,71      2,15       3,30      25,32       3,00       3,44       42,62
+ total          79,08      6,06        8,81       31,70     45,08     418,40      48,36      47,97      685,46
+
+
+
+
+ resum de dades de la recollida selectiva de paper/cartó 2012
+
+        tones recollides separadament: 5.467,78
+        % variació respecte de l'any anterior: -7,98
+        % recollida comercial: 11,53
+        tones recuperades a milà: 150,98
+        nombre de contenidors: 732
+        kg/contenidor: 7,47
+        kg/hab*any: 52,89
+        habitants/contenidor: 141,23
+        nre. d'habitants de la població generadora (ecoembes-2012): 103.381
+
+
+
+  4.3      el vidre
+ el vidre és un material molt costós que es pot reciclar infinitament. la separació d'aquest material per al seu
+ posterior reciclatge és crucial, ja que, si no se separa en origen, esdevé molt complicat recuperar-lo de la
+ fracció resta en la planta de tractament mecanicobiològic.
+
+ en aquest sentit, a menorca estam novament d'enhorabona, ja que durant l'any 2012 se n'han recollit de
+ manera separada 2.638,30 t, la qual cosa representa un 4,43% més que l'any passat.
+
+
+
+
+                                                                                                             10
+
+                                                                        gestió de residus
+
+
+                                    vidre recollit separadament l'any 2012 (t)
+
+
+                                       es migjorn   es
+                ciutadella ferreries      gran    mercadal   alaior     maó     es castell sant lluís   total
+ gener            44,05      11,16       5,11       8,85     14,73     35,74      13,06      16,01      148,70
+ febrer           31,11      8,10        3,14       8,58     10,30     30,12       8,98       9,94      110,26
+ març             42,17      11,89       6,21      13,99     12,43     35,90      10,38      18,15      151,12
+ abril            39,28      10,50       5,21      12,30     15,47     32,22      11,51      14,60      141,08
+ maig             63,96      8,72        7,95      29,86     20,11     40,55      15,17      37,32      223,64
+ juny             84,22      10,18       9,92      33,26     30,35     43,56      15,61      41,91      269,02
+ juliol          103,09      13,08       15,14     47,61     40,57     49,53      20,95      51,37      341,34
+ agost           122,59      14,01       10,56     73,66     45,50     64,79      24,13      68,15      423,40
+ setembre         88,95      11,89       12,28     41,36     36,82     49,17      21,13      54,26      315,86
+ octubre          75,57      8,81        8,46      28,80     26,20     37,19      17,27      38,06      240,36
+ novembre         39,38      7,16        4,74      12,90     11,53     36,15      11,19      12,40      135,44
+ desembre         34,73      11,65       4,82      14,64     17,70     32,55      11,41      10,59      138,08
+    total        769,09     127,15       93,54    325,81     281,69    487,47    180,79     372,75      2.638,30
+    mitjana
+     anual
+ contenidors
+                   151        28          17        73        41         93         28         46         477
+  via pública
+    mitjana
+     anual
+ contenidors       13          7           8        12        12         17         5          5          79
+  generadors
+   singulars
+ generació
+ kg/habitant      26,00     27,23        60,78     31,92     28,27     16,83      22,71      35,55       25,52
+ *any
+
+
+
+
+resum de dades de recollida separada de vidre 2012
+
+   tones recollides separadament: 2.638,30
+   % variació respecte de l'any anterior: +4,43
+   nombre de contenidors: 556
+   kg/contenidor: 4.745,14
+   kg/hab*any: 25,52
+   habitant/contenidor: 185,94
+   nre. habitants població generadora (ecoembes-2012): 103.381
+
+4.4       els envasos lleugers
+la fracció d'envasos lleugers és la fracció de residus d'envasos de diferents materials plàstics (pet, hdpe,
+ldpe, etc.), materials metàl·lics (acer i alumini) i brics. el creixement d'aquesta fracció separada és lent, atès
+que el seu pes és poc significatiu, tot i que en volum es tracta d'una fracció considerable.
+
+l'any 2012 s'han recollit de manera separada un total de 1.692,52 t, quantitat lleugerament inferior a la de
+l'any anterior.
+
+
+
+                                                                                                                   11
+
+                                                                             gestió de residus
+
+                             envasos lleugers recollits separadament l'any 2012 (t)
+
+                                          es migjorn   es
+                ciutadella ferreries         gran    mercadal    alaior      maó     es castell sant lluís    total
+gener             33,61          9,35       2,07      5,06        17,00     32,09      7,00         8,25       114,42
+febrer            35,96          8,32       1,27      4,61        9,59      30,10      7,01         6,43       103,28
+març              34,98          9,48       1,71      5,62        12,04     30,43      8,49         8,53       111,28
+abril             35,26          8,94       2,23      7,73        12,11     31,91      7,70         9,21       115,10
+maig              42,52          10,66      4,04      9,41        16,25     37,27      9,05        11,70       140,90
+juny              48,28          11,85      4,90      12,66       16,90     40,63      11,46       19,20       165,86
+juliol            59,90          11,70      5,75      18,55       17,77     46,76      13,55       19,72       193,70
+agost             64,59          11,96      6,63      21,86       20,37     50,79      14,31       23,05       213,54
+setembre          54,19          10,81      4,52      12,84       14,30     41,21      11,68       15,56       165,12
+octubre           44,49          9,89       4,15      7,92        15,62     37,55      10,32       10,49       140,42
+novembre          36,73          9,21       1,83      5,68        7,57      29,00      6,89         8,16       105,06
+desembre          34,53          9,49       1,90      5,37        11,14     39,84      11,82        9,76       123,84
+total            525,04      121,64         41,00    117,30      170,64     447,56    119,27       150,06     1.692,52
+mitjan a
+an u al
+con ten idors      142            28         16        70          36        93            28        47         459
+via pú blica
+mitjan a
+an u al
+con ten idors      25             10          8        10          16        40            6         15         130
+gen eradors
+sin gu lars
+gen eració
+kg/h abitan t     17,75          26,05      26,64     11,49       17,12     15,45      14,98       14,31       16,37
+*dia
+
+
+
+aquestes 1.692,52 t d'envasos lleugers que s'han recollit separadament han estat preparades per al reciclatge
+a la planta de milà, amb una eficiència de recuperació del 73,95% per al 2012.
+
+                          enviaments d'envasos lleugers a reciclador l'any 2012 (t)
+
+                                                     tipus envasos
+                   hdpe n        hdpe c     alu     acer     brics        ldpe       pet        mescla      total
+  gener                             13,10                        22,22                32,94                    68,26
+  febrer                  9,00                       35,82                 21,60      25,44       11,34       103,20
+  març                                               30,96                 20,08      10,86                    61,90
+  abril                             13,70            17,02       22,52     22,68      36,50       10,06       122,48
+  maig                              26,20            33,46                 22,68      23,64                   105,98
+  juny                                               33,24       21,24     21,32      32,62       20,76       129,18
+  juliol                 11,78      12,36            32,06                 22,14      41,90                   120,24
+  agost                             12,52                        21,56     44,18      11,40       11,78       101,44
+  setembre                                           15,70                            52,08       11,14        78,92
+  octubre                12,04      13,02            47,96                 44,68      53,12                   170,82
+  novembre                          13,46            16,22       22,50                23,60       11,66        87,44
+  desembre                                           31,56                 21,98      36,40       11,78       101,72
+  total                  32,82     104,36    0,00   294,00      110,04    241,34     380,50       88,52      1.251,58
+
+
+                                                                                                                        12
+
+                                                                       gestió de residus
+
+resum de dades de la recollida separada de d'envasos lleugers 2012
+
+    tones recollides separadament: 1.692,52
+    tones enviades a reciclador: 1.251,58
+    % variació respecte de l'any anterior: -2,22
+    % eficiència de la planta: 73,95
+    nombre de contenidors: 589
+    kg/contenidor: 2.873,55
+    kg/hab*any: 16,37
+    habitant/contenidor: 175
+    nre. d'habitants de la població generadora (ecoembes-2012): 103.381
+
+
+
+ 5   el dipòsit en un abocador controlat
+el dipòsit controlat de milà ii rep, d'una banda, els rebutjos procedents de les plantes de tractament de
+residus de l'illa i, d'altra banda, altres fraccions de residus minoritàries que actualment no tenen alternativa
+de tractament a menorca.
+
+les diferents plantes de tractament de residus de l'illa que produeixen els rebutjos que acaben a l'abocador
+són les següents:
+    • planta de tractament mecanicobiològic de milà
+    • forn incinerador de residus d’origen animal i materials específics de risc
+    • plantes de tractament de residus de construcció i demolició
+    • planta de tractament de residus voluminosos
+
+a continuació adjuntam una taula en la qual recollim les diferents tipologies de residus que poden ser
+acceptats a l'abocador i comparam les quantitats entrades durant els anys 2009, 2010, 2011 i 2012.
+
+                                                       tones          tones         tones         tones
+tipus de residus entrats a abocador                  abocades       abocades       abocades       abocades
+                                                        2009          2010           2011          2012
+barreja de residus domèstics (cer 20 03 01)          34.988,00      35.006,77      34.219,07     31.329,12
+residus voluminosos (cer 20 03 07)                   5.981,00        5.339,42      5.223,25      5.013,91
+residus municipals no especificats en una altra
+                                                       0,00            0,00          0,00            0
+categoria (cer 20 03 99)
+residus sanitaris tipus ii (cer 18 01 04/18 02 03)    187,00          119,68         73,98         76,32
+restes de teixits animals (cer 02 01 02/02 02 02)     706,00          699,49        810,16        732,31
+llots de tractament d’aigües residuals urbanes
+                                                     3.305,00        3.353,60      3.150,12      3.027,38
+(cer 19 08 05)
+cendres (cer 19 01 12)                                20,00           27,90          29,75         27,96
+tones totals abocades                                45.187,00      44.546,86      43.503,16     40,207,00
+
+
+des de l'any 2009, els residus entrats a un abocador han disminuït en un 11% a causa de la reducció en la
+generació global de residus i l'increment de la valorització i l'aprofitament de les diferents fraccions.
+
+
+
+
+                                                                                                             13
+
+                                                                       gestió de residus
+
+en relació amb la taula anterior, la categoria de barreja de residus domèstics inclou a la vegada el rebuig de
+procedències diferents:
+
+    •    el rebuig no voluminós de la 1a línia de tractament de la planta de tractament mecanicobiològic de
+         residus domèstics
+    •    el rebuig del procés de compostatge de la planta de tractament mecanicobiològic de residus
+         domèstics
+    •    el rebuig de les diferents plantes de triatge (rcd, voluminosos, etc.)
+
+aquesta categoria de barreja de residus domèstics es presenta en una taula amb les quantitats corresponents
+als residus de les diferents procedències.
+
+barreja de residus municipals (cer 20 03 01)                              tones 2012
+rebuig no voluminós                                                       20.055,62
+rebuig de compostatge                                                     8.660,38
+rebuig plantes de triatge                                                 2.613,12
+total                                                                     31.329,12
+
+
+
+6       el forn incinerador
+el forn incinerador d’animals morts i materials específics de risc es construeix per tal de complir la normativa
+europea que es desplegà amb motiu de l’aparició de l’encefalopatia espongiforme transmissible (ett), més
+coneguda amb el nom de “mal de les vaques boges”.
+
+durant l’any 2012 s’han incinerat 370,23 t, un 10,56% menys que l’any anterior, com es concreta en la taula
+següent.
+
+                                relació d’animals incinerats l’any 2012
+
+                                mesos                       pes (t)
+                                gener                        37,27
+                                febrer                       37,12
+                                març                         27,52
+                                abril                        18,96
+                                maig                         21,20
+                                juny                         19,81
+                                juliol                       14,78
+                                agost                        32,63
+                                setembre                     34,98
+                                octubre                      49,81
+                                novembre                     41,43
+                                desembre                     34,72
+                                total                       370,23
+
+
+
+
+                                                                                                             14
+
+                                                                       gestió de residus
+
+finalment, cal comentar que durant el servei d’incineració prestat aquest any s’han fet els controls de qualitat
+següents:
+
+    •    control d’emissions per oca
+    •    anàlisi de cendres
+    •    certificat de manteniment anual d’instal·lacions de combustió
+
+
+
+7       xarxa de deixalleries
+les deixalleries són centres de recepció i emmagatzematge selectius de residus municipals que no són
+recollits de manera domiciliària, prevists en el pla director de residus de menorca. la xarxa de deixalleries de
+l'illa pretén complementar el desenvolupament dels sistemes de recollida de residus urbans, voluminosos i
+residus verds, i ofereix al ciutadà alternatives per al lliurament de residus urbans amb característiques de
+perillositat en petites quantitats.
+
+el passat 24 de novembre de 2011 es va signar el contracte de servei públic de gestió de la xarxa de
+deixalleries de menorca, mitjançant procediment obert i tramitació ordinària (exp. con2/2010) entre el
+consorci de residus urbans i energia de menorca i l'empresa triatges menorca, sl, que tindrà una durada de
+tres anys.
+
+durant l'any 2012, i de manera esglaonada, s'ha iniciat el servei a sis de les set instal·lacions que configuren
+la xarxa. a continuació indicam les seves adreces i l'horari d'obertura.
+
+
+
+
+municipi           adreça                           horari
+alaior             ctra. nova s/n                   dilluns, dimarts, dijous i dissabte de 7.00 a 14.00 h
+                                                    dimecres i divendres de 16.00 a 20.00 h
+es mercadal        ctra. es mercadal – es migjorn dilluns i divendres de 15.00 a 19.00 h
+                                                  dimarts, dimecres i dijous de 9.00 a 13.00 h
+                                                  dissabtes de 8.00 a 14.00 h
+es migjorn gran camí des cementiri km 1,5. dimarts, dijous i dissabte de 9.00 a 13.00 h
+                lloc de binicodró
+ferreries          c.   teulers     s/n.   polígon dilluns, dimecres i divendres de 9.00 a 13.00 h
+                   industrial                      dimarts i dijous de 15.00 a 19.00 h
+                                                   dissabtes de 8.00 a 14.00 h
+maó                ctra. general-aeroport km 0,5 de dilluns a dissabte de 8.30 a 14.00 h
+                                                 dimarts també de 15.00 a 18.00 h
+sant lluís         av.   talaiot    s/n.   polígon de dilluns a divendres de 8.30 a 14.00 h
+                   industrial                      dimarts també de 16.00 a 18.30 h
+                                                   dissabte de 8.30 a 14.30 h
+
+
+
+
+                                                                                                             15
+
+                                                                            gestió de residus
+
+  en la taula següent indicam les dades dels residus que s'han recollit a cada deixalleria durant l'any 2012.
+
+
+                                             es    es migjorn
+                         alaior ferreries mercadal    gran                        maó        st lluís       total
+residus urbans amb característiques de perillositat
+fluorescents (a5)         0,31        0,38                                                      0,13             0,82
+bateries                                                                                                         0,00
+piles                     0,10        0,14          0,06                           0,04         0,28             0,62
+cfc (a1)                  17,13      10,71          8,76            3,38          32,78        12,19            84,95
+oli mineral                           0,50                                                                       0,50
+radiografies                                                                                                     0,00
+tòners                    0,27        0,06          0,15                           0,32         0,32             1,12
+esprais                                                                           0,0003       0,0002            0,00
+pots buits pintures...                                                             0,13         3,32             3,45
+pots plens pintures                                                                0,59        154,17         154,76
+residus no perillosos
+oli vegetal               0,27        0,30                                                                       0,57
+raees (a2, a3, a4)        58,5       18,05          19,73           6,19          71,25        29,45          203,17
+rcd                       438,6      457,12        412,62           16,9          514,38       829,16       2.668,78
+fusta                    275,29      226,31        200,77           34,13         429,39       518,95       1.684,84
+altres voluminosos        26,94      23,66          20,18           0,87          26,18        40,42          138,25
+pneumàtics                                                                                                       0,00
+poda                     205,34      140,16        124,32           16,7          194,48       541,78       1.222,78
+ferralla i metalls        17,14      19,37          14,97           1,02          18,83         32,9          104,23
+residus urbans
+paper/cartó               19,31       3,52          5,25                           8,79        10,36            47,23
+vidre                     2,34        0,23                                         0,18         0,66             3,41
+envasos lleugers          4,71        0,36          0,24                           0,45         1,13             6,89
+tèxtils                   1,62        0,97          0,36                           0,99         2,07             6,01
+                                                                                            total           6.274,85
+mitjana usuaris mes       337         230            126             66            347          539           274
+
+
+  com es pot comprovar, la deixalleria que ha tingut una major afluència d'usuaris durant l'any 2012
+  ha estat la de sant lluís, amb una mitjana mensual de 539 usuaris.
+
+   8      recollides complementàries
+
+   8.1     la recollida separada de plàstics agrícoles
+  la recollida de plàstics agrícoles s'inclou dins el servei públic de recollida selectiva de l’illa de menorca.
+  aquest servei que el consorci presta a totes les finques agrícoles de menorca des de l'any 1999 té la finalitat
+  d’evitar una mala gestió d’aquests residus al camp. així, l'any 2012 s’han recollit 405,60 t de plàstics agrícoles,
+  és a dir un 9% menys que l'any passat.
+
+
+
+                                                                                                                  16
+
+                                                                        gestió de residus
+
+                                   plàstics agrícoles recollits l'any 2012 (t)
+
+                                       es         es
+             ciutadella ferreries    migjorn    mercadal      alaior     maó     es castell sant lluís total
+gener           30,38       0,00       0,00        4,16       0,00      15,32      1,84        0,00      51,70
+febrer          4,81       16,88      11,02       12,20       4,09       9,44      0,00        0,00      58,44
+març            17,20       1,78       0,00        6,19       1,46       2,81      4,42        0,00      33,86
+abril           31,94       2,30       1,08        9,02       1,66       0,00      0,00        2,94      48,94
+maig            23,42       5,78       0,00        6,75       0,81       3,90      0,00        6,18      46,84
+juny            12,62       0,00       0,00        1,64       0,77       1,31      0,00        0,00      16,34
+juliol          0,00        6,68       0,00        9,46       0,00       7,38      0,00        0,00      23,52
+agost           12,68       2,60       1,38        1,28       0,62      13,68      0,00        0,00      32,24
+setembre        16,09      11,60       1,83        2,12       4,56       0,00      0,00        0,00      36,20
+octubre         9,00        1,04       0,00        9,30       0,00       5,46      1,76        1,36      27,92
+novembre        10,00       2,33       0,00        4,06       0,00       0,00      0,00        1,73      18,12
+desembre        0,00        0,00       0,00        7,02       0,00       2,82      0,00        1,64      11,48
+total          168,14      50,99      15,31       73,20       13,97     62,11      8,02       13,85     405,60
+
+
+
+
+8.2      la recollida separada d'aparells elèctrics i electrònics
+els residus d’aparells elèctrics i electrònics recollits es classifiquen principalment en les categories següents:
+      • a1. línia blanca amb gasos refrigerants (frigorífics, congeladors, aparells d’aire condicionat…)
+      • a2. línia blanca sense gasos refrigerants (rentadores, eixugadores, rentavaixelles, cuines…)
+      • a3. tv i monitors
+      • a4. resta de raee: paee (microones, batedores, cafeteres…), aparells informàtics (ordinadors, teclats,
+         ratolins, impressores, fotocopiadores…), aparells electrònics de consum (equips de música, ràdios,
+         vídeos...), eines elèctriques (trepants, serres, tornavisos…), joguines elèctriques (consoles…),
+         instruments de vigilància i control (alarmes, detectors de fum, termòstats…)
+      • a5. làmpades: fluorescents, làmpades de vapor de mercuri…
+
+el 2012 s’han recollit 644,15 t de raee; és a dir, un 3,40% menys que l’any anterior. no obstant, complim amb
+escreix l'objectiu de recollir selectivament quatre quilograms de mitjana, per habitant i any, de residus
+d'aparells elèctrics i electrònics procedents de llars particulars, que fixa el rd 208/2005. de fet, l'any 2012
+s'han recollit 6,23 kg/hab*any.
+
+en la taula següent indicam les quantitats de raee recollits per mes i categoria durant el 2012.
+
+
+
+
+                                                                                                                 17
+
+                                                                      gestió de residus
+
+                                        raee recollits l’any 2012 (t)
+                 a1              a2             a3             a4              a5           total
+gener           17,61           8,21           19,24          16,07           0,40           61,53
+febrer          8,21            4,58           7,78            9,01           0,19           29,77
+març            16,72          11,42           16,70          15,34           0,20           60,38
+abril           10,49          10,14           9,59            8,80           0,19           39,21
+maig            15,39           8,14           9,57            8,75           0,00           41,85
+juny            19,12          11,57           15,87          12,30           0,00           58,86
+juliol          18,07           9,53           14,92           8,05           0,00           50,57
+agost           34,56          14,56           15,78          11,75           0,20           76,85
+setembre        16,40          12,34           8,96           10,51           0,13           48,34
+octubre         16,14          11,40           12,00           8,74           0,32           48,60
+novembre        20,67          18,14           14,42          18,63           0,20           72,06
+desembre        17,63          15,94           13,31           9,06           0,19           56,13
+total          211,01          135,97         158,14         137,01           2,02          644,15
+gen eració
+kg/habitan t
+*any            2,04            1,32           1,53            1,33           0,02           6,23
+
+
+
+8.3      la recollida d'olis usats d'origen vegetal
+cada dia a les nostres cuines generam un tipus de residu especial, l'oli vegetal. aquesta tipologia de residu,
+mal gestionada, porta associada multitud de problemes, com ara l'obstrucció de les canonades de ca nostra,
+avaries a les depuradores del nostre municipi i l'alteració dels ecosistemes marins. per fer-nos-en una idea,
+per cada litre d'oli abocat es contaminen 1.000 l d'aigua.
+
+a fi de posar una solució a aquesta problemàtica els ajuntaments, en el marc del consorci de residus urbans
+i energia de menorca, han contractat un nou servei de recollida i tractament d'olis vegetals emprats.
+
+la diferència principal amb l'anterior sistema de recollida d'oli vegetal és que l'oli s'ha de dipositar al
+contenidor específic embotellat en un envàs de plàstic, com ara un bòtil buit o una garrafa reutilitzada, entre
+altres. el canvi del sistema de dipòsit en contenidor ha estat motivat pel fet que és un sistema més net, que
+evita el vessament d'oli a la via pública i, a més, resulta més còmode per als usuaris. amb tot plegat volem
+promoure l'ús d'aquest servei a fi d'incrementar la quantitat d'oli que es recicla a l'illa de menorca, amb les
+conseqüències positives que això comporta.
+
+
+
+
+                                                                                                            18
+
+                                                                         gestió de residus
+
+així doncs, el 29 de desembre de 2011 es va adjudicar el contracte de gestió del servei públic de recollida i
+tractament d'olis vegetals usats a l'illa de menorca a l'empresa ingeni medi ambient i el dia 2 d'abril de
+2012 va començar el nou servei.
+
+segons les dades facilitades per l’empresa concessionària, les quantitats recollides l’any 2012 han estat les
+següents:
+
+                              oli vegetal recollit separadament l’any 2012 (t)
+
+
+                                       es migjorn   es
+                ciutadella ferreries      gran    mercadal    alaior    maó       es castell sant lluís   total
+gener
+febrer
+març
+abril                0,22       0,22        0,03       0,10      0,07      0,63         0,20       0,17     1,640
+maig                 0,27       0,23        0,10       0,19      0,08      0,68         0,18       0,19     1,920
+juny                 0,21       0,14        0,06       0,11      0,08      0,66         0,19       0,14     1,590
+juliol               0,24       0,10        0,12       0,14      0,07      0,74         0,27       0,18     1,860
+agost                0,21       0,20        0,13       0,11      0,08      1,03         0,26       0,29     2,310
+setembre             0,25       0,20        0,11       0,09      0,07      0,76         0,19       0,19     1,860
+octubre              0,28       0,22        0,12       0,20      0,10      0,85         0,22       0,26     2,250
+novembre             0,19       0,19        0,05       0,11      0,09      0,71         0,13       0,18     1,650
+desembre             0,25       0,16        0,05       0,05      0,06      0,75         0,13       0,13     1,580
+total                2,11       1,66        0,77       1,10      0,70     6,81          1,77      1,73      16,65
+gen eració
+kg/h abitan t
+*an y           0,0713        0,3555      0,5003     0,1078   0,0702    0,2351       0,2223     0,1650     0,1611
+font: ingeni medi ambient
+
+cal comentar que les dades d'aquest any no són comparables a les d'exercicis anteriors, atès que manquen
+les dades del primer trimestre i, a més, només inclouen les de l'oli vegetal recollit mitjançant els contenidors
+ubicats a la via pública, mentre que en anys anteriors també s'imputaven les quantitats recollides en grans
+generadors.
+
+
+
+ 9 estat d'assoliment dels objectius que estableix la llei
+22/2011, de 28 de juliol, de residus i sòls contaminats
+
+la llei 22/2011, de 28 de juliol, de residus i sòls contaminats, en el punt 1.a de l'article 22, objectius
+específics de preparació per a la reutilització, el reciclatge i la valorització, recull com a objectiu per complir
+abans de 2020 que les fraccions de paper, vidre, plàstic, metall, bioresidus o altres fraccions reciclables han
+d'arribar, en conjunt, a un mínim del 50% en pes del total dels residus domèstics generats.
+
+per tal d'esbrinar quin és el percentatge actual aproximat dels residus que es preparen per a la reutilització, el
+reciclatge i la valorització a menorca, hem elaborat la taula que reproduïm a continuació.
+
+
+
+
+                                                                                                                19
+
+                                                                           gestió de residus
+
+
+               fraccions        sistema de recollida              quantitat (t)             %
+                                     separada
+             paper i cartó        àrees d'aportació i                 5.468                22,9
+                                  recollida comercial
+             vidre                àrees d'aportació                   2.638               11,05
+             envasos              àrees d'aportació                   1.693                7,09
+             lleugers
+             matèria              àrees d'aportació                   1.427                5,98
+             orgànica
+             restes            emmagatzematge a les                   6.076               25,45
+             vegetals           instal·lacions de milà
+             (poda)
+             raee, fusta,       deixalleries municipals               6.219               26,05
+             voluminosos,
+             rcd, etc.
+             raee                operador sig raee                     355                 1,49
+             ciutadella i es
+             castell
+             total                                                    23.876               100
+
+si, a les 23.876 tones de residus recollides separadament, hi afegim les 43.821 tones de fracció resta, obtenim
+una generació total de residus domèstics de 67.697 tones. d'aquest total, l'any 2012 se n'han recollit
+separadament un 35,23%.
+
+això implica que ens resten vuit anys per incrementar, com a mínim, un 15% les recollides separades de les
+diferents fraccions de residus per tal de complir amb l'objectiu que marca la llei 22/2011.
+
+ 10obres de la fase i d'ampliació de l'abocador de residus no
+perillosos de milà ii
+milà ii és l'únic abocador en actiu de residus no perillosos que hi ha a l'illa de menorca. aquest abocador,
+que rep el rebuig de les plantes de tractament de residus de l'illa i els residus que actualment no poden ser
+valoritzats, està arribant a la fi de la seva vida útil, per la qual cosa es va plantejar la necessitat d'ampliar-lo a
+fi de disposar d'un sistema de tractament finalista, ja que la generació de residus és constant i l'abocament
+zero encara és una utopia.
+
+en aquesta situació, la junta de govern del consorci de residus urbans i energia de menorca, en la reunió de
+dia 29 de desembre de 2011, va aprovar l'expedient de contractació i licitació de les obres de la fase i
+d'ampliació de l'abocador de residus no perillosos de milà ii.
+
+concretament, aquestes obres consisteixen a ampliar l'abocador en un àrea total de 36,987 m2 dintre de la
+qual es preveu construir, no només el vas d'abocament, sinó totes aquelles instal·lacions necessàries per
+minimitzar les possibles afeccions a la salut humana i al medi ambient, amb especial atenció a la protecció de
+les aigües, el sòl i l'atmosfera.
+
+
+                                                                                                                   20
+
+                                                                         gestió de residus
+
+
+l'inici efectiu de les obres va ser el 24 d'octubre de l'any 2012 i el termini d'execució previst era de 7 mesos.
+
+el 17 de setembre de 2012 s'adjudicà el contracte a favor de l'empresa antonio gomila, sa, per un import
+de dos milions dos-cents seixanta-quatre mil cinc-cents euros (2.264.500,00 €) més l'iva
+corresponent, d'acord amb l'oferta presentada i amb els plecs de clàusules administratives i de prescripcions
+tècniques.
+
+de l'import d'adjudicació, quasi 2.000.000 d'euros provenen del programa operatiu de fons de cohesió-
+feder 2007-2013, la qual cosa representa una empenta important a l'economia de l'illa.
+
+
+
+
+                                                                                                                21
+
+                                                                           sensibilització
+
+
+11 sensibilització
+
+
+11.1 modernitza't, recicla!
+l'any 2012 es considerà que havia arribat el moment de fer una passa més cap a la modernitat. per això,
+l'eslògan de la principal campanya de comunicació d'aquest any va ser «modernitza't, recicla!».
+
+
+
+
+mitjançant l'esmentada campanya el consorci de residus urbans i energia de menorca ha volgut fer arribar a
+tot arreu el missatge de sempre, més important que mai: redueix, reutilitza i recicla els envasos, perquè el
+present dels teus envasos és el futur de menorca.
+l'estratègia de mitjans utilitzada s'ha basat en tres eixos fonamentals: publicitat exterior, a través de catorze
+tanques publicitàries col·locades durant un mes; publicitat en premsa, mitjançant catorze insercions en els
+diaris locals; i actuacions al carrer, concentrades durant la gran festa del reciclatge que es va celebrar l'1 de
+març, entre les 10 i les 14 h, a ferreries.
+
+
+
+
+                                                                                                              22
+
+                                                                            sensibilització
+
+
+la festa, com a acte central de la campanya, va comptar amb la cercavila dels residus, amb personatges de
+la residual (equilibristes, músics, titelles, etc.) acompanyats pels gegants de llucmaçanes, l'avi perico i s'àvia
+aguedet; el parc dels ecojocs, consistent en trenta-tres jocs de taula construïts a partir de materials
+reutilitzats, on petits i grans van poder compartir el seu temps de lleure; i el mercat reciclat, on es mostren
+peces d'artesania construïdes a partir de materials reutilitzats i reciclats.
+per promocionar la festa es van editar 1.000 cartells promocionals, 20.000 fulls informatius, 1.050 agulles
+coorporatives i 1 display amb la imatge de la campanya.
+
+
+
+
+el cost total de la campanya va ser de 30.289 € i es finançà íntegrament amb fons específics de comunicació
+d'ecoembes i ecovidrio.
+
+
+
+11.2 per nadal també recicla, com nosaltres!
+
+
+des del 15 de desembre al 7 de gener, el consorci de residus urbans i energia de menorca va portar a terme
+una campanya per sensibilitzar tots els infants i, sobretot, els no tan fillets de la importància de reduir,
+reutilitzar i reciclar també durant les festes de nadal, en què generam tants de residus.
+
+a partir de l'eslògan «per nadal també recicla, com nosaltres!» s'ha volgut involucrar tota la població en una
+mateixa causa i per això s'ha comptat amb l'ajut d'uns personatges molt especials: el pare noel i els reis
+d'orient, que també reciclen!, i ens han animat a participar-hi.
+
+
+
+
+                                                                                                               23
+
+                                                                          sensibilització
+
+per difondre la campanya es van distribuir entre més de cinc-cents comerços de tot menorca 40.000 adhesius
+molt divertits amb una doble utilitat: difondre la campanya i que els clients poguessin emprar-los per
+escriure el nom de la persona a qui anava dirigit el regal que compraven. paral·lelament, es van instal·lar 110
+vinils amb la imatge de la campanya al paviment dels principals carrers comercials de totes les poblacions de
+l'illa i es van inserir anuncis a la premsa i a la ràdio.
+
+
+
+
+per arrodonir la campanya, també es van incloure dues accions de carrer. per una banda, a través d'una de les
+carrosses de la colcada de cada poble es va recordar a tots els assistents que els residus generats s'han de
+reciclar. i, com a final de campanya, dia 7 de gener se celebrà as migjorn gran la colcada de reis pel
+reciclatge. a partir de les 19 h, els reis d'orient passejaren pels principals carrers de la localitat amb els
+camions de reciclatge i recolliren tots els envasos, les capses i el paper de regal que les famílies havien
+guardat del dia abans.
+
+per desenvolupar totes les accions es va comptar amb la col·laboració dels ajuntaments de menorca, de totes
+les associacions de comerciants i de l'empresa contratas y proyectos medioambientales menorca.
+
+la campanya va tenir un cost de 14.995 € i es finançà íntegrament amb fons específics de comunicació
+d'ecoembes i ecovidrio.
+
+
+
+
+                                                                                                            24
+
+                                                                                                energia
+
+
+12 energia
+
+
+12.1 operació del parc eòlic de milà
+
+
+12.1.1               energia generada
+el 2012 ha estat un any extraordinari per al parc eòlic de milà, en molts aspectes. ha estat un any molt ventós
+i, gràcies a les actuacions de millora que s'hi van dur a terme en anys anteriors, molt profitós en termes
+energètics. s'ha batut el rècord anual de generació eòlica, que queda establert en 6.463 mwh, i s'han superat
+per primer cop les 2.020 hores de funcionament anual. aquest fet, importantíssim, es fonamenta en dos
+factors bàsics:
+
+    •     la disponibilitat del recurs eòlic ha estat molt bona, amb una mitjana de vent de 5,72 m/s, la més
+          alta enregistrada fins ara.
+    •     hi ha hagut una reducció molt significativa de les hores d'indisponibilitat del parc eòlic, ja que s'ha
+          reduït el nombre d'incidències en el parc i, sobretot, el seu temps de durada.
+
+                                                      energia (kwh)
+
+         7.000.000
+         6.000.000
+         5.000.000
+         4.000.000
+         3.000.000
+         2.000.000
+         1.000.000
+                0
+                       2004      2005      2006      2007      2008     2009       2010     2011       2012
+
+                                                  fig. 6. energia anual generada
+
+
+
+                                                  vent mitjà (m/s)
+
+        6,00
+        5,80
+        5,60
+        5,40
+        5,20
+        5,00
+        4,80
+        4,60
+        4,40
+
+                              fig. 7. velocitat mitjana anual del vent a milà (a 45 metres d'alçada)
+
+
+
+
+                                                                                                              25
+
+  de tot l'any, destaca per mèrits propis el mes de febrer, amb una generació mensual superior als 1.088 mwh,
+  rècord absolut de generació del parc, amb un vent mitjà de 9,9 m/s.
+
+
+
+
+1200000
+                                                                                                                                                                                    2012
+1000000                                                                                                                                                                             mitjana
+                                                                                                                                                                                    màxima
+800000                                                                                                                                                                              mínima
+600000
+
+400000
+
+200000
+
+       0
+                                                           r il
+
+
+
+
+                                                                                                   l
+
+
+
+
+                                                                                                                                          br e
+
+
+
+                                                                                                                                                        br e
+                                                                                                                t
+                                                                         ig
+
+
+
+
+                                                                                                                              re
+
+
+
+
+                                                                                                                                                                      br e
+                er
+
+
+
+                              r er
+
+
+
+                                            rç
+
+
+
+
+                                                                                     y
+
+
+                                                                                                  lio
+
+
+
+                                                                                                               os
+                                                                                       n
+                                                      ab
+
+
+
+                                                                      ma
+               n
+
+
+
+
+                                         ma
+
+
+
+
+                                                                                                                           mb
+                                                                                    ju
+
+
+
+                                                                                               ju
+                               b
+
+
+
+
+                                                                                                                                                      em
+                                                                                                               ag
+
+
+
+
+                                                                                                                                                                    em
+                                                                                                                                        tu
+            ge
+
+
+
+                            fe
+
+
+
+
+                                                                                                                            te
+
+
+                                                                                                                                     oc
+
+
+
+                                                                                                                                                       v
+
+
+
+                                                                                                                                                                     s
+                                                                                                                         se
+
+
+
+
+                                                                                                                                                    no
+
+
+
+                                                                                                                                                                  de
+                                                       fig. 8. energia mensual entregada a la xarxa en kwh
+
+
+
+
+  12
+                                                                                                                                                                             2012
+                                                                                                                                                                             mitjana històrica
+  10                                                                                                                                                                         màxims
+                                                                                                                                                                             mínims
+   8
+
+
+   6
+
+
+   4
+
+
+   2
+
+
+   0
+                                                    r il
+
+
+
+
+                                                                                             l
+                                                                     ig
+
+
+
+
+                                                                                                                                                   br e
+
+
+
+                                                                                                                                                                 br e
+                                                                                                          st
+
+
+                                                                                                                       br e
+
+
+
+                                                                                                                                   br e
+           er
+
+
+
+                      r er
+
+
+
+                                        rç
+
+
+
+
+                                                                               y
+
+
+
+                                                                                               o
+                                                                              jun
+
+
+
+                                                                                           juli
+                                                 ab
+
+
+
+                                                                  ma
+
+
+
+
+                                                                                                           o
+          n
+
+
+
+
+                                     ma
+                     f eb
+
+
+
+
+                                                                                                                                                 em
+
+
+
+                                                                                                                                                               em
+                                                                                                        ag
+
+
+                                                                                                                    tem
+       ge
+
+
+
+
+                                                                                                                                    tu
+                                                                                                                                 oc
+
+
+
+                                                                                                                                                v
+
+
+
+                                                                                                                                                              s
+                                                                                                                    se
+
+
+
+
+                                                                                                                                             no
+
+
+
+                                                                                                                                                           de
+
+
+
+
+                                                                          fig. 9. velocitat del vent en m/s
+
+
+
+
+                                                                                                                                                                                      26
+
+                                                                                    energia
+
+
+per mesos, la generació d'energia ha quedat distribuïda de la forma següent:
+
+                                             producció d'energia             facturació
+                          mesos
+                                                   (kwh)                        (€)
+                 gener                            478.962                    37.106,49
+                 febrer                          1.088.811                   84.844,44
+                 març                             552.559                    42.218,04
+                 abril                            565.710                    43.558,10
+                 maig                             371.596                    28.816,31
+                 juny                             357.498                    27.279,55
+                 juliol                           425.097                    33.050,65
+                 agost                            258.147                    20.047,91
+                 setembre                         663.179                    51.633,54
+                 octubre                          420.629                    32.486,23
+                 novembre                         535.223                    41.701,14
+                 desembre                         745.668                    58.393,90
+                 acumulada                       6.463.079                  501.136,30
+
+                 mitjana mensual         539 mwh/mes
+                 mitjana històrica       5.359 mwh/any
+
+tot seguit mostram el registre històric de màximes diàries de generació:
+
+                                          producció
+                                                           hores           factor de
+                             data         d'energia
+                                                         equivalents       capacitat
+                                           (mwh)
+                          01/02/11          74,50           23,28           97,0%
+                          08/12/05          73,21           22,88           95,3%
+                          12/11/12          71,05           22,20           92,5%
+                          27/01/07          69,20           21,63           90,1%
+                          08/02/12          68,60           21,44           89,3%
+                          02/09/12          68,57           21,43           89,3%
+                          26/12/10          65,39           20,43           85,1%
+                          10/04/08          65,38           20,43           85,1%
+                          21/01/11          65,33           20,42           85,1%
+                          26/11/07          65,02           20,32           84,7%
+
+
+
+
+12.1.2          incidents i pèrdues de generació
+
+un dels factors fonamentals en l'extraordinària generació d'aquest any és conseqüència de la reforma del
+sistema de protecció general del parc que es va dur a terme durant l'any 2011 en el seu punt de connexió a
+la xarxa de distribució elèctrica de mitjana tensió. des de la seva instal·lació, s'ha observat una disminució
+molt important dels temps de desconnexió, que s'han reduït de forma considerable. així, mentre de l'any
+2005 al 2010 cada incident implicava una desconnexió del parc per un període mitjà d'unes 4 hores, ara les
+desconnexions duren 2 o 3 minuts.
+
+
+
+                                                                                                           27
+
+                                                                                                    energia
+
+                                                    temps mitjà d'incidència
+                 38:24:00
+
+                 33:36:00
+
+                 28:48:00
+
+                 24:00:00
+        hores
+
+
+
+
+                 19:12:00
+
+                 14:24:00
+
+                 09:36:00
+
+                 04:48:00
+
+                 00:00:00
+
+
+                               fig. 10. evolució del temps mitjà de durada de les incidències (en hores)
+
+
+això repercuteix en un augment de les hores de generació i també en una disminució important de les
+avaries associades a les desconnexions intempestives, ja que en recuperar-se més ràpidament la tensió en les
+màquines s'eviten les condensacions per refredament, origen de molts dels problemes en els circuits de
+potència dels aerogeneradors.
+
+
+
+                                                                                          nre.
+                 tipus                            descripció                                               hores
+                                                                                       incidents
+                fr          disparament tipus 162 cf fall xarxa                                42            01:24:27
+                tb          disparament tipus 21 tensió baixa                                   0
+                vcc         disparament tipus 163 cf fall vcc                                   0
+                ma          disparament tensió molt alta                                        2            00:02:16
+                op          operacions de manteniment i restriccions                            1            06:54:56
+                total                                                                          45           08:21:39
+
+
+
+                disparaments                         44 actuació de proteccions
+                indisponibilitats                      0 revisions i manteniment dmt o cmm
+                limitacions                            1 problemes mecànics i correctius
+                origen generació                       1 causes internes del parc eòlic
+                origen xarxa                         44 causes externes
+
+
+
+cal destacar una disminució important del nombre d'incidències i del seu temps de durada. els
+esdeveniments que provoquen l'actuació de les proteccions automàtiques són, des de l'entrada en servei del
+nou relé de protecció, de curta durada gràcies a la reconnexió automàtica de la instal·lació al cap de pocs
+minuts de l'incident.
+
+
+
+
+                                                                                                                        28
+
+                                                                                              energia
+
+
+                                                        incidències
+
+ 120
+
+ 100
+
+  80
+
+  60
+
+  40
+
+  20
+
+   0
+    2005          2006            2007           2008                 2009          2010        2011    2012
+
+                                         fig. 11. evolució de les incidències
+
+
+
+la disponibilitat del parc ha estat del 90,50% i es deriva de dos components:
+
+    •   disponibilitat del set (conjunt format pel centre de maniobres i la xarxa d'evacuació d'energia), que
+        ha estat del 99,90%.
+    •   disponibilitat dels aerogeneradors, situada en el 90,40%.
+
+la disponibilitat dels aerogeneradors es veu afectada per les incidències en el set, atès que la desconnexió
+de la xarxa pot causar avaries en les màquines per aturades brusques o per les sobretensions transitòries que
+poden aparèixer en els instants inicials de les faltes i reconnexions.
+
+el nombre d'incidents ha estat similar al de l'any 2011, mentre que el temps de desconnexió acumulada ha
+disminuït de forma molt sensible i s'ha situat per sota de les 10 hores.
+
+
+
+ 720:00:00
+
+ 600:00:00
+
+ 480:00:00
+
+ 360:00:00
+
+ 240:00:00
+
+ 120:00:00
+
+   0:00:00
+               2005        2006          2007            2008                2009      2010      2011   2012
+
+
+                               fig. 12. evolució del temps de desconnexió (en hores)
+
+
+
+
+                                                                                                               29
+
+                                                                                            energia
+
+quant a l'evolució de la disponibilitat del parc, es manté en valors similars als de l'any anterior.
+
+
+
+         100%
+
+          95%
+
+          90%
+
+          85%
+
+          80%
+
+          75%
+                    2005        2006           2007           2008          2009         2010      2011   2012
+                                       fig. 13 evolució de la disponibilitat del parc
+
+
+
+
+12.1.3           reducció d'emissions de contaminants a l'atmosfera
+
+la característica més important de les instal·lacions de generació d'energia elèctrica amb fonts renovables
+consisteix en la reducció d'emissions de gasos i altres contaminants que van associats a la generació
+convencional. en el cas concret del sistema elèctric mallorca-menorca, on la base de generació elèctrica
+depèn del carbó gairebé en un 60%, ens trobam amb uns alts nivells d'emissió de gasos contaminants,
+principalment co2, nox i so2.
+
+la generació del parc eòlic de milà durant l'any 2012 ha permès evitar l'emissió dels contaminats següents
+per tones:
+
+
+
+                  any 2012                  co2                so2                 nox          cendres
+           1r trimestre                    1.946                27                  15           157
+           2n trimestre                    1.189                17                   9            96
+           3r trimestre                    1.236                17                   9           100
+           4r trimestre                    1.562                22                  12           126
+                    total                  5.933                83                  46           478
+
+s'estima que el parc pot arribar a evitar l'emissió de 6.000 tones de co2/any.
+
+
+
+
+                                                                                                                 30
+
+                                                                                    energia
+
+
+12.2 generació i consum d'energia elèctrica a menorca
+
+
+12.2.1          incidència de la generació d'energia elèctrica d'origen renovable a menorca
+
+el mix elèctric de menorca durant l'any 2012, igual que en anys anteriors, depèn bàsicament dels
+combustibles fòssils. en el gràfic adjunt es mostra la distribució percentual de la generació d'electricitat a la
+nostra illa.
+
+
+                                         mix elèctric de menorca 2012                       grups fuel
+                                                                                            tg gasoil
+                                                                                            eòlica
+                                                                                            fotovoltaica
+                                          14,16%                                            enllaç mallorca
+                        1,30%
+                                1,55%
+
+
+
+
+                                                                                   50,83%
+
+
+                      32,16%
+
+
+
+
+                                          fig. 14. mix elèctric de menorca
+
+
+
+es pot observar que la generació d'energia renovable, fotovoltaica i eòlica, representa el 2,85% del total
+consumit a l'illa, un valor que s'ha incrementat molt poc en els darrers quatre anys, en consonància amb la
+manca d'inversió en noves infraestructures energètiques.
+
+
+                                                                                 energia
+                                origen                        tipus
+                                                                                  (gwh)
+                                                   tèrmica fuel                         253,2
+                  ct de maó
+                                                   tèrmica gasoil                       160,2
+                  pe milà                          renovable (eòlica)                     6,5
+                  pf son salamó i
+                                               renovable (fotovoltaica)                     7,7
+                  pf binissafúller
+                  importacions des de mallorca cable submarí                             70,5
+                                          total                                         498,0
+
+
+
+
+                                                                                                              31
+
+                                                                                                          energia
+
+
+     en la taula i la gràfica següents reflectim l'evolució de la demanda i origen de l'energia elèctrica consumida a
+     l'illa els darrers dotze anys.
+
+
+      origen        2000      2001       2002      2003      2004      2005      2006      2007      2008      2009      2010      2011      2012
+central maó         183,08    199,89     214,93    250,21    275,22    344,32    393,64    427,72    443,65     435,48    441,26    425,86    413,34
+renovables             0,00      0,00       0,20      0,23      4,09      5,89      5,36      6,55      9,19     12,70     13,67     16,03     14,18
+enllaç mallorca     196,05    207,97     221,99    207,54    197,28    156,35    118,77      96,95   105,31      99,98     88,33     81,37     70,52
+      total (gwh)   379,13    407,85     437,12    457,99    476,59    506,56    517,77    531,22    558,15     548,16    543,26    523,25    498,04
+                     0,00%     7,58%      7,18%     4,77%     4,06%     6,29%     2,21%     2,60%     5,07%    -1,79%    -0,89%    -3,68%    -4,82%
+
+
+
+                              energía elèctrica consumida a menorca segons origen (dades en gwh)
+
+600,00
+
+500,00
+
+400,00
+
+300,00
+
+200,00
+
+100,00
+
+  0,00
+                                             central maó         renovables         enllaç mallorca
+
+
+                                        fig. 15. energia elèctrica consumida a menorca segons origen
+
+
+
+     es manté la tendència al descens de la intensitat energètica, amb una forta davallada en la demanda, que ha
+     estat d'un -4,82% respecte de l'any anterior. per primer cop, a menorca se succeeixen quatre anys de
+     tendència negativa, en consonància amb la forta recessió econòmica que patim.
+
+
+
+
+                                                                                                                                        32
+
+                                                                            gestió econòmica
+
+
+13 gestió econòmica
+la gestió econòmica del consorci s’organitza mitjançant un pressupost anual, la liquidació provisional per a
+l’exercici 2012 del qual presenta les dades següents:
+
+ ingressos                                                   despeses
+                                              cap.1          personal                          186.049,90
+                                              cap.2          béns corrents                   3.712.606,82
+ taxes i altres                    596.112,49 cap.3          financeres                         55.441,98
+ transf. corrents                4.150.574,67 cap.4          transf.corrents
+ ingr. patrimonials                 99.555,21
+                                              cap.6          inversions                        186.199,61
+ transf. capital                   230.000,00 cap.7          transf. capital                         0,00
+ actius financers                        0,00 cap.8          actius financers                        0,00
+ passius financers                       0,00 cap.9          passius financers                 624.843,92
+                                 5.076.242,37                                                4.765.142,23
+
+
+
+seguidament detallam el balanç provisional a 31 de desembre de 2012, abans de practicar els corresponents
+ajusts.
+
+
+a) immobilitzat                            4.977.177,51   a) fons propis                           5.019.626,97
+i) inversions destinades a l'ús general       48.660,03   i)patrimoni                              3.846.660,50
+ii) immobilitzacions immaterials                  24,58   iii) resultats d'exercicis anteriors        50.822,80
+iii) immobilitzacions materials            4.486.757,96   iv) resultats de l'exercici              1.122.143,67
+iv) inversions gestionades                   441.720,80
+vi) inversions financeres permanents              14,14   c) creditors a llarg termini             2.708.805,16
+                                                          i) altres deutes a llarg termini         2.708.805,16
+c) actiu circulant                         5.944.545,87
+ii) deutors                                5.071.302,13   d) creditors a curt termini              3.193.291,25
+iii) inversions financeres temporals           1.621,52   i) altres deutes a curt termini              8.166,79
+iv) tresoreria                               871.622,22   ii) creditors                            3.185.124,46
+
+total general                             10.921.723,38   total general                          10.921.723,38
+
+
+
+
+                                                                                                                  33
+
+                                    responsabilitat social empresarial
+
+
+ 14 responsabilitat social empresarial
+
+
+a continuació es descriuen breument algunes de les actuacions del consorci en matèria de responsabilitat
+social empresarial. aquest contingut es pot ampliar a través de la memòria biennal de sostenibilitat que es
+pot trobar a la pàgina web del consorci.
+
+la gestió que el consorci fa dels seus recursos es caracteritza pels punts següents, en funció de l’àmbit
+d’aplicació:
+
+
+
+14.1 àmbit econòmic
+
+
+a) ús dels recursos del territori
+
+els serveis que són competència del consorci es gestionen, actualment, mitjançant empreses locals, com ara
+juan mora, sa; contratas y proyectos medioambientales menorca, sl; ingeni medi ambient, i triatges
+menorca, sl.
+
+b) gestió empresarial
+
+les principals eines de gestió del consorci són:
+    • estatuts
+    • pla director sectorial
+    • pressupost
+
+la gestió empresarial del consorci té com a eix estratègic i normatiu el pla director sectorial per a la gestió
+de residus no perillosos de l’illa de menorca.
+
+una altra eina de gestió per al consorci són els seus estatuts, en els quals es defineix concretament quin és el
+seu objecte principal.
+
+d’altra banda, la junta de govern aprova el pressupost anual del consorci, en el qual es preveuen les
+actuacions que es desenvoluparan durant l’exercici.
+
+c)   màrqueting responsable
+
+el consorci persegueix un trasllat d’informació transparent; és per això que cada any publica la seva memòria
+anual, en la qual es recullen totes les dades referents a la gestió realitzada per l’entitat.
+
+d) d’altra banda, la nostra pàgina web es va actualitzant per tal de difondre les actuacions portades a terme
+   i les dades referents a la gestió dels residus a l’illa de menorca, a més de rebre suggeriments i
+   observacions.
+
+
+
+
+                                                                                                             34
+
+                                 responsabilitat social empresarial
+
+14.2 àmbit ambiental
+
+
+el consorci utilitza com a centre de treball les instal·lacions de la seu a maó, de manera que segueix les
+mateixes polítiques mediambientals que aquesta entitat aplica al seu centre.
+
+a) gestió de l’aigua
+
+com a sistema d’estalvi d’aigua es disposa de cisternes de doble descàrrega i aixeta de tancament automàtic.
+
+b) residus
+
+la jerarquia de principis aplicada a la gestió dels residus es fonamenta en la reducció, la reutilització i el
+reciclatge, així com en la responsabilització de cadascú de gestionar correctament els residus generats.
+
+cadascun dels treballadors disposa, al seu lloc de feina, de papereres compartimentades per tal de poder
+seleccionar els residus generats a la feina.
+
+d’altra banda, s’han instal·lat noves impressores i fotocopiadores que estalvien paper, tintes d’impressió i
+energia.
+
+a més, des d'aquest any es compta amb fonts d'aigua a diferents punts de l'edifici, de manera que es redueix
+la generació de bòtils i garrafes d'aigua.
+
+c) gestió de l’energia
+
+a més d’emprar làmpades de baix consum per a la il·luminació del centre, també s’ha tramès una circular a
+tot el personal treballador perquè adopti bons hàbits d’ús, com ara apagar els aparells elèctrics en acabar la
+feina i els monitors dels ordinadors quan no es facin servir
+
+
+
+14.3 àmbit social
+
+
+a) grups d’interès
+
+el consorci està format pels vuit ajuntaments de l’illa i el consell insular, per la qual cosa hi ha una estreta
+col·laboració entre les diferents administracions. les sessions de les juntes de govern del consorci, que tenen
+lloc mensualment, són l’escenari d’interacció entre aquestes administracions.
+
+a més a més, les agendes locals 21 de cadascun dels municipis actuen com a eina de connexió amb els
+ciutadans i ciutadanes.
+
+d’altra banda, el consorci estableix convenis o altres formes de relació formal amb organitzacions sense ànim
+de lucre.
+
+b) condicions sociolaborals
+
+el consorci gaudeix de les mateixes condicions sociolaborals que el consell insular de menorca:
+
+
+
+                                                                                                             35
+
+                                 responsabilitat social empresarial
+
+    •   flexibilitat horària per entrar i sortir de la feina, complint la jornada laboral.
+    •   permís de maternitat de 18 setmanes.
+    •   reducció d’1/3 de la jornada durant el primer any de vida dels fills, sense reducció de salari.
+    •   ajudes econòmiques als treballadors i les treballadores per natalitat, estudis i de tipus mèdic
+        (dentista, òptica, etc.).
+
+c) formació
+
+el personal del consorci té a la seva disposició el pla de formació contínua del consell insular de menorca.
+
+d’altra banda, els treballadors poden optar a cursos de formació específics i jornades o conferències
+organitzades per altres entitats, per tal d’assegurar la competència adequada del personal.
+
+d) cooperació interempresarial
+
+el consorci fomenta les relacions amb les empreses i altres organismes del sector. així, avui per avui es
+disposa de convenis de col·laboració amb els sistemes integrats de gestió dels aparells elèctrics i electrònics,
+amb ecoembes i ecovidrio.
+
+a més, el consorci assessora empreses vinculades amb la gestió de residus i hi col·labora, com ara empreses
+que gestionen residus de construcció i demolició o centres de descontaminació de vehicles, entre altres.
+
+
+
+
+                                                                                                             36

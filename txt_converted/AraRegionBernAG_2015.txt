@@ -1,0 +1,1276 @@
+nachhaltigkeits-
+bericht
+2014
+ara region bern ag
+
+    nachhaltigkeitskennzahlen auf einen blick
+
+    nachhaltigkeitsindikator                               einheit                   2012         2013         2014    ∆‘13–‘14
+    ökonomische kennzahlen
+    angeschlossene einwohner                               anzahl                 215’285      216’421      217‘440       0,5%
+    belastung in einwohnerwerten                           ew                     390’000      370’000      315‘000    –14,9%
+    behandelte abwassermenge aus dem rohzulauf             m3                   34’692’271   37’069’326   35‘840‘334     –3,3%
+    anzahl betriebstage                                    anzahl                     366          365          365       0,0%
+    anzahl tage mit nennenswerter beeinträchtigung
+    der reinigungsleistung                                 anzahl                       0            0            0       0,0%
+    kosten pro angeschlossenen einwohnerwert               chf/(ew·a)                 34.9       35.36        43.45      22,9%
+    investiertes kapital pro einwohner                     chf/e                     1’151        1’142        1‘147      0,4%
+    ökologische kennzahlen
+    angelieferte biomasse                                  kg                   31’413’000   31’538’000   33‘915‘290      7,5%
+    energieverbrauch wärme                                 kwh                   6’017’900   17’251’775   18‘853‘813      9,3%
+    eigenproduktion biogas                                 kwh                  43’598’838   45’457’704   49‘861‘589      9,7%
+    treibstoffverbrauch geschäftsfahrzeuge                 kwh                    40’111,6     43’841,6      49’683      13,3%
+    – anteil erneuerbare treibstoffe                       %                          26,8         24,3         33,2     36,4%
+    energieverbrauch elektrizität                          kwh                  15’853’164   16 820’161   15‘347‘143     –8,8%
+    – anteil strom eigenproduktion bhkw                    %                          26,1         21,1         21,9      3,8%
+    energieverbrauch sattdampf                             kwh                          0     1’810’062    5’657’372   212,6%
+    energieverbrauch pro einwohnerwert                     kwh/ew                      56           92          109      17,9%
+    wasserverbrauch (trink- und quellwasser)               m3                     113’148      117’758      104‘409    –11,3%
+    – anteil rückgewonnenes und wiederverwendetes wasser   %                          36,5         49,4       45,8%      –7,3%
+    treibhausgasemissionen abwasserreinigung               t co2e                    3’309        6’249        8‘495     36,2%
+    treibhausgasemissionen administration                  t co2e                      84           69           73       7,0%
+    thg-emissionen pro einwohnerwert                       kg co2e/ew                  8,7         17,1         27,2     59,6%
+    emissionen ozonabbauender stoffe                       t n2o                      6,42         6,41         5,85     –8,7%
+    nox-emissionen                                         t nox                       3,9          3,2          2,9     –7,3%
+    sox-emissionen                                         t sox                       0,5          0,5          0,5     –0,2%
+    co-emissionen                                          t co                        2,5          1,5          0,9   –40,4%
+    n2-emissionen                                          t n2                       628          594          466    –21,6%
+    abfall administration                                  kg                        1’760        1’760        1‘860      5,7%
+    – anteil rezyklierter abfall                           %                          11,4         11,4         10,8     –5,4%
+    abfall abwasserreinigung                               kg                    1’156’940    1’292’900    1‘800‘300     39,2%
+    – anteil deponiert auf inertstoffdeponie               %                          13,6         16,3         12,3   –24,7%
+    soziale kennzahlen
+    beschäftigte                                           anzahl                      31           31           31       0,0%
+    beschäftigte vollzeitäquivalent                        vollzeitäquivalent         30,1         30,1         30,1      0,0%
+    frauenanteil                                           %                          12,9         12,9         12,9      0,0%
+    mitarbeiter unter 30 jahren                            %                           0,0          0,0          0,0      0,0%
+    mitarbeiter unter 40 jahren                            %                           9,7          3,2          6,5     100%
+    mitarbeiter unter 50 jahren                            %                          41,9         38,7         35,5     –8,3%
+    fluktuationsrate                                       %                           0,0          0,0          0,0      0,0%
+    mitarbeiterbefragung swiss benchmark                   note (skala 1–4)            3,6          3,6          3,6      0,0%
+    vorfälle von diskriminierung oder mobbing              anzahl                       0            0            0       0,0%
+    abwesenheit infolge von berufsunfällen                 %                           0,0          0,7          0,0    -100%
+    krankheitsquote                                        %                           1,2          1,2          1,8     53,6%
+    durchschnittliche ausbildungszeit pro mitarbeitenden   h                          20,8         27,9         15,7    -43,7%
+    verhältnis grundgehalt männer zu frauen                                          1,3:1        1,3:1        1,3:1     –0,3%
+
+
+
+
+2
+
+inhaltsverzeichnis
+
+
+
+
+vorwort                                 4
+
+die arabern im dienste der einwohner    5
+
+unsere anspruchsgruppen                 8
+
+werte und nachhaltigkeitsmanagement    10
+
+umweltziele und massnahmen             11
+
+nachhaltigkeit bei umbauprojekten      13
+
+unser beitrag zur umwelt               15
+
+mitarbeitende                          20
+
+ökonomische nachhaltigkeit             23
+
+über diesen bericht                    25
+
+glossar/abkürzungsverzeichnis          27
+
+impressum                              27
+
+
+
+
+                                            3
+
+    vorwort
+
+
+
+
+    sehr geehrte geschäftspartner
+    und beschäftigte der ara region bern ag
+
+    liebe leserinnen und leser!
+
+    die ara region bern ag (arabern) steht für
+    einen verantwortungsvollen umgang mit
+    der umwelt und den natürlichen, aber
+    begrenzten ressourcen. das dürfen wir
+    nicht nur behaupten, wir handeln auch
+    entsprechend. mit unserem nachhal-
+    tigkeitsbericht 2014 möchten wir ihnen
+    die ökologische visitenkarte der arabern     beat ammann
+    vorstellen. in unserem nachhaltigkeits-      direktor arabern
+    bericht informieren wir die öffentlichkeit
+    aber nicht nur über unsere umweltleis-
+    tung, sondern auch über unsere anliegen
+    im sozialen bereich.
+
+    darüber hinaus lade ich sie zur diskus-
+    sion der beschriebenen ansätze im span-
+    nungsfeld von ökonomie und ökologie
+    ein. ich wünsche ihnen eine informative
+    lektüre und freue mich auf einen interes-
+    santen dialog mit ihnen.
+
+
+
+
+     alle bilder in diesem nachhaltigkeitsbericht stammen vom gelände der ara region bern ag, das
+     seit 2008 das qualitätslabel «naturpark» der stiftung natur & wirtschaft trägt. zahlreiche, zum
+     teil auch bedrohte tier- und pflanzenarten tummeln sich aufgrund der naturnahen bewirtschaf-
+     tung inzwischen auf dem gelände der arabern.
+
+
+
+
+4
+
+die arabern im dienste der einwohner
+
+• 48 betriebsjahre: seit 1967 steht die arabern rund um die uhr in betrieb.
+• 1‘000 liter pro sekunde: tag für tag reinigt die arabern das abwasser von 217‘000 einwohnern
+ und 100’000 pendlern.
+
+
+
+
+was wir tun                                               der region bern mehr als 99% der be-
+die arabern ist die grösste abwasserreinigungsanlage      völkerung an die kanalisation und damit
+im kanton bern und zählt zu den drei grössten der         an die arabern angeschlossen. täglich
+schweiz. sie reinigt rund um die uhr das abwasser         reinigt die arabern ca. 100 millionen liter
+der 217’000 einwohnerinnen und einwohner sowie            abwasser so weit, dass es ohne vorbehal-
+der gewerbe- und industriebetriebe der zwölf ange-        te für mensch und natur in die aare flies-
+schlossenen gemeinden. dazu kommen rund 100’000           sen kann.
+pendler aus der weiteren region. insgesamt verar-
+beitete die arabern 2014 eine schmutzwasserfracht in      mehr als nur abwasser
+der höhe von ca. 315’000 einwohnerwerten.                 nebst dem kerngeschäft der abwasser-
+                                                          reinigung und der klärschlammbehand-
+siedlungshygiene                                          lung verwertet die arabern biomasse,
+im kanton bern befinden wir uns in der privilegier-       also organische abfälle aus industrie,
+ten situation, dass grund- und quellwasser weitge-        gewerbe und restaurationsbetrieben, zu
+hend der qualität von trinkwasser entsprechen. die        klimaneutralem biogas. mit den produk-
+schweiz ist mit den grossen flüssen aare, rhein,          ten biogas, klärschlammgranulat und
+rhone, ticino und inn/donau das wasserschloss eu-         wärme aus abwasser ist die arabern eine
+ropas. als oberliegerstaat hat die schweiz eine be-       bedeutende produzentin erneuerbarer
+sondere verantwortung für den schutz des wassers.         energie in der region. 2014 wurden 28,8%
+das schweizerische gewässerschutzgesetz ist daher         des betriebsertrags der arabern durch
+stark mit europäischen gesetzgebungen verknüpft           die produktion erneuerbarer energie er-
+und bestandteil des umweltgesetzes. heute sind in         wirtschaftet.
+
+
+
+
+                                                                                                        5
+
+    • 28,8%: so hoch ist der anteil der drittgeschäfte (biomasseverwertung und produktion erneuerbarer
+        energie) am gesamtertrag.
+    • 1’000 km: über diese länge erstreckt sich das weitverzweigte kanalisationsnetz, über welches das
+        abwasser zur arabern geleitet wird.
+
+
+
+    sensibilisieren und informieren                         bern, um vom grossen erfahrungsschatz der mitar-
+    das system der abwasserentsorgung                       beitenden und vieles über die abwasserbehandlungs-
+    vom abfluss über die kanalisation bis hin               technik in der schweiz zu lernen.
+    zur abwasserreinigungsanlage umfasst
+    eine weitverzweigte infrastrukturanlage.                biologische gewässeruntersuchungen
+    die länge der kanalisation beträgt 1’000                das ziel der siedlungsentwässerung besteht darin,
+    km. bevölkerung, gewerbe und industrie                  das abwasser zu sammeln, zu reinigen und es so in
+    finanzieren mit der abwassergebühr den                  die gewässer zurückzuleiten, dass die natur mög-
+    betrieb dieser infrastrukturanlagen und                 lichst wenig beeinträchtigt wird. da die abwasserre-
+    haben als verursacher des abwassers                     gion bern im mischsystem (abwasser und regenwas-
+    entscheidenden einfluss auf deren be-                   ser in derselben leitung)1 entwässert wird, übersteigt
+    trieb. da die kanalisation unterirdisch                 bei starkem regen der abwasseranfall das leistungs-
+    verläuft und sich die arabern am rande                  vermögen der arabern. dann wird so viel abwasser
+    des besiedelten gebietes befindet, werden               wie möglich in den regenbecken im einzugsgebiet
+    die anlagen jedoch oft kaum wahrgenom-                  und im zulaufstollen zurückbehalten. sind die spei-
+    men. deshalb ist es der arabern wichtig,                cher voll, wird das nun stark verdünnte wasser nach
+    ihre anspruchsgruppen umfassend über                    einer groben mechanischen reinigung in einen bach
+    den prozess der abwasserreinigung zu                    oder in die aare abgeleitet.
+    informieren.
+                                                            in den wintern 2013 und 2014 hat ein team von bio-
+                                                            loginnen und biologen über 180 einleitstellen bei
+    entwicklung der besucherzahlen                          entlastungsanlagen untersucht. um den einfluss der
+                                                            einleitung und die qualität des gewässers zu beurtei-
+    2012                    2’052                           len, wurde das gewässer jeweils ober- und unterhalb
+                                                            der einleitstelle beurteilt auf:
+    2013                    2’237                           • äussere aspekte (verfärbung, geruch, schaum, ver-
+                                                              schlammung, abfälle etc.)
+                                                            • pflanzlichen bewuchs (algen, moose, makrophyten
+    2014                    2’172
+                                                              etc.)
+                                                            • wirbellose lebewesen (fliegenlarven, wasseras-
+                                                              seln, egel etc.)
+    2014 haben 2’172 personen an betriebs-
+    besichtigungen teilgenommen. an den                     gegenüber der letzten untersuchung vor über zehn
+    führungen werden jung und alt für um-                   jahren konnte bei der mehrzahl der einleitstellen eine
+    weltschutz und den sorgsamen umgang                     verbesserung der werte festgestellt werden. dies be-
+    mit wasser sensibilisiert und manage-                   legt den erfolg der gewaltigen anstrengungen im ge-
+    ment- und betriebs-know-how an fach-                    wässerschutz der letzten jahre.
+    personen weitergegeben. im winter 2014
+    verbrachte ein ingenieur aus shanghai
+    sechs wochen als praktikant bei der ara-
+
+    1
+        beim mischsystem werden das häusliche abwasser, betriebsabwasser aus industrie und gewerbe sowie regenabwasser in
+        derselben leitung zur abwasserreinigungsanlage geführt. im gegensatz dazu wird beim trennsystem das abwasser vom re-
+        genwasser getrennt geführt.
+
+6
+
+• 36‘000 m2 grünfläche werden auf dem gelände der arabern als naturpark zur förderung der bio-
+    diversität gepflegt.
+• regionale koordination und planung: für die aktionärs- und vertragsgemeinden wurden 2014 zahl-
+    reiche gewässeruntersuchungen durchgeführt und verschiedene planungshilfen erstellt.
+
+die arabern hat die biologischen untersuchungen in                      unternehmensstruktur und governance
+den zwölf angeschlossenen gemeinden koordiniert                         die arabern hat ihren sitz in der stadt-
+und in auftrag gegeben. zudem hat sich der abwas-                       gemeinde bern und ist ausschliesslich in
+serverband worblental an den untersuchungen in den                      der schweiz angesiedelt. da das gerei-
+gemeinden ittigen und zollikofen beteiligt. es ist das                  nigte abwasser der arabern aber von der
+erste mal in der schweiz, dass das gesamte einzugs-                     aare weiter in den rhein und in die nord-
+gebiet einer abwasserreinigungsanlage in derselben                      see fliesst, wirkt sich der umweltnutzen
+zeit mit einheitlichen methoden biologisch untersucht                   ihrer tätigkeit auch auf sämtliche länder
+wurde. diese art der qualitätssicherung der abwas-                      aus, die an diese gewässer angrenzen.
+serreinigung einer ganzen region erlangte schweiz-
+weit grosse anerkennung.                                                im jahr 2014 erwirtschaftete die arabern
+                                                                        einen umsatz von 25,44 mio. chf. der
+sielhautuntersuchungen2                                                 betriebsertrag setzt sich dabei aus den
+obwohl das abwasser in der arabern entsprechend                         geschäftsbereichen abwasserreinigung
+dem stand der technik sorgfältig gereinigt wird, kön-                   (72%), biomasseverwertung (9%) und
+nen nicht alle schadstoffe restlos entfernt werden. ein                 energieerzeugung (19%) zusammen. das
+teil dieser stoffe setzt sich im klärschlamm ab und                     unternehmen beschäftigt 31 festange-
+ein teil erreicht über den auslauf die aare. geringste                  stellte sowie einen freien mitarbeiter. die
+mengen lagern sich bereits in einem schleimigen be-                     detaillierte unternehmensstruktur ist im
+lag in der kanalisation ab. seit 1992 werden an mehr                    geschäftsbericht 2014 der arabern zu fin-
+als zwanzig stellen in der kanalisation der abwasser-                   den.
+region bern alle zwei jahre proben entnommen und
+auf schadstoffe analysiert. damit lassen sich gebie-                    die arabern ist eine aktiengesellschaft
+te eingrenzen, die stärker von schadstoffen betroffen                   mit einem kapital von 60 mio chf. aktio-
+sind.                                                                   närsgemeinden sind allmendingen, bern,
+                                                                        bremgarten bei bern, frauenkappelen,
+die arabern koordiniert die regelmässigen sielhaut-                     kehrsatz, kirchlindach, köniz, meikirch,
+untersuchungen im gesamten einzugsgebiet und                            muri bei bern und wald. das abwas-
+nimmt damit eine wichtige kontrolle im auftrag der                      ser der gemeinden belp und toffen wird
+angeschlossenen gemeinden wahr. dabei werden die                        ebenfalls von der arabern gereinigt. die-
+untersuchungen nach einheitlichen grundsätzen des                       se beiden gemeinden halten jedoch keine
+amts für umwelt (afu) der stadt bern durchgeführt.                      aktien, sondern sind vertraglich mit der
+                                                                        arabern verbunden.
+die untersuchungen zeigen: die belastung des ab-
+wassers mit schwermetallen hat im verlaufe der jah-
+re abgenommen. eine ausnahme bilden kupfer und
+zink, die in siedlungsgebieten häufig eingesetzt wer-
+den.
+
+
+
+
+2
+    die methode der sielhautuntersuchung wurde vor mehreren jahrzehnten in norddeutschland entwickelt. dort wird die kanali-
+    sation siele genannt. ursprünglich handelt es sich bei einem siel um eine schleuse in einem deich.
+
+
+                                                                                                                               7
+
+    unsere anspruchsgruppen
+
+    • die arabern setzt im alltagsgeschäft auf den kontinuierlichen dialog mit kantons- und bundes-
+     behörden.
+    • die umwelt ist ihr wichtigster stakeholder.
+    • lieferanten und unternehmer werden systematisch auf aspekte der nachhaltigkeit hin überprüft.
+
+
+
+
+    die arabern legt grossen wert auf eine          in die zukunft zu tragen. auch der internetauftritt der
+    gute beziehung zu den verschiedenen             arabern hat in den vergangenen jahren an bedeutung
+    anspruchsgruppen und steht im alltägli-         gewonnen.
+    chen geschäft, bei regelmässigen zusam-
+    menkünften oder bei informellen treffen         mitarbeitende
+    in regem austausch mit den wichtigsten          der arabern ist es als betrieb wichtig, ihren mitarbei-
+    stakeholdern wie anwohnern, fachver-            tenden faire anstellungsbedingungen zu bieten und
+    bänden und lieferanten.                         sicherheit am arbeitsplatz zu gewährleisten. der offe-
+                                                    ne austausch mit den mitarbeitenden ist ein zentrales
+    umwelt und bevölkerung                          anliegen. die bilateralen personalgespräche, infor-
+    die abwasserreinigung steht in direktem         mationsveranstaltungen und vor allem der personal-
+    zusammenhang mit der umwelt. die öko-           ausschuss sind gute instrumente zum direkten dialog
+    logische nachhaltigkeit ist für die arabern     mit den mitarbeitenden. mehr dazu finden sie im kapi-
+    deshalb ein zentrales anliegen. die aufga-      tel «mitarbeitende».
+    be der arabern besteht darin, das abwas-
+    ser der einwohner, der industrie und der        fachverbände und organisationen
+    gewerbebetriebe im einzugsgebiet geset-         die arabern ist in verschiedenen ausschüssen und
+    zeskonform und wirtschaftlich zu reinigen.      fachverbänden aktiv vertreten. dazu gehören der
+    damit ist die bevölkerung einerseits ein        verband schweizer abwasser- und gewässerschutz-
+    zulieferer, da diese das abwasser gene-         fachleute (vsa), die schweizerische vereinigung für
+    riert, das in der arabern behandelt wird.       ökologisch bewusste unternehmensführung (öbu),
+    gleichzeitig finanziert die bevölkerung         die organisation kommunale infrastruktur (oki), die
+    gemäss dem verursacherprinzip die rei-          klimaplattform der wirtschaft stadt bern, der verein
+    nigung dieses abwassers. der arabern ist        für umweltgerechte elektrizität (vue) und die stiftung
+    es daher ein anliegen, die einwohner über       praktischer umweltschutz schweiz (pusch). wertvoll
+    ihre leistung zu informieren. sie bietet        sind auch der austausch und die zusammenarbeit
+    deshalb führungen an, an denen im be-           im rahmen der erfahrungsaustauschgruppe (erfa)
+    richtsjahr 2’172 personen teilgenommen          «klärwerke grossstädte schweiz». mit den kantons-
+    haben. mehrheitlich besuchen junge leu-         und bundesbehörden steht die arabern im alltagsge-
+    te die arabern. dies bildet die beste vor-      schäft in regem austausch und beteiligt sich an der
+    aussetzung dafür, den umweltgedanken            weiterentwicklung der gewässerschutzgesetzgebung.
+
+
+
+8
+
+lieferanten                                                   die arabern prüft ihre lieferanten und
+der wichtigste lieferant der arabern ist der energie-         unternehmer jeweils hinsichtlich ihres
+versorger energie wasser bern (ewb). für den betrieb          verhaltens gegenüber der umwelt und
+einer abwasserreinigungsanlage (ara) ist die versor-          im hinblick auf soziale aspekte. in öffent-
+gung mit elektrischer energie essenziell. im falle der        lichen ausschreibungen sind lieferanten
+arabern liefert ewb zudem prozesswärme in form                verpflichtet, eine selbstdeklaration einzu-
+von sattdampf. daneben werden betriebs- und hilfs-            reichen. sie müssen bestätigen, dass sie
+mittel (z.b. fällmittel, schmiermittel etc.) eingesetzt.      ihren finanziellen verpflichtungen gegen-
+bei der instandhaltung der elektromechanischen                über sozialversicherungen und steuern
+ausrüstungen wird die arabern von spezialisierten             nachkommen und umweltbestimmungen
+firmen unterstützt. eine ara besteht im wesentlichen          sowie arbeitsbedingungen einhalten. zu-
+aus bauteilen und elektromechanischen ausrüstun-              dem kann die arabern lieferanten auf-
+gen. durch die komplexität der zahlreichen prozesse           fordern, belege für die richtigkeit ihrer
+kommt den anlagebauern und den ingenieuren bei                angaben einzureichen (z.b. auszüge aus
+ausbauten eine zentrale rolle zu. relativ wenige fir-         dem betreibungsregister oder bestäti-
+men besitzen das know-how, um die anspruchsvollen             gungen von sozialversicherungen). die
+aufgaben zu lösen. daher ist die arabern bei der wahl         bedingungen gelten gleichermassen für
+von spezifischen lieferanten eingeschränkt und kann           unterlieferanten der vertragspartner der
+nur auf wenige spezialisierte firmen zurückgreifen.           ara region bern ag. im berichtsjahr muss-
+                                                              ten keine beschwerden gegen lieferanten
+                                                              geführt werden, welche die bedingungen
+                                                              nicht erfüllt hatten.
+
+
+
+
+                                                mitarbeiter
+
+                                  bevölkerung                 zulieferer
+
+
+
+                                                                      abnehmer
+                             umwelt                                      von
+                                                arabern               produkten
+
+
+
+                              verbände,                              vertrags-
+                            arbeitsgruppen                          gemeinden
+
+
+                                                       aktionärs-
+                                         behörden
+                                                       gemeinden
+
+
+
+
+                                                                                                            9
+
+     werte und nachhaltigkeitsmanagement
+
+     • laufende kontrolle der reinigungsleistung mittels online-analysen und chemischer untersuchun-
+      gen im labor (qualitätssicherung)
+     • periodische externe zertifizierung des betriebs nach iso 9001 und iso 14001
+     • produktion von «naturemade star»-biotreibstoff
+
+     unsere vision                                  bor der arabern täglich chemische analysen durchge-
+     «damit wir auch in zukunft in sauberen         führt. gemäss den anforderungen des amtes für was-
+     und lebendigen gewässern baden können,         ser und abfall (awa) des kantons bern wird die reini-
+     betreiben wir die siedlungshygiene kom-        gungsleistung der arabern alle fünf tage umfangreich
+     petent, wegweisend und nachhaltig.»            analysiert. die ausgewerteten und archivierten daten
+                                                    bilden als indikatoren die grundlage für einen nach-
+     die vision der arabern verankert nachhal-      haltigen betrieb.
+     tiges handeln fest in der unternehmens-
+     strategie. alle prozesse und tätigkeiten       managementsysteme und zertifikate
+     werden entsprechend umgesetzt. die füh-        die arabern wurde für ihren betrieb, ihre infrastruktur
+     rungsinstrumente des managements sind          und ihre produkte bereits mehrfach ausgezeichnet. so
+     die balanced scorecard (bsc), ein imple-       ist der gesamte betrieb der arabern seit 2001 nach der
+     mentiertes risikomanagement und das            qualitätsmanagementnorm iso 9001 und der umwelt-
+     interne kontrollsystem (iks) sowie das         managementnorm iso 14001 zertifiziert. das produ-
+     qualitäts- und umweltmanagementsys-            zierte biomethan ist naturemade-star-zertifiziert. des
+     tem nach iso 14001. die managementtools        weiteren trägt das 2012 fertiggestellte betriebsgebäu-
+     der arabern sind im geschäftsbericht 2014      de das minergie-p-eco-siegel. für den 2008 erstellten
+     beschrieben.                                   naturpark hat die arabern ausserdem das qualitätsla-
+                                                    bel der stiftung natur & wirtschaft erhalten. alle ma-
+     ethische grundsätze                            nagementsysteme und zertifikate werden regelmässig
+     im umgang mit geschäftspartnern wen-           einem review unterzogen und rezertifiziert.
+     det die arabern die ethischen grundsätze
+     nach dem beschaffungsgesetz der öffent-        risiko-management
+     lichen hand an. die transparenz der ver-       die arabern verfügt über ein implementiertes risiko-
+     gabeentscheide und die möglichkeit zur         management. im anschluss an die jährliche strategie-
+     beschwerde bilden wichtige bestandteile        überprüfung erfolgt jeweils eine systematische risiko-
+     dieses gesetzes. bei kleineren differenzen     identifikation. ausgehend von dieser analyse werden
+     im alltagsgeschäft haben die geschäfts-        die für die arabern wesentlichen risiken ermittelt und
+     partner die möglichkeit, sich an die vor-      auf ihre eintretenswahrscheinlichkeit und ihre aus-
+     gesetzten der arabern zu wenden. diese         wirkungen hin bewertet. mit entsprechenden, von der
+     sind bestrebt, unbürokratisch eine gütliche    geschäftsleitung beschlossenen massnahmen wer-
+     regelung zu finden. die mitarbeitenden         den die risiken vermieden, vermindert, überwälzt oder
+     der arabern können sich mit ihren anlie-       selbst getragen. die selbst getragenen risiken werden
+     gen entweder direkt oder anonym über die       konsequent überwacht.
+     personalkommission an die vorgesetzten
+     wenden. den verantwortlichen der arabern       erfahrungsaustausch
+     ist es wichtig, die mitarbeitenden nicht le-   die arabern strebt einen nachhaltigen betrieb an. um
+     diglich als arbeitskräfte, sondern als men-    die leistung der arabern einordnen zu können, ist ein
+     schen ernst zu nehmen.                         vergleich mit anderen abwasserreinigungsanlagen
+                                                    wichtig. mitarbeitende der arabern nehmen deshalb
+     laufende qualitätskontrolle                    regelmässig an veranstaltungen für den erfahrungs-
+     mittels verschiedener online-messgeräte        austausch mit grösseren abwasserreinigungsanlagen
+     wird der betrieb der anlage rund um die        in der schweiz teil (erfa).
+     uhr überwacht. zusätzlich werden im la-
+
+
+10
+
+umweltziele und massnahmen
+
+• sachplan siedlungsentwässerung und energiegrundsätze: die vorgaben des kantons bern bilden
+ den gesetzlichen rahmen für die arbeit der arabern.
+• die arabern orientiert sich bei optimierungen und entwicklungen an den neusten erkenntnissen
+ im umweltschutz und an allfälligen änderungen der gesetzlichen rahmenbedingungen.
+
+
+
+
+das oberste ziel der arabern ist eine qualitativ hoch-     rung des kantons bern. dort ist das vorge-
+stehende abwasserreinigung nach den gesetzlichen           hen zum erreichen eines nachhaltigen ge-
+vorgaben. dies ist nur in einem unternehmen mög-           wässerschutzes nach einheitlichen grund-
+lich, das sich stetig weiterentwickelt und verbessert.     sätzen im ganzen kanton festgehalten.
+tägliche messungen und analysen im abwasserrei-
+nigungsbetrieb, vergleiche mit zielwerten, aber auch       überprüfung der einleitungsbedingungen
+mit anderen anlagen geben die erforderlichen hin-          in der schweiz liegt die pflicht zur be-
+weise auf neues optimierungspotenzial. zusammen            handlung des abwassers bei den gemein-
+mit dem verwaltungsrat werden in den vier bereichen        den. dies ist in der umweltgesetzgebung
+mitarbeitende, kunden, prozesse und finanzen je-           des bundes (eidgenössische gewässer-
+weils ziele für eine fünfjährige periode definiert. die-   schutzverordnung, gschv), des kantons
+se ziele werden jährlich überprüft, ergänzt oder ange-     bern und der gemeinden festgelegt. im
+passt und quartalsweise operativ überwacht. mittels        fall der arabern richtet sich der grad
+der indikatoren in diesem bericht soll die erreichung      der reinigung nach dem bielersee und
+der angestrebten wirtschaftlichen, sozialen und öko-       über internationale vereinbarungen gar
+logischen nachhaltigkeitsziele überprüft werden. auf-      nach der nordsee, in welche der rhein
+grund der ausserordentlichen rahmenbedingungen             schliesslich fliesst. 2014 lagen die kon-
+durch das grossprojekt «querverbund arabern – ewb-         zentrationen von nitrit (0,28 mg/liter;
+energiezentrale forsthaus» (provisorien, inbetrieb-        richtwert 0,3 mg/liter) und gelöstem
+nahmen und stilllegungen von alten anlagen) können         organischem kohlenstoff (doc; 8,9 mg/l;
+kennwerte und nachhaltigkeitsziele in der aktuellen        grenzwert 10,0 mg/l) im zulässigen be-
+übergangszeit allerdings nur bedingt verglichen wer-       reich. die konzentration von ammo-
+den.                                                       niumstickstoff lag 2014 leicht über der
+                                                           einleitungsbedingung (2,2 mg/l; grenz-
+wasserstrategie und sachplan siedlungsentwässe-            wert 2,0 mg/l an 328 tagen im jahr als
+rung des kantons bern                                      90%-wert). die überschreitungen sind auf
+der kanton bern verfügt über eine wasserstrategie zu       die überlastung der anlage mit ammoni-
+den drei themen wassernutzung, wasserversorgung            um zurückzuführen. im verlaufe des jah-
+und siedlungsentwässerung (gewässerschutz). ge-            res 2014 wurde die biologische faulwas-
+wässerschutz ist die kernaufgabe der arabern. dabei        serbehandlung durch eine neue anlage
+orientiert sie sich am sachplan siedlungsentwässe-         mit grösserer leistung und geringerem
+
+
+
+                                                                                                        11
+
+     energiebedarf ersetzt. dank der neuen           das neue verfahren (aminwäsche) kann die verluste
+     anlage können die einleitungsbedingun-          beim treibhausgas methan auf ein minimum redu-
+     gen heute wieder eingehalten werden.            zieren. 2014 wurde die neue anlage zur biologischen
+                                                     behandlung der rückläufe aus der schlammbehand-
+     energiegrundsätze des kantons bern für          lung in betrieb gesetzt. trotz höherer reinigungs-
+     abwasserreinigungsanlagen                       leistung benötigt die neue anlage rund 65% weniger
+     der kanton bern fördert in abwasserreini-       strom als die alte. im verlauf des jahres 2015 wird
+     gungsanlagen den haushälterischen um-           auch eine neue schlammtrocknungsanlage in betrieb
+     gang mit elektrischer energie. er ergänzt       genommen werden. diese wird durch eine wärme-
+     bei ausbauprojekten das bewilligungsver-        leitung mit der energiezentrale forsthaus verbunden
+     fahren mit auflagen zur energieeffizienz,       sein. die neue anlage nutzt die synergien aus dem
+     unterstützt die nutzung von wärme aus           querverbund optimal und es entstehen folgende vor-
+     abwasser und lenkt die vollständige und         teile:
+     effiziente nutzung des biogases, das eine       • zur trocknung des klärschlamms wird anstelle von
+     abwasserreinigungsanlage produziert. die          biogas sattdampf aus der energiezentrale verwen-
+     nutzung des biogases gilt erst als effizient,     det.
+     wenn sowohl die thermische als auch die         • dadurch kann das gesamte biogas der arabern auf-
+     elektrische energie genutzt werden. mit           bereitet und ins erdgasnetz von ewb eingespeist
+     dem zukunftsweisenden projekt «quer-              werden. das biogas ersetzt fossile brennstoffe in
+     verbund» erfüllt die arabern die anfor-           der gebäudebeheizung und ist treibstoff für 32 bus-
+     derungen des kantons bern. das biogas             se von bernmobil.
+     wird zur qualität von erdgas aufbereitet        • die arabern verwertet auch während den sommer-
+     und ersetzt fossile treib- und brennstoffe.       monaten erhebliche mengen an wärmeenergie von
+                                                       der energiezentrale forsthaus.
+     stetige optimierung und ausrichtung auf
+     langfristige entwicklungen                      der verbund mit ewb ermöglicht so die effiziente nut-
+     die langfristige strategie der arabern          zung der einzelnen energieträger und trägt zur reduk-
+     richtet sich nach den neusten erkennt-          tion von treibhausgasemissionen in der region bei.
+     nissen im umweltschutz und allfälligen
+     änderungen der gesetzlichen rahmen-             dauerbetrieb als herausforderung
+     bedingungen. zu den künftigen heraus-           abwasser fällt pausenlos an, während 24 stunden an
+     forderungen der arabern zählt beispiels-        365 tagen im jahr. die anlage der arabern wird auto-
+     weise eine zusätzliche verfahrensstufe          matisch gesteuert und die prozesse werden an bild-
+     zur elimination von spurenstoffen, die sie      schirmen überwacht. in der nacht und an wochen-
+     in den kommenden jahren aufgrund von            enden leistet ein klärwerkfachmann pikettdienst. in
+     gesetzlichen vorgaben in den reinigungs-        bezug auf die nötigen instandhaltungsarbeiten stellt
+     prozess zu integrieren hat.                     der dauerbetrieb für die arabern eine herausforde-
+                                                     rung dar. diese müssen sorgfältig geplant und vorbe-
+     das ziel des grossprojekts «querver-            reitet werden. ziel ist die nahtlose abwasserreinigung
+     bund» besteht darin, mit den eingesetzten       ohne zwischenfälle. im jahr 2014 haben sich in der
+     finanziellen mitteln den grössten mögli-        arabern keine unvorhergesehenen zwischenfälle er-
+     chen nutzen für die umwelt zu erzielen.         eignet, welche die reinigungsleistung beeinträchtigt
+     bereits 2013 wurde die neue leistungsfä-        hätten. auch ist es zu keinen unkontrollierten abgän-
+     hige biogasanlage in betrieb genommen.          gen von schadstoffen in die atmosphäre gekommen.
+
+
+12
+
+nachhaltigkeit bei umbauprojekten
+
+• den abwasserreinigungsprozess revolutionieren: fortschritt bringt nachhaltigkeit
+• effiziente energienutzung durch ausgeklügelte vernetzung von abwasserreinigungs- und keh-
+ richtverwertungsanlage
+
+
+
+
+der abwasserreinigungsprozess ist eine ausgeklügel-      und abwassertransporte möglichst kurze
+te abfolge mehrerer prozessschritte, in welchen das      wege zu realisieren. dies senkt die in-
+abwasser nach und nach gesäubert und im abwasser         standhaltungskosten und den energiebe-
+enthaltene ressourcen zurückgewonnen und wie-            darf, sodass der konsum stark gesenkt
+derverwertet werden (z.b. abwärmenutzung, biogas-        werden kann. auch die beleuchtung wird
+produktion). die arabern ist darum bemüht, in allen      effizienter. die neuen led-leuchten wer-
+verfahren den neusten stand der technik zu nutzen.       den über bewegungsmelder gesteuert
+bei der inbetriebnahme von neuen anlagen werden          und benötigen rund 60% weniger energie.
+das zusammenspiel der einzelnen prozessschritte
+optimiert und die effizienz gesteigert. auf diese wei-   in der aktuellen übergangszeit (2013 bis
+se lässt sich der abwasserreinigungsprozess mit jeder    mitte 2015) sind die prozesse stark von der
+erneuerung nachhaltiger gestalten.                       umstellung beeinflusst und es wird mehr
+                                                         energie benötigt. die vernetzung mit ewb
+verdichtetes baukonzept                                  wird nach projektabschluss aber die effi-
+das grossprojekt «querverbund arabern-ewb-ener-          zienteste nutzung der einzelnen energie-
+giezentrale forsthaus» verfolgt das ziel, synergien      träger ermöglichen und trägt damit zu ei-
+zwischen der abwasserreinigungsanlage und der ver-       ner weiteren reduktion von treibhausgas-
+und entsorgungsanlage zu nutzen. die erste etap-         emissionen bei.
+pe der vertieften zusammenarbeit mit ewb konnte
+bereits im sommer 2013 abgeschlossen werden. die         wahl energieeffizienter verfahren
+neue biogasaufbereitungsanlage veredelt seither das      für die entstickung des faulwassers setzt
+gesamte im faulturm produzierte biogas zur qualität      die arabern seit 2014 ein neues verfah-
+von erdgas, das ins ewb-netz eingespeist wird. im ge-    ren ein (deammonifikation anstelle einer
+genzug wird die arabern mit wärme in form von satt-      konventionellen nitrifikation und deni-
+dampf durch ewb versorgt. im sommer 2015 wird die        trifikation). in den vergangenen jahren
+neue schlammtrocknungsanlage fertiggestellt wer-         wurden bakterienstämme entdeckt, wel-
+den, die ebenfalls mit sattdampf aus der ewb-ener-       che die stickstoffverbindungen effizienter
+giezentrale versorgt werden wird.                        umwandeln können. das neue verfahren
+                                                         ist zwar anspruchsvoller im betrieb als
+bei der projektierung wurde grosser wert auf eine        das bisherige, benötigt jedoch 65% we-
+verdichtete bauweise gelegt, um für die schlamm-         niger energie. die stromersparnis von
+
+
+
+                                                                                                       13
+
+     ca. 700‘000 kwh entspricht dem jährlichen   zum einen konsumieren diese rund 30% weniger
+     strombedarf von rund 200 haushalten.        energie als ihre vorgänger. zum anderen wird der
+     die einzelnen verfahrensschritte der ab-    schlamm besser entwässert. die neue anlage wird im
+     wasserreinigung sind so aufgebaut, dass     verlaufe des jahres 2015 in betrieb genommen wer-
+     anfallende wärme in anderen prozess-        den und pro jahr so viel strom sparen, wie rund 40
+     schritten wiederverwendet werden kann.      haushalte konsumieren.
+     so wird zum beispiel bei der trocknung
+     des klärschlamms die abwärme zurück-        grundsätzlich werden in der arabern nur noch elek-
+     gewonnen und einerseits zur beheizung       trische motoren mit der höchsten energieeffizienz-
+     der gebäude sowie andererseits für die      klasse beschafft. der einsatz von frequenzumrich-
+     klärschlammerwärmung im faulprozess         tern erlaubt es zudem, die maschinen jederzeit mit der
+     wiederverwendet.                            jeweils benötigten leistung zu betreiben. dies redu-
+                                                 ziert den energiebedarf und verringert die anzahl der
+     effiziente maschinen und motoren            ein- und ausschaltungen und damit den verschleiss.
+     für die entwässerung des faulschlamms       zudem wird bei neuanschaffungen speziell auf die
+     wurden zwei dekanter (liegende zentrifu-    materialspezifikationen bezüglich des verschleisses
+     gen) der neusten generation angeschafft.    und auf schadstofffreie materialien geachtet.
+
+
+
+
+14
+
+unser beitrag zur umwelt
+
+• mehr als klimaneutral: die erneuerbaren energieprodukte der arabern reduzierten 2014 die treib-
+ hausgasemissionen dritter um 17‘333 tonnen co2e – und damit um doppelt so viel, wie sie selbst
+ verursacht.
+
+
+
+der betrieb der arabern bringt unausweichlich be-
+lastungen für die umwelt mit sich. durch gereinigtes
+abwasser, die verwertung von abfall und die produk-
+tion erneuerbarer energie entlastet die arabern die
+umwelt unter dem strich jedoch immens. insgesamt
+spart die arabern doppelt so viele treibhausgasemis-
+sionen ein, wie sie selber verursacht.
+
+
+mittlerer stofffluss der arabern
+1. januar 2014 bis 31. dezember 2014
+
+emissionen                                 rauchgas                    herkunft co2                           [kg/d]         abgabe
+                                           5,5      [kg/d]    co       blockheizkraftwerk          erdgas      7’699
+ gereinigte abluft (biofilter)             25’500   [kg/d]    co2      klärschlammtrocknung        erdgas    16’570
+                                                                                                                              energie
+ [m3/d]     1'080'000                      1,4      [kg/d]    so2      heizung                     erdgas        473
+                                                                                                                              0        [kwh/d]   elektrische energie in
+                                           9,5      [kg/d]    nox      gasfackel                   biogas      1’143
+                                                                                                                                                 öffentliches netz
+ lärm                                      1,5      [kg/d]    russ     gasaufbereitung             biogas    12’293
+ [dba]      45                                                         total von biogas und erdgas           38’178
+                                                                                                                              in vorfluter
+                                                                                                                              94’198   [m3/d]    gereinigtes abwasser
+
+
+ annahme                                                                                                                      schlamm
+                                                                                                                              22,41    [ttr/d]   schlamm gesamt
+ abwasser biologisch gereinigt
+ abwasser               [m /d]
+                          3
+                                  98’193                                                                                      rechen- und sandfanggut
+                                                                                                                              3,1      [t/d]     rechengut
+ schlamm                                                                                                                      1,2      [m3/d]    sand
+ schlamm fremde ara     [ttr/d]   7,17                                                                                        0,6      [t/d]     strainpressgut
+
+
+
+
+ energie                                   wasser                                         materialeinkauf
+ elektrische energie                       trinkwasser       [m3/d]   31                  9’867    [kg/d]   trifer 13%ige lösung – vorfällung, actiflo
+ gesamt                 [kwh/d]   42’047   quellwasser       [m3/d]   327                 –        [kg/d]   flockungshilfsmittel flüssig vkb
+ erdgas                 [m3/d]    7’752                                                   21       [kg/d]   flockungshilfsmittel actiflo
+                                                                                          7        [kg/d]   flockungshilfsmittel dekanter überschussschlamm
+                                                                                          316      [kg/d]   flockungshilfsmittel dekanter faulschlamm
+energie, wasser, material
+
+
+
+
+                                                                                                                                                                          15
+
+          treibhausgasemissionen und klimawandel                                                 anpassung an die folgen des klimawandels ist ein
+          das jahr 2014 war das wärmste jahr seit                                                notwendiger schritt. prioritär setzt die arabern jedoch
+          beginn der systematischen messungen                                                    auf massnahmen zur eindämmung des klimawandels:
+          im jahr 1880. in der arabern werden die                                                die reduktion der treibhausgasemissionen hat neben
+          klimaerwärmung und deren auswirkung                                                    dem schutz der gewässer in der strategie der arabern
+          auf die niederschlagsverteilung spürbar                                                einen hohen stellenwert.
+          wahrgenommen. gegenüber früher haben
+          die niederschläge im winter zugenom-                                                   2014 hat die arabern treibhausgasemissionen in der
+          men. bei den gebäuden entlang der aare                                                 höhe von 8’495 tonnen co2e (co2- äquivalent3) emit-
+          wurden daher wasserdichte türen instal-                                                tiert. diese emissionen entstehen zu 99% beim ab-
+          liert und weitere massnahmen zum schutz                                                wasserreinigungsprozess selbst, weitere emissionen
+          vor künftigen hochwassern getroffen. die                                               fallen im administrativen betrieb der arabern an.
+
+          treibhausgasemissionen in t co2e
+
+          5’500
+
+          5’000
+
+          4’500
+
+          4’000
+
+          3’500
+
+          3’000
+
+          2’500
+
+          2’000
+                                                                                                               effektive höhe der n2o-freisetzung ungewiss
+          1’500
+                                                           da der sattdampf aus abfällen
+          1’000                                            hergestellt wird, gilt der co2-ausstoss
+                                                           zu 50% als co2-neutral
+            500
+
+               0
+                               e                            pf                                                                        e         l          r
+                            ag                 m                              m
+                                                                                              rte
+                                                                                                 n
+                                                                                                                 rte
+                                                                                                                      n
+                                                                                                                                   nd       fa
+                                                                                                                                               l          e                 ng
+                           k                su          am                 su                h                  h                sä       ab         a ss               tzu
+                        ea                on         ttd               ko
+                                                                          n
+                                                                                         sfa                lfa                er                   w               ise
+                    -l               a  sk         sa                 m                ft                de                   v                                    e
+               ch
+                    4
+                                   dg                              ro               hä                  n                 n d                                    fr
+                                 er                              st             es
+                                                                                   c                 pe                 u                                      o-
+                                                                              g                                   p ier                                   n    2
+
+                                                                                                               pa
+                   reinigungsprozess                                            administration
+
+     3
+         co2-äquivalent: jedes treibhausgas kann hinsichtlich seiner treibhauswirkung auf kohlendioxid (co2) umgerechnet werden.
+
+
+
+16
+
+wie bereits in den beiden vorjahren stand das jahr                        der betrieb der arabern benötigt elektri-
+2014 im zeichen der umsetzung des grossprojekts                           sche energie, die zu 78% durch zertifizier-
+«querverbund». die übergangsphase brachte es mit                          ten ökostrom aus schweizer wasserkraft
+sich, dass klärschlammtrocknungsanlage, blockheiz-                        gedeckt wird. der restliche strombedarf
+kraftwerk und heizkessel mit erdgas betrieben wer-                        wird durch das blockheizkraftwerk selbst
+den mussten. mit einem anteil von rund 63% an allen                       erzeugt. durch massnahmen seitens der
+treibhausgasemissionen bildete die nutzung von erd-                       industriebetriebe konnte im letzten jahr
+gas im jahr 2014 die grösste emissionsquelle. mitte                       die belastung des abwassers reduziert
+2015 wird die optimierung der wärme- und elektrizi-                       und dadurch der strombedarf der arabern
+tätsflüsse durch die neuen anlagen und den energie-                       um 10% gesenkt werden. seit 2013 bezieht
+austausch mit ewb abgeschlossen sein. dies wird die                       die arabern zudem thermische energie in
+treibhausgasbilanz deutlich verbessern.                                   form von sattdampf von ewb. da der satt-
+                                                                          dampf hauptsächlich bei der kehricht-
+durch die biologische reinigung des abwassers wer-                        verwertung erzeugt wird, fallen die treib-
+den relevante mengen von lachgas (n2o)4 freigesetzt.                      hausgasemissionen relativ gering aus. in
+mengenmässig deutlich geringere treibhausgasemis-                         der kategorie abfall fallen emissionen an,
+sionen entstehen durch das unkontrollierte entwei-                        die bei der verbrennung der nicht verwert-
+chen von methan (ch4-leckage) aus dem gassystem.                          baren rückstände aus dem reinigungs-
+die methanverluste konnten durch die neue biogas-                         prozess in der kehrichtverwertungsanlage
+aufbereitungsanlage jedoch deutlich reduziert werden.                     entstehen.
+beim abbau der organischen verbindungen im ab-
+wasser entstehen zudem erhebliche mengen an koh-                          im administrativen bereich entstehen 88%
+lendioxid (co2). im gegensatz zu fossil abgelagertem                      der treibhausgasemissionen durch mobili-
+co2, das z.b. bei der verbrennung von erdöl entsteht,                     tät. der hauptteil geht dabei auf die pen-
+stammt dieses co2 aber aus biologischen abfällen und                      delfahrten der 31 mitarbeitenden zurück.
+restprodukten und ist damit klimaneutral.                                 da die arabern ausserhalb der stadt bern
+                                                                          liegt, fahren die meisten mitarbeitenden mit
+                                                                          ihrem privatauto und motorrad zur arbeit.
+
+
+4
+    dieser prozess ist noch wenig erforscht und wird aktuell von der eidgenössischen anstalt für wasserversorgung, abwasserrei-
+    nigung und gewässerschutz (eawag) untersucht. erste schätzungen der eawag ergeben, dass durchschnittlich ca. 0,5% der
+    stickstoffzufuhr als n2o-emissionen entweichen.
+
+                                                                                                                                  17
+
+     allerdings hat der öv-anteil bei den pen-     tierte die arabern im vergangenen jahr in ihrem be-
+     delfahrten seit 2012 zugenommen. bei          trieb treibhausgasemissionen in der höhe von 8‘495
+     den geschäftsfahrten hat der anteil der       tonnen co2e. sie ermöglichte durch ihre erneuerba-
+     fahrzeuge mit erneuerbarem antrieb            ren energieprodukte insgesamt aber einsparungen
+     ebenfalls zugenommen und liegt nun bei        von 17‘333 tonnen co2e. damit spart die arabern dop-
+     33,2%. die arabern besitzt drei biogasau-     pelt so viele treibhausgasemissionen ein, wie sie sel-
+     tos, ein elektroauto sowie einen elektrisch   ber verursacht.
+     betriebenen hubstapler. im vergleich zum
+     jahr 2012 konnten so die treibhausgas-        treibstoff, brennstoff und heizwärme aus abwasser
+     emissionen pro mitarbeitenden bei den         in den faultürmen der arabern werden der klär-
+     geschäftsfahrten um 26% und bei den           schlamm sowie abfälle aus der lebensmittel- und
+     pendelfahrten um 12% gesenkt werden.          pharmaindustrie zu biogas vergärt. das aufbereite-
+     der heizenergiebedarf und die entspre-        te biogas dient 32 bussen von bernmobil als kli-
+     chenden treibhausgasemissionen für die        maneutraler treibstoff und sparte so 2014 rund 9‘905
+     beheizung des dienstgebäudes sind dank        tonnen co2 ein. der klimaneutrale treibstoff biogas
+     dessen effizienter bauweise im miner-         stammt zu 100% aus erneuerbaren ressourcen und
+     gie-standard gering. stromkonsum, ab-         ist mit dem qualitätslabel naturemade star zertifiziert.
+     fall, wasser, papier und versände tragen
+     ebenfalls zu einem geringen anteil zu den
+     treibhausgasemissionen im administrati-
+     ven bereich bei.
+
+     arabern – eine lokal bedeutende produ-
+     zentin erneuerbarer energie                   aus dem klärschlamm produziert die arabern ein tro-
+     nebst dem kerngeschäft der abwasser-          ckengranulat, das in der zementindustrie als brenn-
+     reinigung ist die arabern eine bedeutende     stoff verwendet wird. durch den ersatz von fossilem
+     produzentin erneuerbarer energie: bio-        erdöl konnten so im vergangenen jahr 6‘574 tonnen
+     methan, klärschlammgranulat und rest-         co2 eingespart werden. das klärschlammgranulat
+     wärme sind produkte der arabern, die          wird zu 100% verwertet. die nach der verbrennung
+     fossile energieträger ersetzen und damit      zurückbleibenden mineralischen anteile werden dem
+     zum klimaschutz beitragen. zwar emit-         zement anstelle von steinmehl beigemischt.
+
+
+
+18
+
+abwasser ist durch die nutzung in den haushalten und                   einfluss auf die biodiversität
+betrieben einige grad wärmer als die umgebung. die-                    die arabern ist als reinigungsanlage di-
+se wärme ist für den abbauprozess im biologischen                      rekt an das system aare angeschlossen.
+teil der abwasserbehandlung wichtig. die restwärme                     daher ist eine naturnahe gestaltung des
+wird bereits seit 1984 zum heizen von gebäuden in der                  firmengeländes wertvoll. so wurden ru-
+gemeinde bremgarten genutzt. umgerechnet werden                        deralflächen, ein biotop, ein insektenhotel
+mit der wärme aus dem abwasser heute rund 421                          und zehn bienenkästen angelegt, um die
+minergie- oder 114 durchschnitts-einfamilienhäuser                     biodiversität zu fördern. bei ihren wande-
+beheizt und so jährlich rund 854 tonnen co2 einge-                     rungen entlang der aare finden amphibi-
+spart. das potenzial ist jedoch weit grösser – der ab-                 en auf dem gelände der arabern während
+schluss des projekts «querverbund» im verlaufe des                     stunden oder tagen unterschlupf und
+jahres 2015 wird ideale voraussetzungen zur erweite-                   können sich vor der weiterreise erholen.
+rung des wärmekollektivs schaffen. nicht zuletzt ist es
+für die umwelt ein vorteil, dass das gereinigte abwas-                 mit der reinigung des abwassers leistet
+ser vor dem einleiten in die aare abgekühlt wird.                      die arabern einen entscheidenden bei-
+                                                                       trag daran, dass die aare und die nachfol-
+wasser                                                                 genden gewässer wohlensee, bielersee,
+das kerngeschäft der arabern besteht darin, das an-                    rhein und nordsee intakt bleiben. nur so
+fallende abwasser so weit zu reinigen, dass es beden-                  können diese gewässer ihre vielfältigen
+kenlos wieder in die aare geleitet werden kann. im                     funktionen als lebensraum, als teil des
+relativ nassen jahr 2014 wurden täglich durchschnitt-                  wasserhaushalts und nicht zuletzt als er-
+lich 98’193 m³ abwasser biologisch behandelt.                          holungsgebiet erfüllen.
+
+
+
+
+bilanz der treibhausgasemissionen der arabern in t co2e
+
+
+                                                                                  emissionen der arabern
+                                                                                  8’495
+
+
+
+
+             wärmeverbund   klärschlammgranulat      biogas
+             –854           –6’574                   –9’905
+
+
+
+
+                                                      total einsparungen
+                                                      –8’838
+
+
+
+
+–20’000           –15’000                  –10’000   –5’000                   0                        5’000   10’000
+
+
+
+
+                                                                                                                        19
+
+     mitarbeitende
+
+     • im dialog voneinander lernen und nachhaltigkeit fördern
+     • mitarbeitende leisten ihren ganz persönlichen beitrag zur nachhaltigkeit im beruf und darüber
+      hinaus.
+
+
+
+     die gesamte geschäftstätigkeit der ara-      mit ressourcen zum beispiel durch folgende mass-
+     bern ist auf den schutz der umwelt aus-      nahmen: wasserbedarf beim duschen reduzieren,
+     gerichtet. die hohe motivation der 31 mit-   handtücher mehrmals benutzen, treppensteigen an-
+     arbeitenden trägt massgebend dazu bei.       stelle von liftfahren, papierkonsum reduzieren.
+
+     die beste form der nachhaltigkeit ist die
+     täglich von den mitarbeitenden gelebte       «es ist für mich nach wie
+     2014 hat der personalausschuss ein pro-
+     jekt durchgeführt, um die mitarbeitenden
+                                                  vor schwierig, bestellungen
+     für ihren ganz persönlichen beitrag zur      zusammenzufassen, da das
+     nachhaltigkeit zu sensibilisieren – sei es
+     im betrieb oder im privaten bereich, denn    benötigte ersatzteil meis-
+     ein nachhaltiger lebensstil endet nicht
+     mit dem arbeitstag. in einer umfrage
+                                                  tens so schnell wie möglich
+     wurden die mitarbeitenden nach kreativen     gebraucht wird. durch die
+     ideen für einen nachhaltigen arbeits- und
+     lebensstil gefragt. die resultate zeigen:    grossen bauprojekte ist es
+     energiesparen ist bereits fest im be-
+     wusstsein der mitarbeitenden verankert,      im moment nicht möglich,
+     es kann aber noch ausgebaut werden.          material an lager zu neh-
+     nachhaltigkeit im beruflichen alltag         men, weil man nicht genau
+     auf die frage «wo glauben sie, im be-
+     rufsalltag bereits bewusst nachhaltig zu     weiss, was in zukunft alles
+     leben?» antworteten die meisten mitar-
+     beitenden, dass sie beim energiekonsum
+                                                  benötigt wird. zu hause ver-
+     (insbesondere licht) und beim ressour-       suche ich nach wie vor mei-
+     cenkonsum (wasser, papier, handtücher
+     etc.) sparsam sind. daneben gaben viele      ne familie zu sensibilisieren
+     mitarbeitende an, dass sie bewusst das
+     velo nehmen oder zu fuss gehen, wenn
+                                                  und den stromkonsum auf
+     sie sich auf der anlage der arabern bewe-
+     gen. die fünf velos der arabern ermögli-
+                                                  ein minimum zu reduzieren.
+     chen den mitarbeitenden jederzeit eine       damit der fernseher und die
+     rasche und umweltfreundliche fortbewe-
+     gung auf dem gelände.                        musikanlage nicht die ganze
+     möglichkeiten, einen persönlichen weite-
+                                                  zeit im stand-by-modus lau-
+     ren beitrag zu leisten, sahen die meisten    fen, habe ich mir eine zeit-
+     mitarbeitenden wiederum beim energie-
+     sparen, obwohl der grossteil der be-         schaltuhr zugelegt.»
+     fragten sich in diesem bereich bereits als
+     sparsam einschätzt. weiteres sparpoten-                                               beat gindrat
+     zial sehen die mitarbeitenden im umgang                                        verantwortlicher ict
+
+
+
+20
+
+in bezug auf die nachhaltigkeit der arabern findet der    dem personalausschuss ist bei der um-
+grossteil der mitarbeitenden, dass durch die laufen-      frage besonders aufgefallen, dass immer
+den prozessoptimierungen bereits ein grosser bei-         wieder das thema licht zur sprache kam.
+trag geleistet wird. hingegen ist vielen mitarbeitenden   licht ist eine energieform, die man sieht
+aufgefallen, dass licht noch gezielter eingesetzt wer-    und daher sehr bewusst wahrnehmen
+den kann. weitere vorschläge für die steigerung der       kann. offenbar sehen die mitarbeitenden
+nachhaltigkeit der arabern gab es in den bereichen        im privaten wie im betrieblichen bereich
+prozessoptimierung (z.b. motoren so auslegen, dass        weiteres potenzial für eine noch bewuss-
+ein hoher wirkungsgrad erreicht wird), einsatz von        tere nutzung von licht.
+solarzellen, konsequente abfalltrennung, verwen-
+dung von recyclingpapier und konsequentes schlies-        das ziel der umfrage war in erster linie
+sen der türen während der heizperiode.                    die sensibilisierung der mitarbeitenden
+                                                          für die nachhaltigkeit. ein jahr nach der
+nachhaltigkeit im privatleben                             umfrage hat der personalausschuss bei
+auf die frage «wo glauben sie, privat bereits bewusst     einzelnen mitarbeitenden nachgefragt,
+nachhaltig zu leben?» gaben viele mitarbeitende an,       wie sie die angegebenen verbesserungs-
+dass sie beim einkauf von lebensmitteln darauf ach-       vorschläge im betrieblichen und privaten
+ten, saisonal und regional einzukaufen und nur ange-      bereich umsetzen. die antworten lesen
+passte mengen sowie verpackungsarme lebensmittel          sie in den drei wortmeldungen von mitar-
+einzukaufen, um das abfallvolumen zu reduzieren.          beitenden in diesem kapitel.
+daneben ist der reduzierte verbrauch von heizenergie
+und licht bei vielen ein thema. im privaten bereich
+machen sich offenbar die meisten mitarbeitenden vie-
+le gedanken zum bereich lebensmittel und möchten
+grösstenteils den bewussten umgang mit lebens-
+mitteln noch weiter steigern. einen weiteren beitrag
+möchten privat viele mitarbeitende bei der mobilität
+leisten, indem sie häufiger das velo oder öffentliche
+verkehrsmittel anstelle des autos benutzen.
+
+
+
+
+                                                                                                      21
+
+     «es ist nicht immer möglich, nur lieferanten auszu-
+     wählen, die wert auf nachhaltigkeit legen. oft ist man
+     schlichtweg auf einen spezifischen lieferanten angewie-
+     sen. bei neuen lieferanten informiere ich mich auf der
+     website des unternehmens, ob diesem nachhaltigkeit
+     wichtig ist. ausserdem versuche ich, lieferanten, die
+     sehr viel verpackungsmaterial verwenden, so selten wie
+     möglich zu berücksichtigen. privat halte ich mich ziem-
+     lich strikte an das vollständige füllen von wasch- bzw.
+     abwaschmaschinen. zudem lasse ich die geräte, wann
+     immer möglich, in der nacht laufen und trockne die wä-
+     sche vorzugsweise an der frischen luft.»
+                                                                          martin reist, instandhaltungsplaner
+
+
+     die mitarbeitenden als wertvolle ressource   das wohl der mitarbeitenden ist oberstes anliegen
+     die mitarbeitenden sind das wichtigste       der arabern. da die mitarbeitenden in einer hygie-
+     kapital der arabern. ihre kontinuierliche    nisch sensiblen umgebung arbeiten, ist die arbeits-
+     aus- und weiterbildung sieht das unter-      sicherheit ein zentrales thema. zu den präventiven
+     nehmen als investition an. 2014 nahm         massnahmen gehört das obligatorische duschen und
+     jeder mitarbeitende durchschnittlich 16      umziehen nach der arbeit im abwasserreinigungs-
+     stunden an aus- bzw. weiterbildungen         prozess. die arbeitskleidung wird aus hygienischen
+     teil. die veranstaltungen des verbandes      gründen von einer reinigungsfirma gewaschen. der
+     der schweizer abwasser- und gewässer-        nötige impfschutz für die mitarbeitenden wird von der
+     schutzfachleute (vsa) bildeten dabei das     arabern organisiert und finanziert.
+     wichtigste angebot.
+
+
+     «ich habe es geschafft, eine positive einstellung zum
+     sonntagsdienst zu entwickeln. leider konnte ich selten
+     bis nie eine längere mittagspause, zum beispiel mit
+     einem spaziergang, machen, weil mir schlichtweg die
+     zeit dazu gefehlt hat. durch die grossen neu- und
+     umbautätigkeiten ist jeder im betrieb mehr als sonst
+     gefordert. deshalb habe ich mir es in letzter zeit zur
+     gewohnheit gemacht, täglich ein paar minuten auf den
+     hometrainer zu steigen. ich schaue mir dann gleichzei-
+     tig die nachrichten an.»
+                                                              hansulrich hirt, klärfachmann mit pikettfunktion
+
+
+
+22
+
+ökonomische nachhaltigkeit
+• öffentlicher auftrag und wirtschaftliche rentabilität stehen bei der arabern in einklang.
+• der indirekte wirtschaftliche nutzen der arabern ist hoch.
+• die abwasserreinigung kostet die einwohner der region bern 43 chf pro jahr.
+
+
+
+
+die arabern erfüllt mit der reinigung des abwassers        dem ertrag aus der annahme der bio-
+aus der region in erster linie einen klar umschriebe-      masse und dem verkauf des biomethans
+nen öffentlichen auftrag. als aktiengesellschaft ist sie   steht der aufwand für die investitionen
+aber auch zu unternehmerischem handeln verpflich-          der annahmestelle, der aufbereitung und
+tet.                                                       der biogasanlage sowie deren betrieb
+                                                           entgegen. während der ausbauphase in
+die wettbewerbsfähigkeit des unternehmens konn-            den jahren 2013 bis 2015 war bzw. ist es
+te in den letzten jahren markant gesteigert werden.        nicht möglich, die anlagen energetisch
+zahlreiche investitionen wurden und werden getätigt,       optimal zu betreiben und auch der wirt-
+um anlagen zu ersetzen, zu erneuern oder auszubau-         schaftliche nutzen wird sich erst in den
+en. die arabern ist ein dynamisches unternehmen,           nächsten jahren einstellen. der beitrag
+dessen markterfolg von seiner flexibilität und anpas-      der arabern an den gewässer- und klima-
+sungsfähigkeit sowie von weitsichtiger planung ab-         schutz ist insgesamt allerdings weit höher
+hängt.                                                     einzuschätzen als der finanzielle aufwand
+                                                           des unternehmens.
+vor einigen jahren hat sich die arabern zum ziel ge-
+setzt, die damals freien kapazitäten optimal zu nutzen.    im geschäftsalltag achtet die arabern
+es bot sich an, das vorhandene reichlich bemessene         auf die nachhaltigkeit der einkäufe. ge-
+volumen der faultürme zur vergärung von zusätzli-          schäftliche ausgaben (z.b. geschäftses-
+cher biomasse zu nutzen. mit der annahme von ver-          sen) werden mit der climate-credit-card
+gärbaren abfällen aus der lebensmittelindustrie und        bezahlt. diese gibt an, wie viele treib-
+dem gewerbe konnte dieses ziel inzwischen erreicht         hausgasemissionen durch den einkauf
+werden. die nähe zum autobahnanschluss bern neu-           verursacht werden.
+feld, ausserhalb der stadt bern, bedeutet in dieser
+hinsicht verkehrstechnisch einen vorteil. zudem ist
+die verwertung von biomasse durch die arabern be-
+standteil des abfallleitbildes des kantons bern. eine
+hohe produktion von erneuerbarer energie und deren
+nutzung als ersatz von fossilem treibstoff in den bus-
+sen von bernmobil sind teil der massnahmen zur
+energiewende in der region.
+
+
+
+                                                                                                        23
+
+     sich verändernde rahmenbedingungen                      • neue gesetze oder gesetzesänderungen können
+     die rahmenbedingungen, unter welchen                      die anforderungen an die reinigungsleistung verän-
+     die arabern betrieben werden kann, wir-                   dern.
+     ken sich wesentlich auf ihre wirtschaft-                • neue erkenntnisse im umwelt- und gewässer-
+     lichkeit aus.                                             schutzbereich können die anforderungen an die ab-
+                                                               wasserreinigungsanlagen verändern.
+     nachfolgend eine übersicht einiger sol-                 • die anpassung an den klimawandel kann mit finan-
+     cher sich möglicherweise verändernden                     ziellen investitionen verbunden sein (z.b. in hoch-
+     rahmenbedingungen und deren mögliche                      wasserschutzmassnahmen).
+     konsequenzen für die arabern:
+     • entwicklungen im einzugsgebiet (bevöl-                die arabern verfolgt die entwicklung dieser rah-
+       kerungswachstum, industrie, gewerbe,                  menbedingungen laufend, um den betrieb bei bedarf
+       neu angeschlossene gebiete) bestim-                   rasch und reibungslos anpassen zu können.
+       men die abwassermenge und damit die
+       dimensionierung der anlagen.                          kosten der abwasserreinigung
+     • veränderungen der lebensgewohnhei-                    für nahrungsmittel und getränke gibt jede/-r
+       ten der bevölkerung haben auswirkun-                  schweizer/-in rund 10 chf pro tag aus, ebenso für
+       gen auf das abwasser (z.b. zunahme                    die krankenversicherung. auch gereinigtes abwasser,
+       von mikroverunreinigungen, beispiels-                 das produkt der arabern, hat einen preis. die kosten
+       weise durch sonnencremes, duftstoffe,                 für die kanalisation und die abwasserreinigung betra-
+       pestizide, herbizide, medikamente und                 gen in der schweiz durchschnittlich 0.47 chf pro ein-
+       röntgenkontrastmittel).                               wohner und tag5. dies entspricht gerade mal 0,3% des
+     • neue voraussetzungen bei der entsor-                  durchschnittlichen tageseinkommens in der schweiz.
+       gung der reststoffe (klärschlammgra-                  berechnet man die jährlichen kosten der abwasser-
+       nulat, rechen- und sandfanggut) kön-                  reinigung durch die arabern, betragen diese 43 chf
+       nen die anforderungen an die reststoff-               pro einwohnerwert und jahr. dies ist im vergleich mit
+       verwertung verändern.                                 anderen abwasserreinigungsanlagen ein guter wert.
+
+
+
+     5
+         angabe des verbandes schweizer abwasser- und gewässerschutzfachleute
+
+
+
+
+24
+
+über diesen bericht
+
+
+
+
+der vorliegende nachhaltigkeitsbericht versteht sich       an, an welcher stelle im nachhaltigkeits-
+als zusätzliche information zum geschäftsbericht der       bericht die gri-leistungsindikatoren ent-
+arabern. es handelt sich um den dritten nachhaltig-        halten sind. der ausführliche gri-content-
+keitsbericht, der von der arabern veröffentlicht wird.     index steht auf der homepage der ara regi-
+der bericht erscheint jährlich als ergänzung zum ge-       on bern ag zum download zur verfügung.
+schäftsbericht, um die anspruchsgruppen über das
+nachhaltigkeitsmanagement und die nachhaltige ge-          der bericht betrifft das geschäftsjahr 2014.
+schäftsentwicklung der arabern zu informieren. der         soweit nicht anders vermerkt, stammen
+bericht erscheint in deutscher sprache.                    die daten aus dem berichtszeitraum vom
+                                                           1. januar 2014 bis zum 31. dezember 2014.
+kriterien zur gestaltung von nachhaltigkeitsberich-        zur berechnung der treibhausgasemissio-
+ten werden von der gemeinnützigen stiftung global          nen wurde die verifizierte emissionsfakto-
+reporting initiative (gri – www.globalreporting.org)       renliste version 5.1 von swiss climate ver-
+festgelegt. die freiwillige einhaltung der gri-kriterien   wendet.
+erhöht die glaubwürdigkeit der berichterstattung. zur
+erstellung des vorliegenden berichts wurde der gri-
+leitfaden g4 herangezogen. der bericht wurde nach
+der gri-«in übereinstimmungs»-option «kern» ver-
+fasst. auf eine externe prüfung des nachhaltigkeitsbe-
+richts wurde verzichtet. die unten stehende tabelle gibt
+
+
+berichtsteil                                     seiten                information zu folgenden gri-punkten
+
+nachhaltigkeitskennzahlen auf einen blick             2               10, ec1, en3–en8, en10, en15–en18,
+                                                            en20–en23, en30, la1, la6, la9, la12/la13, hr3
+vorwort                                               4                                             1.1, 1.2
+
+die arabern im dienste der einwohner                5–7                    3–9, en11, en22, en26, pr1/pr2
+
+unsere anspruchsgruppen                             8/9                12, 15/16, 24–27, en32–34, la14–la16
+
+werte und nachhaltigkeitsmanagement                  10                                         2, 56, la11
+
+umweltziele und massnahmen                        11/12                                     en27, pr1–pr3
+
+nachhaltigkeit bei umbauprojekten                 13/14                                     en6/en7, en27
+
+unser beitrag zur umwelt                          15 –19       ec2, en1, en3–en8, en11–en13, en15-en19,
+                                                                                        en26/en27, en30
+mitarbeitende                                     20–22                                          la9/la10
+
+ökonomische nachhaltigkeit                        23/24                                           ec1, ec8
+
+über diesen bericht                               25/26                                       18–21, 28–34
+
+impressum                                            27                                                  31
+
+
+
+
+                                                                                                               25
+
+         bestimmung der wesentlichkeit                                       nachhaltigkeitsrisiko erkannt? verfügt die arabern über
+         der vorliegende berichtsinhalt wird vom                             spezialwissen oder besondere fähigkeiten, um in die-
+         prinzip der wesentlichkeit bestimmt. die                            sem bereich zu einer nachhaltigen entwicklung beizu-
+         aspekte, welche für die beurteilung der                             tragen? trägt der aspekt zur erfolgreichen umsetzung
+         nachhaltigkeitsleistung der arabern von                             der strategie der arabern bei oder stärkt der aspekt die
+         bedeutung sind, wurden in einem work-                               werte der arabern? je mehr dieser fragen für einen
+         shop ermittelt. dabei wurde die wesent-                             aspekt mit ja beantwortet wurden, desto wesentlicher
+         lichkeit der aspekte anhand nachfolgender                           ist der aspekt für die arabern.
+         fragen eingestuft: ist der aspekt wichtig
+         für die stakeholder? ist der aspekt eine                            bei der weiteren priorisierung der wesentlichen aspek-
+         zukünftige herausforderung? steht der as-                           te wurde unterschieden nach der bedeutung des as-
+         pekt mit geltendem recht, internationalen                           pekts für die stakeholder (also ausserhalb der organi-
+         übereinkommen oder selbstverpflichtun-                              sation) bzw. der bedeutung des aspekts für die arabern
+         gen mit strategischer bedeutung für die                             (also innerhalb der organisation). als resultat ergab
+         arabern oder ihre stakeholder im zusam-                             sich eine wesentlichkeitsmatrix, welche die prioritären
+         menhang? bedeutet der aspekt eine chan-                             themen der arabern in bezug auf nachhaltigkeit auf-
+         ce oder ein risiko für die arabern? wird der                        zeigt.
+         aspekt von wissenschaftlern/experten als
+
+
+         wesentlichkeitsmatrix
+
+
+
+
+                                                                                                          abwasser
+                                 sehr hoch
+
+
+
+
+                                                                      wirtschaftliche leistung       und gewässerschutz
+     bedeutung für stakeholder
+
+
+
+
+                                                                                                     nachhaltige produkte
+
+
+                                                                     materialien und chemikalien            energie
+                                                gemeinwesen
+                                                                              wasser                     klimawandel
+                                 hoch
+
+
+
+
+                                                    vielfalt
+                                             und chancengleichheit         biodiversität             arbeitsbedingungen
+                                                                         und lebensräume                    für ma
+
+
+                                                                               abfall
+                                 mittel
+
+
+
+
+                                                    politik             investitions- und          bevölkerungsentwicklung
+                                                                      beschaffungspraktiken
+
+
+                                                     mittel                     hoch                        sehr hoch
+
+                                                                       bedeutung für die arabern
+
+
+
+26
+
+glossar/
+abkürzungsverzeichnis
+ara         abwasserreinigungsanlage                   naturemade       qualitätszeichen für ökolo-
+bhkw        blockheizkraftwerk: gasmotor mit           star             gisch produzierte energie
+            nutzung der elektrischen und der ther-                      und energie aus erneuer-
+            mischen energie                                             baren quellen. es wird nach
+biogas      energiereiches gas, welches in den                          eingehender kontrolle vom
+            faultürmen produziert wird                                  verein für umweltgerechte
+biomethan   aufbereitetes biogas in der qualität von                    energie (vue) verliehen.
+            erdgas                                     nox              stickoxide
+bsc         balanced scorecard: methode zur be-        pet              polyethylenterephthalat,
+            wertung von kriterien, welche die wirt-                     viele getränkeflaschen be-
+            schaftlichkeit, die zufriedenheit der                       stehen aus diesem werk-
+            kunden und mitarbeitenden, die belas-                       stoff
+            tung der umwelt und weitere aspekte        sox              schwefeloxide
+            eines unternehmens mit einschliesst        t                tonne
+ch4         methan, nutzbares energiereiches gas       thg              treibhausgas
+            (treibhausgas)
+co          kohlenmonoxid
+co2         kohlendioxid, endprodukt jeder ver-
+            brennung und der atmung von lebe-
+            wesen (treibhausgas)
+co2e        co2-äquivalent: umrechnung der kli-
+            mawirksamkeit aller treibhausgase in
+            co2e
+ew          einwohnerwert: entspricht der tatsäch-     impressum
+            lichen anzahl der einwohner im ein-
+            zugsgebiet sowie der umgerechneten         herausgeberin
+            belastung aus industrie und gewerbe        ara region bern ag
+ewb         energie wasser bern                        neubrückstrasse 190
+gri         global reporting initiative                postfach 58
+kg          kilogramm                                  ch-3037 herrenschwanden
+kwh         kilowattstunde                             tel. +41 (0)31 300 52 52
+led         von englisch light-emitting diode: licht   fax +41 (0)31 300 52 90
+            emittierende diode (energiesparende        e-mail: info@arabern.ch
+            leuchtmittel der neusten generation),      www.arabern.ch
+            leuchtdiode
+m 3
+            kubikmeter                                 konzept und redaktion
+bernmobil öffentlicher betrieb für den transport       swiss climate ag, bern
+            von personen in der region bern            www.swissclimate.ch
+mischsystem beim mischsystem werden häusliches
+            abwasser, betriebsabwasser aus in-         gestaltung
+            dustrie und gewerbe sowie regenab-         furrerhugi.corporate ag, bern
+            wasser in derselben leitung zur ab-        www.furrerhugi.ch
+            wasserreinigungsanlage geleitet. im
+            gegensatz dazu wird beim trennsys-         druck
+            tem das abwasser vom regenwasser           geiger ag, bern
+            getrennt geführt.                          www.geigerdruck.ch
+n2          elementares stickstoffgas (luftstick-
+            stoff)                                     © arabern, herrenschwanden
+n2o         lachgas (treibhausgas)                       (300 ex., august 2015)
+
+
+
+
+                                                                                                      27
+
+ara region bern ag
+neubrückstrasse 190
+postfach 58
+3037 herrenschwanden
+tel. +41 (0)31 300 52 52
+www.arabern.ch                                         platzhalter:
+                                                           fsc
+                                                       breite 20 mm
+
+
+                           platzhalter: klimaneutral
+                                breite 48 mm

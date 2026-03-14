@@ -1,0 +1,657 @@
+1   kennzahlenspiegel bkw        |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+    1         allgemeine grundsätze
+    die offenlegung der nicht-finanziellen leistung ist zentraler bestandteil dieses nachhaltigkeitsreports 2016 (nhr2016).
+    unsere finanziellen ergebnisse sind im geschäftsbericht 2016 ausführlich dargelegt.
+
+
+
+
+    2         anwendung aktueller & künftiger standards und
+              interpretationen
+    wir rapportieren unsere nachhaltigkeitsleistung in anlehnung an den gri g4 standard. wir orientieren uns an den prinzipien
+    und grundsätzen gemäss gri g4 und konzentrieren uns in unserer bewusst knapp gehaltenen darstellung auf das für unsere
+    stakeholder wesentliche. für die angleichung an den neuen gri srs nutzen wir die transitionsperiode; die umstellung ist bis
+    2018 geplant.
+
+    der bericht und der kennzahlendatensatz werden auf ihre materialität und aktualität hin überprüft, mindestens einmal
+    jährlich anlässlich der erarbeitung der materialitätsanalyse, und wenn nötig angepasst. im vergleich zu 2015 gab es keine
+    wesentlichen anpassungen.
+
+    für die berechnung der co2emissionen verwenden wir das greenhouse gas (ghg)-protokoll. die scope 2 emissionen werden
+    gemäss den corporate standard erstellt. eine anpassung nach dem änderungsantrag (2015) zu scope 2 berechnungen (mar-
+    ket/location-based) ist für 2018 geplant. im scope 3 berechnen wir aktuell die co2 äqv. für die kategorien «upstream emissi-
+    ons from fuels», «upstream emissions from electricity», transport and distribution losses, sowie «business travel».
+
+
+
+
+    3         reportinhalt
+    neben ausgewählten angaben zum organisationsprofil gemäss gri g4 sector supplement electric utilities, strukturiert dieser
+    nhr2016 sich nach unseren drei handlungsfeldern markt, mitarbeitende und nachhaltiger geschäftsbetrieb. weiterführende
+    angaben zu beispielsweise unserem stilllegungsprojekt kernkraftwerkwerk mühleberg, unseren ökofonds u./o. effizienzstei-
+    gernden sowie nachhaltigen stromprodukten & dienstleistungen sind online unter www.bkw.ch abrufbar.
+
+    liste mit leistungsindikatoren in anlehnung an gri g4 für den nhr2016.
+
+
+
+    handlungsfeld               indikator nr.          aspekt                   indikator
+
+    organisationsprofil         gri g4: eu1            organisationsprofil      installierte kapazität
+                                gri g4: eu2            organisationsprofil      stromproduktion
+                                gri g4: eu3            organisationsprofil      anzahl kunden
+                                gri g4: eu4            organisationsprofil      länge des übertragungs- u. verteilnetz
+
+    mitarbeitende               gri g4: 10             beschäftigung            total (vzä u. hc); fest (tz u. vz), usw.
+                                gri g4: la1            beschäftigung            mitarbeiterfluktuation
+                                gri g4: la6            as/gu                    bu, nbu, krankheit, todesfälle
+                                gri g4: la12           chancengleichheit        diversität & chancengleichheit
+                                gri g4: eu15           beschäftigung            pensionierungen in den nächsten 5/10 jahren
+
+    markt                       -                      -                        bkw-strom: anteil erneuerbarer energieträger
+    nachhaltiger
+    geschäftsbetrieb            gri g4: en1            material                 materialverbrauch
+                                gri g4: en3            energie                  energieverbrauch intern (primär & sekundär)
+                                gri g4: en8            wasser                   trinkwasserentnahme (gesamt)
+                                gri g4: en15           emissionen               thg scope 1
+                                gri g4: en16           emissionen               thg scope 2
+                                gri g4: en17           emissionen               thg scope 3
+
+2   kennzahlenspiegel bkw         |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+                                 gri g4: en23            abfall                 gesamtgewicht des abfalls nach art
+                                 gri g4: eu12            systemeffizienz        verlustenergie netze
+                                 gri g4: eu28            access                 saifi
+                                 gri g4: eu29            access                 saidi
+                                 gri g4: eu30            access                 durchschnittliche verfügbarkeit kraftwerke
+
+
+
+
+    4        konsolidierungsgrundsätze
+    –– der jährlich erscheinende nhr richtet sich nach dem kalenderjahr.
+       der 31.12. ist abschlussstichtag.
+    –– dieser report bezieht sich auf das geschäftsjahr 2016.
+    –– für das geschäftsjahr 2016 verzichten wir auf eine externe prüfung und verifizierung des nhr.
+
+
+
+
+    4.1      konsolidierungskreis
+
+    grundsätzlich umfasst der nhr die gesamte bkw gruppe, d.h. die bkw energie ag inklusive konzerngesellschaften sowie
+    assoziierte, an welche wir eine mehrheitsbeteiligung halten (beteiligungsquote >50%). die kraftwerke oberhasli ag (kwo), an
+    der wir eine beteiligungsquote von genau 50% halten, sind somit in diesem report nicht berücksichtigt. einzig wird der
+    rechnerische anteil beim energieverbrauch (gri g4 en3) und den co2-emissionen (gri g4 en16) bei unseren minderheitsbeteili-
+    gungen an pumpspeicherkraftwerke freiwillig offengelegt. die kwo ag veröffentlicht einen eigenen nachhaltigkeitsbericht.
+
+    ausnahmen 2016:
+
+    –– alle konzerngesellschaften der isp gruppe (100%) wurden in 2016 nicht berücksichtigt. eine genaue auflistung dieser
+       konzerngesellschaften finden sie im nächsten kapitel.
+    –– daten von assoziierten, an denen wir eine minderheitsbeteiligung halten (<50%), verwenden wir, wenn unsere stakeholder
+       und/oder wir diese aus nachhaltigkeitssicht oder zur vervollständigung des gesamtbildes als relevant erachten (siehe
+       kapitel "berücksichtigung relevanter, assoziierter minderheitsbeteiligungen"). die offenlegung einer assoziierten minder-
+       heitsbeteiligung geschieht auf freiwilliger basis. im nhr2016 haben wir folgende minderheitsbeteiligungen als relevant
+       eingestuft:
+       –– steinkohlekraftwerk wilhelmshaven (beteiligungsquote 33%)
+       –– gas-und-dampf-kombikraftwerk livorno ferraris (beteiligungsquote 25%).
+    –– eine im jahr 2016 akquirierte konzerngesellschaft oder assoziation, welche gemäss definition vollkonsolidiert (mehrheits-
+       anteil >50%) ist, berücksichtigen wir grundsätzlich erst im folgejahr; dies, um die internen berichterstattungsprozesse für
+       nicht-finanzielle kennzahlen den mindestanforderungen der bkw anzugleichen.
+
+
+
+
+    4.2      änderungen und abweichungen im berichterstattungsjahr 2016
+
+    folgend sind änderungen am konsolidierungskreis, sowie abweichungen mit dem geschäftsbericht der bkw für das geschäfts-
+    jahr 2016 erfasst.
+
+    neu erfasste konzerngesellschaften im nhr 2016
+    –– ingenieurgemeinschaft di anton bilek und di gunter krischner gmbh (igbk)
+    –– kraftwerks- & anlagen-engineering gmbh (kae)
+    –– technische informationen & dienstleistungen p. tschannen gmbh (tid)
+
+    rapportiert wurde zu den gri g4 indikatoren g4-10, la1, la6, la12, en3, en8, en15, en16, en17 und en23.
+
+    2016 bis auf weiteres nicht, oder nicht weiter erfasste gesellschaften
+    –– cc energie sa.
+    –– biogasanlage frutigen; anlage wurde verkauft.
+
+3   kennzahlenspiegel bkw         |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+    2016 noch nicht erfasste konzerngesellschaften
+    die folgenden konzerngesellschaften wurden entweder in 2016 akquiriert, oder sind teil der isp gruppe resp. antec group. sie
+    sind teil des konsolidierungskreises des bkw geschäftsberichts 2016, aber nicht des nachhaltigkeitsberichts. die differenz
+    beträgt gesamthaft rund 2207 vollzeitäquivalente (vzä). der konsolidierungskreis des geschäftsberichts 2016 der bkw
+    umfasst 5007 vzä.
+
+    aek energie ag (vollkonsolidiert 2016), aek pellet ag (vollkonsolidiert 2016), aicher, de martin und zweng ag (akquiriert 2016),
+    antec group ag (akquiriert 2015), arpe gruppe ag (akquiriert 2016), aqua innovation ag (akquiriert 2016), balzer ag (akquiriert
+    2016), bkw isp haustechnik ag, cantoni haustechnik ag (isp gruppe), dietrich kälte klima lüftung ag (isp gruppe, akquiriert
+    2015), ees jäggi-bigler ag (isp gruppe), elektro aebi ag (isp gruppe, akquiriert 2015), elektro feuz ag (isp gruppe), frey & gnehm
+    ag (akquiriert 2016), , hertig haustechnik ag (isp gruppe), hertil+ bertschy ag (akquiriert 2016), ifb eigenschenk gruppe (akqui-
+    riert 2016), ife ingenieurteam ag (akquiriert 2016), inag-nievergelt ag (akquiriert 2016), inelectro sa (isp gruppe), iwag ingenieu-
+    re ag (akquiriert 2016), karl waechter ag (isp gruppe, akquiriert 2015), kasteler-guggisberg ag (isp gruppe, akquiriert 2015), lami
+    sa (akquiriert 2016), lindschulte ingenieur holding ag (akquiriert 2016), lutz bodenmüller ag (isp gruppe, akquiriert 2015), mri
+    marcel rieben ingenieure ag (akquiriert 2016), marzolo & partner ag (isp gruppe, akquiriert 2015), mollet energie ag (vollkonsoli-
+    diert 2016), neukom installationen ag (isp gruppe), proxima s.r.l. (akquiriert 2016), schmid amrhein ag (akquiriert 2016),
+    schönenberger & partner ag sanitäre anlagen (isp gruppe, akquiriert 2015), securon ag (vollkonsolidiert 2016), solare datensyste-
+    me gmbh (2015), studio frosio s.r.l. (akquiriert 2016), weber ag, stäfa (isp gruppe, akqui-riert 2015), wind energy trading wet ag
+    (akquiriert 2016).
+
+
+
+
+    4.3      berücksichtigung relevanter, assoziierter minderheits-
+             beteiligungen
+
+    relevante minderheitsbeteiligungen legen wir freiwillig offen. seit 2015 verrechnen wir, um doppelzählungen zu vermeiden,
+    nicht mehr deren gesamten material- und energieverbräuche (gri g4 en1 und en3) sowie die gesamten treibhausgasemissio-
+    nen in co2-äquivalenten (gri g4 en15, en16 und en17) einer relevanten minderheitsbeteiligung. stattdessen verrechnen wir
+    nach gängiger praxis neu ausschliesslich unseren rechnerischen anteil (beteiligungsquote) eines gesamtverbrauchs resp. der
+    gesamtemissionen. auch diese methode bildet nicht die tatsächliche realität ab. wir berücksichtigen nicht die in einem jahr
+    tatsächlich abgenommene strommenge, sondern den uns rechnerisch zustehenden anteil des produzierten stroms einer
+    beteiligung. diese methode soll über eine längere berichterstattungsperiode jedoch zu weniger schwankungen bei den
+    rapportierten mengen führen.
+
+
+
+
+    4.4      software roll-out
+
+    2016 setzten wir erstmals eine externe csr-managementsoftware flächendeckend zur datenerhebung ein. dies führte zu
+    einer verbesserung der datenqualität aufgrund erhöhter rigorosität im erhebungsprozess. die publizierten vorjahreskennzah-
+    len bleiben trotz systemumstellung vergleichbar mit dem geschäftsjahr 2016.
+
+4   kennzahlenspiegel bkw              |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+    5          nicht-finanzielle kennzahlen 2016
+    5.1        organisationsprofil
+    organisationsprofil (electric utilities)
+
+    installierte leistung gri g4: eu1
+
+
+    mw                                                                                                          2016      2015      2014      2013
+
+    bkw energie ag und kg
+    wasser                                                                                                       287       279       282       282
+    wind                                                                                                         387       378       358       357
+    sonne                                                                                                         8.2        2         2         3
+    biomasse                                                                                                       1         1         2         3
+    erdgas                                                                                                        62        62        62        62
+    kernenergie                                                                                                  373       373       373       373
+    total                                                                                                       1'119    1'095     1'079     1'080
+
+    bkw bezugsrechte u. mb
+    wasser                                                                                                      1'433    1'326     1'310     1'310
+    wind                                                                                                          51        35        35        35
+    sonne                                                                                                          0         0         0         1
+    biomasse                                                                                                       5         4         4         4
+    erdgas                                                                                                       200       200       200       200
+    kernenergie                                                                                                  424       416       416       416
+    kohle                                                                                                        241       241       k/a       k/a
+    total                                                                                                       2'354    2'223     1'966     1'966
+
+    wärmeproduktion bkw gruppe
+    wärmepumpen                                                                                                   3.4       3.4       3.8      k/a
+    holz                                                                                                          9.7       9.7       9.7      k/a
+    biogas                                                                                                        2.2       2.3       2.6      k/a
+    fossil                                                                                                       15.2     15.2      17.1       k/a
+    total                                                                                                        30.5     30.6      33.2       k/a
+
+
+    1)		 kg ist eine abkürzung für konzerngesellschaft
+    2)		 mb ist eine abkürzung für minderheitsbeteiligung
+    3)		 für informationen zum konsolidierungskreis (bspw. assoziierte gesellschaften) bitte hier weiterlesen
+
+
+
+
+    stromproduktion gri g4: eu2
+
+
+    gwh                                                                                                         2016      2015      2014      2013
+
+    bkw energie ag inkl. kg
+    wasser                                                                                                  1'260.2     1'147.8   1'339.1   1'291.4
+    wind                                                                                                        678.4    644.8     623.2     614.7
+    sonne                                                                                                         2.7       1.8       1.9       2.6
+    biomasse                                                                                                     21.4      19.9     21.8      20.1
+    erdgas                                                                                                      138.3    113.3      47.8       43.7
+    kernenergie                                                                                             2'950.0     2'933.9   3'022.7    2'938
+    total                                                                                                   5'051.4     4'861.4   5'056.5   4'910.5
+
+    bkw bezugsrechte und mb
+    wasser                                                                                                  2'512.7     2'970.9   2'661.9   2'709.4
+    wind                                                                                                         61.0     60.4      51.2      28.2
+    sonne                                                                                                         0.5       0.7       0.6       0.5
+    biomasse                                                                                                      1.7       2.4       1.2       0.9
+    erdgas                                                                                                      863.9    793.7     420.5     634.9
+
+5   kennzahlenspiegel bkw              |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+    kernenergie                                                                                             2'310.5       2'941.3    3'057.2    2'895.3
+    kohle                                                                                                        419.0     200.1        k/a        k/a
+    total                                                                                                   6'169.3       6'969.6    6'192.6    6'269.2
+
+
+    gesamttotal                                                                                            11'220.7      11'831.0   11'249.1   11'179.7
+
+    wärmeproduktion bkw gruppe
+    wärmepumpen                                                                                                    5.6        5.5        5.5       k/a
+    holz                                                                                                          24.5       22.3       21.1       k/a
+    biogas                                                                                                         5.1        4.1        1.6       k/a
+    fossil                                                                                                         9.5        9.3       11.0       k/a
+    total                                                                                                         44.8      41.3        39.2       k/a
+
+
+    1)		 kg ist eine abkürzung für konzerngesellschaft
+    2)		 mb ist eine abkürzung für minderheitsbeteiligung
+    3)		 für informationen zum konsolidierungskreis (bspw. assoziierte gesellschaften) bitte hier weiterlesen
+
+
+
+
+    anzahl privat-, industrie-, institutions- und geschäftskunden gri g4: eu3
+
+    anzahl                                                                                                       2016       2015       2014       2013
+    privatkunden (haushalte)                                                                               440'767       362'018    360'046    357'118
+    geschäftskunden schweiz                                                                                      2'482     3'005      2'779      23'83
+    geschäftskunden italien                                                                                       956        k/a        k/a        k/a
+    vertriebspartner                                                                                              131        142        144        114
+    vertriebspartner italien                                                                                       27        k/a        k/a        k/a
+    direkt versorgte gemeinden                                                                                    352        354        345        353
+    total                                                                                                  444'715       365'519    363'314    359'968
+
+
+
+    1)		 nur bkw energie ag. für weitere informationen zum konsolidierungskreis, bitte hier weiterlesen
+
+
+
+
+    länge des bkw verteilnetzes gri g4: eu4
+
+    kilometer                                                                                                    2016       2015       2014       2013
+    überregionales verteilnetz (50 kv bis 132 kv)                                                                1'242     1'177      1'177      1'124
+    regionales verteilnetz (0.23 kv bis 16 kv)                                                                  21'054    206'47     20'976     20'929
+    total                                                                                                   22'296        21'824     22'153     22'053
+    wovon freileitungen                                                                                          5'338     5'436      5'527        k/a
+    wovon kabelleitung                                                                                          16'958    16'387     16'626        k/a
+
+
+
+    1)		 nur bkw energie ag. für weitere informationen zum konsolidierungskreis, bitte hier weiterlesen
+
+6   kennzahlenspiegel bkw             |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+    5.2          handlungsfeld mitarbeitende
+    mitarbeitende
+
+    anzahl mitarbeitende: gri g4: 10
+
+                                                                                                2016     2015     2014     2013
+    vollzeitäquivalente                                                                         2'800    2'925    3'189    2'859
+    personen                                                                                    2'990    3'088    3'380    3'016
+    vollzeitstellen                                                                             2'444    2'577    2'838    2'541
+    teilzeitstellen                                                                              546      511      542      475
+
+
+    kadermitglied                                                                                370      395      615      567
+    mitarbeitende                                                                               2'620    2'693    2'765    2'449
+
+    auszubildende und befristete mitarbeitende
+    auszubildende                                                                                108      106      216      174
+    personen mit befristeten arbeitsverträgen                                                    130      197      254      161
+
+
+    1)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    		 bemerkung: in 2016 zählte die gesamte bkw gruppe inkl. konzerngesellschaften 5007 vzä
+    2)		 aushilfen sind nicht berücksichtigt
+
+
+
+
+    fluktuationsrate gri g4: la1
+
+                                                                                                2016     2015     2014     2013
+    bruttofluktuation (personen)                                                                 400      394      427      448
+    bruttofluktuation (%)                                                                       13.38   12.76    12.63    14.85
+
+
+    pensionierungen                                                                               37       26       28       77
+    kündigungen durch mitarbeitende                                                              222      229      274      260
+    entlassungen                                                                                 138      137      124      103
+    todesfälle (ausserhalb betrieb)                                                                3        2        1        8
+
+
+    nettofluktuation (personen)                                                                  222      229      274      260
+    nettofluktuation (%)                                                                         7.42     7.42     8.11     8.62
+
+
+    1)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    2)		 fluktuation ohne todesfälle (nicht-betrieb und pensionierungen)
+
+
+
+    arbeitssicherheitsschutz und gesundheitsschutz gri g4: la6
+
+                                                                                                2016     2015     2014     2013
+    todesfälle                                                                                     0        0        0        0
+    berufsunfälle (tage)                                                                        2'336    1'905    1'995    2'129
+    nichtberufsunfälle (tage)                                                                   3'689    4'312    4'100    3'587
+    krankheit (tage)                                                                           19'631   21'589   16'669   18'614
+
+
+    berufsunfälle (anzahl)                                                                       163      157      168      115
+    nichtberufsunfälle (anzahl)                                                                  459      252      351      287
+
+    1)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    2)		 angaben in tagen bezogen auf festanstellungen
+    3)		 anzahl fälle inkl. auszubildender und befristeter angestellter
+
+7   kennzahlenspiegel bkw             |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+    chancengleichheit gri g4: la12
+
+    anzahl                                                                                2016    2015     2014    2013
+    personen                                                                 männlich      523       571    594     559
+    personen                                                                 weiblich    2'467    2'517    2'803   2'457
+
+
+    personen im kader                                                        weiblich       35        39
+                                                                                                            615     567
+    personen im kader                                                        männlich      335       356
+
+
+    personen in altersgruppe                                                   bis 20       30        22     37      28
+    personen in altersgruppe                                                   21-30       461       520    672     565
+    personen in altersgruppe                                                   31-40       753       854    897     811
+    personen in altersgruppe                                                   41-50       796       790    868     788
+    personen in altersgruppe                                                   51-60       728       713    715     658
+    personen in altersgruppe                                                     >60       222       189    191     166
+
+    1)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+
+
+
+
+    voraussichtliche pensionierungen gri g4: eu15
+
+    personen                                                                              2016    2015     2014    2013
+    voraussichtliche pensionierungen in 5 jahren                                           198       190    181     149
+    voraussichtliche pensionierungen in 10 jahren                                          519       540    485     360
+
+
+    1)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+
+
+
+
+    5.3        handlungsfeld markt
+    markt
+
+    bkw-strom: anteil aus erneuerbaren energien gemäss stromkennzeichnung
+
+
+    %                                                                                     2016    2015     2014    2013
+    elektrische energie                                                                 * 57.03   33.72    25.95   38.33
+
+
+    1)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    2)		 * www.stromkennzeichnung.ch
+
+8   kennzahlenspiegel bkw            |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+    5.4         handlungsfeld nachhaltiger geschäftsbetrieb
+    nachhaltiger geschäftsbetrieb
+
+    eingesetzte materialien gri g4: en1
+
+    2016                                                                                                    bkw gruppe mb 3deutschland       mb 3italien
+    erdgas (m3)                                                                                              31'230'410                  0   30'852'145
+    immobilien                                                                                                  104'436                  0              0
+    wärmeproduktion                                                                                             866'136                  0              0
+    stromproduktion                                                                                           30'259'839                 0   30'852'145
+    biogene brennstoffe (m3)                                                                                  1'133'261                  0              0
+    holzpellets                                                                                                     477                  0              0
+    holzschnitzel                                                                                                 22'114                 0              0
+    biogas                                                                                                     1'110'670                 0              0
+    uran (t)                                                                                                         k/a               k/a             k/a
+    benzin total (l)                                                                                            425'044                  0              0
+    mobilität (eigene flotte)                                                                                   424'531                  0              0
+    stromproduktion                                                                                                 513                  0              0
+    diesel total (l)                                                                                          1'616'895                  0              0
+    mobilität (eigene flotte)                                                                                  1'616'895                 0              0
+    erdöl (l)                                                                                                   236'796          2'589'537              0
+    immobilien                                                                                                    10'897                 0              0
+    wärmeproduktion                                                                                             188'038                  0              0
+    stromproduktion                                                                                               37'861         2'589'537              0
+    kohle (t)                                                                                                          0          123'363               0
+    stromproduktion                                                                                                    0          *123'363              0
+
+
+
+    1)		 *in 2016 führten längere produktionsunterbrüche im steinkohlekraftwerk wilhelmshaven im vergleich zum vorjahr zu einem starken rückgang im
+    		 steinkohleverbrauch für die stromproduktion
+    2)		 mb ist eine abkürzung für minderheitsbeteiligung
+    3)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    4)		 ab 2015 weisen wir für unsere assoziierten minderheitsbeteiligungen unseren rechnerischen, anteilsmässigen verbrauch an eingesetzten
+    		 energieträgern aus
+    			         – für deutschland weisen wir freiwillig die steinkohle- und erdölverbräuche unserer minderheitsbeteiligung am steinkohlekraftwerk 		
+    			           wilhelmshaven aus
+    			         – für italien weisen wir den erdgasverbrauch fürs gas-und-dampf-kombikraftwerk (gud) livorno ferraris aus
+    		 für weitere details zu unserem verrechnungsansatz bei minderheitsbeteiligungen, bitte hier weiterlesen
+
+9   kennzahlenspiegel bkw             |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+    energieverbrauch gri g4: en3
+
+                                                                                                              2016         2015          2014          2013
+
+    primärenergie (in mwh)
+    erdgas                           bkw gruppe                                                           *322'662      175'740         76'889        9'250
+                                     minderheitsbeteiligungen                                              318'934      443'542       228'542     1'336'667
+    heizöl                           bkw gruppe                                                              2'528         2'736         3'912        5'083
+                                     minderheitsbeteiligungen                                               25'943        26'400             0          k/a
+    kohle                            minderheitsbeteiligungen                                            **990'330     2'766'390             0          k/a
+    treibstoffe                                                                                             19'714        19'114        21'560       14'306
+    biogene brennstoffe                                                                                     39'442        36'493        32'051          k/a
+
+
+                                    gesamtverbrauch primärenergie bkw gruppe                               384'346      234'083       134'411        28'639
+                                    gesamtverbrauch bkw gruppe inkl. mb                                  1'719'553    3'470'415       362'953     1'365'306
+
+    sekundärenergie
+                                    elektrische energie                                                    155'590      145'152       142'607       131'676
+                                    elektrische energie ohne kkm                                            43'757       25'667        28'240        21'052
+                                    wärme                                                                    5'605        5'536         5'525         7'411
+                                    gesamtverbrauch                                                       161'195       150'688       148'132       139'083
+
+
+    1)		 *die erhöhte betriebszeit unseres gas-und-dampf-kombikraftwerks (gud) in italien führte zu einer zunahme beim erdgasverbrauch
+    2)		 **in 2016 führten produktionsunterbrüche im steinkohlekraftwerk wilhelmshaven zu einem starken rückgang beim steinkohleverbrauch für die 		
+    		stromproduktion
+    3)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    4)		 ab 2015 weisen wir für unsere assoziierten minderheitsbeteiligungen den rechnerischen anteil auf basis unserer beteiligungsquote (kapitalisierung)
+    		 aus (vgl. berücksichtigung der minderheitsbeteiligungen). die betroffenen zahlenwerte wurden zu vergleichszwecken bis und mit 2014 korrigiert
+    		publiziert
+
+
+
+
+    trinkwasserverbrauch gri g4: en8
+
+    m3                                                                                                        2016         2015          2014          2013
+    total                                                                                                 *199'310        27'003       26'731        14'873
+    pro mitarbeitenden (vzä)                                                                                    71             9             8            5
+
+
+    1)		 *die hohe zunahme beim trinkwasserverbrauch in 2016 lässt sich mit qualitativ hochwertigeren messdaten (weniger hochrechnungen), neue 		
+    		 kontierungsregeln (bspw. wasserverbräuche von wärmepumpen nicht länger externalisiert) bei einer grossen schweizerischen konzerngesellschaft,
+    		 sowie eine erweiterung des erhebungskreises erklären
+    2)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+
+
+
+
+    direkte treibhausgasemissionen (scope 1) gri g4: en15
+
+    tco2 äqv.                                                                                                 2016         2015          2014          2013
+    direkte emissionen bkw gruppe                                                                          *71'350        41'603        23'867        8'113
+    direkte emissionen minderheitsbeteiligungen                                                          **423'480     1'080'403        46'201      270'217
+
+
+
+    1)		 *insb. der erhöhte erdgasverbrauch bei der stromproduktion führte zu höheren co2 äqv. werten in 2016
+    2)		 **in 2016 führten produktionsunterbrüche im steinkohlekraftwerk wilhelmshaven zu einem starken rückgang beim steinkohleverbrauch, der co2
+    		 ausstoss für die stromproduktion reduzierte sich somit erheblich.
+    3)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+    4)		 ab 2015 weisen wir für unsere assoziierten minderheitsbeteiligungen den rechnerischen anteil auf basis unserer beteiligungsquote (kapitalisierung)
+    		 aus (vgl. berücksichtigung der minderheitsbeteiligungen). die betroffenen zahlenwerte wurden zu vergleichszwecken bis und mit 2014 korrigiert
+    		publiziert
+    5)		 ausgewiesene gase: co2, ch4, n2o und sf6
+    6)		 quellenangaben: entso-2012, ipcc2006, ipcc2007 und bafu 2008
+
+10   kennzahlenspiegel bkw             |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+     indirekte energiebezogene treibhausgasemissionen (scope 2) gri g4: en16
+
+     tco2 äqv.                                                                                                 2016         2015          2014          2013
+     indirekte emissionen bkw gruppe                                                                        *93'058        59'209        57'323       54'055
+     indirekte emissionen minderheitsbeteiligungen                                                          184'487       183'060      183'178       183'178
+
+
+     1)		 *beim systemwechsel auf wesustain korrigierten wir für 2016 eine fehlerhafte formel für die berechnung der co2-werte bei den netzverlusten mit
+     		 faktor 10 (2016 neu 34'017 tonnen statt alt 3402 tonnen co2 äqv.).
+     2)		 im scope 2 weisen wir freiwillig die co2 äqv. emissionen unserer minderheitsbeteiligungen an schweizerischen pumpspeicherwasserkraftwerken 		
+     		 (inkl. kraftwerke oberhasli - kwo -) aus. eine gesamtliste der assoziierten beteiligungen ist im aktuellen geschäftsbericht bkw 2016, seite 93 		
+     		abgebildet
+     3) für informationen zum konsolidierungskreis bitte hier weiterlesen
+     4)		 ab 2015 weisen wir für unsere assoziierten minderheitsbeteiligungen den rechnerischen anteil auf basis unserer beteiligungsquote (kapitalisierung)
+     		 aus (vgl. berücksichtigung der minderheitsbeteiligungen). die betroffenen zahlenwerte wurden zu vergleichszwecken bis und mit 2014 korrigiert
+     		publiziert
+     5)		 ausgewiesene gase: co2, ch4, n2o und sf6
+     6)		 quellenangaben: entso-2012, ipcc2006, ipcc2007 und bafu 2008
+
+
+
+     weitere indirekte treibhausgasemissionen (scope 3) gri g4: en17
+
+     tco2 äqv.                                                                                                 2016         2015          2014          2013
+     entlang wertschöpfungskette bkw gruppe                                                                 *39'057        21'890        16'344       13'515
+     entlang wertschöpfungskette minderheitsbeteiligungen                                                    65'456        55'294        42'852       90'077
+
+
+     1)		 *im vorjahresvergleich führte u.a. der höhere verbrauch an erdgas und biogenen brennstoffen bei der strom- u. wärmeproduktion zu höheren 		
+     		co2-werten im bereich «upstream emissions from fuels»
+     2)		 für scope 3 weisen wir die relevanten minderheitsbeteiligungen nur die «upstream emissions from fuels» aus
+     3)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+     4)		 ab 2015 weisen wir für unsere assoziierten minderheitsbeteiligungen den rechnerischen anteil auf basis unserer beteiligungsquote (kapitalisierung)
+     		 aus (vgl. berücksichtigung der minderheitsbeteiligungen). die betroffenen zahlenwerte wurden zu vergleichszwecken bis und mit 2014 korrigiert
+     		publiziert
+     5)		 ausgewiesene gase: co2, ch4, n2o und sf6
+     6)		 quellenangaben: entso-2012, ipcc2006, ipcc2007 und bafu 2008
+
+
+
+
+     abfall und entsorgung gri g4: en23
+
+     tonnen                                                                                                    2016         2015          2014          2013
+     konventioneller abfall                                                                                  15'553         3'289         2'561        2'221
+     sonderabfall                                                                                             1'148           112           425          134
+     gesamtabfallmenge                                                                                       16'701         3'401         2'986        2'355
+     uran: verbrauchte ressource                                                                                  0           k/a           6.7          k/a
+
+
+     pro mitarbeitenden                                                                                        5.55          1.16          0.94         0.82
+
+
+     1)		 *die starke zunahme, insb. bei den konventionellen abfällen in 2016 ist mehrheitlich projektbedingt und einmalig. in der schweiz wurde der boden
+     		 einer unserer unterstationen umfangreich saniert, welches mit über 8000 tonnen konventioneller abfall zusätzlich zu buche ging. ausserdem 		
+     		 steigerten wir die datenqualität durch einen optimierten reportingprozess mit unserem schweizerischen hauptentsorgungspartner erheblich
+     2)		 für informationen zum konsolidierungskreis bitte hier weiterlesen
+
+
+
+
+     technische übertragungs- u. verteilverluste gri g4: eu12
+
+     gwh                                                                                                       2016         2015          2014          2013
+     verlustenergie gesamt (in gwh)                                                                           157.7         155.4         165.0        161.0
+     verluste überregionale verteilung (in %)                                                                   0.7           0.9           1.0              1.0
+     verluste regionale verteilung (in %)                                                                       1.4           1.4           3.0              3.0
+
+
+
+     1)		 nur bkw energie ag
+
+11   kennzahlenspiegel bkw          |   nicht-finanzielle leistungskennzahlen geschäftsjahr 2016
+
+
+
+
+     system average interruption frequency index (saifi) gri g4: eu28
+
+     anzahl                                                                           2016     2015     2014   2013
+                                                                                      0.49     0.61     0.37   0.32
+
+     1)		 angaben ab 2014 rückwirkend gemäss neuer berechnungsmethode nach vse
+     2)		 nur bkw energie ag
+
+
+
+     system average interruption duration index (saidi) gri g4: eu29
+
+     minuten                                                                          2016     2015     2014   2013
+                                                                                       29          32    29     26
+
+     1)		 angaben ab 2014 rückwirkend gemäss neuer berechnungsmethode nach vse
+     2)		 nur bkw energie ag
+
+
+
+
+     verfügbarkeit der kraftwerke gri g4: eu30
+
+     prozent                                                                          2016     2015     2014   2013
+
+     hydro / wasserkraft
+     ø technische verfügbarkeit                                                       93.9     94.5     91.5   95.8
+
+     kernenergie
+     arbeitsausnutzung kkm                                                            98.8     89.6     92.3   90.8
+
+
+     1)		 nur bkw energie ag

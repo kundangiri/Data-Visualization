@@ -1,0 +1,1652 @@
+executive report
+
+
+
+
+r e d e f i n e
+the future
+2014 emc sustainability report
+
+about the cover
+emc employees participate in citizen science data collection activities in conjunction with earthwatch institute and the schoodic institute
+at acadia national park. to learn more about this partnership that utilizes big data to study the impact of climate change on migrating birds,
+please visit the “role of it in society” section of this report.
+
+executive report
+table of contents
+message from our ceo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2
+
+message from our cso                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            3
+
+sustainability strategy & materiality                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           4
+
+stakeholder engagement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          5
+
+goals, targets, & progress                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      6
+
+most material sustainability issues
+•   energy efficiency & climate change                                                                                                     .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      10
+•   ewaste   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      11
+•   supply chain responsibility                                                                          .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    12
+•   stem education                                     .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      13
+•   information security & privacy                                                                                  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     14
+•   role of it in society                                           .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     15
+•   innovation            .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     16
+•   diversity & inclusion                                              .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     17
+•   corporate governance                                                        .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     18
+
+appendix
+•   about emc’s 2014 sustainability report                                                                                                                      .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      19
+•   corporate profile                                   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     20
+•   gri index         .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      21
+•   restatements                         .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     34
+
+                                    executive report                                                                                                                        | 1
+
+
+                                    introduction
+emc guiding
+sustainability principles
+1. pursuing sustainability
+   makes emc a better business      this report is organized to highlight the nine most important sustainability issues for emc
+   and it’s the right thing to do   in 2014. these topics begin with energy efficiency & climate change; ewaste; supply chain
+   (we don’t need to choose)
+2. every decision has economic,
+                                    responsibility; and science, technology, engineering, and mathematics (stem) education; all
+   environmental, and social        core sustainability factors that are critical to our success as a corporation and as global citizens.
+   consequences (they cannot
+   be considered in isolation)
+                                    next, the report discusses our information security & privacy activities, the role of information
+3. businesses will be held          technology (it) in society and emc’s part in it, and innovation—areas that define our strengths
+   accountable for their
+                                    and offer the greatest opportunities to make positive contributions. the report continues with
+   externalities (either formally
+   or informally)                   internal topics that allow emc to help shape the lives of our employees as well as society at
+4. we will affect the future with   large: dynamic diversity & inclusion practices and strong corporate governance.
+   the choices we make today
+5. we focus on issues where         an addendum to this executive summary, called about emc’s 2014
+   emc has the potential            sustainability report, provides further detail about report methodology
+                                                                                                                                         emc’s purpose:
+   for greatest impact on our       and disclosures, our corporate profile, the global reporting initiative
+   business and the world           (gri) index, and restatements for this report.                                                       together, we redefine what’s
+6. we base our decisions on                                                                                                              possible. we transform people’s
+   the best available science       contact                                                                                              lives by unleashing the power of
+   and data                         emc encourages its stakeholders to provide feedback on the
+                                    topics covered in this summary and related reports. please
+                                                                                                                                         information. with emc’s enterprise
+7. when making decisions,
+                                    submit any questions or comments to the office of sustainability                                     hybrid cloud and big data, we
+   we take into consideration
+   the entire lifecycle
+                                    at office_of_sustainability@emc.com.                                                                 help our customers imagine more,
+8. we do not have all the              our products
+                                                                                      governance                                         realizing the full potential of what
+   answers (and thus
+                                                operations
+                                                                                               customers                                 is possible.
+   will collaborate and
+                                                                                                        communities
+
+                                                                                                                                         connecting sustainability
+   conduct open and                                      supply chain
+
+   candid discussions)
+                                                                                                                                         to emc’s purpose
+                                                                                 our people
+                                                                                 & workforce
+
+
+
+
+                                            definthe  ree   define e
+9. we seek to drive change
+
+                                         e
+                                                                                                                                         through our sustainability strategy,
+                                      r                   eedefin
+   at industry scale
+
+                                      the future efin    r
+10. perception is important,
+                                         r  e  d          future
+
+                                                              e        f ine
+                                                                                                                                         we are applying our talent and
+                                         the future ef
+                                            r  e  d       inr  e  d e                                                                    technology toward realizing the
+                                                                                      2014 emc sustainability report
+    but reality is much more                             the future
+                                       2014 emc sustainability report
+
+
+
+
+                                                             ef
+                                                          dthe    ine
+    important
+
+                                                       e
+                                                                                                                                         potential of a sustainable future
+                                                    r
+                                                                                               2014 emc sustainability report
+
+                                                                future
+                                                2014 emc sustainability report
+
+                                            the future
+                                                                                                                                         for all.
+                                                                                                        2014 emc sustainability report
+                                                         2014 emc sustainability report
+
+                                                    the future
+                                                                                 2014 emc sustainability report
+
+executive report                                                                                                                                   | 2
+
+
+message from emc chairman & ceo
+joe tucci
+                                 we are in a time of dramatic and rapid    1.	 delivering products, solutions, and services in a sustainable and
+                                 change in our industry and in our             responsible manner;
+                                 society that is driven by the acceler-    2.	 producing innovative technologies that help our customers
+                                 ating adoption of new fundamental             maximize the value from the massive amount of data being created,
+                                 technologies—in mobile devices, in            stored, and processed;
+                                 social networking, in cloud com-
+                                                                           3.	 collaborating in the development of environmental and social
+                                 puting, and in new ways to harness
+                                                                               solutions that use our technologies;
+                                 the power of very large data sets (or
+                                 “big data”). as a result, virtually all   4.	 using our technologies to accelerate our own journey to sustainability;
+                                 businesses need to rethink how they           and
+                                 engage their customers, partners, and     5.	 inspiring and empowering our people to contribute their skills and
+                                 employees, and to build new digital           knowledge to advance a sustainable future.
+                                 capabilities and business models.
+                                                                           in these pages, you will read about emc’s commitment to become a
+emc is redefining the future through our business approach, a sustain-     more sustainable business, key achievements and challenges in 2014,
+ability-minded model built for today’s ever-changing and resource-         progress toward our goals, and our outlook for the future. i’m proud to
+dependent world. our approach is to focus on the areas where we have       lead an organization committed to creating a sustainable future.
+the greatest potential to create positive change, and to hold ourselves
+                                                                           sincerely,
+accountable by measuring and reporting our progress, maintaining
+open and candid communication with our internal and external stake-
+holders, and collaborating with our peer companies and those in our
+value chain to expand the scale of our contributions.
+
+we are striving to capitalize on our greatest assets—our innovative
+employees and our industry-leading technology—in ways that create
+                                                                           joe tucci
+value and provide for the well being of our shareholders, the planet,
+                                                                           chairman and ceo
+and society by:
+
+executive report                                                                                                                                       | 3
+
+
+message from emc chief sustainability
+officer kathrin winkler
+                                   thank you for taking the time to          for me personally, reporting season always generates that strange
+                                   peruse emc’s 2014 sustainability          ambivalence between pride in what we have accomplished and frustra-
+                                   report. at emc, we know perhaps           tion that we’re not moving further, faster. but writing this letter—
+                                   more than most just how much              my fifth—has given me an opportunity to reflect on just how much we
+                                   information is vying for your attention   have redefined sustainability at emc over the years. i need only look
+                                   every day. accordingly, we’ve tried       at what’s new in this report. we’re experimenting with a new metric
+                                   to organize this material to make         for measuring the effectiveness of our product take-back program.
+                                   it easier for you to find just what       our supply chain responsibility team has built a portal for increased
+                                   you’re looking for. but we do hope        engagement and collaboration with our suppliers. our architects
+                                   that you’ll take a few extra minutes      and data scientists are applying their skills to understanding climate
+                                   to scan the executive report to           change. we have—perhaps not redefined, but refined—our position
+                                   learn about the topics most important     on climate legislation. we’ve launched the global impact corps for
+                                   to us.                                    employees to apply their professional skills to help civil society. and
+                                                                             there is so much more. but what is not new is our commitment to
+after all, a sustainability report is very special. it contains the record
+                                                                             continue redefining our jobs to drive environmentally, socially, and
+of our company’s sustainability performance, and a description of our
+                                                                             economically sustainable outcomes.
+priorities with an explanation of why they were chosen and how we
+approach them. it is the narrative of emc’s story and offers the context     i say “we”, but of course it is you—our employees especially, but also
+for our decisions; an opportunity to celebrate our progress and ponder       our suppliers, customers, partners, and engaged stakeholders—who
+our challenges. most important, it is an account of why the work done        are doing all the heavy lifting. it is a privilege to be on this journey with
+by emc employees everywhere and every day is so relevant to the              a company like emc. thank you.
+world around us.
+                                                                             best regards,
+
+
+
+
+                                                                             kathrin winkler
+                                                                             chief sustainability officer
+
+executive report                                                                                                                                                                                       | 4
+
+
+sustainability strategy & materiality
+companies are responsible for more than                                           emcsustainability
+                                                                                 emc  sustainabilitymateriality survey
+                                                                                                      materiality      results
+                                                                                                                   survey results
+a healthy financial bottom line; they also are
+expected to contribute to a healthy global                                 high                                                                                                                         29
+                                                                                                                                                                                                 28
+
+economy, environment, and society. we                                                                                                                                                       27
+
+
+
+
+                                                                           emc’s potential to impact the factor
+                                                                                                                                                                               23                     lead
+determine our most material sustainability                                                                                                                             18   21 24
+
+priorities through analysis of the critical                                                                                                                            14
+                                                                                                                                                                          17 22
+                                                                                                                                                                                     26
+
+                                                                                                                                                                      12    19 25
+                                                                                                                                                                            20
+
+sustainability factors for our stakeholders, our                                                                                                                  10 11
+                                                                                                                                                                         16
+                                                                                                                                                                         15
+                                                                                                                                                                             19
+                                                                                                                                                            8
+                                                                                                                                                                       13 15
+company, and for the it industry as a whole.                                                                                                                     9
+
+                                                                                                                                       2                                                     measure
+                                                                                                                                                        7
+
+                                                                                                                                           3
+                                                                                                                                                    6                                            and
+                                                                                                                                                   5                                         improve
+our approach
+at emc, we are building a more sustainable future for the company,
+our communities, and the planet. we are applying our technology and                                                                            4
+
+our talent to redefine solutions with benefits that both mitigate, and
+exceed, their impacts.
+                                                                                                                        1
+                                                                                                                                                                                              monitor
+our strategy is guided by our sustainability principles and is centered
+on the nine issues identified in our sustainability materiality assess-
+                                                                           low                                                       factor’s potential impact on emc                             high
+ment. we undertake detailed materiality assessments every few years
+to identify and prioritize sustainability factors on which we can have
+                                                                                1 biodiversity                                                                  17 hazardous substances
+the greatest impact and those that can have the greatest impact on us           2 preservation of cultural heritage                                             18 stakeholder engagement
+in order to focus our resources, set goals, and evolve and report on our        3 volunteerism/community support                                                19 occupational health and safety
+                                                                                4 water                                                                         20 supply chain responsibility
+business practices. our most recent assessment included feedback                5 lobbying and political contributions                                          21 product stewardship (including
+from 100 internal and 25 external stakeholders, including academics,            6 climate adaption                                                                 design for the environment)
+                                                                                7 nanomaterials                                                                 22 employee engagement
+advisors, customers, partners, suppliers, employees (at all levels),            8 packaging                                                                     23 ewaste
+investors, and non-governmental organizations (ngos). that feedback             9 executive compensation                                                        24 energy efficiency and climate change
+                                                                                10 facility waste/hazardous waste                                               25 corporate governance
+is plotted on the matrix below with the most salient issues in bold.            11 conflict minerals and raw material sourcing                                  26 workplace culture (including
+                                                                                12 recycling and use of recycled materials                                         recruitment/ retention)
+in 2014 we conducted an internal review to confirm that our materiality         13 human rights (freedom of expression,                                         27 role of it in society
+                                                                                                                  right to privacy                              28 information privacy and security
+assessment was still applicable. please see about emc’s 2014                    14 digital inclusion                                                            29 innovation
+sustainability report for more information.                                     15 inclusion and diversity
+                                                                                16 stem education                                                                   top 9 priorities bolded and circled in blue
+
+                      executive report                                                                                                                             | 5
+
+
+                      stakeholder engagement 2014 highlights
+                      in 2014, emc engaged with a wide variety of stakeholders, including employees, customers,
+                      shareholders, ngos, suppliers, industry groups, and local communities.
+                      •   we met with many shareholders as part of our annual outreach        •   we held an in-person stakeholder engagement forum facilitated by
+                          program, as well as at other times throughout the year. topics          ceres, a nonprofit organization working with investors, companies,
+                          discussed included our strategy and performance; corporate              and public interest groups to accelerate the adoption of sustainable
+                          governance matters such as board composition and refreshment,           business practices. the forum focused on our sustainability mate-
+                          succession planning and board leadership structure; our executive       riality process and results, the proposed format for the upcoming
+                          compensation program; and sustainability initiatives. for more          report, and our top nine priority factors. several recommendations
+                          information, please see our proxy statement for the 2015 annual         made at the forum were used to inform the direction for this report
+                          meeting of shareholders.                                                and future emc sustainability practices.
+                                                                                              •   we continued to expand sustineo, a social sustainability game that
+                                                                                                  encourages dialogue and helps employees be more sustainable
+                                                                                                  in their work and home lives. we also launched an updated social
+                                                                                                  intranet platform (inside emc), as well as the sustainability at
+                                                                                                  emc community within it. the community has been very active,
+                                                                                                  discussing everything from the drought in california and brazil,
+                                                                                                  to creative ideas on how to handle old conference t-shirts.
+                                                                                              •   we held our inaugural total customer experience (tce) day
+                                                                                                  both onsite at 13 offices in seven countries and virtually. over
+                                                                                                  4,000 employees and more than 150 customer and partner guests
+                                                                                                  participated in the onsite events. we celebrated emc’s customer-
+                                                                                                  centric culture, recognized our passionate and committed employees,
+                                                                                                  and gained insights from customers and employees to continuously
+                                                                                                  improve tce.
+
+                                                                                              to learn more about our stakeholder engagements in 2014, visit our
+                                                                                              governance detailed report.
+
+
+
+
+tce day celebration
+
+                                       executive report                                                                                                             | 6
+
+
+                                       goals, targets, & progress
+
+operational emissions & renewables
+
+ metric                      scope                      2005      2010      2011          2012          2013         2014       2015         status
+
+ global scopes 1 & 2 ghg     all leased and owned       32.60     22.54     20.38         19.33         19.11        18.66      target:       on-plan
+ emissions intensity mt      global facilities and                                                                              40% below
+                                                                                          target:
+ co2e per $1m revenue        mobile assets, including                                                                           2005
+                                                                                          30% below
+                             vmware                                                                                             (19.56 mt)
+                                                                                          2005 levels
+                                                                                          (22.82 mt)
+
+                                                                                           achieved
+
+ global scopes 1 & 2 ghg     all leased and owned       32.60     22.54     18.67         13.53         15.61        13.35      target:       on-plan
+ emissions intensity mt      global facilities and                                                                              40% below
+ co2e per $1m revenue,       mobile assets, including                                                                           2005
+ accounting for emissions    vmware                                                                                             (19.56 mt)
+ associated with purchased
+ recs
+
+
+
+ metric                      scope                      2005      2010      2011          2012          2013         2014       2020         2050          status
+
+ global absolute scopes      all leased and owned       304,931   335,534   346,715       363,975       379,947      387,258    target:      target:       on-plan
+ 1 & 2 ghg emissions in      global facilities and                                                                              40% below    80% below
+                                                                            (312,378      (237,969      (298,583     (257,636
+ mt co2e                     mobile assets, excluding                                                                           2010         2000
+                                                                            with 34,337   with          with         with
+                             vmware; vce is now in-                                                                             (201,320     (estimated
+                                                                            due to        126,006       81,364 due   129,622
+                             cluded as emc emissions                                                                            mt)          at 274,000
+                                                                            recs)         due to        to recs)     due to
+                                                                                                                                             mt, target:
+                                                                                          recs)                      recs)
+                                                                                                                                             54,800 mt)
+
+ percent of global           % mwh; excludes vmware     n/a       0.0%      8.9%          23.2%         14.9%        20.6%      target:      target:        achieved
+ electricity needs                                                                                                              20%          50%           2020
+ served by renewables                                                                                                                                      ahead of
+                                                                                                                                                           plan
+
+executive report                                                                                          goals, targets, & progress | 7
+
+
+
+product sustainability
+
+ metric                       scope              2014                          2020                           status
+
+ percentage of energy         all emc hardware   determined target             target: 60%                    start to report in 2015
+ intensity reduction by       products           technologically feasible      (baseline: 2014)
+ products at a given raw
+ storage capacity
+
+ percentage of energy         all emc hardware   determined target             target: 80%                    start to report in 2015
+ intensity reduction by       products           technologically feasible      (baseline: 2014)
+ products for computa-
+ tional tasks
+
+ all new products will        all emc hardware   power supply and              target: 100% of products       start to report in 2015
+ meet power conversion        products           platform purchasing           meet efficiency specifi-
+ efficiency specifications                       specs specify minimum         cation
+ in the most recent version                      required efficiency
+ of energy star®
+
+ hardware and software        all emc products   continued baseline data       target: 100% of emc            start to report in 2015
+ efficiency improves in                          collection. updated data      products demonstrate
+ each version of emc                             on initial subject programs   continued improvement
+ products
+
+executive report                                                                                               goals, targets, & progress | 8
+
+
+
+supply chain social and environmental responsibility (ser)
+
+ metric                       scope                         2014                        2020                         status
+
+ percentage of tier 1 &       strategic tier 1 and tier 2   50%                         target: 100%                  on-plan
+ emc managed tier 2           suppliers                                                                              note: the current statistic
+ suppliers issuing                                                                                                   reflects the current focus, which
+                                                                                                                     is on strategic tier 1 and tier
+ sustainability reports                                                                                              2 suppliers. this focus will
+                                                                                                                     expand as the initiative matures
+                                                                                                                     to reflect the broader 2020
+                                                                                                                     goal scope. we will adjust the
+                                                                                                                     statistic’s scope at that time.
+
+
+ percentage of emc            managed tier 2 suppliers                                  target: 100%                  on-plan
+ managed tier 2 suppliers                                                                                            note: this goal aligns to a long-
+ monitoring tier 3 to                                                                                                term strategy regarding sub-tier
+ emc standards of ser                                                                                                management. this data has not
+                                                                                                                     been tracked historically, but
+ performance                                                                                                         we are planning to do so and to
+                                                                                                                     include it in future reports.
+
+
+
+logistics
+
+ metric                               scope                               2014                   2020                      status
+
+ cumulative percentage reduction      includes inbound, outbound,         3% below 2013 level    target: 20% below          on-plan
+ in global supply chain logistics     interplant, and customer service                           2013 level
+ carbon intensity measured as         transportation and logistics
+ kg of co2e per metric ton-km         operations, except for in-country
+                                      goods freighting for australia,
+                                      brazil, japan, russia, and south
+                                      africa. excludes vmware.
+
+
+packaging
+
+ metric                               scope                               2014                   2020                      status
+
+ percentage of outbound packs         outbound (customer-facing)          76%                    target: 95%                on-plan
+ optimized for sustainable            packs that emc purchases in
+ materials and/or right-sizing        volumes greater than 1,000
+                                      units per year
+
+executive report                                                                                       goals, targets, & progress | 9
+
+
+
+ewaste
+
+ metric                       scope                       2012     2013             2014               2020            status
+
+ percentage reduction in      tier 1 and managed tier 2   n/a      n/a              21%                target: 50%     on-plan
+ total audit findings from    itad suppliers
+                                                                                                       (baseline
+ tier 1 & managed tier
+                                                                                                       2013)
+ 2 itad suppliers while
+ maintaining a 100%
+ audit program
+
+ percentage reduction         tier 1 and managed tier 2   n/a      n/a              19%                target: 95%     on-plan
+ in major downstream          itad suppliers                                                           (baseline
+ findings                                                                                              2013)
+
+ number and locations         n/a                         n/a      n/a              india project      target:         on-plan
+ of emc-established                                                                 established        community
+ community ewaste                                                                                      ewaste
+ recycling projects                                                                                    recycling
+                                                                                                       projects in
+                                                                                                       india, china,
+                                                                                                       and brazil
+
+ percentage of emc            emc equipment collected     73%      100%             100%               100%            achieved
+ equipment collected          through our take back
+                                                                   target: 100%
+ through our take back        program
+                                                                   by end of 2013
+ program disposed of
+ at an r2 or e-stewards
+ certified facility
+
+
+
+community involvement
+
+ metric                                                   scope    2014             2020                               status
+
+ reach 20 million beneficiaries by 2020, cumulatively     emc ii   3,006,981        25 million beneficiaries           on-plan
+ starting in 2014                                                                   cumulatively
+
+ employees will donate 1,920,000 hours of volunteer       emc ii   586,243          3,000,000 hours of employee        on-plan
+ time by 2020, cumulatively starting in 2014                                        volunteer time cumulatively
+
+                               executive report                                                                                                                                    | 10
+
+
+                               energy efficiency & climate change
+2020 energy
+efficiency and climate
+change targets
+                               among the many human activities that produce greenhouse gases (ghg), the combustion of fuel
+emc response to cdp’s
+                               for the generation of energy represents the largest source of emissions.1 companies that use
+2014 climate change            energy from fossil fuels to run their business or power their products, either directly or indirectly,
+information request
+                               have a responsibility and opportunity to help mitigate climate change.
+
+                               our approach                                                                     climate change disclosure recognition
+                               emc addresses ghg emissions through energy efficiency in our opera-              the environmental nonprofit group cdp noted emc for its leadership
+                               tions, including our data centers, labs, and manufacturing plants; in the        among standard & poor’s 500 index companies with a disclosure score
+                               design and operation of our products; by incorporating more renewable            of 100—citing the depth and quality of the climate change data disclosed
+                               energy sources in our portfolio; through application of our technologies         to investors and the global marketplace. this was the sixth time we
+                               by our customers; and by encouraging ghg reduction in our supply chain.          have been included in the climate disclosure leadership index (cdli).
+
+                               during 2014, we established goals for improving the energy efficiency
+                               of several dimensions of our products: power conversion, computing,                 performance guru becomes workflow
+                               storage, and software. as part of that effort, we identified the base-              orchestrator
+                               line measurements to be used for each metric to help ensure we can                  consultant performance engineer wolfgang “sam” klinger
+                               achieve our 2020 goals.                                                             (see below) played a challenging and pivotal role in enabling
+                                                                                                                   emc to qualify the vnx5400, vnx5600, and vnx5800 data
+                               2014 highlights                                                                     storage units for energy star certification in 2014. he
+                               energy use measurement                                                              worked with multiple teams and emc facilities, taking on the
+                               all platform products sold and reviewed in 2014 met our power conver-               voluntary task of workflow orchestrator—a role outside of his
+                               sion efficiency requirements. this is a measurement of useful power                 normal responsibilities at emc—during peak performance
+                               output per electrical power input. moving forward, all new products will            configurations and test runs
+                               be required to meet this standard. in 2014, we also completed energy                in emc’s lab. from specifying
+                               star® qualification of our vnx5400™, vnx5600™, and vnx5800™ data                    hardware and software for
+                               storage systems.                                                                    testing by the emc russia
+                                                                                                                   center of excellence to
+                               epa climate leadership award                                                        analyzing data and correcting
+                               the u.s. environmental protection agency recognized emc with a 2015                 discrepancies, sam led the
+                               climate leadership award for excellence in greenhouse gas manage-                   way on this complex project.
+to learn more, visit the our   ment—goal setting for goals set in 2014. this prestigious national award
+products, supply chain, and    recognizes organizations that publicly report and verify organization-wide
+operations detailed reports.   ghg inventories and publicly set aggressive ghg reduction goals.
+
+                               1
+                                   co2 emissions from fuel combustion highlights, international energy agency
+
+                                     executive report                                                                                                                                     | 11
+
+
+                                     ewaste
+student volunteer at
+prakriya green wisdom
+school in bangalore
+vaishnavi karkare and her            the high demand for technology and its rapid obsolescence makes the generation of electronic
+recycling team at prakriya green     waste, or ewaste, one of the fastest-growing waste streams globally. when improperly handled,
+wisdom school in bangalore,
+india, collected nearly 130          ewaste can cause potentially serious problems for human health and the environment.
+kilograms of ewaste in a single                                                                                               number of itad suppliers audit findings: 2013 v. 2014
+              month after learning   these impacts can occur when workers are exposed to toxic chemicals             number of itad suppliers audit findings: 2013 v. 2014
+              about ewaste           and heavy metals from shredding, burning, or dismantling materials,
+                                     and when these materials end up in landfills, waterways, or food          140
+              recycling from emc
+              employee volunteers    sources. mismanagement of ewaste also has direct economic impli-          120
+                                     cations because old or unused electronic material has value both in                                                                              118
+              who presented at                                                                                 100
+              their school assem-    reuse and as reprocessed commodities that feed back into the global                                                                                      99
+                                                                                                                80
+              bly. but that wasn’t   supply chain. emc has therefore established a robust ewaste program
+                                     to mitigate risk and maximize benefit to the environment, emc and our
+                                                                                                                60             68                       68
+              enough for her. the                                                                                        61                                  56
+                                                                                                                40                                                     55
+              grade 8 student then   customers, and the broader global community in which we do business.
+                                                                                                                20
+                                                                                                                                                                            36
+took the drive to her neighbor-
+hood—collecting more ewaste          our approach                                                                0
+                                                                                                                                       all findings
+                                                                                                                          major                       downstream      business            ehs
+for responsible disposal with        emc offers take-back services to our customers worldwide when our                   findings
+                                                                                                                                       by category
+                                                                                                                                                                     management
+local certified recycler saahas.     products reach the end of their useful life. we design our products for                                                                                2013
+“people were actually clueless,      disassembly, making it easier to take products apart to reclaim and                                                                                    2014
+not aware of the dire effects of     recycle their content. our global ewaste program responsibly reclaims,
+informal recycling,” she said.       re-uses, reprocesses, and recycles many of the materials in our prod-
+                                                                                                                     2014 highlights
+“they had no knowledge of what       ucts, sending less than one percent to landfill. we set high standards
+                                                                                                                     •   100% ede (electronics disposal efficiency): 100% of itad suppliers
+happened to the ewaste they          throughout the process to protect people and the environment, requir-
+                                                                                                                         that receive emc equipment are certified to r2 or e-stewards
+disposed of.” she and her class-     ing 100 percent of our information technology asset disposal (itad)
+                                                                                                                         standards
+mates plan to conduct another        suppliers to be r2- or estewards-certified. these certifications help
+ewaste collection drive in 2015.
+                                                                                                                     •   100% of tier 1 itad suppliers audited to emc’s standard by
+                                     to ensure proper and responsible handling of ewaste. we also protect
+                                                                                                                         third-party auditors
+                                     customer data through data erasure and careful tracking and manage-
+                                     ment of returned systems.                                                       •   began tracking a new metric to estimate percentage of material
+                                                                                                                         returned to emc at the end of its useful life
+                                     by setting high standards for ewaste management, we are reducing
+                                     risks and maximizing value for our own operations, our customers, our
+                                     communities, and our industry. in collaborating with suppliers, peers,
+                                     and communities, we help to build a global system that generates
+to learn more, visit the             awareness about the impacts of ewaste and enables its responsible,
+our products detailed report.        affordable management.
+
+                                        executive report                                                                                                                                 | 12
+
+
+                                        supply chain responsibility
+ supplier code of conduct
+
+
+ policy on conflict minerals            in today’s complex, interconnected, globalized economy—where inequality gaps, unfair labor,
+                                        and poor environmental practices regrettably still exist—leading corporations set standards
+ policy statement on slavery
+ & human trafficking
+                                        and promote business practices to improve environmental and socioeconomic conditions in
+                                        their supply chains.
+
+                                        our approach                                                                 focus on measuring impact, expanding existing initiatives, and continuing
+                                        at emc, we continue to refine our approach to supply chain sustainability.   to enhance program integration to deepen supply chain resiliency and
+                                        building a more resilient supply chain requires us to look holistically      sustainability of impact.
+                                        at all of the economic, environmental, and social issues that affect
+                                                                                                                     throughout this process, we continually collaborate with reputable
+                                        our suppliers worldwide. we use a multifaceted, strategic approach
+                                                                                                                     industry associations, including the electronic industry citizenship
+                                        to mitigate risks and enhance our resiliency, including integrating
+                                                                                                                     coalition (eicc), to develop and improve standards to scale our impact.
+                                        supply chain social and environmental responsibility (ser) with other
+                                        supply chain programs, such as business continuity planning (bcp).
+                                        this approach enables more robust supplier management through                2014 highlights
+                                        enhanced data analytics that inform priorities, help communicate             spot check program
+                                        comprehensive messages, and drive positive change.                           in 2014, regional emc supply chain technical and commercial staff
+                                                                                                                     completed 31 spot checks to assess key social and environmental
+       supply chain                                                                                                  indicators, exceeding our goal of 20 spot checks. piloted in 2013, spot
+social and environmental                                                                                             checks are designed to identify and remedy small problems before
+      responsibility                                            normalize
+                                                                                                                     they become significant issues.
+                                                                & prioritize
+                                       more                                                    achieve               start of the smart library
+  business continuity                 robust
+                                       data
+                                                                     +                       new levels of
+                                                                                                                     the supply chain sustainability management and resource training,
+                                                                                                change
+                                                                  integrate                                          or “smart” library provides training modules, case studies, and access
+          business                                               initiatives                                         to other resources to build emc’s suppliers’ capacity to address ser
+ (e.g., finance, sourcing)                                                                                           issues in their own operations and to help their own suppliers improve.
+                                                                                                                     it is also now part of the training provided to emc supply chain staff.
+  1 combine existing         2 use combined focus         3 use more comprehensive                  4
+     disparate data              to drive investment          data set to drive                                      centralizing risk management
+                                                              more holistic decisions                                the launch of a new internal engagement tool built on emc’s archer®
+                                                                                                                     governance risk and compliance platform is centralizing risk manage-
+                                        we also continue to integrate sustainability more fully into our business,   ment and supplier communications across emc’s supply chain sustain-
+ to learn more, visit the               as an important part of overall supplier management, and work to extend      ability programs.
+ supply chain detailed report.          our impact more deeply into the supply chain. moving forward, we will
+                                                                                                                     to learn more, visit the supply chain detailed report.
+
+                               executive report                                                                                                                              | 13
+
+
+                               stem education
+                               the long-term success of the it industry depends on a robust pipeline of qualified future
+                               employees. this requires skills in the fields of stem, which depend on programs that expand
+                               access to education and encourage students from all backgrounds and around the globe to
+                               pursue science and math programs.
+
+“ inerde went from             our approach                                                              emc’s new global impact corps
+  being just an idea that      emc focuses on expanding access to education, particularly for            in 2014, we launched the global impact corps as an opportunity for
+                               underrepresented groups. we rely on partnerships with nonprofits and      emc employees to use their professional skills and expertise to build
+  i presented at the emc
+                               schools around the globe, a robust internship program, and inspired       capacity in ngos around the world. a small team of three to five
+  transformative action        employees to teach stem subjects, as well as providing consultation       employees is paired with an ngo that is facing a critical capacity
+  summit to a dedicated        on class curricula. we’re starting new partnerships in regions such as    challenge in an area, such as technology, product development, or
+  team of 10 who spend         africa and latin america with educational foundations and incorporating   marketing, where emc has expertise. over the course of an intensive
+                               the skills of employees to engage students from around the world who      two-day work session, the team provides the ngo with an applicable
+  the majority of their time
+                               might not otherwise be reached.                                           solution to address its challenge. we conducted a successful pilot in
+  using their education to                                                                               2014, and plan to expand the program in the coming year.
+  educate others.”             2014 highlights                                                           cork robotics program expanded to younger students
+ — mohamed kante               test engineer starts stem camp in his native mali                         in 2014, emc employees in our cork, ireland, center of excellence
+                               in 2014, mohamed kante, an employee in emc’s advanced design              launched the next iteration of the vex robotics program, vex iq,
+                               services at its u.s. headquarters, founded a seven-week summer            aimed at teaching primary school children the value of stem. though
+watch the video                science and engineering program for kids called inerde in bamako,         a version of this program has existed for secondary school and college
+                               mali, to bring stem education opportunities to young people in his                                                     students, vex iq is a first
+cork robotics program
+                               native country. mohamed’s camp aims to empower african youth by                                                        for primary school children.
+                               giving them the opportunity to achieve their fullest potential.                                                        it challenges younger
+                                                                                                                                                      students to design and
+                                                                                                                                                      build robots using vex
+                                                                                                                                                      technology, and culminates
+                                                                                                                                                      in a competition in which
+                                                                                                                                                      the robots are programmed
+                                                                                                                                                      and remote-controlled to
+                                                                                                                                                      complete tasks.
+to learn more, visit the
+communities detailed report.
+
+                                                             executive report                                                                                                                      | 14
+
+
+                                                             information security & privacy
+white paper                                                  information security and privacy is now a familiar and recurring topic as companies across
+emc product security:
+enhancing the trustworthi-                                   all industries are increasingly becoming targets of cybercrime and espionage.
+ness of emc solutions
+                                               the challenge is greater than ever as companies’ operations are                2014 highlights
+                                               increasingly digital; their attack surfaces are expanding thanks to the        rsa advance security operations center solution
+                                               adoption of mobile, cloud, and social technologies; and cyber attackers        rsa, the security division of emc, launched its advanced security
+                                                                                         and their tactics, techniques,       operation center solution at the division’s inaugural global summit
+                                                                                         and procedures are evolving          in september, arming security teams with new tools to help identify
+                 the 2014 enterprise threat landscape
+                                                                                         in breadth and sophistication.       the undetected threats that often result in data breaches. providing
+         81%                    38%                  48%                  34%            fortunately, the strategies and      real-time detection of emerging and targeted threats without a reliance
+                                                                                         technologies used to combat          on signatures or prior experience of those threats enables organizations
+ of large organizations of large organizations   increase in the     increase in the
+ had a security breach      were affected by    total number of   total financial losses them are evolving just as rapidly.   to see, recognize, and mitigate the most dangerous threats faster.
+                                 denial-of-service          security incidents             attributed to
+                                     attacks                detected over 2013         security compromises
+                                                                                                                              rsa and pivotal create big data for security analytics
+                                                                                             over 2013        our approach
+                                                                                                                              reference architecture
+                                                                                       emc is redefining how our
+                                emc’s trusted it strategy                                                                     rsa and pivotal, one of emc’s federation of businesses, announced the
+                                                                                       employees and customers
+                                                                                                                              availability of a big data for security analytics reference architecture,
+                                                                                       understand and address infor-
+      provide trusted           deliver secure products          enable and protect                                           giving organizations the platform and tools they need to quickly and
+                                                                                       mation security and privacy. the
+         technology                  and solutions                    customers                                               more effectively detect, investigate, and respond to security incidents
+                                                                                       most significant shift is helping
+                                                                                                                              before they have the opportunity to affect operations or business.
+                                                                                       people understand that a
+                                                                                       perimeter-based defense aimed          emc releases privacy index
+                                                                                       at prevention can no longer be         the 2014 emc privacy index surveyed 15,000 people in 15 countries
+                                                                                       the primary approach for protect-      to produce a ranking of nations based on consumer perceptions and
+         best-in-class                secure product              information storage
+      enterprise security            development and                                   ing an organization’s technology       attitudes about data privacy, and their willingness to trade privacy for
+            program                    supply chain                 data protection
+                                                                                       and information. instead, we are       greater convenience and benefits online.
+         protection of              integrated security          information security
+       internal systems                 architecture                                   prioritizing monitoring for and
+       and confidential                                                                                                       emc publishes principles on transparency in government
+                                                                                       detecting breaches, analyzing
+          information                                                                                                         requests for customer data
+                                                                                       their threat, and responding
+                                                                                                                              it companies, service providers, and social networks are increasingly
+2014 information security breaches survey conducted by pricewaterhousecoopers          rapidly to thwart or minimize
+                                                                                                                              being asked to provide customer data to governments to aid in matters
+                                                                                       damage. this approach is being
+                                                                                                                              of national security. emc believes our customers have a right to know
+                                                  applied across emc’s three-pronged strategy: protect our own infra-
+                                                                                                                              when that data is being requested or provided. in 2014, emc released
+to learn more, visit the                          structure, protect customers who use our products, and help customers
+                                                                                                                              a statement explaining how we address government requests for
+our customers, operations and                     protect their infrastructures.
+                                                                                                                              customer data.
+our products detailed       reports.
+             2014 information security breaches survey conducted by price waterhouse coopers
+
+                             executive report                                                                                                                            | 15
+
+
+                             role of it in society
+                             technology can be applied to solve some of the world’s biggest problems, enhance quality
+                             of life, and preserve history’s best human achievements. big data and cloud computing
+                             are creating profound opportunities for redefining how technology can best be used to solve
+                             pressing social and environmental issues.
+
+                             our approach
+                             emc’s approach to problem solving, coupled with our expertise in big
+                             data and cloud computing, puts us in a position to create positive
+                             change for business, society, and the planet. through the use of our
+                             technology, we focus on key issues that affect our company’s work
+                             and society as a whole, including climate change, the need for stem
+                             education, public health initiatives, and digital preservation through
+                             our information heritage initiative. we are constantly redefining our
+                             solutions to bring technology to an ever-expanding group of people and
+                             to benefit generations to come.
+
+
+                             2014 highlights
+                             studying the ecological impacts of climate change using big data
+                             in 2014, emc embarked on a new partnership with earthwatch in-
+                             stitute, the u.s. national park service, and the schoodic institute at
+                             acadia national park in maine. the new “big data vs. climate change”
+                             project will use leading big data architecture built on emc platforms to
+                             enhance the information being collected to analyze bird migration and
+                             the effects of climate change on these patterns. the program involved
+                             sending researchers, including emc employees, to the park to help
+                             capture data on bird migration.
+                                                                                                          the “big data vs. climate change” team is creating interactive
+                             using city data in rio de janeiro to track dengue fever
+                                                                                                          visualizations that allow citizen scientists to explore relation-
+                             in conjunction with the launch of emc’s newest research & development
+                                                                                                          ships between the data they collect and other publicly available
+                             (r&d) center in brazil, we joined with the city of rio de janeiro on a big
+                                                                                                          data sets. the example above lets users study information
+                             data initiative to integrate many of the city’s previously disparate data-
+                                                                                                          from observations in the state of maine over time for various
+to learn more, visit the     bases. emc developed an application that allows rio city officials to
+                                                                                                          categories of birds.
+customers detailed report.   track dengue fever within the city and to identify a previously unknown
+                             relationship between the spread of the disease and construction sites.
+
+                                                                                    executive report                                                                                                                                | 16
+
+
+                                                                                    innovation
+                                                                                    innovation is the lifeblood of any it company. emc embodies that principle, as a spirit of
+                                                                                    innovation courses through the company and our people. it’s the factor that holds the most
+                                                                                    opportunity for business, environmental, and societal returns.
+
+                                                                                    our approach                                                              2014 highlight
+                                                                                  our culture of innovation includes a range of programs and activities       ignition sequence
+                                                                                  designed to solicit, evaluate, and incubate employees’ ideas, large and     the 2014 innovation roadmap competition ended with the creators of
+                                                                                  small. we address many of our most pressing business problems each          the top three of 27 winning projects competing for funding in a venture-
+                                                                                  year with these employee suggestions, with the most notable emerging        pitch format show called “ignition sequence.” the show, filmed for our
+                                                                                                                              from the innovation roadmap     employees worldwide, featured a high-stakes elimination round judged
+                                                                                                                   innovation
+                                                                                                                              competition. we also know       by the founder of a technology startup accelerator along with three
+                                                                                                                   network
+                                                                            5,200
+                                              employees respond             ideas
+                                                                                                                  roadmap     innovation happens when         senior emc executives.
+                                                  with ideas
+                                                                                     81
+                                                                 32
+the complete picture                                                                                      judging and
+                              26                                                                                              people pursue new discover-
+                                                                                      finalist
+                                                                countries
+                                                                                        ideas         finalists selected
+                            challenges
+
+
+
+      challenges created                                                                                                      ies together.
+        by departments                                                                                                          elevator pitch
+                                                                                                                               and presentations
+                                                                                                                                                                 wearable security wins best-in-show from 2014
+                                                 ideation                                  3                                   an ever-growing community         innovation roadmap
+                                                                                       best-in-show
+                                                                                                         27
+                                                    16
+                                                                                                         awards
+
+
+                                  10,000
+                                                                                                                               of researchers collaborates
+                                                                                                                       winners and
+                                                                                                                  best-in-show selected                          senior technical writer tamar wisemon in our israel center of
+                                     people       locations
+
+                                                                                                                               through the innovation            excellence set out to solve a frustrating problem: how does one
+                                                              winners announced at the
+    business case
+    development
+                                                               innovation conference                                           central platform, developed       help alleviate the burden of repeatedly logging in to secure sys-
+                                                                                               incubation                      by emc for multinational and      tems during the day? tamar, with the help of four colleagues who
+                                                                                                                               multicultural collaboration       specialize in software engineering and technology and research
+         proof-of-concept                                                    demonstration
+           definition doc                                                                                                      throughout emc to promote         architecture, developed a wearable device that detects unique
+                                                prototyping                                                                    breakthrough technology and
+                                                                                                                        incubation
+                                                                                                                        complete                                 movements, such as a person’s walking gait or pulse, and uses
+                                                                                                                               business ideas. by bringing       this information to authorize him or her as a system user. the idea
+                                                                                                                               together talent from inside       was named one of three best-in-show entries in the 2014 emc
+                                                                                                        implementation         and outside the company,          innovation roadmap competition, and is in development in 2015.
+                                                                                                                               we are expanding our knowl-
+                                                                                    edge in strategic areas of technology through a continual exchange
+                                                                                    of information. the innovation network is central to our research and                                                     best-in-show winner
+                                                                                    development mission, which taps into expertise and insights around                                                        tamar wisemon
+                                                                                    the world. collaborating with the it industry, partners, and customers                                                    presenting her idea
+          to learn more, visit the                                                                                                                                                                            to the judges at
+                                                                                    plays an important role in finding the best solutions and then scaling
+          our people and workforce                                                                                                                                                                            ignition sequence
+                                                                                    them for impact.
+          detailed report.
+
+                                    executive report                                                                                                                                   | 17
+
+
+                                    diversity & inclusion
+veteran hiring wins
+awards
+in 2014, emc won four national
+awards as a top military-friendly   the last few years have brought an increased focus on the talent pipeline and hiring efforts in the
+employer, and received national     it industry. the demand for tech expertise, especially among women and minorities, far exceeds
+certification for our veterans
+employee circle, with chapters      availability—so only organizations with cultures that fully embrace diversity and inclusion will
+established in massachusetts        win the battle for talent. the it industry has struggled to reflect society as a whole in its hiring,
+and utah. emc also hired 24
+employees through the “hiring       and has pledged to make improving this situation a priority.
+our heroes” program that pairs
+veterans with employers.
+                                    our approach                                                                2014 highlights
+                                    at emc, we view diversity and inclusion as a business imperative. we        implicit bias training
+                                    seek to cultivate an inclusive culture reflective of the diverse perspec-   in 2014, we continued our focus on the importance of recognizing our
+                                    tives, backgrounds, and cultures of the communities in which we live        implicit biases and their impact on the workplace. more than 500 emc
+                                    and conduct business. we acknowledge the gap that remains in our            managers participated in sessions on implicit bias in 2014, and we
+                                    industry, and are taking part in concerted efforts to build an inclusive    expect even more to attend in 2015.
+                                    workforce. to do this, we promote a variety of offerings, from internship
+                                    programs to training, career coaching, and employee affinity groups.             emc earns third consecutive score of 100 in the
+                                    moving forward, we aim to strengthen and expand our multi-pronged                human rights campaign corporate equality index
+                                    approach to attract and retain employees, and take advantage of the
+                                    power of data analytics to better prepare for a changing future.            new parental leave benefit
+                                                                                                                in january 2015, we announced a new parental leave benefit for our u.s.
+                                                                                                                employees, retroactive to 2014. this benefit for both mothers and fathers
+                                                                                                                supports the many definitions of family at emc. it is designed to assist
+                                                                                                                parents and encourage bonding time with a new child by providing up to
+                                                                                                                four weeks of paid leave within the first year following a birth or adoption.
+                                                                                                                this is in addition to any paid leave already provided by emc and enhances
+                                                                                                                our current offerings covering maternity leave and adoption assistance.
+
+                                                                                                                fastlane accelerates careers of women at emc
+                                                                                                                in 2014, emc’s fastlane program continued in its eighth year to select
+                                                                                                                a global class of 29 high-performing women for a three-day program
+to learn more, visit the                                                                                        designed to share experiences and hone important skills needed to take
+our people and workforce                                                                                        on challenging leadership positions. they then joined a strong alumnae
+detailed report, and diversity                                                                                  network, becoming peer mentors for each other as well as for other women
+& inclusion annual report.                                                                                      across the organization. retention of fastlane graduates tops 90 percent.
+
+                                                                                                                to learn more, visit the our people and workforce detailed report, and
+                                                                                                                diversity & inclusion annual report.
+
+                                 executive report                                                                                                                                | 18
+
+
+                                 corporate governance
+2015 proxy statement
+
+
+corporate governance             corporate governance is an important and necessary framework for any company, as it
+guidelines
+                                 shapes how a company operates and how decisions are made. governance helps allocate
+business conduct guidelines
+                                 roles and responsibilities among the board of directors, management, shareholders, and
+                                 other stakeholders, and helps ensure accountability, fairness, and transparency.
+corporate governance
+and nominating committee         our approach                                                                   new independent lead director
+charter                          emc believes strong governance helps us compete more effectively,              the board believes in a strong independent board leadership structure
+                                 sustain our success, and build long-term value for shareholders. the           to ensure accountability. in february 2015, after its annual review,
+                                 board of directors has implemented corporate governance practices              the independent directors designated william d. green as the board’s
+political contributions policy   that it believes are in the best interest of emc and its shareholders.         independent lead director. mr. green has substantial experience
+                                 the board reviews these practices on an ongoing basis.                         leading a large public corporation, governance expertise from serving
+                                                                                                                as chairman and a member of other company boards and committees,
+                                 2014 highlights                                                                and a deep understanding of the it industry.
+                                 emc appoints two new directors                                                 executive compensation
+                                 in january 2015, emc appointed josé e. almeida and donald j. carty to          members of our executive leadership team were eligible to receive
+                                 the board of directors. mr. almeida is the former chairman, president,         semiannual cash bonuses contingent upon achievement of a number
+                                 and chief executive officer of covidien plc. mr. carty is the retired chair-   of shared and individual performance goals under the 2014 executive
+                                 man and chief executive officer of amr corp. and american airlines,            management by objectives plan. the leadership and compensation
+                                 and retired vice chairman and chief financial officer of dell inc.             committee assigned shared goals to the executive leadership team,
+                                 commitment to identify and recruit diverse board candidates                    including a goal to increase employee engagement.
+                                 in early 2015, the board amended the governance committee’s charter
+                                 to state explicitly the board’s commitment to actively identify and
+william d. green                 recruit diverse candidates, including women and minority candidates,
+independent lead director        as part of the search process for board members.
+
+
+
+
+to learn more, visit the
+governance detailed report.
+
+executive report                                                                                                                                | 19
+
+
+about emc’s 2014 sustainability report
+boundary and scope                                                         content and materiality
+this is emc’s eighth annual sustainability report. previous reports are    to determine the content for this report, we used our 2013 sustainability
+available for download here. this report covers emc and our subsidiaries   materiality assessment to identify the most relevant issues to emc
+for the 2014 fiscal year (january 1, 2014 to december 31, 2014), except    and our industry, as well as expectations and requirements of our
+where otherwise noted or where intermediary updates are made, and          stakeholders. the process involved gathering input from external and
+indicated, prior to the next full report.                                  internal sources, as well as feedback gleaned from our annual stake-
+                                                                           holder forum facilitated by ceres. we have focused the content for this
+in areas where the scope is defined as “emc,” information includes all
+                                                                           report on the highest-ranked aspects identified through the materiality
+our subsidiaries, but does not include vmware, inc. unless otherwise
+                                                                           process with the addition of updates from key subject matter experts.
+specified.
+                                                                           to learn more, visit sustainability strategy & materiality in this report.
+where we refer to “owned and operated” facilities, we include buildings
+that we fully own, as well as buildings or parts of buildings that we      disclosure and assurance
+lease and over which we have operational control.                          emc’s office of sustainability is responsible for the preparation and
+                                                                           integrity of the information in this report.
+tier 1 suppliers are companies who sell directly to emc. managed tier
+2 suppliers are companies from whom we instruct tier 1 suppliers to        we engaged an independent third party to review our 2014 ghg inven-
+purchase parts for the components they sell to us, and with whom emc       tory and received limited assurance of its accuracy and completeness.
+has a direct commercial relationship.                                      the scope of the review included all global scope 1 and scope 2 ghg
+                                                                           emissions and global scope 3 ghg emissions associated with business
+the information on our workplace policies and programs is global
+                                                                           travel, downstream leased assets, fuel and energy-related activities,
+and includes emc and all of our subsidiaries, but does not include
+                                                                           and use of sold products.
+vmware, inc.
+                                                                           emc contracted with a consultancy that specializes in sustainability
+                                                                           reporting to assist us with the process and content development of
+                                                                           this executive summary report. however, this report was not externally
+                                                                           assured or verified by an independent third party. it was produced in
+                                                                           accordance with the global reporting initiative (gri) g3.1 sustainability
+                                                                           reporting guidelines. emc has self-declared an application level b for
+                                                                           this report. please refer to the gri index for a listing of all disclosures
+                                                                           that are covered in our detailed reports online.
+
+executive report                                                                                                                            | 20
+
+
+corporate profile
+at emc, we believe investing in a sustainable future makes our company healthier and
+stronger. a sustainable business is one that takes a holistic, forward-looking view of economic,
+environmental, societal, and governance practices—and one that creates value for our
+shareholders and other stakeholders.
+emc corporation, based in hopkinton, massachusetts, is a leading          emc employs approximately 70,000 employees worldwide, of
+information technology company with the mission to lead businesses        which approximately 18,000 are employed by or working on behalf
+and service providers to transform information technology (it) opera-     of vmware. we have the world’s largest sales and service force focused
+tions to an “as a service” model (itaas). this transformation enables     on information infrastructure, and we work closely with a global
+it organizations to evolve from cost centers to value drivers that are    network of technology, outsourcing, systems integration, service,
+more agile, more cost-effective and more responsive to business needs.    and distribution partners.
+through best-of-breed products and services, emc customers are able
+                                                                          our differentiated value stems from our sustained and substantial
+to move to cloud computing, gain value through analysis of big data
+                                                                          investment in research and development (r&d), a cumulative invest-
+and to do so within a trusted computing environment.
+                                                                          ment of $12.8 billion since the beginning of 2010. to strengthen our
+emc has a unique federated business model that includes emc               core business and extend our market to new areas, emc has invested
+information infrastructure (“emc ii”), vmware, and pivotal. under         $8.6 billion in mergers and acquisitions during the same period.
+the “emc federation” of companies, each of the three businesses
+                                                                          emc is supported by thousands of technical r&d employees around
+operates independently to build its own ecosystem and culture,
+                                                                          the globe. we operate r&d centers in brazil, china, france, india,
+operate with greater speed and agility, and offer customers technology
+                                                                          ireland, israel, the netherlands, russia, singapore, and the united
+solutions that are free from vendor lock-in. at the same time, they
+                                                                          states (u.s.), and manufacturing facilities in the u.s. and ireland.
+are strategically aligned in the mission to lead customers and partners
+through unprecedented transformational shifts occurring in it.            we are a publicly traded company, listed on the new york stock
+                                                                          exchange under the symbol emc. in 2014, emc was ranked #128
+emc supports a broad range of customers, including businesses,
+                                                                          on the fortune 500 companies list. full-year 2014 revenue was
+governments, not-for-profit organizations and service providers, around
+                                                                          $24.44 billion, an increase of 5.3 percent year over year.
+the world, in every major industry, in both public and private sectors,
+and of sizes ranging from the fortune global 500 to small businesses
+and individual customers.
+
+                                 executive report                                                                                                                        | 21
+
+
+gri index
+indicator   standard     topic                                                                                             location                                coverage
+g3.1        disclosure                                                                                                                                             (full or
+            g4                                                                                                                                                     partial)
+
+strategy and analysis
+
+1.1         g4-1         statement from the most senior decision-maker of the organization                                 message from emc chairman & ceo         f
+                                                                                                                           joe tucci
+
+1.2         g4-2         description of key impacts, risks, and opportunities                                              message from emc chief sustainability   f
+                                                                                                                           officer kathrin winkler
+                                                                                                                           sustainability strategy & materiality
+
+organizational profile
+
+2.1         g4-3         name of the organization                                                                          corporate profile                       f
+
+2.2         g4-4         primary brands, products, and/or services                                                         2014 10-k                               f
+
+2.3         g4-17        operational structure of the organization, including main divisions, operating companies,         corporate profile                       f
+                         subsidiaries, and joint ventures
+
+2.4         g4-5         location of organization’s headquarters                                                           corporate profile                       f
+                                                                                                                           2014 10-k
+
+2.5         g4-6         number of countries where the organization operates, and names of countries with either major     corporate profile                       f
+                         operations or that are specifically relevant to the sustainability issues covered in the report   2014 10-k
+
+2.6         g4-7         nature of ownership and legal form                                                                2014 10-k                               f
+
+2.7         g4-8         markets served (including geographic breakdown, sectors served, and types of customers/           corporate profile                       f
+                         beneficiaries)
+
+2.8         g4-9         scale of the reporting organization                                                               corporate profile                       f
+                                                                                                                           2014 10-k
+
+            g4-12        supply chain description                                                                          2014 10-k                               f
+
+                                   executive report                                                                                                                           gri index | 22
+
+
+
+
+indicator   standard       topic                                                                                                      location                                  coverage
+g3.1        disclosure                                                                                                                                                          (full or
+            g4                                                                                                                                                                  partial)
+
+organizational profile (continued)
+
+2.9         g4-13          significant changes during the reporting period regarding size, structure, or ownership                    2014 10-k                                 f
+
+2.10                       awards received in the reporting period                                                                    emc.com                                   f
+
+report parameters
+
+3.1         g4-28          reporting period (e.g., fiscal/calendar year) for information provided                                     about this report                         f
+
+3.2         g4-29          date of most recent previous report (if any)                                                               about this report                         f
+
+3.3         g4-30          reporting cycle (annual, biennial, etc.)                                                                   about this report                         f
+
+3.4         g4-31          contact point for questions regarding the report or its contents                                           executive summary/introduction            f
+
+3.5         g4-18          process for defining report content                                                                        message from emc chief sustainability     f
+                                                                                                                                      officer kathrin winkler
+                                                                                                                                      about this report
+
+            g4-19          material aspects included in the report                                                                    executive summary                         f
+
+3.6         g4-19          boundary of the report (e.g., countries, divisions, subsidiaries, leased facilities, joint ventures,       about this report                         f
+                           suppliers). see gri boundary protocol for further guidance.
+
+3.7         g4-20, g4-21   state any specific limitations on the scope or boundary of the report (see completeness principle          about this report                         f
+                           for explanation of scope)
+
+3.8         g4-20, g4-21   basis for reporting on joint ventures, subsidiaries, leased facilities, outsourced operations,             about this report                         f
+                           and other entities that can significantly affect comparability from period to period and/or
+                           between organizations
+
+3.9                        data measurement techniques and the bases of calculations, including assumptions and techniques            about this report                         f
+                           underlying estimations applied to the compilation of the indicators and other information in the           executive summary/sustainability
+                           report explain any decisions not to apply, or to substantially diverge from, the gri indicator protocols   strategy & materiality
+
+                                   executive report                                                                                                                          gri index | 23
+
+
+
+
+indicator   standard       topic                                                                                                location                                       coverage
+g3.1        disclosure                                                                                                                                                         (full or
+            g4                                                                                                                                                                 partial)
+
+report parameters (continued)
+
+3.10        g4-22          explanation of the effect of any re-statements of information provided in earlier reports, and the   about this report                              f
+                           reasons for such re-statement (e.g. mergers/acquisitions, change of base years/periods, nature of
+                           business, measurement methods)
+
+3.11        g4-23          significant changes from previous reporting periods in the scope, boundary, or measurement           about this report                              f
+                           methods applied in the report
+
+3.12        g4-32          table identifying the location of the standard disclosures in the report                             gri index                                      f
+
+3.13        g4-33          policy and current practice with regard to seeking external assurance for the report                 about this report                              f
+
+governance, commitments, and engagement
+
+4.1         g4-34, g4-38   governance structure of the organization, including committees under the highest governance          governance/corporate governance/               f
+                           body responsible for specific tasks, such as setting strategy or organizational oversight            governance structure: 2014 detailed
+                                                                                                                                report
+
+4.2         g4-39          indicate whether the chair of the highest governance body is also an executive officer               governance/corporate governance/               f
+                                                                                                                                board leadership: 2014 detailed report
+
+4.3         g4-38          for organizations that have a unitary board structure, state the number and gender of members of     governance/corporate governance/               f
+                           the highest governance body that are independent and/or non-executive members                        governance structure: 2014 detailed
+                                                                                                                                report
+
+4.4         g4-37, g4-     mechanisms for shareholders and employees to provide recommendations or direction to the             governance/corporate governance/               f
+            49, g4-53      highest governance body                                                                              stakeholder engagement:
+                                                                                                                                2014 detailed report
+                                                                                                                                governance/corporate governance/
+                                                                                                                                contacting the board: 2014 detailed report
+                                                                                                                                2015 proxy statement
+
+                                   executive report                                                                                                                       gri index | 24
+
+
+
+
+indicator   standard       topic                                                                                              location                                      coverage
+g3.1        disclosure                                                                                                                                                      (full or
+            g4                                                                                                                                                              partial)
+
+governance, commitments, and engagement (continued)
+
+4.5         g4-51          linkage between compensation for members of the highest governance body, senior managers,          corporate governance guidelines               f
+                           and executives (including departure arrangements), and the organization’s performance (including   2015 proxy statement
+                           social and environmental performance)
+                                                                                                                              governance/risk management
+
+4.6         g4-41          processes in place for the highest governance body to ensure conflicts of interest are avoided     governance/corporate governance/ethics:       f
+                                                                                                                              2014 detailed report
+                                                                                                                              corporate governance guidelines
+                                                                                                                              business conduct guidelines
+
+4.7         g4-40          process for determining the composition, qualifications, and expertise of the members of the       governance/corporate governance/board         f
+                           highest governance body and its committees, including any consideration of gender and other        membership criteria: 2014 detailed report
+                           indicators of diversity                                                                            corporate governance guidelines
+                                                                                                                              2015 proxy statement
+
+4.8         g4-56          internally developed statements of mission or values, codes of conduct, and principles relevant    executive summary/introduction/emc            f
+                           to economic, environmental, and social performance and the status of their implementation          guiding sustainability principles
+                                                                                                                              governance/global inclusion/core beliefs
+                                                                                                                              governance/ethics/business conduct
+                                                                                                                              guidelines: 2014 detailed report
+
+4.9         g4-45, g4-47   procedures of the highest governance body for overseeing the organization’s identification and     governance/corporate governance/              f
+                           management of economic, environmental, and social performance, including relevant risks and        sustainability governance: 2014 detailed
+                           opportunities, and adherence or compliance with internationally agreed standards, codes of         report
+                           conduct, and principles.                                                                           governance/corporate governance/
+                                                                                                                              risk management: 2014 detailed report
+                                                                                                                              2015 proxy statement
+
+                                 executive report                                                                                                                         gri index | 25
+
+
+
+
+indicator   standard     topic                                                                                                 location                                     coverage
+g3.1        disclosure                                                                                                                                                      (full or
+            g4                                                                                                                                                              partial)
+
+governance, commitments, and engagement (continued)
+
+4.10        g4-44        processes for evaluating the highest governance body’s own performance, particularly with             governance/corporate governance/             f
+                         respect to economic, environmental, and social performance.                                           board evaluations: 2014 detailed report
+                                                                                                                               corporate governance guidelines
+
+            g4-35        process for delegating authority for sustainability topics from the board to senior executives and    governance/corporate governance/             f
+                         other employees                                                                                       director and executive compensation:
+                                                                                                                               2014 detailed report
+
+            g4-36        high-level accountability for sustainability topics                                                   governance/corporate governance/             f
+                                                                                                                               sustainability governance: 2014 detailed
+                                                                                                                               report
+
+            g4-48        highest committee or position that formally reviews and approves the organization’s                   about this report/disclosure and             f
+                         sustainability report                                                                                 assurance
+
+            g4-52        process for determining remuneration                                                                  2015 proxy
+
+4.11        g4-14        explanation of whether and how the precautionary approach or principle is addressed by                our products/product material content:       f
+                         the organization                                                                                      2014 detailed report
+
+4.12        g4-15        externally developed economic, environmental, and social charters, principles, or other initiatives   governance/human rights:                     f
+                         to which the organization subscribes or endorses                                                      2014 detailed report
+                                                                                                                               governance/public policy:
+                                                                                                                               2014 detailed report
+
+4.13        g4-16        memberships in associations (such as industry associations) and/or national/international             governance/public policy:                    f
+                         advocacy organizations in which the organization: * has positions in governance bodies;               2014 detailed report
+                         * participates in projects or committees; * provides substantive funding beyond routine               governance/industry collaboration:
+                         membership dues; or * views membership as strategic                                                   2014 detailed report
+
+                                 executive report                                                                                                                     gri index | 26
+
+
+
+
+indicator   standard     topic                                                                                          location                                        coverage
+g3.1        disclosure                                                                                                                                                  (full or
+            g4                                                                                                                                                          partial)
+
+governance, commitments, and engagement (continued)
+
+4.14        g4-24        list of stakeholder groups engaged by the organization                                         governance/stakeholder engagement:              f
+                                                                                                                        2014 detailed report
+
+4.15        g4-25        basis for identification and selection of stakeholders with whom to engage                     governance/stakeholder engagement:              f
+                                                                                                                        2014 detailed report
+
+4.16        g4-26        approaches to stakeholder engagement, including frequency of engagement by type and by         governance/stakeholder engagement:              f
+                         stakeholder group                                                                              2014 detailed report
+
+4.17        g4-27        key topics and concerns that have been raised through stakeholder engagement, and how the      our people & workforce/global inclusion/        f
+                         organization has responded to those key topics and concerns, including through its reporting   stakeholder inquiries: 2014 detailed report
+                                                                                                                        governance/stakeholder engagement:
+                                                                                                                        2014 detailed report
+
+            g4-57        helplines or advice line for employees                                                         governance/ethics/business conduct              f
+                                                                                                                        guidelines: 2014 detailed report
+                                                                                                                        business conduct guidelines
+
+            g4-58        mechanisms for reporting concerns about unethical or unlawful behavior                         governance/ethics/business conduct              f
+                                                                                                                        guidelines: 2014 detailed report
+                                                                                                                        business conduct guidelines
+
+                                 executive report                                                                                                                       gri index | 27
+
+
+
+
+indicator   standard     topic                                                                                               location                                       coverage
+g3.1        disclosure                                                                                                                                                      (full or
+            g4                                                                                                                                                              partial)
+
+economic performance indicators
+
+5.0 - dma   aspects      economic performance                                                                                corporate profile                              f
+                                                                                                                             customers/customer information
+                                                                                                                             security & privacy: 2014 detailed report
+
+                         market presence                                                                                     customers/role of it in society:               f
+                                                                                                                             2014 detailed report
+                                                                                                                             communities: 2014 detailed report
+
+                         indirect economic impacts                                                                           2014 10-k                                      f
+                                                                                                                             2015 proxy statement
+
+ec1         g4-ec1       direct economic value generated and distributed, including revenues, operating costs, employee      corporate profile                              f
+                         compensation, donations and other community investments, retained earnings, and payments to         executive summary/stem education
+                         capital providers and governments.
+                                                                                                                             governance/public policy:
+                                                                                                                             2014 detailed report
+                                                                                                                             communities: 2014 detailed report
+
+ec2         g4-ec2       financial implications and other risks and opportunities for the organization’s activities due to   executive summary energy efficiency            f
+                         climate change                                                                                      & climate change
+                                                                                                                             operations: 2014 detailed report
+                                                                                                                             2014 10-k
+                                                                                                                             2014 carbon disclosure project report
+
+ec8         g4-ec7       development and impact of infrastructure investments and services provided primarily for public     communities: 2014 detailed report              f
+                         benefit through commercial, in-kind, or pro bono engagement.                                        customers/it & society: 2014 detailed report
+
+ec9         g4-ec8       understanding and describing significant indirect economic impacts, including the extent            customers/it & society: 2014 detailed report   p
+                         of impacts                                                                                          communities/information preservation/
+                                                                                                                             information heritage initiative
+                                                                                                                             executive summary/stem education
+
+                                 executive report                                                                                                               gri index | 28
+
+
+
+
+indicator   standard     topic                                                                                          location                                  coverage
+g3.1        disclosure                                                                                                                                            (full or
+            g4                                                                                                                                                    partial)
+
+environmental performance indicators
+
+5.0 - dma   aspects      materials                                                                                      executive summary/sustainability          f
+                                                                                                                        strategy & materiality
+                         energy
+                                                                                                                        operations/energy efficiency/
+                         water                                                                                          our approach: 2014 detailed report
+                                                                                                                        operations/environmental strategy:
+                         biodiversity                                                                                   2014 detailed report
+                                                                                                                        supply chain/social & environmental
+                         emissions, effluents and waste
+                                                                                                                        responsibility: 2014 detailed report
+                         products and services
+
+                         compliance
+
+                         transport
+
+                         overall
+
+en3         g4-en3       direct energy consumption by primary energy source                                             operations/efficient facilities:          f
+                                                                                                                        2014 detailed report
+                                                                                                                        2014 carbon disclosure project report
+
+en4         g4-en3       indirect energy consumption by primary source                                                  operations/efficient facilities:          f
+                                                                                                                        2014 detailed report
+
+en5         g4-en6       energy saved due to conservation and efficiency improvements                                   operations/efficient facilities:          f
+                                                                                                                        2014 detailed report
+
+en6         g4-en7       initiatives to provide energy-efficient or renewable energy based products and services, and   executive summary/energy efficiency       f
+                         reductions in energy requirements as a result of these initiatives                             & climate change
+                                                                                                                        operations/efficient facilities:
+                                                                                                                        2014 detailed report
+                                                                                                                        our products/product stewardship
+                                                                                                                        and efficiency: 2014 detailed report
+
+                                 executive report                                                                                                                gri index | 29
+
+
+
+
+indicator   standard     topic                                                                                          location                                   coverage
+g3.1        disclosure                                                                                                                                             (full or
+            g4                                                                                                                                                     partial)
+
+environmental performance indicators (continued)
+
+en7         g4-en6       initiatives to reduce indirect energy consumption and reductions achieved                      operations/efficient facilities:           p
+                                                                                                                        2014 detailed report
+
+en8         g4-en8       total water withdrawal by source                                                               operations/water use & management:         f
+                                                                                                                        2014 detailed report
+
+en10        g4-en10      percentage and total volume of water recycled and reused                                       operations/water use & management:         f
+                                                                                                                        2014 detailed report
+
+en16        g4-en15,     total direct and indirect greenhouse gas emissions by weight                                   operations/energy & climate change         f
+            g4-en16                                                                                                     strategy: 2014 detailed report
+
+en17        g4-en17      other relevant indirect greenhouse gas emissions by weight                                     operations: 2014 detailed report           f
+                                                                                                                        supply chain/supply chain social
+                                                                                                                        & environmental responsibility:
+                                                                                                                        2014 detailed report
+
+en18        g4-en19      initiatives to reduce greenhouse gas emissions and reductions achieved                         operations: 2014 detailed report           f
+                                                                                                                        our products/product stewardship
+                                                                                                                        & efficiency: 2014 detailed report
+                                                                                                                        our people & workplace/employee travel
+                                                                                                                        & commuting: 2014 detailed report
+                                                                                                                        2014 carbon disclosure project report
+
+en23        g4-en24      total number and volume of significant spills                                                  operations/recycling & waste:              f
+                                                                                                                        2014 detailed report
+
+en26        g4-en27      initiatives to mitigate environmental impacts of products and services, and extent of impact   operations: 2014 detailed report           f
+                         mitigation                                                                                     our products: 2014 detailed report
+                                                                                                                        supply chain/supply chain social
+                                                                                                                        & environmental responsibility:
+                                                                                                                        2014 detailed report
+
+                                 executive report                                                                                                                      gri index | 30
+
+
+
+
+indicator   standard     topic                                                                                            location                                       coverage
+g3.1        disclosure                                                                                                                                                   (full or
+            g4                                                                                                                                                           partial)
+
+environmental performance indicators (continued)
+
+en28        g4-en29      monetary value of significant fines and total number of non-monetary sanctions for non-compli-   operations/environmental strategy:             f
+                         ance                                                                                             2014 detailed report
+                         with environmental laws and regulations.
+
+en29        g4-en30      significant environmental impacts of transporting products and other goods and materials used    operations/logistics: 2014 detailed report     p
+                         for the organization’s operations, and transporting members of the workforce                     our people & workforce/employee travel
+                                                                                                                          and commuting: 2014 detailed report
+                                                                                                                          2014 carbon disclosure project report
+
+human rights performance indicators
+
+5.0 - dma   aspects      investment and procurement practices                                                             governance/human rights:                       f
+                                                                                                                          2014 detailed report
+                         non-discrimination
+                                                                                                                          governance/ethics: 2014 detailed report
+                         freedom of association and collective bargaining
+                                                                                                                          supply chain/social & environmental
+                         child labor                                                                                      responsibility: 2014 detailed report
+
+
+                         prevention of forced and compulsory labor
+
+                         security practices
+
+                         indigenous rights
+
+                         assessment
+
+                         remediation
+
+hr1         g4-hr1       percentage and total number of significant investment agreements and contracts that include      supply chain/social & environmental            f
+                         clauses incorporating human rights concerns, or that have undergone human rights screening       responsibility: 2014 detailed report
+
+                                                                                                                          supply chain/conflict minerals:
+                                                                                                                          2014 detailed report
+
+                                                                                                                          governance/human rights:
+                                                                                                                          2014 detailed report
+
+                                  executive report                                                                                                                        gri index | 31
+
+
+
+
+indicator   standard      topic                                                                                                location                                     coverage
+g3.1        disclosure                                                                                                                                                      (full or
+            g4                                                                                                                                                              partial)
+
+human rights performance indicators (continued)
+
+hr2         g4-hr10       percentage of significant suppliers, contractors and other business partners that have undergone     supply chain/social and environmental        p
+                          human rights screening, and actions taken                                                            responsibility: 2014 detailed report
+
+hr4         g4-hr3        total number of incidents of discrimination and corrective actions taken                             supply chain/social and environmental        p
+                                                                                                                               responsibility: 2014 detailed report
+
+hr5         g4-hr4        operations and significant suppliers identified in which the right to exercise freedom of            supply chain/social and environmental        p
+                          association and collective bargaining may be violated or at significant risk, and actions taken to   responsibility: 2014 detailed report
+                          support these rights
+
+hr6         g4-hr5        operations and significant suppliers identified as having significant risk for incidents of child    supply chain/social and environmental        p
+                          labor, and measures taken to contribute to the effective abolition of child labor                    responsibility: 2014 detailed report
+
+hr7         g4-ha6        operations and significant suppliers identified as having significant risk for incidents of forced   supply chain/social and environmental        p
+                          or compulsory labor, and measures to contribute to the elimination of all forms of forced or         responsibility: 2014 detailed report
+                          compulsory labor
+
+labor practices & decent work performance indicators
+
+5.0 - dma   aspects       employment                                                                                           our people and workforce:                    f
+                                                                                                                               2014 detailed report
+                          labor/management relations
+
+                          occupational health and safety
+
+                          training and education
+
+                          diversity and equal opportunity
+
+                          equal remuneration for women and men
+
+la1         g4-10         total workforce by employment type, employment contract, and region, broken down by gender           our people & workforce/global inclusion      p
+
+la3         g4-la2        benefits provided to full-time employees that are not provided to temporary or part-time             our people and workforce/health & wealth     f
+                          employees, by major operations                                                                       benefits: 2014 detailed report
+
+                                  executive report                                                                                                                         gri index | 32
+
+
+
+
+indicator   standard      topic                                                                                                 location                                       coverage
+g3.1        disclosure                                                                                                                                                         (full or
+            g4                                                                                                                                                                 partial)
+
+labor practices & decent work performance indicators (continued)
+
+la7         g4-la6        rates of injury, occupational diseases, lost days, and absenteeism, and total number of work-         our people & workforce/workplace               p
+                          related fatalities by region and by gender                                                            health & safety: 2014 detailed report
+
+la8         g4-la7        education, training, counseling, prevention, and risk-control programs in place to assist workforce   our people & workforce: 2014 detailed report   f
+                          members, their families, or community members regarding serious diseases
+
+la10        g4-la9        average hours of training per year per employee by gender, and by employee category                   our people & workforce/employee career         p
+                                                                                                                                development: 2014 detailed report
+
+la11        g4-la10       programs for skills management and lifelong learning that support the continued employability         our people & workforce/employee career         p
+                          of employees and assist them in managing career endings                                               development: 2014 detailed report
+                                                                                                                                supply chain/social & environmental
+                                                                                                                                responsibility: 2014 detailed report
+
+society performance indicators
+
+5.0 - dma   aspects       local communities                                                                                     governance/corporate governance:               f
+                                                                                                                                2014 detailed report
+                          corruption
+
+                          public policy
+
+                          anti-competitive behavior
+
+                          compliance
+
+so2         g4-so3        percentage and total number of business units analyzed for risks related to corruption                business conduct guidelines                    f
+
+so3         g4-so4        percentage of employees trained in organization’s anti-corruption policies and procedures             governance/ethics/business conduct             f
+                                                                                                                                guidelines: 2014 detailed report
+
+                                  executive report                                                                                                                     gri index | 33
+
+
+
+
+indicator   standard      topic                                                                                               location                                   coverage
+g3.1        disclosure                                                                                                                                                   (full or
+            g4                                                                                                                                                           partial)
+
+society performance indicators (continued)
+
+so5                       public policy positions and participation in public policy development and lobbying                 governance/public policy:                  f
+                                                                                                                              2014 detailed report
+
+so6         g4-so6        total value of financial and in-kind contributions to political parties, politicians, and related   governance/public policy:                  f
+                          institutions by country                                                                             2014 detailed report
+                                                                                                                              corporate political contributions 2014
+
+product responsibility performance indicators
+
+5.0 - dma   aspects       customer health and safety                                                                          our products: 2014 detailed report         f
+                                                                                                                              customers: 2014 detailed report
+                          product and service labeling
+
+                          marketing communications
+
+                          customer privacy
+
+                          compliance
+
+pr1         g4-pr1        lifecycle stages in which health and safety impacts of products and services are assessed for       our products: 2014 detailed report         f
+                          improvement, and percentage of significant products and services categories subject to such
+                          procedures
+
+pr5         g4-pr5        practices related to customer satisfaction, including results of surveys measuring customer         customers: 2014 detailed report            f
+                          satisfaction                                                                                        governance/stakeholder engagement:
+                                                                                                                              2014 detailed report
+
+executive report                                                                                                                              | 34
+
+
+restatements
+the following ghg and energy metrics were adjusted:                        •   global facilities electricity consumption (including vmware) was
+                                                                               updated for 2010-2013 due to receipt of additional global energy
+•   global absolute ghg emissions, scopes 1 and 2 were adjusted due
+                                                                               data. 2013 consumption updated from 901,762 to 891,567 mwh
+    to receipt of additional energy data and updates to emission factors
+                                                                               and 3,246,343 to 3,209,641 gj.
+    and global warming potential (gwp) values. additionally, our 2020
+    target and 2050 goal now include vce as a result of emc’s full         •   global facilities natural gas consumption (including vmware) was
+    acquisition of vce in 2014. current year and past year ghg emis-           updated for 2010-2013 due to receipt of additional global energy
+    sions figures have been updated to include vce’s contributions.            data. 2013 consumption updated from 5,857,069 to 5,971,490
+    since emc cannot directly impact vmware’s ghg emissions, their             therms[us] and 617,806 to 629,875 gj.
+    emissions remain out of scope for the 2020 target and 2050 goal.       •   scope 3 ghg emissions, business travel (including vmware) was
+    emissions figures were updated for 2005 and 2010-2013. 2013 total          updated for 2013 due to receipt of additional data and updates to
+    (excluding vmware) updated to 379,947 metric tons of co2e, scope           emission factors. 2013 ghg emissions updated from 171,571 to
+    1 updated to 39,937 mt, and scope 2 updated to 340,009 mt. 2013            156,666 mt co2e.
+    total (including vmware) updated to 443,769 mt, scope 1 updated
+    to 47,722 mt, and scope 2 updated to 396,047 mt.                       in the recycling & waste section of the 2013 operations detailed
+                                                                           report, emc stated that manufacturing waste had been reduced to
+•   global ghg emissions intensity per $1m revenue, scopes 1 and 2         three percent; however, this was an error in rounding and should
+    (including vmware and vce) were updated for 2005 and 2010-2013.        have been noted as four percent.
+    this metric continues to include vmware and vce as revenue
+    includes those entities. 2013 total adjusted from 19.29 mt to 19.11    in the emc cafeteria waste graphic in the recycling & waste section,
+    mt; 2015 goal was modified from 19.52 to 19.56 mt due to adjust-       the north carolina compost data from 2013 is restated from 11.9 metric
+    ments in the 2005 base.                                                tons to 19.1 metric tons. the 2013 number (11.9) represented only the
+                                                                           data from apex, while the 2012 number included all 3 facilities in north
+                                                                           carolina.
+
+                                                                           2012 and 2013 global water withdrawal values were adjusted due
+                                                                           to more accurate data. 2012 values were adjusted to from 959,333
+                                                                           to 1,002,583 m3. 2013 values were adjusted to from 1,084,053 to
+                                                                           1,176,714m3.
+
+contact
+emc encourages its stakeholders to provide feedback on the topics covered in this
+report. please submit any questions or comments about the report or its contents
+to the office of sustainability at office_of_sustainability@emc.com.
+emc2, emc, the emc logo, archer and vnx are registered trademarks or trademarks of emc corporation in the united states and/
+or other countries. all other trademarks are the property of their respective owners. © 2015 emc corporation. all rights reserved.
+05/15 brochure 474926
